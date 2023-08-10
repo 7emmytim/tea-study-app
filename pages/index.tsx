@@ -4,12 +4,12 @@ import {
   Card,
   Container,
   Group,
-  Radio,
   Stack,
   Text,
+  TextInput,
   Title,
 } from "@mantine/core";
-import { AddCircle, ArrowRight, TickCircle } from "iconsax-react";
+import { ArrowRight, Book1 } from "iconsax-react";
 import Link from "next/link";
 import { useRouter } from "next/router";
 import { useState } from "react";
@@ -34,13 +34,12 @@ function Landing() {
   const { pathname, query } = useRouter();
   return (
     <Container>
-      <Group>
+      <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-8">
         {sermons.map((item, index) => {
-          const color = Math.floor(Math.random() * 16777215).toString(16);
           return (
             <Card
               key={index}
-              className="bg-gray-100"
+              className="bg-gray-100 w-full sm:w-auto"
               radius="lg"
               padding="lg"
               shadow="xl"
@@ -56,54 +55,50 @@ function Landing() {
               }}
             >
               <Group>
-                <div className="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full bg-white text-white flex-shrink-0">
-                  <item.icon size={20} variant="Bold" style={{ color }} />
+                <div className="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full bg-white flex-shrink-0">
+                  <item.icon size={20} variant="Bold" color={item.color} />
                 </div>
                 <Stack spacing={1}>
                   <Text className="text-gray-900 text-lg title-font font-medium">
                     {item.title}
                   </Text>
                   <Text className="text-gray-600 text-xs">
-                    {item.description}
+                    {item.description} ({item.questions.length})
                   </Text>
                 </Stack>
               </Group>
             </Card>
           );
         })}
-      </Group>
+      </div>
     </Container>
   );
 }
 
 function Questions() {
   const [value, setValue] = useState("");
-  const [score, setScore] = useState(0);
-  const [answerStatus, setAnswerStatus] = useState("");
+  const [isCheck, setIsCheck] = useState(false);
   const { pathname, query } = useRouter();
   const { sermon, question_number = 0 } = query;
   const details = sermons.find((item) => item.slug === sermon);
-  const questions = sermons.find((item) => item.slug === sermon)?.questions?.[
-    Number(question_number) - 1
-  ];
-  const options = [questions?.a, ...(questions?.options || [])];
+  const questions = sermons.find((item) => item.slug === sermon)?.questions;
+  const question = questions?.[Number(question_number) - 1];
 
   function checkAnswer() {
-    if (value === questions?.a) {
-      setScore((prev) => prev + 1);
-      setAnswerStatus("correct");
-    } else {
-      setAnswerStatus("failed");
-    }
+    setIsCheck(true);
   }
 
   function next() {
-    setAnswerStatus("");
+    setIsCheck(false);
     setValue("");
   }
 
+  if (!questions?.length || Number(question_number) > questions?.length) {
+    return <NoQuestionCard />;
+  }
+
   return (
-    <Container className="flex justify-center w-full">
+    <Container size="sm" className="flex justify-center w-full">
       <Stack className="w-full">
         <Stack spacing={1}>
           <Title order={3}>
@@ -112,81 +107,119 @@ function Questions() {
               ({`${details?.description} - Question ${question_number}`})
             </Text>
           </Title>
-          <Text className="text-sm text-purple-900 font-semibold text-right">
-            Current Score: {score}
-          </Text>
         </Stack>
-        <Card className="bg-gray-100 w-full" shadow="xl" padding="xl">
-          <Radio.Group
-            value={value}
-            onChange={setValue}
-            name={`${sermon} ${question_number}`}
-            label={questions?.q}
-            description="Select a correct answer"
-            className="space-y-4"
-            classNames={{
-              label: "text-lg font-bold",
-            }}
-          >
-            {options.map((item) => {
-              return (
-                <Group key={item}>
-                  <Radio
-                    size="sm"
-                    disabled={Boolean(answerStatus)}
-                    value={item}
-                    label={item}
-                  />
-                  {answerStatus === "correct" && item === questions?.a && (
-                    <TickCircle color="green" variant="Bold" />
-                  )}
-                  {answerStatus === "failed" && item === value && (
-                    <AddCircle
-                      color="red"
-                      variant="Bold"
-                      className="rotate-45"
-                    />
-                  )}
-                </Group>
-              );
-            })}
-          </Radio.Group>
-        </Card>
-        <div>
-          {answerStatus ? (
-            <Button
-              fullWidth
-              variant="filled"
-              color={answerStatus === "correct" ? "green" : "red"}
-              size="xl"
-              onClick={next}
-              disabled={!value}
-              component={Link}
-              rightIcon={<ArrowRight size={18} />}
-              href={{
-                pathname,
-                query: {
-                  ...query,
-                  question_number: Number(query.question_number) + 1,
-                },
-              }}
-            >
-              Next
-            </Button>
-          ) : (
-            <Button
-              fullWidth
-              variant="filled"
-              color="blue"
-              size="xl"
-              disabled={!value}
-              onClick={checkAnswer}
-            >
-              Check
-            </Button>
-          )}
-        </div>
+        {isCheck ? (
+          <Stack>
+            <Card className="bg-gray-100 w-full" shadow="xl" padding={40}>
+              <Stack spacing={50}>
+                <Title>{question?.q}</Title>
+                <Stack>
+                  <Text className="text-green-500 text-xl">
+                    The answer is {question?.a}
+                  </Text>
+                  <Text className="text-gray-500">Your answer is {value}</Text>
+                </Stack>
+              </Stack>
+            </Card>
+            <div>
+              <Button
+                fullWidth
+                variant="filled"
+                color="red"
+                size="lg"
+                onClick={next}
+                disabled={!value}
+                component={Link}
+                rightIcon={<ArrowRight size={18} />}
+                href={{
+                  pathname,
+                  query: {
+                    ...query,
+                    question_number: Number(query.question_number) + 1,
+                  },
+                }}
+              >
+                Next
+              </Button>
+            </div>
+          </Stack>
+        ) : (
+          <Stack>
+            <Card className="bg-gray-100 w-full" shadow="xl" padding={40}>
+              <Stack>
+                <Title align="center">{question?.q}</Title>
+                <TextInput
+                  value={value}
+                  onChange={(e) => setValue(e.target.value)}
+                  placeholder="Enter your answer"
+                  classNames={{ label: "text-gray-500 text-xs" }}
+                  styles={{
+                    input: {
+                      border: "none",
+                      borderRadius: "0",
+                      background: "transparent",
+                      borderBottom: "1px solid #E0E3EA",
+                      color: "#100C2A",
+                      fontSize: "18px",
+                      fontWeight: 300,
+                      height: "48px",
+                      padding: "0",
+                      "&:focus": {
+                        borderBottom: "1.5px solid #3b82f680",
+                        color: "#100C2A",
+                        fontSize: "18px",
+                        fontWeight: 300,
+                        outline: "none",
+                      },
+                    },
+                  }}
+                />
+              </Stack>
+            </Card>
+            <div>
+              <Button
+                fullWidth
+                variant="filled"
+                color="blue"
+                size="lg"
+                disabled={!value}
+                onClick={checkAnswer}
+              >
+                Check
+              </Button>
+            </div>
+          </Stack>
+        )}
+        <Button
+          variant="white"
+          className="font-normal"
+          component={Link}
+          href="/"
+        >
+          Return Home
+        </Button>
       </Stack>
+    </Container>
+  );
+}
+
+function NoQuestionCard() {
+  return (
+    <Container size="sm" className="flex justify-center">
+      <Card className="bg-gray-50 w-full" padding="xl" shadow="xl">
+        <Stack className="text-center">
+          <Text>Nothing to see here ):</Text>
+          <Book1 variant="TwoTone" size={80} className="mx-auto" />
+          <Button
+            variant="white"
+            className="font-normal"
+            component={Link}
+            href="/"
+          >
+            Return Home
+          </Button>
+        </Stack>
+      </Card>
     </Container>
   );
 }

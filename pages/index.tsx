@@ -12,7 +12,7 @@ import {
 import { ArrowRight, Book1 } from "iconsax-react";
 import Link from "next/link";
 import { useRouter } from "next/router";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 export default function Home() {
   const { query } = useRouter();
@@ -78,11 +78,19 @@ function Landing() {
 function Questions() {
   const [value, setValue] = useState("");
   const [isCheck, setIsCheck] = useState(false);
+  const [question, setQuestion] = useState<{ q: string; a: string }>({
+    q: "",
+    a: "",
+  });
   const { pathname, query } = useRouter();
   const { sermon, question_number = 0 } = query;
   const details = sermons.find((item) => item.slug === sermon);
-  const questions = sermons.find((item) => item.slug === sermon)?.questions;
-  const question = questions?.[Number(question_number) - 1];
+  const questions = details?.questions;
+
+  useEffect(() => {
+    const q = randomNoRepeats(questions || []);
+    setQuestion(q());
+  }, [questions, question_number]);
 
   function checkAnswer() {
     setIsCheck(true);
@@ -222,4 +230,17 @@ function NoQuestionCard() {
       </Card>
     </Container>
   );
+}
+
+function randomNoRepeats(array: { q: string; a: string }[]) {
+  var copy = array.slice(0);
+  return function () {
+    if (copy.length < 1) {
+      copy = array.slice(0);
+    }
+    var index = Math.floor(Math.random() * copy.length);
+    var item = copy[index];
+    copy.splice(index, 1);
+    return item;
+  };
 }

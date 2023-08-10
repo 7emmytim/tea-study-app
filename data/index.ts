@@ -6,5 +6,4 @@ export const sermons = [
     our_salvation_s03.oss03p06,
     our_salvation_s03.oss03p07,
     our_salvation_s03.oss03p08
-
 ]

@@ -27,7 +27,6 @@ export const oss03p05 = {
             q: "You cannot _ the day you will receive salvation",
             a: "Decide",
         },
-
         {
             q: "_ only rejects the man that keeps rejecting _",
             a: "Grace",
@@ -47,7 +46,39 @@ export const oss03p05 = {
         {
             q: "If you _, you will definitely confess",
             a: "Believe",
-        }
+        },
+        {
+            q: "That a man _ is not a proof that he _",
+            a: "Confess, Believes",
+        },
+        {
+            q: "To be saved is to _ and _ in the resurrection of Jesus",
+            a: "Acknowledge, Believe",
+        },
+        {
+            q: "The message of _ is the only message that gives man the Holy Ghost",
+            a: "Resurrection",
+        },
+        {
+            q: "You must believe in that _ of Christ for you to be raised again",
+            a: "Experience of Christ",
+        },
+        {
+            q: "Many see Jesus as a tool for _",
+            a: "The miraculous",
+        },
+        {
+            q: "A believer is one that keeps _ in his memory",
+            a: "The realities of his redemption",
+        },
+        {
+            q: "A saved man _ in his memory what he has _",
+            a: "Keeps, Believed",
+        },
+        {
+            q: "Immortality is as a result of _",
+            a: "Salvation",
+        },
 
     ]
 }

@@ -1,10 +1,10 @@
-import { ArchiveBox, Book1, BoxTick, Stickynote } from "iconsax-react";
+import { Airpod, ArchiveBox, Bag, Bill, Book1, BoxTick, Bubble, Folder, Gallery, Stickynote } from "iconsax-react";
 
 export const oss03p01 = {
     title: "Our Salvation",
     description: "Series 3 Part 1",
     icon: ArchiveBox,
-    color: "#C70039",
+    color: "#8E8B82",
     slug: "oss03p01",
     questions: [
         {
@@ -102,8 +102,8 @@ export const oss03p01 = {
 export const oss03p02 = {
     title: "Our Salvation",
     description: "Series 3 Part 2",
-    icon: ArchiveBox,
-    color: "#C70039",
+    icon: Bubble,
+    color: "#27E1C1",
     slug: "oss03p02",
     questions: [
         {
@@ -218,8 +218,8 @@ export const oss03p02 = {
 export const oss03p03 = {
     title: "Our Salvation",
     description: "Series 3 Part 3",
-    icon: ArchiveBox,
-    color: "#C70039",
+    icon: Bag,
+    color: "#662753",
     slug: "oss03p03",
     questions: [
         {
@@ -327,10 +327,104 @@ export const oss03p03 = {
     ]
 }
 
+export const oss03p04 = {
+    title: "Our Salvation",
+    description: "Series 3 Part 4",
+    icon: Bill,
+    color: "#0E918C",
+    slug: "oss03p04",
+    questions: [
+        {
+            q: "The birth process is obviously _ and it was used to describe _",
+            a: "Irreversible, our salvation",
+        },
+        {
+            q: "To be born again is to be born _",
+            a: "From above",
+        },
+        {
+            q: "The man without _ is the one that is not born again",
+            a: "The Holy Ghost",
+        },
+        {
+            q: "God purified us by giving us _",
+            a: "His Spirit",
+        },
+        {
+            q: "Most of the time, the Spirit upon is a function of what _ wanted to do and not what _ wanted to do",
+            a: "The preacher, God",
+        },
+        {
+            q: "_ is to take hold of the power of God to do exploits",
+            a: "Spirit upon",
+        },
+        {
+            q: "The essence of their exploits with the Spirit upon was to _",
+            a: "Sustain that lineage of Christ",
+        },
+        {
+            q: "The prophets prophesied what they did not _",
+            a: "Enjoy",
+        },
+        {
+            q: "_ was what delayed God's plan",
+            a: "Man's attempt to outdo God",
+        },
+        {
+            q: "Jesus must be _ and _ for the real comforter to be available to man",
+            a: "Glorified, seated on high",
+        },
+        {
+            q: "To sing 'cast me not away' is a _ on you and your saviour",
+            a: "Big insult",
+        },
+        {
+            q: "Salvation is not dependent on _ but _ is possible cos of salvation",
+            a: "Spiritual growth",
+        },
+        {
+            q: "You cannot grow up an _",
+            a: "Unbeliever",
+        },
+        {
+            q: "We don't use _ to bait men to grow up spiritually or to serve God",
+            a: "Salvation",
+        },
+        {
+            q: "Your licence to correct someone is that he is _",
+            a: "Saved",
+        },
+        {
+            q: "If you said he has lost his salvation then you can't _ him again and even God can't _ him again",
+            a: "Correct",
+        },
+        {
+            q: "You can only be corrected _",
+            a: "In-house",
+        },
+        {
+            q: "The Father corrects the son he has _",
+            a: "Received",
+        },
+        {
+            q: "What grieves the Holy Spirit is _",
+            a: "Unforgiveness",
+        },
+        {
+            q: "Your unforgiveness will not cause God to _, it will cause him to _",
+            a: "Forgive you, grieve",
+        },
+        {
+            q: "The Spirit of God is a proof that I _",
+            a: "Belong to God forever",
+        },
+    ]
+}
+
 export const oss03p05 = {
     title: "Our Salvation",
     description: "Series 3 Part 5",
-    icon: ArchiveBox,
+    icon: Folder,
     color: "#C70039",
     slug: "oss03p05",
     questions: [
@@ -563,7 +657,6 @@ export const oss03p07 = {
     ]
 }
 
-
 export const oss03p08 = {
     title: "Our Salvation",
     description: "Series 3 Part 8",
@@ -638,6 +731,64 @@ export const oss03p08 = {
         {
             q: "He is able to save _, _ and _",
             a: "Finally, Perfectly and Completely",
+        },
+    ]
+}
+
+export const oss03p09 = {
+    title: "Our Salvation",
+    description: "Series 3 Part 9",
+    icon: Gallery,
+    color: "#F5C3BC",
+    slug: "oss03p09",
+    questions: [
+        {
+            q: "Salvation is a must _",
+            a: "Study",
+        },
+        {
+            q: "As a Christian, you must have _ on understanding salvation",
+            a: "Spent half of your Christian pursuit",
+        },
+        {
+            q: "We are not saying that we have no sin we are saying _",
+            a: "Someone else took them away",
+        },
+        {
+            q: "A man saying that he has no sin is doing his best to _",
+            a: "Deny what Jesus has done",
+        },
+        {
+            q: "The joker of evangelism is the fact that _",
+            a: "God is not counting your sin against you",
+        },
+        {
+            q: "The set time of God is _",
+            a: "The resurrection morning",
+        },
+        {
+            q: "_ is different from I receive forgiveness of sins",
+            a: "I forgive you your sins",
+        },
+        {
+            q: "Receiving _ is the same as receiving _",
+            a: "Forgiveness of sins, the Spirit",
+        },
+        {
+            q: "_ is the witness of forgiveness of sins",
+            a: "The Holy Ghost",
+        },
+        {
+            q: "The believer is licensed to _",
+            a: "Unveil God's power",
+        },
+        {
+            q: "Moses fasted to _ and not for _",
+            a: "know God, power",
+        },
+        {
+            q: "Christianity is not a religion of _; we fellowship with power",
+            a: "Weaklings",
         },
     ]
 }

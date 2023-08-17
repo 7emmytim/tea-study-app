@@ -1,5 +1,332 @@
 import { ArchiveBox, Book1, BoxTick, Stickynote } from "iconsax-react";
 
+export const oss03p01 = {
+    title: "Our Salvation",
+    description: "Series 3 Part 1",
+    icon: ArchiveBox,
+    color: "#C70039",
+    slug: "oss03p01",
+    questions: [
+        {
+            q: "What we call OT and NT is majorly _",
+            a: "Relationship based",
+        },
+        {
+            q: "Even in the OT, we yet find the revelation of _",
+            a: "The new covenant",
+        },
+        {
+            q: "Both _ and _ were derived from the same OT",
+            a: "Righteousness, condemnation",
+        },
+        {
+            q: "You should be able to pick _ and present Jesus",
+            a: "Any of the books of the Bible",
+        },
+        {
+            q: "The prophecy is as powerful as the _",
+            a: "Fulfilment",
+        },
+        {
+            q: "_ is our Christianity",
+            a: "The resurrection",
+        },
+        {
+            q: "What we call the fulfilment of the OT prophecies is simply _",
+            a: "The resurrection of Jesus",
+        },
+        {
+            q: "The message of resurrection has actually been changing things before _",
+            a: "The resurrection morning",
+        },
+        {
+            q: "_ is the peak of our Christianity",
+            a: "The resurrection",
+        },
+        {
+            q: "That license of any man to _ in the name of God has been withdrawn",
+            a: "Preach condemnation",
+        },
+        {
+            q: "Even Jesus now showed us clearly in his life that _ is never a platform for _",
+            a: "Conduct, separation",
+        },
+        {
+            q: "In this our ministration, we _",
+            a: "Talk correctly",
+        },
+        {
+            q: "What we call _ is simply talking correctly",
+            a: "Salvation",
+        },
+        {
+            q: "_ will determine who will be saved",
+            a: "The accuracy of the speech of the preacher",
+        },
+        {
+            q: "We don't preach _, we preach the _",
+            a: "Conduct, message",
+        },
+        {
+            q: "Sinners must see _ and not _ through us",
+            a: "The light of God's love, his wrath",
+        },
+        {
+            q: "We don't use _ as a criterion for justification",
+            a: "Our personal likes and dislikes",
+        },
+        {
+            q: "The epistles teach us to give _, _ and _",
+            a: "Cheerfully, bountifully, generously",
+        },
+        {
+            q: "Tithing in the Bible has never been _",
+            a: "Money",
+        },
+        {
+            q: "Be a student of _ lest you lead God's saints into _",
+            a: "Salvation, error",
+        },
+        {
+            q: "_ will cause you to talk correctly",
+            a: "Learning about salvation",
+        },
+        {
+            q: "God has not _ anyone to condemn the people he died for",
+            a: "Mandated or employed",
+        },
+
+    ]
+}
+
+export const oss03p02 = {
+    title: "Our Salvation",
+    description: "Series 3 Part 2",
+    icon: ArchiveBox,
+    color: "#C70039",
+    slug: "oss03p02",
+    questions: [
+        {
+            q: "We have ministry on _",
+            a: "Trust",
+        },
+        {
+            q: "We must make _ a pattern to be followed",
+            a: "Spirituality",
+        },
+        {
+            q: "God's standard is _ ; anything less is hell except you have a _",
+            a: "100% moral uprightness, saviour",
+        },
+        {
+            q: "Forgiveness is that God is not _",
+            a: "Marking iniquity",
+        },
+        {
+            q: "The same saviour was available for them in the OT to receive in form of a _",
+            a: "Promise",
+        },
+        {
+            q: "Christ has always been in the business of _",
+            a: "Justification",
+        },
+        {
+            q: "There's actually sin but it's _",
+            a: "The saviour's duty",
+        },
+        {
+            q: "Hell is meant for _ and not _",
+            a: "Sin, man",
+        },
+        {
+            q: "To reject the saviour's duty to save is to accept a _",
+            a: "Responsibility to save yourself",
+        },
+        {
+            q: "The need of the man in rebellion has always been _",
+            a: "A mediator to give him a chance to come back",
+        },
+        {
+            q: "He saved me from my sin doesn't always mean he _",
+            a: "Saved me from bad conduct",
+        },
+        {
+            q: "He saved me from sin also mean he gave me _",
+            a: "An alternative from death",
+        },
+        {
+            q: "Everyone doesn't have to go far into _ before being _",
+            a: "Damnation, saved",
+        },
+        {
+            q: "The only way you come into _ without sin is if you are _",
+            a: "Humanity, God",
+        },
+        {
+            q: "It's not the rejection of _ that brings damnation, it's the rejection of _",
+            a: "Christ's personality, his duty",
+        },
+        {
+            q: "_ is worse than action of sin",
+            a: "Meditation on sin",
+        },
+        {
+            q: "The reason the sin of Matthew 12 cannot be forgiven is cos the sin itself is _",
+            a: "A rejection of forgiveness",
+        },
+        {
+            q: "_ is that he set a boundary that salvation is only available in believing that report of the saviour",
+            a: "God's predestination",
+        },
+        {
+            q: "God's predestination doesn't override _",
+            a: "Man's choice",
+        },
+        {
+            q: "Sin not forgiven is to reject _",
+            a: "The eternal forgiveness of sins",
+        },
+        {
+            q: "In the position of rest, _ is not required for you to remain there",
+            a: "Believing",
+        },
+        {
+            q: "_ is that no other thing is required of you",
+            a: "Rest",
+        },
+
+        {
+            q: "The believer is the one that God _, _ and _",
+            a: "Signed, sealed and delivered",
+        },
+        {
+            q: "God has a _ on man",
+            a: "Stamp of ownership",
+        },
+        {
+            q: "The intent of giving the Spirit is to _",
+            a: "Stay forever",
+        },
+        {
+            q: "It's either you receive the Holy Spirit _ or _",
+            a: "Forever, you don't receive at all",
+        },
+
+    ]
+}
+
+export const oss03p03 = {
+    title: "Our Salvation",
+    description: "Series 3 Part 3",
+    icon: ArchiveBox,
+    color: "#C70039",
+    slug: "oss03p03",
+    questions: [
+        {
+            q: "God is a _ in salvation",
+            a: "Whole giver",
+        },
+        {
+            q: "The men of the OT were combating that enemy called _",
+            a: "Spiritual death",
+        },
+        {
+            q: "Nothing satisfies that thirst of _ than God",
+            a: "Man's Spirit",
+        },
+        {
+            q: "_ means Christ will take away sin legally",
+            a: "Fulfilling",
+        },
+        {
+            q: "_ is a fulfilment of all the promises in the OT",
+            a: "The resurrection of Jesus from hell",
+        },
+        {
+            q: "The main strife of man especially in the OT was against _, spiritual _ and the _",
+            a: "Sin, death, devil",
+        },
+        {
+            q: "You can only call the devil an enemy of God in the context that _",
+            a: "He's the enemy of man",
+        },
+        {
+            q: "The devil is only against God cos he's against _",
+            a: "God's man",
+        },
+        {
+            q: "The 10 commandments are not bad but when it hits _, it becomes evil",
+            a: "A rebellious man",
+        },
+        {
+            q: "The 10 commandments were never referred to as _ anywhere.",
+            a: "Ordinances",
+        },
+        {
+            q: "_ are the laws that separated Jews from the Gentiles",
+            a: "The law of commandments",
+        },
+        {
+            q: "Man is never taught as the _ of another man",
+            a: "Enemy",
+        },
+        {
+            q: "Any prayer or message that is centred to make you _ towards another man is not of God",
+            a: "Aggressive",
+        },
+        {
+            q: "If you are not _ then you are not a Christian",
+            a: "Delivered",
+        },
+        {
+            q: "David was _ cos their promise was delayed",
+            a: "Lamenting",
+        },
+        {
+            q: "_ has a far lesser effect than _",
+            a: "The disobedience of Adam, the obedience of Christ",
+        },
+        {
+            q: "_ is free than sin",
+            a: "The gift of eternal life",
+        },
+        {
+            q: "It is cheaper to be _ than to _",
+            a: "Born again, go to hell",
+        },
+        {
+            q: "The man in Adam can be _ but the man in Christ cannot be _",
+            a: "Saved, unsaved",
+        },
+        {
+            q: "Adam did not _ to enter into death",
+            a: "Pay any sacrifice",
+        },
+        {
+            q: "Your living forever is no longer subject to _ after you have believed the gospel",
+            a: "Your will",
+        },
+        {
+            q: "The man that crossed the border, there's a _ keeping him from crossing back",
+            a: "Force",
+        },
+
+        {
+            q: "You are saved by _",
+            a: "The strength of God",
+        },
+        {
+            q: "Bible's definition of immortality is beyond breathing oxygen in and out forever, it's _",
+            a: "Immunity from eternal death",
+        },
+        {
+            q: "You are free to _ and not to indulge in _",
+            a: "Serve God, sin",
+        },
+
+    ]
+}
+
 export const oss03p05 = {
     title: "Our Salvation",
     description: "Series 3 Part 5",

@@ -1,4 +1,5 @@
 import * as our_salvation_s03 from "./our-salvation-s03";
+import * as our_salvation_s04 from "./our-salvation-s04";
 
 
 export const sermons = [
@@ -10,5 +11,7 @@ export const sermons = [
     our_salvation_s03.oss03p06,
     our_salvation_s03.oss03p07,
     our_salvation_s03.oss03p08,
-    our_salvation_s03.oss03p09
+    our_salvation_s03.oss03p09,
+    our_salvation_s03.oss03p10,
+    our_salvation_s04.oss04p01
 ]

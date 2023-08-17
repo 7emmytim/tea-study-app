@@ -1,4 +1,4 @@
-import { Airpod, ArchiveBox, Bag, Bill, Book1, BoxTick, Bubble, Folder, Gallery, Stickynote } from "iconsax-react";
+import { ArchiveBox, Bag, Bill, Book1, BoxTick, Bubble, Folder, Gallery, Stickynote, Timer } from "iconsax-react";
 
 export const oss03p01 = {
     title: "Our Salvation",
@@ -789,6 +789,155 @@ export const oss03p09 = {
         {
             q: "Christianity is not a religion of _; we fellowship with power",
             a: "Weaklings",
+        },
+    ]
+}
+
+export const oss03p10 = {
+    title: "Our Salvation",
+    description: "Series 3 Part 10",
+    icon: Timer,
+    color: "#B24080",
+    slug: "oss03p10",
+    questions: [
+        {
+            q: "In entering into his glory, we entered into _",
+            a: "Our rest",
+        },
+        {
+            q: "In the glory that follows, we have _",
+            a: "The victories of the new creation",
+        },
+        {
+            q: "The prophets were doing their _ but they made no postulations, their postulations are in _",
+            a: "Experiments, the epistles",
+        },
+        {
+            q: "The result of what the prophets were experimenting was not in _ but in _",
+            a: "Their materials, the epistles",
+        },
+        {
+            q: "God gave us some _ who came and explained the OT to us",
+            a: "Foundational apostles",
+        },
+        {
+            q: "No matter how anointed you are, you cannot replace _",
+            a: "The apostles",
+        },
+        {
+            q: "God used men to give _, a _ from which we cannot deviate",
+            a: "The pattern for the church, pattern",
+        },
+        {
+            q: "God is glorified in _",
+            a: "The activities of men",
+        },
+        {
+            q: "_ are deductions or explanations of the OT by _ that inspired the prophets of old",
+            a: "The epistles, the Spirit of Christ",
+        },
+        {
+            q: "In _ with the Spirit that indwells you, you have _ and with such _, they were able to explain the riddles of _",
+            a: "Fellowshipping, understanding, old",
+        },
+        {
+            q: "When reading the OT, don't be carried away by _",
+            a: "The stories",
+        },
+        {
+            q: "In focusing on the _ of the OT, you will bring out _",
+            a: "Christ-centeredness, understanding",
+        },
+
+        {
+            q: "You cannot read the OT as a whole and not know that God is _",
+            a: "Planning something for man",
+        },
+        {
+            q: "Don't turn the Bible to a _",
+            a: "Storybook",
+        },
+        {
+            q: "There are never two testaments as far as _ is concerned",
+            a: "God",
+        },
+        {
+            q: "God is the _ in salvation",
+            a: "Sole proprietor",
+        },
+        {
+            q: "The reason why we have a testament that looks like the OT is cos of the refusal of people to _ the NT",
+            a: "Acknowledge",
+        },
+        {
+            q: "God never related with any man based on what's called the _",
+            a: "Law",
+        },
+        {
+            q: "The law is _ way",
+            a: "Man's",
+        },
+        {
+            q: "The law is a type of _",
+            a: "Religion",
+        },
+        {
+            q: "Our religion is _",
+            a: "The new testament",
+        },
+        {
+            q: "The ultimate _ towards mans is salvation",
+            a: "Goodness of God",
+        },
+        {
+            q: "Put yourself in a position where you can be _",
+            a: "Instructed",
+        },
+        {
+            q: "There's _ in meditating on your salvation, that's why the Bible is that _",
+            a: "Great power, big",
+        },
+
+        {
+            q: "It is in salvation that God is clearly _ and _",
+            a: "Seen, understood",
+        },
+
+        {
+            q: "It is in salvation we know how to use _ to _",
+            a: "The power of God, The glory of God",
+        },
+        {
+            q: "Don't look for _ in the Bible, you will never find him",
+            a: "The antichrist",
+        },
+        {
+            q: "When you know _, you will be able to discern _",
+            a: "The Christ, the antichrist",
+        },
+        {
+            q: "The real manifestation of the spirit of the antichrist is in _",
+            a: "False doctrine",
+        },
+        {
+            q: "The express revelation of what Christ has done will never be found in _; you will find them in _",
+            a: "Any book of visions, the epistles",
+        },
+        {
+            q: "You are not _ in order to fight for victory but to _ of Christ",
+            a: "Born again, walk in the victory",
+        },
+        {
+            q: "You will make what the blood of the Lamb has done the _ and _ of your _",
+            a: "Substance, utterance, testimony",
+        },
+        {
+            q: "Salvation makes me bold to walk in _",
+            a: "Authority/power",
+        },
+        {
+            q: "Rather than _, pattern your words after what Christ has done",
+            a: "Gymnastics in church",
         },
     ]
 }

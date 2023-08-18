@@ -13,5 +13,8 @@ export const sermons = [
     our_salvation_s03.oss03p08,
     our_salvation_s03.oss03p09,
     our_salvation_s03.oss03p10,
-    our_salvation_s04.oss04p01
+    our_salvation_s04.oss04p01,
+    our_salvation_s04.oss04p02,
+    our_salvation_s04.oss04p03,
+    our_salvation_s04.oss04p04
 ]

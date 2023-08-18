@@ -12,7 +12,7 @@ import {
 import { ArrowRight, Book1 } from "iconsax-react";
 import Link from "next/link";
 import { useRouter } from "next/router";
-import { useEffect, useState } from "react";
+import { FormEvent, useEffect, useState } from "react";
 
 export default function Home() {
   const { query } = useRouter();
@@ -92,7 +92,8 @@ function Questions() {
     setQuestion(q());
   }, [questions, question_number]);
 
-  function checkAnswer() {
+  function checkAnswer(event: FormEvent) {
+    event.preventDefault();
     setIsCheck(true);
   }
 
@@ -152,51 +153,53 @@ function Questions() {
             </div>
           </Stack>
         ) : (
-          <Stack>
-            <Card className="bg-gray-100 w-full" shadow="xl" padding={40}>
-              <Stack>
-                <Title align="center">{question?.q}</Title>
-                <TextInput
-                  value={value}
-                  onChange={(e) => setValue(e.target.value)}
-                  placeholder="Enter your answer"
-                  classNames={{ label: "text-gray-500 text-xs" }}
-                  styles={{
-                    input: {
-                      border: "none",
-                      borderRadius: "0",
-                      background: "transparent",
-                      borderBottom: "1px solid #E0E3EA",
-                      color: "#100C2A",
-                      fontSize: "18px",
-                      fontWeight: 300,
-                      height: "48px",
-                      padding: "0",
-                      "&:focus": {
-                        borderBottom: "1.5px solid #3b82f680",
+          <form onSubmit={checkAnswer}>
+            <Stack>
+              <Card className="bg-gray-100 w-full" shadow="xl" padding={40}>
+                <Stack>
+                  <Title align="center">{question?.q}</Title>
+                  <TextInput
+                    value={value}
+                    onChange={(e) => setValue(e.target.value)}
+                    placeholder="Enter your answer"
+                    classNames={{ label: "text-gray-500 text-xs" }}
+                    styles={{
+                      input: {
+                        border: "none",
+                        borderRadius: "0",
+                        background: "transparent",
+                        borderBottom: "1px solid #E0E3EA",
                         color: "#100C2A",
                         fontSize: "18px",
                         fontWeight: 300,
-                        outline: "none",
+                        height: "48px",
+                        padding: "0",
+                        "&:focus": {
+                          borderBottom: "1.5px solid #3b82f680",
+                          color: "#100C2A",
+                          fontSize: "18px",
+                          fontWeight: 300,
+                          outline: "none",
+                        },
                       },
-                    },
-                  }}
-                />
-              </Stack>
-            </Card>
-            <div>
-              <Button
-                fullWidth
-                variant="filled"
-                color="blue"
-                size="lg"
-                disabled={!value}
-                onClick={checkAnswer}
-              >
-                Check
-              </Button>
-            </div>
-          </Stack>
+                    }}
+                  />
+                </Stack>
+              </Card>
+              <div>
+                <Button
+                  fullWidth
+                  variant="filled"
+                  color="blue"
+                  size="lg"
+                  disabled={!value}
+                  type="submit"
+                >
+                  Check
+                </Button>
+              </div>
+            </Stack>
+          </form>
         )}
         <Button
           variant="white"

@@ -1,4 +1,4 @@
-import { Figma, HuobiToken, Layer, Timer1 } from "iconsax-react";
+import { ArchiveBox, Figma, HuobiToken, Layer, Nem, Notepad2, OceanProtocol, Ontology, Receipt21, Timer1 } from "iconsax-react";
 
 export const oss04p01 = {
     title: "Our Salvation",
@@ -846,4 +846,516 @@ export const oss04p04 = {
             a: "Rubbish, the right thing",
         },
     ]
+}
+
+export const oss04p05 = {
+    title: "Our Salvation",
+    description: "Series 4 Part 5",
+    icon: Nem,
+    color: "#FFE5E5",
+    slug: "oss04p05",
+    questions: [
+        {
+            q: "The context of 2 Peter is to warn believers of _",
+            a: "False prophets",
+        },
+        {
+            q: "_ are vital to Christianity",
+            a: "The apostles",
+        },
+        {
+            q: "It is not all good _ that is of God",
+            a: "Goal setting",
+        },
+        {
+            q: "Several good things especially those that result in _ are not of God",
+            a: "Priority error",
+        },
+        {
+            q: "There's this thing in man that makes him get tired of _",
+            a: "What he's used to",
+        },
+        {
+            q: "_ is copy, paste and repeat daily",
+            a: "Christianity",
+        },
+        {
+            q: "New invention is not _",
+            a: "Christianity",
+        },
+        {
+            q: "There's no updated version of _",
+            a: "The Bible",
+        },
+        {
+            q: "What must not change is what we _",
+            a: "Are doing",
+        },
+        {
+            q: "Ministry is not about being _, it's about being _",
+            a: "Smart, obedient",
+        },
+        {
+            q: "We are God's family so we _ hard, _ hard, _ hard and _ harder",
+            a: "Learn, teach, pray, love",
+        },
+        {
+            q: "Don't fall into that trap of 'he is my pastor because he _ for me'",
+            a: "Cares",
+        },
+        {
+            q: "People have defined pastoring with their own _ mindset",
+            a: "Preconceived",
+        },
+        {
+            q: "You cannot _ a God-concept yourself",
+            a: "Define",
+        },
+        {
+            q: "That someone _ you up 24 hours a day does not mean he is your pastor",
+            a: "Chats",
+        },
+        {
+            q: "Don't have your own _ of who your pastor must be",
+            a: "Criteria",
+        },
+        {
+            q: "You cannot build a ministry on taking care of people's _",
+            a: "Physical needs",
+        },
+        {
+            q: "Know your saviour, know your pastor and then know your _",
+            a: "Admirers",
+        },
+        {
+            q: "Don't give the glory of your _ to your pastor and vice versa",
+            a: "Admirer",
+        },
+        {
+            q: "We care by _, _, and _ and also in physical things",
+            a: "Teaching, spanking, instructing",
+        },
+        {
+            q: "The church is not _ organisation, he cannot do what he likes, he cannot change the job description of a pastor",
+            a: "The pastor's",
+        },
+        {
+            q: "The human nature naturally wants to submit to the part of _, the part that wants to pamper, curtail and understand excesses",
+            a: "Least resistance",
+        },
+        {
+            q: "It is actually spiritual things that should determine _ except you think eternity is a joke",
+            a: "Physical location",
+        },
+        {
+            q: "Jesus is the tool of _ because he is also the destination",
+            a: "Appeal",
+        },
+        {
+            q: "The man in the _ of God is the man that has believed in Jesus' resurrection",
+            a: "Destination",
+        },
+        {
+            q: "Knowing God as a healer or provider, you are still on _",
+            a: "A journey",
+        },
+        {
+            q: "One terrific attribute of spiritually dead men is the ignorance that now surrounds them hence a perfect _",
+            a: "Captivity",
+        },
+        {
+            q: "Rituals and typologies of Christ do not _",
+            a: "Save",
+        },
+        {
+            q: "A dead man that thinks he is alive will never pray for _",
+            a: "Resurrection",
+        },
+        {
+            q: "If God will save man, it will be based on his _, _ and _ alone from start to finish",
+            a: "Merit, effort, understanding",
+        },
+        {
+            q: "For God to save man, he must explain _ to man",
+            a: "Man",
+        },
+        {
+            q: "Key in the work of redemption is that God will have to explain _ to man",
+            a: "Man",
+        },
+        {
+            q: "_ is the man God uses to appeal to man",
+            a: "The preacher",
+        },
+        {
+            q: "Men are not interested in life cos they never understood the full meaning of _",
+            a: "Spiritual death",
+        },
+        {
+            q: "The difficult part of man is _",
+            a: "The mind",
+        },
+        {
+            q: "To save man, God will have to convince the mind of man with _ and not _",
+            a: "Truth, lies",
+        },
+        {
+            q: "_ is God's own personal project",
+            a: "Salvation",
+        },
+        {
+            q: "God in his son came to deal with both the _ and so-called _ of sin",
+            a: "Conduct, nature",
+        },
+        {
+            q: "The security of salvation is part of the _ of salvation",
+            a: "Design",
+        },
+        {
+            q: "God will ensure that man, a being of _ is not able to undo his finished work",
+            a: "Freewill",
+        },
+        {
+            q: "Why people counterfeit salvation is cos they see it as what man asked for and not see it as _",
+            a: "A will of God",
+        },
+        {
+            q: "Man must not be able to _ God's job",
+            a: "Thwart or spoil",
+        },
+        {
+            q: "A good father will not only initiate a family; he will also _ it",
+            a: "Maintain",
+        },
+        {
+            q: "You cannot carry God to _",
+            a: "Hell",
+        },
+        {
+            q: "It's either salvation forever _ or salvation never _",
+            a: "Maintained, received",
+        },
+        {
+            q: "God's timeline is _",
+            a: "Eternity",
+        },
+        {
+            q: "Don't allow the _ in your mind allow you to disdain God's work",
+            a: "Gyrations",
+        },
+        {
+            q: "How God desires to make our _ better is by that gift of no condemnation",
+            a: "Conduct",
+        },
+        {
+            q: "No condemnation is not a liberty to sin or liberty from _, it is the _ you receive upon learning about salvation",
+            a: "Responsibility, mindset",
+        },
+        {
+            q: "The gift of no condemnation gives glory to Jesus and not that it approves all our _, it exalts Jeus and not the flesh",
+            a: "Actions",
+        },
+
+        {
+            q: "No condemnation is that I _ salvation and not that I can do anything",
+            a: "Understand",
+        },
+        {
+            q: "Understanding salvation as God's plan for you will help your _",
+            a: "Actions",
+        },
+        {
+            q: "_ and _ is also walking in the gift of no condemnation",
+            a: "Correcting yourself, responding to correction",
+        },
+        {
+            q: "You _ yourself cos you are already acceptable to God",
+            a: "Correct",
+        },
+        {
+            q: "The gift of no condemnation is not about your _",
+            a: "Actions",
+        },
+        {
+            q: "_ is rejecting the gift of no condemnation cos it's the attribute of man rejecting the gospel",
+            a: "Stubbornness",
+        },
+    ]
+}
+
+export const oss04p06 = {
+    title: "Our Salvation",
+    description: "Series 4 Part 6",
+    icon: ArchiveBox,
+    color: "#8E8B82",
+    slug: "oss04p06",
+    questions: [
+        {
+            q: "_ is a function of knowledge, not any knowledge but that knowledge of Christ",
+            a: "Spiritual growth",
+        },
+        {
+            q: "We must _ to arrive at Christ",
+            a: "Study",
+        },
+        {
+            q: "We don't back things up with scriptures, we go to the scripture to receive the _ of the scripture",
+            a: "Idea",
+        },
+        {
+            q: "The only thing you can backup is a _ of the scripture you have already _ before",
+            a: "Mindset, studied",
+        },
+        {
+            q: "We must all study to receive that _ of the scripture",
+            a: "Mindset",
+        },
+        {
+            q: "Don't have a _ before study",
+            a: "Mindset",
+        },
+        {
+            q: "You don't backup, you _",
+            a: "Explain",
+        },
+        {
+            q: "Some people went after the pattern of Adam and also became _",
+            a: "Condemned",
+        },
+        {
+            q: "Adam's sin is not Cain's sin but Cain sinned after the _ of Adam's sin",
+            a: "Pattern",
+        },
+        {
+            q: "Hell is simply eternal _",
+            a: "Condemnation",
+        },
+        {
+            q: "_ is simply a rejection of God's love",
+            a: "Sin",
+        },
+        {
+            q: "_ is to reject that journey that will lead to Christ",
+            a: "Sin",
+        },
+        {
+            q: "_ will be to say that I don't want your image",
+            a: "Sin",
+        },
+        {
+            q: "In that you relay race away from the image of God, certain _ will follow",
+            a: "Actions",
+        },
+        {
+            q: "The actions that follow that relay race are the actions we call _",
+            a: "Sins",
+        },
+        {
+            q: "Doubt, confusion, uncertainties, sins are all proofs of _ reigning",
+            a: "Death",
+        },
+        {
+            q: "Death reigning is different from they are _",
+            a: "Dead",
+        },
+        {
+            q: "Some sinned after the similitude of Adam's _",
+            a: "Transgression",
+        },
+        {
+            q: "To submit yourself to God's will in the OT is to foreshadow the _ of Jesus",
+            a: "Obedience",
+        },
+        {
+            q: "To obey the gospel is called _",
+            a: "The gift of God",
+        },
+        {
+            q: "Although you said yes to the gospel but God takes the glory, we give glory to the one that _ the process",
+            a: "Initiated",
+        },
+        {
+            q: "The action of man's _ is called a gift of God",
+            a: "Obedience",
+        },
+        {
+            q: "Righteousness of one will be the _ of offence of one",
+            a: "Opposite",
+        },
+        {
+            q: "That someone rejected the gospel yesterday does not mean he has _ forever",
+            a: "Rejected",
+        },
+        {
+            q: "The law could not affect the _ of believing the gospel",
+            a: "Efficacy",
+        },
+
+    ]
+}
+
+export const oss04p07 = {
+    title: "Our Salvation",
+    description: "Series 4 Part 7",
+    icon: Notepad2,
+    color: "#40F8FF",
+    slug: "oss04p07",
+    questions: [
+        {
+            q: "Some copy and paste can make you _",
+            a: "Worse",
+        },
+        {
+            q: "There's a reason behind our copy and paste, we know why, we are not _",
+            a: "Zombies",
+        },
+        {
+            q: "Ensure you establish your disciples based on much _",
+            a: "Teaching",
+        },
+        {
+            q: "I can see the spectacular and not have the _",
+            a: "Root",
+        },
+        {
+            q: "Evangelism is not for Saturday, it is _",
+            a: "Opportunity",
+        },
+        {
+            q: "We must not shy away from much _",
+            a: "Teaching",
+        },
+        {
+            q: "The teaching ministry does something to the _ ministry, it brings reception",
+            a: "Power",
+        },
+        {
+            q: "The power of God is as instant as _ but reception is never instant",
+            a: "Instant",
+        },
+        {
+            q: "We must teach more even than the days of Paul cos we have more _",
+            a: "Contradictions",
+        },
+        {
+            q: "_ is above sense",
+            a: "God",
+        },
+        {
+            q: "Don't _ away the power of God",
+            a: "Think",
+        },
+        {
+            q: "Never use ideas to counterfeit God's grace, it can go _ or _",
+            a: "Right, bad",
+        },
+        {
+            q: "Brain work can lead you to _",
+            a: "Rebellion",
+        },
+        {
+            q: "Same _ we are using to study God's word can easily be used to dishonour God",
+            a: "Brain",
+        },
+        {
+            q: "Sin does not start at the action but at the _",
+            a: "Meditation",
+        },
+        {
+            q: "We don't copy and paste _",
+            a: "Rebellion",
+        },
+        {
+            q: "The devil learnt wickedness from _",
+            a: "Self",
+        },
+        {
+            q: "Now that you've believed, allow the gospel to rescue you from _, that's why we teach in church",
+            a: "Self",
+        },
+        {
+            q: "Salvation is also a rescue from _",
+            a: "Self",
+        },
+        {
+            q: "Salvation will now tell you to follow the _ when sin is a _",
+            a: "Process, shortcut",
+        },
+        {
+            q: "The _ we have is a _ to serve God",
+            a: "Freedom",
+        },
+        {
+            q: "_ is anything outside the service of God",
+            a: "Perversion",
+        },
+        {
+            q: "If God is not in your _, something else will replace it",
+            a: "Meditation",
+        },
+        {
+            q: "That good thing you focus on while neglecting God is bad cos God is the _ for life",
+            a: "Reason",
+        },
+        {
+            q: "We received a _ that he is the reason for life in salvation",
+            a: "Mindset",
+        },
+        {
+            q: "A sound local church or discipler is God's _",
+            a: "Call",
+        },
+        {
+            q: "_ actually starts in meditation",
+            a: "Sin",
+        },
+        {
+            q: "Salvation is rescue from _ that will take you away from God",
+            a: "Meditation",
+        },
+        {
+            q: "The kingdom of _ is a kingdom of self",
+            a: "Darkness",
+        },
+
+    ]
+}
+
+export const oss04p08 = {
+    title: "Our Salvation",
+    description: "Series 4 Part 8",
+    icon: OceanProtocol,
+    color: "#0C356A",
+    slug: "oss04p08",
+    questions: [
+        {
+            q: "My _ heart, I credit it to God's grace",
+            a: "Simple",
+        },
+        {
+            q: "In the parable of the sower, we have same _, same _, same _ and same _ but different result cos of the soil",
+            a: "Sower, seed, preacher, expectation",
+        },
+        {
+            q: "Believing the gospel is called the gift of righteousness cos it's _",
+            a: "Not common",
+        },
+    ]
+}
+export const oss04p09 = {
+    title: "Our Salvation",
+    description: "Series 4 Part 9",
+    icon: Receipt21,
+    color: "#3F1D38",
+    slug: "oss04p09",
+    questions: []
+}
+
+export const oss04p10 = {
+    title: "Our Salvation",
+    description: "Series 4 Part 10",
+    icon: Ontology,
+    color: "#5C4B99",
+    slug: "oss04p10",
+    questions: []
 }

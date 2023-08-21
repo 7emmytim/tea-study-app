@@ -27,50 +27,53 @@ export default function Home() {
     }
   }
 
-  return <main className="pt-10">{getStep()}</main>;
+  return <main className="py-10">{getStep()}</main>;
 }
 
 function Landing() {
   const { pathname, query } = useRouter();
   return (
-    <Container>
-      <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-8">
-        {sermons.map((item, index) => {
-          return (
-            <Card
-              key={index}
-              className="bg-gray-100 w-full sm:w-auto"
-              radius="lg"
-              padding="lg"
-              shadow="xl"
-              component={Link}
-              href={{
-                pathname,
-                query: {
-                  ...query,
-                  step: "1",
-                  sermon: item.slug,
-                  question_number: 1,
-                },
-              }}
-            >
-              <Group>
-                <div className="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full bg-white flex-shrink-0">
-                  <item.icon size={20} variant="Bold" color={item.color} />
-                </div>
-                <Stack spacing={1}>
-                  <Text className="text-gray-900 text-lg title-font font-medium">
-                    {item.title}
-                  </Text>
-                  <Text className="text-gray-600 text-xs">
-                    {item.description} ({item.questions.length})
-                  </Text>
-                </Stack>
-              </Group>
-            </Card>
-          );
-        })}
-      </div>
+    <Container size="xl">
+      <Stack spacing={30}>
+        <Title className="text-center text-[#272829]">Questions</Title>
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 2xl:grid-cols-4 gap-8">
+          {sermons.map((item, index) => {
+            return (
+              <Card
+                key={index}
+                className="bg-gray-100 w-full sm:w-auto"
+                radius="lg"
+                padding="lg"
+                shadow="xl"
+                component={Link}
+                href={{
+                  pathname,
+                  query: {
+                    ...query,
+                    step: "1",
+                    sermon: item.slug,
+                    question_number: 1,
+                  },
+                }}
+              >
+                <Group>
+                  <div className="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full bg-white flex-shrink-0">
+                    <item.icon size={20} variant="Bold" color={item.color} />
+                  </div>
+                  <Stack spacing={1}>
+                    <Text className="text-gray-900 text-lg title-font font-medium">
+                      {item.title}
+                    </Text>
+                    <Text className="text-gray-600 text-xs">
+                      {item.description} ({item.questions.length})
+                    </Text>
+                  </Stack>
+                </Group>
+              </Card>
+            );
+          })}
+        </div>
+      </Stack>
     </Container>
   );
 }

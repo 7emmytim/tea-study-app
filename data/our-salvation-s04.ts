@@ -1340,6 +1340,226 @@ export const oss04p08 = {
             q: "Believing the gospel is called the gift of righteousness cos it's _",
             a: "Not common",
         },
+        {
+            q: "If offence is _, then the free gift will also be _",
+            a: "An action",
+        },
+        {
+            q: "Don't disdain any man that has _ for God",
+            a: "Time",
+        },
+        {
+            q: "Don't _ when people see you as abnormal, be proud of yourself",
+            a: "Adjust",
+        },
+        {
+            q: "In the things of Gpd, _ does not have to be right",
+            a: "Majority",
+        },
+        {
+            q: "You don't take a _ to know what to do or who to follow",
+            a: "Census",
+        },
+        {
+            q: "The type of soil talks about the _",
+            a: "Attitude",
+        },
+        {
+            q: "It's not about the _ of the word, it's about your heart",
+            a: "Potency",
+        },
+        {
+            q: "There's this thing in the world that makes people postpone their joy until _",
+            a: "Big things",
+        },
+        {
+            q: "Don't pattern your life after _",
+            a: "Carnal achievement",
+        },
+        {
+            q: "As we experiment _, it gives us joy",
+            a: "Christianity",
+        },
+        {
+            q: "Don't tie your joy to things, don't be a joyful _ Christian",
+            a: "Vacation",
+        },
+        {
+            q: "_ will always be priority error",
+            a: "Sin",
+        },
+        {
+            q: "The first manifestation of sin is _",
+            a: "Priority error",
+        },
+        {
+            q: "In the body of Christ, sin is when _ comes before the body",
+            a: "Self",
+        },
+        {
+            q: "Every manifestation of sin can be traced to _",
+            a: "Self",
+        },
+        {
+            q: "The day the call comes, that's the day it begins to count as _",
+            a: "Sin",
+        },
+        {
+            q: "_ will now become heavy when the call comes and you say no",
+            a: "Sin",
+        },
+        {
+            q: "What God is looking for is the _ of man",
+            a: "Heart",
+        },
+        {
+            q: "What we see in Adam is _",
+            a: "Stubbornness and unrepentance",
+        },
+        {
+            q: "Adam was blaming God's _ for his own action",
+            a: "Provision",
+        },
+        {
+            q: "Some people will not _ because they are fine",
+            a: "Enter heaven",
+        },
+        {
+            q: "Life cannot be enjoyed outside _, it's a risk",
+            a: "The priority of God",
+        },
+        {
+            q: "Jesus did not pay for _ either before or after he came",
+            a: "Unbelief",
+        },
+        {
+            q: "_ is departing from the living God",
+            a: "Unbelief",
+        },
+        {
+            q: "The death of Christ is to initiate _ in man to the gospel",
+            a: "Obedience",
+        },
+        {
+            q: "The death of Christ is to cause men to believe and not to _ your belief",
+            a: "Overrule",
+        },
+        {
+            q: "_ must be repented from",
+            a: "Unbelief",
+        },
+        {
+            q: "The death of Christ does not take away _ automatically",
+            a: "Unbelief",
+        },
+        {
+            q: "You must know what the Holy Ghost does before you can know _",
+            a: "The sin against him",
+        },
+        {
+            q: "The duty of the Holy Ghost is to proclaim through _, the sufferings of Christ and the glory that follows",
+            a: "A preacher",
+        },
+        {
+            q: "It takes a man with _ to preach the gospel",
+            a: "The Holy Ghost",
+        },
+        {
+            q: "A man that partners with the Holy Ghost is a _ of the resurrection of Christ",
+            a: "Witness",
+        },
+        {
+            q: "Any man _ or _ by the Spirit is commissioned to preach the gospel",
+            a: "Born, influenced",
+        },
+        {
+            q: "Glorifying Jesus is all _ cares about",
+            a: "The Spirit",
+        },
+        {
+            q: "The Holy Ghost is actually God on a _",
+            a: "Mission",
+        },
+        {
+            q: "The word trinity is strictly a _ concept",
+            a: "Redemptive",
+        },
+        {
+            q: "You cannot explain _ outside salvation",
+            a: "Trinity",
+        },
+        {
+            q: "Prophecy is strictly about Jesus and _",
+            a: "His ministry",
+        },
+        {
+            q: "The things we _ by the Spirit is different from the _ of the Spirit",
+            a: "Discern, real duty",
+        },
+        {
+            q: "That a prediction is correct does not make the _ based on the prediction the will of God",
+            a: "Instruction",
+        },
+        {
+            q: "The _ of Jesus, that's what we hold the Holy Ghost accountable to",
+            a: "Testimony",
+        },
+        {
+            q: "Unbelief is a process of time; you must keep running away from God to _ God",
+            a: "Escape",
+        },
+        {
+            q: "The Holy Ghost speaks and it is fulfilled in the _ ministry",
+            a: "Preaching",
+        },
+        {
+            q: "Until we do our job of preaching, don't expect _",
+            a: "Light",
+        },
+        {
+            q: "It's _ to pray for a place that you don't want to go and preach",
+            a: "Irresponsibility",
+        },
+        {
+            q: "Staying heavenly minded is staying _ minded",
+            a: "Scripture",
+        },
+        {
+            q: "Every instruction as touching _ is to take the priority of our life",
+            a: "The gospel",
+        },
+        {
+            q: "The good part of this journey is that you are _",
+            a: "Not alone",
+        },
+        {
+            q: "Not giving up on men actually mean not giving up on _, on _",
+            a: "Ministry, learning",
+        },
+        {
+            q: "We are not giving up on the _ which is learning and the _ which is teaching and preaching",
+            a: "Input, output",
+        },
+        {
+            q: "I don't give up on the entire _ of ministry",
+            a: "Train",
+        },
+        {
+            q: "Woe to the man that is _",
+            a: "Alone",
+        },
+        {
+            q: "To build your house on a rock is that you are not _",
+            a: "Standing alone",
+        },
+        {
+            q: "If you are feeling down, look at someone _ and not _",
+            a: "Within, without",
+        },
+        {
+            q: "Your friend and neighbour are there for your _",
+            a: "Stability",
+        },
     ]
 }
 export const oss04p09 = {
@@ -1348,7 +1568,125 @@ export const oss04p09 = {
     icon: Receipt21,
     color: "#3F1D38",
     slug: "oss04p09",
-    questions: []
+    questions: [
+        {
+            q: "We call him _ because he relates with man",
+            a: "Holy Ghost",
+        },
+        {
+            q: "The Spirit of God moving over the face of the waters is the _ of God with man and not with inanimate objects or nature",
+            a: "Relationship",
+        },
+        {
+            q: "The material world is a function of _ and not just _",
+            a: "Man, God",
+        },
+        {
+            q: "_ spoke this material world into being",
+            a: "Man",
+        },
+        {
+            q: "If it's God's own project, it will be _",
+            a: "Indestructible",
+        },
+        {
+            q: "God's dealing has always been with man and that's why we call him the _",
+            a: "Holy Ghost",
+        },
+        {
+            q: "We call him the Holy Ghost because we are describing his _",
+            a: "Function",
+        },
+        {
+            q: "When the activity of the Holy Ghost is rejected, it is called _",
+            a: "Sin",
+        },
+        {
+            q: "_ can only reecho what you once said",
+            a: "Angels",
+        },
+        {
+            q: "Universalism is a false doctrine cos you are leaving men without a _",
+            a: "Choice",
+        },
+        {
+            q: "Because man can _ willfully, he can reject all that was done for him",
+            a: "Sin",
+        },
+        {
+            q: "We are created unto good works which is to _",
+            a: "Preach the gospel",
+        },
+        {
+            q: "God forgives by default and not an _ action",
+            a: "Experiential",
+        },
+        {
+            q: "The default character of God is _",
+            a: "Forgiveness",
+        },
+        {
+            q: "_ cannot be upgraded",
+            a: "God",
+        },
+        {
+            q: "Before Jesus came when you ask for forgiveness you will receive _",
+            a: "Confidence",
+        },
+        {
+            q: "Now when you ask for forgiveness you will receive _",
+            a: "Sonship",
+        },
+        {
+            q: "We ask from God to _ and not for God to do",
+            a: "Receive",
+        },
+        {
+            q: "Don't tell God to _, he _ in Jesus",
+            a: "Arise, arose",
+        },
+        {
+            q: "The man in unbelief does not really know the magnitude of the _ of his action",
+            a: "Repercussion",
+        },
+        {
+            q: "The same _ that holds your salvation is the same that holds the damnation of those that reject the gospel",
+            a: "Commitment",
+        },
+        {
+            q: "The end point of the decision journey of the man in sin is _",
+            a: "Physical death",
+        },
+        {
+            q: "The man that believes the end point of his journey is the day he _",
+            a: "Believes the gospel",
+        },
+        {
+            q: "The man in Christ can never smell death again regardless of _",
+            a: "Carnality",
+        },
+        {
+            q: "_ is simply the father's house",
+            a: "Eternal security",
+        },
+        {
+            q: "We are saved well to _ well",
+            a: "Serve",
+        },
+        {
+            q: "As sweet as _ is, salvation is yet the destination of God",
+            a: "Spiritual growth",
+        },
+        {
+            q: "What we call spiritual growth is the _ of salvation",
+            a: "Appreciation",
+        },
+        {
+            q: "There's the _ in us to serve God now",
+            a: "Energy",
+        },
+
+    ]
 }
 
 export const oss04p10 = {
@@ -1357,5 +1695,155 @@ export const oss04p10 = {
     icon: Ontology,
     color: "#5C4B99",
     slug: "oss04p10",
-    questions: []
+    questions: [
+        {
+            q: "_ is as important as the Bible itself",
+            a: "Bible interpretation",
+        },
+        {
+            q: "_ is to tempt God",
+            a: "Wrong Bible interpretation",
+        },
+        {
+            q: "Salvation is a topic that we cannot afford _, it's too costly",
+            a: "Wrong interpretation",
+        },
+        {
+            q: "Wrong Bible interpretation has sent many to _",
+            a: "Hell",
+        },
+        {
+            q: "When he said go and preach to all creature, he is talking about everyone that has _",
+            a: "A spirit",
+        },
+        {
+            q: "It is wrong to be contended with anything less than _ for the gospel",
+            a: "The world",
+        },
+        {
+            q: "About the gospel, we must be _ yet allow God guide our _",
+            a: "Ambitious, ambition",
+        },
+        {
+            q: "Church must be clear that it's a _ ground",
+            a: "Ministry training",
+        },
+        {
+            q: "The fruit of ministry done must be _",
+            a: "More ministry",
+        },
+        {
+            q: "Everyone must come to church to learn _",
+            a: "Ministry",
+        },
+        {
+            q: "Church is not for cooling off after a hectic week, we come to church to learn the _ of God",
+            a: "Priority",
+        },
+        {
+            q: "Every church must be _-minded",
+            a: "Mission",
+        },
+        {
+            q: "Our zeal to learn, to be accurate doctrinally must be the same as our zeal to _",
+            a: "Reach out and bring many more people to the light",
+        },
+        {
+            q: "A church that is learning but not growing is a _",
+            a: "Cult",
+        },
+        {
+            q: "You don't race for things cos you want to _; you _ within the capacity of the things in your disposal",
+            a: "Serve God",
+        },
+        {
+            q: "Some statements in the scripture are anticipatory of our _",
+            a: "Obedience",
+        },
+        {
+            q: "God banks on our _",
+            a: "Availability",
+        },
+        {
+            q: "The gospel will be the key priority of your _",
+            a: "Journeys",
+        },
+        {
+            q: "The work is much that's why we don't _ people",
+            a: "Forbid",
+        },
+        {
+            q: "We will rather get it done _ than it not being done at all",
+            a: "Anyhow",
+        },
+        {
+            q: "You cannot be a believer and plan to _ and _ on that your street",
+            a: "Live, die",
+        },
+        {
+            q: "I am a new creature implies or is directly proportional to _ provided that my _ is constant",
+            a: "The ministry of reconciliation, Sincerity",
+        },
+        {
+            q: "God's activities will be absent in the world without our _",
+            a: "Obedience",
+        },
+        {
+            q: "_ can only make laws to control bad people but it is only the gospel that can turn a bad man to a good person",
+            a: "Government",
+        },
+        {
+            q: "We are not anti-_ but we have the solutions",
+            a: "Government",
+        },
+        {
+            q: "Don't use God's love as a shield from _",
+            a: "Responsibility",
+        },
+        {
+            q: "We believe in the eternality of our salvation but that makes us _",
+            a: "Responsible",
+        },
+        {
+            q: "Some people think cos they have an edge in the _ then that means their life is for the _",
+            a: "Physical",
+        },
+        {
+            q: "Don't be too proud to share the gospel else we will doubt if you _",
+            a: "Truly believe it",
+        },
+        {
+            q: "As we grow up spiritually, we allow the ministry call the first shot and then other things will be fixed around the ministry",
+            a: "Grow up spiritually",
+        },
+        {
+            q: "Don't be the Christian that celebrates God's grace in _ to the ministry",
+            a: "Disobedience",
+        },
+        {
+            q: "Don't use songs as _ from responsibility",
+            a: "An escape route",
+        },
+        {
+            q: "Why many pull back is always about _",
+            a: "Money",
+        },
+        {
+            q: "Saved by the gospel is called to _",
+            a: "Preach the gospel",
+        },
+        {
+            q: "Don't use Gods love to shield yourself from _",
+            a: "Responsibility",
+        },
+        {
+            q: "Yes, you have the Holy Spirit forever, it implies _",
+            a: "Service forever",
+        },
+        {
+            q: "Don't make a plan that the gospel cannot _, don't make it so difficult for God to reach out to you",
+            a: "Penetrate",
+        },
+
+    ]
 }

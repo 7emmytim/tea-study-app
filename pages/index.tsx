@@ -1,4 +1,4 @@
-import { sermons } from "@/data";
+import { salvation } from "@/data";
 import {
   Button,
   Card,
@@ -9,10 +9,19 @@ import {
   TextInput,
   Title,
 } from "@mantine/core";
-import { ArrowRight, Book1 } from "iconsax-react";
+import { ArrowRight, Book1, Icon } from "iconsax-react";
 import Link from "next/link";
 import { useRouter } from "next/router";
 import { FormEvent, useState } from "react";
+
+interface Questions {
+  slug: string;
+  icon: Icon;
+  color: string;
+  title: string;
+  description: string;
+  questions: Array<{ q: string; a: string }>;
+}
 
 export default function Home() {
   const { query } = useRouter();
@@ -21,23 +30,23 @@ export default function Home() {
   function getStep() {
     switch (step) {
       case "1":
-        return <Questions />;
+        return <Questions data={salvation} />;
       default:
-        return <Landing />;
+        return <Landing data={salvation} />;
     }
   }
 
   return <main className="py-10">{getStep()}</main>;
 }
 
-function Landing() {
+export function Landing({ data }: { data: Array<Questions> }) {
   const { pathname, query } = useRouter();
   return (
     <Container size="xl">
       <Stack spacing={30}>
         <Title className="text-center text-[#272829]">Questions</Title>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 2xl:grid-cols-4 gap-8">
-          {sermons.map((item, index) => {
+          {data.map((item, index) => {
             return (
               <Card
                 key={index}
@@ -78,13 +87,13 @@ function Landing() {
   );
 }
 
-function Questions() {
+export function Questions({ data }: { data: Array<Questions> }) {
   const [value, setValue] = useState("");
   const [isCheck, setIsCheck] = useState(false);
 
   const { pathname, query } = useRouter();
   const { sermon, question_number = 0 } = query;
-  const details = sermons.find((item) => item.slug === sermon);
+  const details = data.find((item) => item.slug === sermon);
   const questions = details?.questions;
   const question = questions?.[Number(question_number) - 1];
 

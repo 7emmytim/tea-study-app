@@ -1,1 +1,1 @@
-export * from "./the-path-of-glory-01"
+export * from "./my-path"

@@ -1,5 +1,5 @@
-export * from "./part-one" //done
-export * from "./part-two" //done
+export * from "./part-one"
+export * from "./part-two"
 export * from "./part-three"
 export * from "./part-four"
 export * from "./part-five"

@@ -8,121 +8,52 @@ export const path_of_glory_07 = {
     slug: "path_of_glory_07",
     questions: [
         {
-            q: "Some copy and paste can make you _",
-            a: "Worse",
+            q: "The whole drama of Isaac was for Abraham to demonstrate to _ that he believed in God.",
+            a: "Men",
         },
         {
-            q: "There's a reason behind our copy and paste, we know why, we are not _",
-            a: "Zombies",
+            q: "There's _ in working out your salvation, perfectly expressing out your faith",
+            a: "Reward",
         },
         {
-            q: "Ensure you establish your disciples based on much _",
-            a: "Teaching",
+            q: "There's yet an inheritance in _",
+            a: "Inheritance",
         },
         {
-            q: "I can see the spectacular and not have the _",
-            a: "Root",
+            q: "Among the _, there's an inheritance to pursue",
+            a: "Sanctified",
         },
         {
-            q: "Evangelism is not for Saturday, it is _",
-            a: "Opportunity",
+            q: "If there was no _ attached to the work we are doing, then you can afford to _",
+            a: "Reward, do it anyhow",
         },
         {
-            q: "We must not shy away from much _",
-            a: "Teaching",
+            q: "_ inducted you into a path of glory and _",
+            a: "Faith, virtue",
         },
         {
-            q: "The teaching ministry does something to the _ ministry, it brings reception",
-            a: "Power",
+            q: "Diligence = _",
+            a: "'spouden'",
         },
         {
-            q: "The power of God is as instant as _ but reception is never instant",
-            a: "Instant",
+            q: "You are on the path already and there's a possibility of _, he now warns us to be _",
+            a: "Falling, diligent",
         },
         {
-            q: "We must teach more even than the days of Paul cos we have more _",
-            a: "Contradictions",
+            q: "Knowing the _ on this path, it is not what you do at _",
+            a: "Urgency, your own pace",
         },
         {
-            q: "_ is above sense",
-            a: "God",
+            q: "That mindset of _ should not be what's on the mind of a believer on this path of glory",
+            a: "'I cannot kill myself'",
         },
         {
-            q: "Don't _ away the power of God",
-            a: "Think",
+            q: "_ is available to be received for the man who walks this path with _",
+            a: "Glory, diligence",
         },
         {
-            q: "Never use ideas to counterfeit God's grace, it can go _ or _",
-            a: "Right, bad",
+            q: "Diligence is not what you do it _",
+            a: "Casually",
         },
-        {
-            q: "Brain work can lead you to _",
-            a: "Rebellion",
-        },
-        {
-            q: "Same _ we are using to study God's word can easily be used to dishonour God",
-            a: "Brain",
-        },
-        {
-            q: "Sin does not start at the action but at the _",
-            a: "Meditation",
-        },
-        {
-            q: "We don't copy and paste _",
-            a: "Rebellion",
-        },
-        {
-            q: "The devil learnt wickedness from _",
-            a: "Self",
-        },
-        {
-            q: "Now that you've believed, allow the gospel to rescue you from _, that's why we teach in church",
-            a: "Self",
-        },
-        {
-            q: "Salvation is also a rescue from _",
-            a: "Self",
-        },
-        {
-            q: "Salvation will now tell you to follow the _ when sin is a _",
-            a: "Process, shortcut",
-        },
-        {
-            q: "The _ we have is a _ to serve God",
-            a: "Freedom",
-        },
-        {
-            q: "_ is anything outside the service of God",
-            a: "Perversion",
-        },
-        {
-            q: "If God is not in your _, something else will replace it",
-            a: "Meditation",
-        },
-        {
-            q: "That good thing you focus on while neglecting God is bad cos God is the _ for life",
-            a: "Reason",
-        },
-        {
-            q: "We received a _ that he is the reason for life in salvation",
-            a: "Mindset",
-        },
-        {
-            q: "A sound local church or discipler is God's _",
-            a: "Call",
-        },
-        {
-            q: "_ actually starts in meditation",
-            a: "Sin",
-        },
-        {
-            q: "Salvation is rescue from _ that will take you away from God",
-            a: "Meditation",
-        },
-        {
-            q: "The kingdom of _ is a kingdom of self",
-            a: "Darkness",
-        },
-
     ]
 }

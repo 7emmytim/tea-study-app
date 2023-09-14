@@ -8,229 +8,179 @@ export const thy_kingdom_come_part_five = {
     slug: "thy_kingdome_come_part_5",
     questions: [
         {
-            q: "The context of 2 Peter is to warn believers of _",
-            a: "False prophets",
+            q: "In this kingdom, our actions are based on _",
+            a: "A recognition of value",
         },
         {
-            q: "_ are vital to Christianity",
-            a: "The apostles",
+            q: "How effective you will be in your activities in the faith is based on how much you _ and _ what you have",
+            a: "Know, value",
         },
         {
-            q: "It is not all good _ that is of God",
-            a: "Goal setting",
+            q: "We have the new creation realities and _",
+            a: "Ministry",
         },
         {
-            q: "Several good things especially those that result in _ are not of God",
+            q: "The man who is silent as touching the gospel doubts _",
+            a: "The gospel's ability to save",
+        },
+
+        // 
+
+        {
+            q: "The responsibility of advancing the kingdom is for those in _",
+            a: "The kingdom",
+        },
+        {
+            q: "One thing that keeps the soldier alert is that understanding of _",
+            a: "Conflict",
+        },
+        {
+            q: "You must be prepared mentally to _",
+            a: "Fight",
+        },
+        {
+            q: "When you are _, that is how you don't maintain your _",
+            a: "Silent, identity",
+        },
+        {
+            q: "Your silence helps the _",
+            a: "Opposition",
+        },
+        {
+            q: "I must not hide my identity through _",
+            a: "Silence",
+        },
+        {
+            q: "_ and _ will want to silence you",
+            a: "People, circumstances",
+        },
+        {
+            q: "I have a responsibility to maintain _ in this kingdom and I won't do that through _",
+            a: "My identity, silence",
+        },
+        {
+            q: "The command to keep quiet comes from _ and not from _ so why will you obey it?",
+            a: "Men, God",
+        },
+        {
+            q: "All the laws and restrictions are _ but the command of God is _ and backed up by _",
+            a: "Temporary, eternal, the eternal One",
+        },
+        {
+            q: "You must also how to handle both parts of your life since you are _ two kingdoms",
+            a: "Traversing",
+        },
+        {
+            q: "You must ensure that nothing in the _ wraps us up",
+            a: "Physical",
+        },
+        {
+            q: "The Bible is very _. It never painted anything that looks like a _ journey for you",
+            a: "Honest, rosy",
+        },
+        {
+            q: "You interweave yourself when _ now affect _",
+            a: "Physical things, spiritual things",
+        },
+        {
+            q: "Take it easy on everything that is not _",
+            a: "Eternal",
+        },
+        {
+            q: "The things in _, _ teaches us that not everything is valuable or at all cost",
+            a: "Mortality",
+        },
+        {
+            q: "The believer must not wait for _ to teach him that things are not at all cost, not everything is valuable",
+            a: "Mortality",
+        },
+        {
+            q: "Life is for _ to advance",
+            a: "The gospel",
+        },
+        {
+            q: "I will accept all _ in life just let the gospel advance",
+            a: "The circumstances",
+        },
+        {
+            q: "You cannot be idle and say you are of _",
+            a: "The day",
+        },
+        {
+            q: "For us, we confess it now and we _ it now",
+            a: "Live",
+        },
+        {
+            q: "Our life is to serve the one that we call _",
+            a: "Lord",
+        },
+        {
+            q: "Greatness in the kingdom of heaven is a function of _",
+            a: "Service",
+        },
+        {
+            q: "Greatness is that we _ and _ the gospel",
+            a: "Teach, do",
+        },
+        {
+            q: "_ is to reveal to men God in Christ",
+            a: "Greatness",
+        },
+        {
+            q: "Christ is the _ of the revelation of God",
+            a: "Peak",
+        },
+        {
+            q: "Those who will establish the kingdom will _ about it",
+            a: "Deliberate",
+        },
+        {
+            q: "You must know how to shake off the suggestions of the devil that leads to _",
             a: "Priority error",
         },
         {
-            q: "There's this thing in man that makes him get tired of _",
-            a: "What he's used to",
+            q: "If you neglect your _, you are at a disadvantage",
+            a: "Weapon",
         },
         {
-            q: "_ is copy, paste and repeat daily",
-            a: "Christianity",
+            q: "A soldier must understand the _ at his disposal",
+            a: "Tools",
         },
         {
-            q: "New invention is not _",
-            a: "Christianity",
+            q: "The kingdom is established by soldiers, deliberate men and not _",
+            a: "Vegetables",
         },
         {
-            q: "There's no updated version of _",
-            a: "The Bible",
+            q: "The worry about what will happen in life never ends until a man _. To get caught up in that is to be _",
+            a: "Dies, useless",
         },
         {
-            q: "What must not change is what we _",
-            a: "Are doing",
+            q: "The strength of _ is found in the individual",
+            a: "The collective force",
         },
         {
-            q: "Ministry is not about being _, it's about being _",
-            a: "Smart, obedient",
+            q: "The strength of the collective is in _",
+            a: "Individual persuasion/individual conviction",
         },
         {
-            q: "We are God's family so we _ hard, _ hard, _ hard and _ harder",
-            a: "Learn, teach, pray, love",
+            q: "Stop thinking that your _ does not matter",
+            a: "Passion",
         },
         {
-            q: "Don't fall into that trap of 'he is my pastor because he _ for me'",
-            a: "Cares",
+            q: "Your personal _ helps the body",
+            a: "Fervency",
         },
         {
-            q: "People have defined pastoring with their own _ mindset",
-            a: "Preconceived",
+            q: "You must be able to rise above _ and enthrone God's kingdom",
+            a: "The physical",
         },
         {
-            q: "You cannot _ a God-concept yourself",
-            a: "Define",
+            q: "You can have the physical wealth and victories and still be _, it's just to be able to _",
+            a: "Relevant, focus",
         },
         {
-            q: "That someone _ you up 24 hours a day does not mean he is your pastor",
-            a: "Chats",
-        },
-        {
-            q: "Don't have your own _ of who your pastor must be",
-            a: "Criteria",
-        },
-        {
-            q: "You cannot build a ministry on taking care of people's _",
-            a: "Physical needs",
-        },
-        {
-            q: "Know your saviour, know your pastor and then know your _",
-            a: "Admirers",
-        },
-        {
-            q: "Don't give the glory of your _ to your pastor and vice versa",
-            a: "Admirer",
-        },
-        {
-            q: "We care by _, _, and _ and also in physical things",
-            a: "Teaching, spanking, instructing",
-        },
-        {
-            q: "The church is not _ organisation, he cannot do what he likes, he cannot change the job description of a pastor",
-            a: "The pastor's",
-        },
-        {
-            q: "The human nature naturally wants to submit to the part of _, the part that wants to pamper, curtail and understand excesses",
-            a: "Least resistance",
-        },
-        {
-            q: "It is actually spiritual things that should determine _ except you think eternity is a joke",
-            a: "Physical location",
-        },
-        {
-            q: "Jesus is the tool of _ because he is also the destination",
-            a: "Appeal",
-        },
-        {
-            q: "The man in the _ of God is the man that has believed in Jesus' resurrection",
-            a: "Destination",
-        },
-        {
-            q: "Knowing God as a healer or provider, you are still on _",
-            a: "A journey",
-        },
-        {
-            q: "One terrific attribute of spiritually dead men is the ignorance that now surrounds them hence a perfect _",
-            a: "Captivity",
-        },
-        {
-            q: "Rituals and typologies of Christ do not _",
-            a: "Save",
-        },
-        {
-            q: "A dead man that thinks he is alive will never pray for _",
-            a: "Resurrection",
-        },
-        {
-            q: "If God will save man, it will be based on his _, _ and _ alone from start to finish",
-            a: "Merit, effort, understanding",
-        },
-        {
-            q: "For God to save man, he must explain _ to man",
-            a: "Man",
-        },
-        {
-            q: "Key in the work of redemption is that God will have to explain _ to man",
-            a: "Man",
-        },
-        {
-            q: "_ is the man God uses to appeal to man",
-            a: "The preacher",
-        },
-        {
-            q: "Men are not interested in life cos they never understood the full meaning of _",
-            a: "Spiritual death",
-        },
-        {
-            q: "The difficult part of man is _",
-            a: "The mind",
-        },
-        {
-            q: "To save man, God will have to convince the mind of man with _ and not _",
-            a: "Truth, lies",
-        },
-        {
-            q: "_ is God's own personal project",
-            a: "Salvation",
-        },
-        {
-            q: "God in his son came to deal with both the _ and so-called _ of sin",
-            a: "Conduct, nature",
-        },
-        {
-            q: "The security of salvation is part of the _ of salvation",
-            a: "Design",
-        },
-        {
-            q: "God will ensure that man, a being of _ is not able to undo his finished work",
-            a: "Freewill",
-        },
-        {
-            q: "Why people counterfeit salvation is cos they see it as what man asked for and not see it as _",
-            a: "A will of God",
-        },
-        {
-            q: "Man must not be able to _ God's job",
-            a: "Thwart or spoil",
-        },
-        {
-            q: "A good father will not only initiate a family; he will also _ it",
-            a: "Maintain",
-        },
-        {
-            q: "You cannot carry God to _",
-            a: "Hell",
-        },
-        {
-            q: "It's either salvation forever _ or salvation never _",
-            a: "Maintained, received",
-        },
-        {
-            q: "God's timeline is _",
-            a: "Eternity",
-        },
-        {
-            q: "Don't allow the _ in your mind allow you to disdain God's work",
-            a: "Gyrations",
-        },
-        {
-            q: "How God desires to make our _ better is by that gift of no condemnation",
-            a: "Conduct",
-        },
-        {
-            q: "No condemnation is not a liberty to sin or liberty from _, it is the _ you receive upon learning about salvation",
-            a: "Responsibility, mindset",
-        },
-        {
-            q: "The gift of no condemnation gives glory to Jesus and not that it approves all our _, it exalts Jeus and not the flesh",
-            a: "Actions",
-        },
-
-        {
-            q: "No condemnation is that I _ salvation and not that I can do anything",
-            a: "Understand",
-        },
-        {
-            q: "Understanding salvation as God's plan for you will help your _",
-            a: "Actions",
-        },
-        {
-            q: "_ and _ is also walking in the gift of no condemnation",
-            a: "Correcting yourself, responding to correction",
-        },
-        {
-            q: "You _ yourself cos you are already acceptable to God",
-            a: "Correct",
-        },
-        {
-            q: "The gift of no condemnation is not about your _",
-            a: "Actions",
-        },
-        {
-            q: "_ is rejecting the gift of no condemnation cos it's the attribute of man rejecting the gospel",
-            a: "Stubbornness",
+            q: "I can have all I need to have in this life and still be _",
+            a: "Focused",
         },
     ]
 }

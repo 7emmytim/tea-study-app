@@ -8,204 +8,124 @@ export const light_bearers_part_four = {
     slug: "light_bearers_part_4",
     questions: [
         {
-            q: "_ is how not to be forgetful",
-            a: "Acknowledging",
+            q: "_ is God's solution to all men",
+            a: "Light",
         },
         {
-            q: "God never made any of us to be forgetful but only be careful of _",
-            a: "Influence",
+            q: "If the Bible says he begat us like him, that means everyone who is of God partakes of _",
+            a: "The light",
         },
         {
-            q: "With God, there's no gyration or _",
-            a: "Swinging pendulum",
+            q: "The announcement of that life is _",
+            a: "Light",
         },
         {
-            q: "I can mirror my father because he is _",
-            a: "My father",
+            q: "It takes _ to create and the devil does not have that",
+            a: "Power",
         },
         {
-            q: "We exercise _ in the use of anything that was not available in Bible days but available now",
-            a: "Caution",
+            q: "Life can crush death cos there's _ in life",
+            a: "Power",
         },
         {
-            q: "Don't build your life around _",
-            a: "The social media",
+            q: "When we say _ and _, we are not saying two things that have equal strength",
+            a: "Life, death",
         },
         {
-            q: "Be careful of anything that is _",
-            a: "Hotcake",
+            q: "_ is what prevents man from arriving at life",
+            a: "Death",
         },
         {
-            q: "Preaching to people is sometimes difficult because of _",
-            a: "Negative influence",
+            q: "You cannot _ life, you can only prevent man from arriving at life",
+            a: "Overpower",
         },
         {
-            q: "It's tougher to _ the gospel than to _ it",
-            a: "Reject, receive",
+            q: "Life and light is _ and powerful",
+            a: "Fixed",
         },
         {
-            q: "Spiritual growth is a function of _",
-            a: "Knowledge",
+            q: "The devil cannot fight life so he focuses on _",
+            a: "The man",
         },
         {
-            q: "_ is different from the knowledge of Christ",
-            a: "CRK",
+            q: "Darkness will now be _ of the mind of man so he will not see the light as the light",
+            a: "An obscuring",
         },
         {
-            q: "CRK is to read the Bible objectively outside _",
-            a: "Christ",
+            q: "God has happened to everyone through _ and _",
+            a: "Creation, conscience",
         },
         {
-            q: "That _ knowledge of Christ is what grows up a man",
-            a: "Precise",
+            q: "The light might not be _ but it is there",
+            a: "Full",
         },
         {
-            q: "You cannot preach the message to a _",
-            a: "Goat",
+            q: "There's no complete darkness anywhere cos of this presence of a _ of light",
+            a: "Glimpse",
         },
         {
-            q: "The knowledge of Christ makes sense to that human _",
-            a: "Spirit",
+            q: "The devil cannot remove _ of _ so he comes to the mind of man so that he can twist what that man is saying",
+            a: "Nature, conscience",
         },
         {
-            q: "Any man that is learning will grow because the word is _",
-            a: "True",
+            q: "Darkness is the veiling of _ not to understand the message and that's what _ are to fight against",
+            a: "Man's mind, Light bearers",
         },
         {
-            q: "Don't always look for _ with a predetermined yardstick",
-            a: "Spiritual growth",
+            q: "Characteristics of darkness is as much as _",
+            a: "Men",
         },
         {
-            q: "_ is to increase in the knowledge of what Christ has done, the quantity of it and not the rhema",
-            a: "To grow in grace",
+            q: "How we bring that message will _ based on the darkness that is veiling his comprehension",
+            a: "Differ",
         },
         {
-            q: "_ is where we trust God",
-            a: "Ministry",
+            q: "We don't just pray for _ to preach, we also pray for the _",
+            a: "An opportunity, how/approach",
         },
         {
-            q: "Any man giving heed to God's word is automatically _",
-            a: "Getting better",
+            q: "Cos you want to pass the message to a _ doesn't mean you should be a _",
+            a: "Drunkard",
         },
         {
-            q: "We don't use our _ to dishonour anybody or any ministry.",
-            a: "Pace",
+            q: "The gospel and how to deliver it is _",
+            a: "Wisdom",
         },
         {
-            q: "_ is Christology",
-            a: "Grace",
+            q: "We don't have to descend to _ to get the message across",
+            a: "The flesh",
         },
         {
-            q: "Grace is not just _; it is the knowledge of Jesus",
-            a: "Liberty",
+            q: "Putting fleshly _ into the message will render it inactive",
+            a: "Manipulations",
         },
         {
-            q: "_ is very academic",
-            a: "Grace",
+            q: "As light bearers, we don't dilute or corrupt the message in the name of _",
+            a: "Packaging it",
         },
         {
-            q: "Learning is of _",
-            a: "God",
+            q: "Christ must be the _ and _ even in removing the veil, not something you just chip in after a long _",
+            a: "Loud focus, emphasis, ceremony",
         },
         {
-            q: "God became a man and he told men _",
-            a: "'Have you not read?'",
+            q: "No matter the person you meet, there's somewhere to _",
+            a: "Start from",
         },
         {
-            q: "That devotion we give to our _ is for God's word",
-            a: "Academics",
+            q: "So long as there is an opportunity to have _, there's an opportunity to spread the light",
+            a: "A discussion",
         },
         {
-            q: "He gave us _ to discover his will",
-            a: "Our mind",
+            q: "Darkness has to do with _ preventing people from understanding the gospel",
+            a: "Thoughts",
         },
         {
-            q: "Some physical things in man are _ for God's purpose",
-            a: "Perfect",
+            q: "Even though you are striking a conversation, you are not a _",
+            a: "Gist sharer/busybody",
         },
         {
-            q: "It is when the word of God hits _ that it becomes spiritual",
-            a: "That mind",
-        },
-        {
-            q: "One of the greatest miracles which is _ took words",
-            a: "The incarnation",
-        },
-        {
-            q: "Words are just words until the mind of man now _ it",
-            a: "Romance",
-        },
-        {
-            q: "One of the objects of Adam's disobedience is the creation of that _ body.",
-            a: "Death-doomed",
-        },
-        {
-            q: "No one is a sinner because _ is a sinner",
-            a: "His father",
-        },
-        {
-            q: "Don't blame your conduct on _, blame it on yourself",
-            a: "Adam",
-        },
-        {
-            q: "You may be _ by things around you but at the end of the day, the _ is yours",
-            a: "Influenced, decision",
-        },
-        {
-            q: "God's plan is man in Christ but because of sin, same Christ will be _ for man, the _ to man",
-            a: "Forgiveness, appeal of God",
-        },
-        {
-            q: " Same Jesus will be the _ to all other",
-            a: "Solution",
-        },
-        {
-            q: "Man will not be able to stop for himself because man _ sin/rebellion",
-            a: "Love",
-        },
-        {
-            q: "We are not to _ types and shadows; we are to _ the reality from it and _ it",
-            a: "Worship, learn, trash",
-        },
-        {
-            q: "The _ of redemption is that man transgressed but God came looking for reconciliation",
-            a: "Beauty",
-        },
-        {
-            q: "God has a great _, _ and _ to see man in safety",
-            a: "Delight, passion, desire",
-        },
-        {
-            q: "_ story is to teach Adam that who he needs is God",
-            a: "Help meet",
-        },
-        {
-            q: "God was acting alone in redemption because that's his _",
-            a: "Will",
-        },
-        {
-            q: "Forgiving man's sins is little compared to _",
-            a: "What God intended",
-        },
-        {
-            q: "When God told man to eat of the tree of life, he was simply saying _",
-            a: "Enter my favour",
-        },
-        {
-            q: "Sin is that you don't want to enter his _",
-            a: "Favour",
-        },
-        {
-            q: "Any _ you cannot find in Christ is not God's _",
-            a: "Working",
-        },
-        {
-            q: "Search Christ and you will find all of God's _",
-            a: "Package",
-        },
-        {
-            q: "Jesus will be the appeal of God so that Adam will stop chanting _ and start saying _",
-            a: "Rubbish, the right thing",
+            q: "The message already applies to all men, it is your _ that will make the man see how it applies to him",
+            a: "Approach",
         },
     ]
 }

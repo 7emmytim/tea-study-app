@@ -8,6 +8,74 @@ export const thy_kingdom_come_part_four = {
     slug: "thy_kingdome_come_part_4",
     questions: [
         {
+            q: "Your service as a _ is for life",
+            a: "Soldier",
+        },
+        {
+            q: "Enthroning God as king was not for _ alon, it was for all men",
+            a: "Israel",
+        },
+        {
+            q: "God has _ right over the whole earth",
+            a: "Ownership",
+        },
+        {
+            q: "The gospel inaugurated for us _ kingdom",
+            a: "An unstoppable",
+        },
+        {
+            q: "It is a foolish king that cannot know _",
+            a: "The sphere of his own influence",
+        },
+        {
+            q: "A son of God must know the _ of God's kingdom and it's for you to be _",
+            a: "Scope, bold to enforce God's kingdom",
+        },
+        {
+            q: "Cos God is _, that's why no one can contest his dominion claim",
+            a: "Solely responsible for creation",
+        },
+        {
+            q: "The attempt of the atheist is to try to _ God out of _",
+            a: "Stamp out, creation",
+        },
+        {
+            q: "The owner of Zion is the one that determines it's _, not outsiders",
+            a: "Status",
+        },
+        {
+            q: "_ cannot be telling you that this kingdom will fail",
+            a: "Persons not in the kingdom",
+        },
+        {
+            q: "Cos victory is sure, the response is _",
+            a: "Derision",
+        },
+        {
+            q: "People that think they can stamp out God from creation are just _",
+            a: "Being foolish",
+        },
+        {
+            q: "Every form of opposition is at best _",
+            a: "Foolishness",
+        },
+        {
+            q: "It has been obvious from teh beginning that God's intention is for _",
+            a: "The whole world",
+        },
+        {
+            q: "When salvation is enthroned, _ has come",
+            a: "God's kingdom",
+        },
+        {
+            q: "Possessiong you possession talks about enthroning God's kingdom in _",
+            a: "Oppossing places",
+        },
+        {
+            q: "We have a _ God and _ devil",
+            a: "Bible size",
+        },
+        {
             q: "The devil knows that if he's trying to fight the kingdom from _, it's a lost battle, he's fighting a lost battle",
             a: "Outside",
         },

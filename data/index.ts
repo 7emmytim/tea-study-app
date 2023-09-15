@@ -17,13 +17,13 @@ export const sermons = [
     thy_kingdom_come.thy_kingdom_come_part_one,
     thy_kingdom_come.thy_kingdom_come_part_two,
     thy_kingdom_come.thy_kingdom_come_part_three,
-    thy_kingdom_come.thy_kingdom_come_part_four, //IN PROGRESS
+    thy_kingdom_come.thy_kingdom_come_part_four,
     thy_kingdom_come.thy_kingdom_come_part_five,
     light_bearers.light_bearers_part_one,
     light_bearers.light_bearers_part_two,
-    // light_bearers.light_bearers_part_three,
-    // light_bearers.light_bearers_part_four,
-    // light_bearers.light_bearers_part_five
+    light_bearers.light_bearers_part_three,
+    light_bearers.light_bearers_part_four,
+    light_bearers.light_bearers_part_five
 ]
 
 export const salvation = [

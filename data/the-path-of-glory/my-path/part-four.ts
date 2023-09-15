@@ -9,204 +9,104 @@ export const path_of_glory_04 = {
     slug: "path_of_glory_part_4",
     questions: [
         {
-            q: "_ is how not to be forgetful",
-            a: "Acknowledging",
+            q: "You cannot continue in what you have not _",
+            a: "Learned",
         },
         {
-            q: "God never made any of us to be forgetful but only be careful of _",
-            a: "Influence",
+            q: "God has a _ for every nan",
+            a: "Education/Learning",
         },
         {
-            q: "With God, there's no gyration or _",
-            a: "Swinging pendulum",
+            q: "There's a _ that is based in the right interpretation of scriptures in the light of Christ",
+            a: "Good work",
         },
         {
-            q: "I can mirror my father because he is _",
-            a: "My father",
+            q: "The reason many don't understand that there's a work in this scriptures is cos of _",
+            a: "Wrong interpretation",
         },
         {
-            q: "We exercise _ in the use of anything that was not available in Bible days but available now",
-            a: "Caution",
+            q: "If you have not seen the work it means you have not _",
+            a: "Studied well",
         },
         {
-            q: "Don't build your life around _",
-            a: "The social media",
+            q: "If you understand salvation then you cannot say that you have not been _",
+            a: "Called",
         },
         {
-            q: "Be careful of anything that is _",
-            a: "Hotcake",
+            q: "Same way your _ in salvation was planned in Christ, same way the work was also there",
+            a: "Predestination",
         },
         {
-            q: "Preaching to people is sometimes difficult because of _",
-            a: "Negative influence",
+            q: "At salvation, you lost the right not to be a _",
+            a: "Pastor",
         },
         {
-            q: "It's tougher to _ the gospel than to _ it",
-            a: "Reject, receive",
+            q: "When we see salvation, a natural offshoot of that is _",
+            a: "Rejoicing",
         },
         {
-            q: "Spiritual growth is a function of _",
-            a: "Knowledge",
+            q: "It is abnormal for a believer to be continously _",
+            a: "Moody",
         },
         {
-            q: "_ is different from the knowledge of Christ",
-            a: "CRK",
+            q: "Rejoicing is not a time to be trying to _",
+            a: "Make sense",
         },
         {
-            q: "CRK is to read the Bible objectively outside _",
-            a: "Christ",
+            q: "Believers who don't talk about their salvation are concealing _",
+            a: "God's love",
         },
         {
-            q: "That _ knowledge of Christ is what grows up a man",
-            a: "Precise",
+            q: "The man who comes into condemnation is the one who doesn't _",
+            a: "Trust God",
         },
         {
-            q: "You cannot preach the message to a _",
-            a: "Goat",
+            q: "_ is the theme of Psalms anf not enemies",
+            a: "Salvation",
         },
         {
-            q: "The knowledge of Christ makes sense to that human _",
-            a: "Spirit",
+            q: "There should be _ heard where believers are gathered but not _ of complaints but a specific _ of rejoicing",
+            a: "Noise",
         },
         {
-            q: "Any man that is learning will grow because the word is _",
-            a: "True",
+            q: "There's only one kind of _ we can find in God",
+            a: "Salvation",
         },
         {
-            q: "Don't always look for _ with a predetermined yardstick",
-            a: "Spiritual growth",
+            q: "The Bible tells the believer his journey and _",
+            a: "Destination",
         },
         {
-            q: "_ is to increase in the knowledge of what Christ has done, the quantity of it and not the rhema",
-            a: "To grow in grace",
+            q: "When you are not seeing what you should see, keep _",
+            a: "Deploying your resources",
         },
         {
-            q: "_ is where we trust God",
-            a: "Ministry",
+            q: "The way the bridegroom is _ that's the way God _ man in salvation",
+            a: "Beautified",
         },
         {
-            q: "Any man giving heed to God's word is automatically _",
-            a: "Getting better",
+            q: "God said he won't hold his peace until the salvation that he executes is the one that cannot be _",
+            a: "Extinguished",
         },
         {
-            q: "We don't use our _ to dishonour anybody or any ministry.",
-            a: "Pace",
+            q: "If your salvation is not _ then it is not of Christ",
+            a: "Eternal",
         },
         {
-            q: "_ is Christology",
-            a: "Grace",
+            q: "Don't use _ to induct or commission a man into ministry when he has not learnt salvation",
+            a: "Prophecy",
         },
         {
-            q: "Grace is not just _; it is the knowledge of Jesus",
-            a: "Liberty",
+            q: "Trying to say say that you are not called, you are saying that you are _",
+            a: "An atheist",
         },
         {
-            q: "_ is very academic",
-            a: "Grace",
+            q: "Believing brought us to God's vineyard but we have _ and participants",
+            a: "Spectators",
         },
         {
-            q: "Learning is of _",
-            a: "God",
-        },
-        {
-            q: "God became a man and he told men _",
-            a: "'Have you not read?'",
-        },
-        {
-            q: "That devotion we give to our _ is for God's word",
-            a: "Academics",
-        },
-        {
-            q: "He gave us _ to discover his will",
-            a: "Our mind",
-        },
-        {
-            q: "Some physical things in man are _ for God's purpose",
-            a: "Perfect",
-        },
-        {
-            q: "It is when the word of God hits _ that it becomes spiritual",
-            a: "That mind",
-        },
-        {
-            q: "One of the greatest miracles which is _ took words",
-            a: "The incarnation",
-        },
-        {
-            q: "Words are just words until the mind of man now _ it",
-            a: "Romance",
-        },
-        {
-            q: "One of the objects of Adam's disobedience is the creation of that _ body.",
-            a: "Death-doomed",
-        },
-        {
-            q: "No one is a sinner because _ is a sinner",
-            a: "His father",
-        },
-        {
-            q: "Don't blame your conduct on _, blame it on yourself",
-            a: "Adam",
-        },
-        {
-            q: "You may be _ by things around you but at the end of the day, the _ is yours",
-            a: "Influenced, decision",
-        },
-        {
-            q: "God's plan is man in Christ but because of sin, same Christ will be _ for man, the _ to man",
-            a: "Forgiveness, appeal of God",
-        },
-        {
-            q: " Same Jesus will be the _ to all other",
-            a: "Solution",
-        },
-        {
-            q: "Man will not be able to stop for himself because man _ sin/rebellion",
-            a: "Love",
-        },
-        {
-            q: "We are not to _ types and shadows; we are to _ the reality from it and _ it",
-            a: "Worship, learn, trash",
-        },
-        {
-            q: "The _ of redemption is that man transgressed but God came looking for reconciliation",
-            a: "Beauty",
-        },
-        {
-            q: "God has a great _, _ and _ to see man in safety",
-            a: "Delight, passion, desire",
-        },
-        {
-            q: "_ story is to teach Adam that who he needs is God",
-            a: "Help meet",
-        },
-        {
-            q: "God was acting alone in redemption because that's his _",
-            a: "Will",
-        },
-        {
-            q: "Forgiving man's sins is little compared to _",
-            a: "What God intended",
-        },
-        {
-            q: "When God told man to eat of the tree of life, he was simply saying _",
-            a: "Enter my favour",
-        },
-        {
-            q: "Sin is that you don't want to enter his _",
-            a: "Favour",
-        },
-        {
-            q: "Any _ you cannot find in Christ is not God's _",
-            a: "Working",
-        },
-        {
-            q: "Search Christ and you will find all of God's _",
-            a: "Package",
-        },
-        {
-            q: "Jesus will be the appeal of God so that Adam will stop chanting _ and start saying _",
-            a: "Rubbish, the right thing",
+            q: "There's just one _ that has God's glory attached to it",
+            a: "Path",
         },
     ]
 }

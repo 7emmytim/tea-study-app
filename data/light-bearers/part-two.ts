@@ -1,7 +1,7 @@
 import { Figma } from "iconsax-react";
 
 export const light_bearers_part_two = {
-    title: "Thy Kingdom Come",
+    title: "Light Bearers",
     description: "Part 2",
     icon: Figma,
     color: "#33BBC5",

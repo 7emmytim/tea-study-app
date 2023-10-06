@@ -1,14 +1,8 @@
-import * as light_bearers from "./light-bearers"
+import * as apostasy from "./apostasy"
 
 export const sermons = [
-    light_bearers.light_bearers_part_one,
-    light_bearers.light_bearers_part_two,
-    light_bearers.light_bearers_part_three,
-    light_bearers.light_bearers_part_four,
-    light_bearers.light_bearers_part_five
+    apostasy.part_one,
+    apostasy.part_two,
+    apostasy.part_three,
+    apostasy.part_four
 ]
-
-export const salvation = [
-
-]
-

@@ -1,4 +1,4 @@
-import { salvation } from "@/data";
+import { sermons } from "@/data";
 import {
   Button,
   Card,
@@ -30,9 +30,9 @@ export default function Home() {
   function getStep() {
     switch (step) {
       case "1":
-        return <Questions data={salvation} />;
+        return <Questions data={sermons} />;
       default:
-        return <Landing data={salvation} />;
+        return <Landing data={sermons} />;
     }
   }
 
@@ -90,21 +90,21 @@ export function Landing({ data }: { data: Array<Questions> }) {
 export function Questions({ data }: { data: Array<Questions> }) {
   const [value, setValue] = useState("");
   const [isCheck, setIsCheck] = useState(false);
-  // const [question, setQuestion] = useState<{ q: string; a: string }>({
-  //   q: "",
-  //   a: "",
-  // });
+  const [question, setQuestion] = useState<{ q: string; a: string }>({
+    q: "",
+    a: "",
+  });
 
   const { pathname, query } = useRouter();
   const { sermon, question_number = 0 } = query;
   const details = data.find((item) => item.slug === sermon);
   const questions = details?.questions;
-  const question = questions?.[Number(question_number) - 1];
+  // const question = questions?.[Number(question_number) - 1];
 
-  // useEffect(() => {
-  //   const q = randomNoRepeats(questions || []);
-  //   setQuestion(q());
-  // }, [questions, question_number]);
+  useEffect(() => {
+    const q = randomNoRepeats(questions || []);
+    setQuestion(q());
+  }, [questions, question_number]);
 
   function checkAnswer(event: FormEvent) {
     event.preventDefault();

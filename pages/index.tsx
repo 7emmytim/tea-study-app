@@ -90,21 +90,22 @@ export function Landing({ data }: { data: Array<Questions> }) {
 export function Questions({ data }: { data: Array<Questions> }) {
   const [value, setValue] = useState("");
   const [isCheck, setIsCheck] = useState(false);
-  const [question, setQuestion] = useState<{ q: string; a: string }>({
-    q: "",
-    a: "",
-  });
+  const [questions, setQuestions] = useState<Array<{ q: string; a: string }>>([
+    {
+      q: "",
+      a: "",
+    },
+  ]);
 
   const { pathname, query } = useRouter();
   const { sermon, question_number = 0 } = query;
   const details = data.find((item) => item.slug === sermon);
-  const questions = details?.questions;
-  // const question = questions?.[Number(question_number) - 1];
+  const originalQuestions = details?.questions;
+  const question = questions?.[Number(question_number) - 1];
 
   useEffect(() => {
-    const q = randomNoRepeats(questions || []);
-    setQuestion(q());
-  }, [questions, question_number]);
+    setQuestions(genRandomElements(originalQuestions ?? []));
+  }, [originalQuestions]);
 
   function checkAnswer(event: FormEvent) {
     event.preventDefault();
@@ -249,15 +250,13 @@ function NoQuestionCard() {
   );
 }
 
-function randomNoRepeats(array: { q: string; a: string }[]) {
-  var copy = array.slice(0);
-  return function () {
-    if (copy.length < 1) {
-      copy = array.slice(0);
-    }
-    var index = Math.floor(Math.random() * copy.length);
-    var item = copy[index];
-    copy.splice(index, 1);
-    return item;
-  };
+function genRandomElements(array: Array<{ q: string; a: string }>) {
+  let arrayCopy = [...array];
+  let newArray = [];
+  for (let i = 0; i < array.length; i++) {
+    let randNum = Math.floor(Math.random() * arrayCopy.length);
+    let splicedItem = arrayCopy.splice(randNum, 1)[0];
+    newArray.push(splicedItem);
+  }
+  return newArray;
 }

@@ -16,7 +16,7 @@ export const part_two = {
             a: "The spirit of man",
         },
         {
-            q: "That mind is the _ for salvation but the salavtion occurs in a region beyond the min",
+            q: "That mind is the _ for salvation but the salavtion occurs in a region beyond the mind",
             a: "Gateway",
         },
         {

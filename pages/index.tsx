@@ -250,7 +250,10 @@ function NoQuestionCard() {
   );
 }
 
-function genRandomElements(array: Array<{ q: string; a: string }>) {
+function genRandomElements(
+  array: Array<{ q: string; a: string }>,
+  randomise = true
+) {
   let arrayCopy = [...array];
   let newArray = [];
   for (let i = 0; i < array.length; i++) {
@@ -258,5 +261,5 @@ function genRandomElements(array: Array<{ q: string; a: string }>) {
     let splicedItem = arrayCopy.splice(randNum, 1)[0];
     newArray.push(splicedItem);
   }
-  return newArray;
+  return randomise ? newArray : array;
 }

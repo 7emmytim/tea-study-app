@@ -176,7 +176,11 @@ export const part_one = {
             a: "The certificate of hell",
         },
         {
-            q: "Not everything that people can _ in the Bible is actually _",
+            q: "The truth as touching salvation is the _ mindset by which we explain every other _ or _ concept",
+            a: "Bias, man, God",
+        },
+        {
+            q: "Not everything that people call _ in the Bible is actually _",
             a: "Rapture",
         },
         {

@@ -1,7 +1,7 @@
 import { Airdrop, } from "iconsax-react";
 
 export const part_one = {
-    title: "The Bible and it's Interpretation",
+    title: "Bible and Interpretation",
     description: "Part 1",
     icon: Airdrop,
     color: "#252B48",

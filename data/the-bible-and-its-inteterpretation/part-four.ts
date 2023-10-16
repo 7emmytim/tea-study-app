@@ -1,87 +1,135 @@
 import { Gallery } from "iconsax-react";
 
 export const part_four = {
-    title: "The Bible and it's Interpretation",
+    title: "Bible and Interpretation",
     description: "Part 4",
     icon: Gallery,
     color: "#CCC8AA",
     slug: "tbaii_four",
     questions: [
         {
-            q: "Testimony and law refers to _",
-            a: "Documentation",
+            q: "Power does not imply _",
+            a: "Tyranny",
         },
         {
-            q: "The bible doesn't need to be _ to be relevant",
-            a: "Upgraded",
+            q: "The prophets used _ of their predecessor to explain God further",
+            a: "Words",
         },
         {
-            q: "We can call the scriptures a _ it will always be relevant",
-            a: "God book",
+            q: "You can pick the bible and see a _ identity",
+            a: "Common",
         },
         {
-            q: " You can read the bible from _ and not know what Christology is",
-            a: "Genesis to revelation",
+            q: "You must not interprete 'Go and preach' to the sinner as _",
+            a: "God is angry with the sinner",
         },
         {
-            q: "Don't use the bible to preach _",
-            a: "Politics or MMM",
+            q: "The mind of a person is the definition of his _ and his _ towards others",
+            a: "Character, disposition",
         },
         {
-            q: "Even in speaking about the physical, the apostles were careful not to take men outside the reality of _",
-            a: "God's word",
+            q: "That right explanation of God is what we call _",
+            a: "The doctrine of Christ",
         },
         {
-            q: "The apostles were always _ to go back to Christology",
-            a: "Careful",
+            q: "God will have mercy on the world through _",
+            a: "One man",
         },
         {
-            q: "Putting on the knowledge of the one who has created you is all that _",
-            a: "Matters",
+            q: "What we call the N.T is a new _ against that of sin and death",
+            a: "Mode of explanation",
         },
         {
-            q: "We don't know any man after the _",
-            a: "Flesh",
+            q: "Primarily in that new mode of explanation is _",
+            a: "Mercy",
         },
         {
-            q: "Christology cuts off _",
-            a: "Excesses",
+            q: "The closer man gets to the _ gospel, the easier",
+            a: "Full",
         },
         {
-            q: "Don't give people idea that you can help them outside _",
-            a: "Christ",
+            q: "All must _ and none must be spared",
+            a: "Hear",
         },
         {
-            q: "When we stick with Christology, we are showing that we recognize the plan and it's _",
-            a: "Ability",
+            q: "The _ of the gospel also mirrors the suffering of Christ",
+            a: "Preachers",
         },
         {
-            q: "Christology gives men a new _, _ and _",
-            a: "Passion, zeal, life",
+            q: "God will have mercy on the _ because of the sacrifice of _",
+            a: "Majority, few",
         },
         {
-            q: "Christology is a message to _, _ and to _",
-            a: "Believe, study, preach",
+            q: "Ensure you birth conviction for people from all _",
+            a: "Scriptures",
         },
         {
-            q: "Christology can make a prostitute a _ evangelist",
-            a: "Worldwide",
+            q: "Sacrifice of Christ is the _ of Christ, Sacrifice of the preacher is the _ of the preacher",
+            a: "Death, Life",
         },
         {
-            q: "You can't behold Christology and _ at the same time",
-            a: "Vanity",
+            q: "What Christ did for us, we also model in _",
+            a: "Preaching",
         },
         {
-            q: "When it comes to _ all that God needs you to know is Christology",
-            a: "Knowledge",
+            q: "In Bible Interpretation we look to the _, _ and _",
+            a: "Subject, event, intent",
         },
         {
-            q: "Once you are hearing drop the _ carry yourself and your unborn children and run for your dear life",
-            a: "Bible",
+            q: "Whatsoever is not according to doctrine is branded as the working of _",
+            a: "Satan",
         },
         {
-            q: "Don't give up on any man, no matter how stubborn they are, look forward to the end of their journey in _",
-            a: "God",
+            q: "The primary manifestation of the devil is _",
+            a: "Deception",
+        },
+        {
+            q: "It is a doctrine of _ to stick with things and abandon the message",
+            a: "Satan",
+        },
+        {
+            q: "The only difference between Jesus and God is _ but all the mind of God is found in him",
+            a: "Humanity (spirit, soul, body)",
+        },
+        {
+            q: "Don't be _ by the incarnation, its all for your understanding",
+            a: "Fooled",
+        },
+        {
+            q: "You can only _ what has always been",
+            a: "Search",
+        },
+        {
+            q: "_ until the revelation dawns in your heart",
+            a: "Take heed",
+        },
+        {
+            q: "The prophecy must not be taken disjointedly because it has a _",
+            a: "Central theme",
+        },
+        {
+            q: "Any _ outside the doctrine of Christ is a sin",
+            a: "Explanation",
+        },
+        {
+            q: "Doctrine does not fluctuate no matter how _",
+            a: "Long",
+        },
+        {
+            q: "The blessings in Christ are things we see as a result of _",
+            a: "Obedience",
+        },
+        {
+            q: "A wealthy man is not a man that has but a man that gives in the _",
+            a: "Doctrine of Christ",
+        },
+        {
+            q: "Know _ and preach other part in context",
+            a: "Content",
+        },
+        {
+            q: "_ is the overwhelming evidence of the scripture",
+            a: "Content",
         },
     ]
 }

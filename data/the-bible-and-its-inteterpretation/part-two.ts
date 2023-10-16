@@ -1,7 +1,7 @@
 import { Bubble } from "iconsax-react";
 
 export const part_two = {
-    title: "The Bible and it's Interpretation",
+    title: "Bible and Interpretation",
     description: "Part 2",
     icon: Bubble,
     color: "#FF8080",

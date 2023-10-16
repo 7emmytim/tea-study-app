@@ -1,87 +1,115 @@
 import { Eos } from "iconsax-react";
 
 export const part_three = {
-    title: "The Bible and it's Interpretation",
+    title: "Bible and Interpretation",
     description: "Part 3",
     icon: Eos,
     color: "#B931FC",
     slug: "tbaii_three",
     questions: [
         {
-            q: "Christology is the _ and _ of all that God has done for man",
-            a: "Learning, preaching",
+            q: "It is inside of _ we have ecclesiatology",
+            a: "Salvation",
         },
         {
-            q: "There is a reason man must be diligent in learning, because what God did in man was all of God's _",
-            a: "Power displayed",
+            q: "Ensure the _ of your relationship with anybody is based on God's word",
+            a: "Hallmark",
         },
         {
-            q: "The things concerning himself is the sufferings of Christ and his _",
-            a: "Glory",
+            q: "Don't befriend yourself outside the _ of God",
+            a: "Priority",
         },
         {
-            q: "In the Old Testament, you will see Christ as the primary fulfilment and a _ application to the believer",
-            a: "Secondary",
+            q: "God is well glorified in the activities of _",
+            a: "Men",
         },
         {
-            q: "Tongue of the learned is the _ in the lips of the preacher",
-            a: "Gospel",
+            q: "We must rely on _ to justify the character of God",
+            a: "Study",
         },
         {
-            q: "_ implies putting yourself or being wrapped up in something",
-            a: "Baptism",
+            q: "What Jesus came to _, he also came to _",
+            a: "Preach, demonstrate",
         },
         {
-            q: "We overcame death by _",
-            a: "Life",
+            q: "_ is not enough, you can be _ and yet _ wrong, correctness is very important",
+            a: "Sincerity, sincere, sincerely",
         },
         {
-            q: "We have a life in Christ, we can live like him today because we _ like him",
-            a: "Died",
+            q: "The man of God must be _",
+            a: "Studious",
         },
         {
-            q: "The _ plants you in the experience of Christ",
-            a: "Epistle",
+            q: "To serve God acceptably is to serve God according to the _",
+            a: "Rules",
         },
         {
-            q: "Winning Christ is not a _ expression",
-            a: "Futuristic",
+            q: "There is no gospel work without the _ God has given you",
+            a: "People",
         },
         {
-            q: "The man _ has shared in that identity of Christ",
-            a: "Saved",
+            q: "_ is a life lived well for others, because it is what we saw in redemption",
+            a: "Christianity",
         },
         {
-            q: "As he is, so are we, no separation, and same _",
-            a: "Identity",
+            q: "The _ use of all that we have in Christ is service to the brethren",
+            a: "Ultimate",
         },
         {
-            q: "In the experiences of Christ, we find _ there",
-            a: "Ourselves",
+            q: "There are some _ pattern that you must take off",
+            a: "Thinking",
         },
         {
-            q: "The death, burial and resurrection is not a story, it is what _ to us",
-            a: "Happened",
+            q: "You cannot be claiming _ when you're not walking in harmony with believers",
+            a: "Spirituality",
         },
         {
-            q: "When you are _ the gospel, you are not just explaining what happened years ago but you are explaining what happened to you",
-            a: "Declaring",
+            q: "Bible interpretation will not make sense until you know where _ is",
+            a: "God",
         },
         {
-            q: "We are _ as a man who died and rose again",
-            a: "Stamped",
+            q: "In your giving, one should also recieve _",
+            a: "Mercy",
         },
         {
-            q: "In Christology, God wants to show you to _",
-            a: "You",
+            q: "The proof of _ is how you treat people",
+            a: "Honour",
         },
         {
-            q: "Until you see that man that God sees, you will always feel _",
-            a: "Inadequate",
+            q: "Content might not tell us what is written but will tell us what it is _",
+            a: "Not saying",
         },
         {
-            q: "As you focus on _ you see the man that God sees",
-            a: "Christology",
+            q: "Knowing fully well that what is written is the intergration of what is _",
+            a: "Inspired",
+        },
+        {
+            q: "No _ in the Bible ever glorified God",
+            a: "Bloodshed",
+        },
+        {
+            q: "Isreal could have entered God's _ without leaving _",
+            a: "Canaan, Egypt",
+        },
+        {
+            q: "Content is a _ medium of bible interpretation",
+            a: "Subjective",
+        },
+        {
+            q: "The Bible used the phrase _ to depict Judgment",
+            a: "'Visit the iniquity'",
+        },
+        {
+            q: "The _ of 'eye for eye' are _ in rebellion",
+            a: "Audience, the people",
+        },
+        {
+            q: "The tool of that extra _ accusation is the law",
+            a: "Judicial",
+        },
+        {
+            q: "When you don't relate well with a _ you're judging him as an _",
+            a: "Fellow believer, unbeliever",
         },
     ]
 }

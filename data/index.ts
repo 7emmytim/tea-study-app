@@ -13,6 +13,6 @@ export const sermons = [
     christology.part_four,
     tbaii.part_one,
     tbaii.part_two,
-    // tbaii.part_three,
-    // tbaii.part_four
+    tbaii.part_three,
+    tbaii.part_four
 ]

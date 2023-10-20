@@ -44,7 +44,7 @@ export function Landing({ data }: { data: Array<Questions> }) {
   return (
     <Container size="xl">
       <Stack spacing={30}>
-        <Title className="text-center text-[#272829]">Questions</Title>
+        <Title className="text-center text-[#272829]">Questions ({data.length})</Title>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 2xl:grid-cols-4 gap-8">
           {data.map((item, index) => {
             return (

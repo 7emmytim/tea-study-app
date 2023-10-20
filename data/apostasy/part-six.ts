@@ -8,200 +8,208 @@ export const part_six = {
     slug: "apostasy_six",
     questions: [
         {
-            q: "All scriptures are not _ but they are _",
-            a: "Doctrine, profitable for doctrine",
+            q: "If you are not _, it's as good as you are not hearing",
+            a: "Paying attention",
         },
         {
-            q: "That something is in the Bible doesn't mean it is _",
-            a: "Doctrine",
+            q: "The same _ you give to the truth you are hearing is the same amount of _ you get back",
+            a: "Attention, virtue",
         },
         {
-            q: "Doctrine is the _ of the church",
-            a: "Lifeline",
+            q: "Don't get used to _ hearing",
+            a: "Casual",
         },
         {
-            q: "Doctrine is what the church relies upon to _",
-            a: "Promote her purpose",
+            q: "Don't make life difficult for your _",
+            a: "Pastor",
         },
         {
-            q: "You cannot just go to any portion of the Bible and pick _ as doctrine",
-            a: "People's experiences",
+            q: "The effect of the word of God on the lives of men is _",
+            a: "Tangible",
         },
         {
-            q: "Even if you are the _, your experience cannot translate to doctrine",
-            a: "Experience",
+            q: "Some efforts must be _ to bring forth the desired result",
+            a: "Exerted",
         },
         {
-            q: "We are going to rely on _ to explain our experiences",
-            a: "The truth of God's word",
+            q: "A _ giant today without commitment to a church is _ to Christianity tomorrow",
+            a: "Facebook, an insult",
         },
         {
-            q: "We _ or _ our experiences by the truth of God's word",
-            a: "Validate or negate",
+            q: "God helps us through _",
+            a: "Us",
         },
         {
-            q: "All the _ in the Old Testament cannot be used to validate _ in the name of Jesus",
-            a: "Killings",
+            q: "The security of the believer is in _",
+            a: "The company",
         },
         {
-            q: "The truth of God's word _ the epistles",
-            a: "Equals",
+            q: "When you don't treasure _, the devil have many _ and many _ to use against you",
+            a: "Gatherings, avenues, handles",
         },
         {
-            q: "We are going to arm ourselves with _ in approaching a _ like this",
-            a: "The truth of God's word, topic",
+            q: "There's still a _ of the devil against the believer",
+            a: "Heart cry",
         },
         {
-            q: "While ordinary man is _, soul and body, God's man is _, soul and body",
-            a: "Spirit, the new creature",
+            q: "What the devil throws at the believer in a church like TEA is to find _ to focus on",
+            a: "An offence",
         },
         {
-            q: "We don't have enough proof to say that the spirit of man can be _",
-            a: "Possessed by a demon",
+            q: "Church must be _ and _",
+            a: "Constant, consistent",
         },
         {
-            q: "The spirit of man is actually man's _",
-            a: "Identity",
+            q: "Don't be the next man that will _",
+            a: "Fall off from fellowship",
         },
         {
-            q: "_ is the destination of God",
-            a: "The spirit of man",
+            q: "Don't be the one that will always make your pastor _",
+            a: "Sob/cry",
         },
         {
-            q: "It is _ that empowered demons so much",
-            a: "Untaught christianity",
+            q: "If you quit _, it will take greater effort to bring you back",
+            a: "Consecration",
         },
         {
-            q: "If you explain _ by conduct, you will miss it",
-            a: "Sinful nature",
-        },
-        {
-            q: "The sinful nature is simply the man without _",
-            a: "The spirit of God",
-        },
-        {
-            q: "Anybody born of God does not _ the truth of God's word",
-            a: "Counterfeit",
-        },
-        {
-            q: "There's a _ of rebellion and the _ that follows that rebellion",
-            a: "State, actions",
-        },
-        {
-            q: "That state of rebellion is _ and the action is _",
-            a: "The spirit of man without God, The mind of man opposing God's word",
-        },
-        {
-            q: "The spirit of man has only one possible _ and that's _",
-            a: "Option, salvation",
-        },
-        {
-            q: "The spirit of man was created to house God and _",
-            a: "Nothing else",
-        },
-        {
-            q: "The unbeliever is predominantly alive in _",
-            a: "His mind/senses",
-        },
-        {
-            q: "The man in sin has all his actions dictated by _",
-            a: "His mind",
-        },
-        {
-            q: "Without the mind, man is no _",
-            a: "Man",
-        },
-        {
-            q: "If I believe the gospel with _, God comes into _",
-            a: "My mind, my spirit",
-        },
-        {
-            q: "If I give myself to _ with my mind, it does not mean a _ will enter my spirit",
-            a: "Demonology, demon",
-        },
-        {
-            q: "Salvation is beyond _, it is what happens upon _",
-            a: "The believing, believing",
-        },
-        {
-            q: "It takes God to go past _ into _ to dwell inside",
-            a: "The mind of man, man's spirit",
-        },
-        {
-            q: "It is not about your _ in believing but the _ of God to save",
-            a: "Effort, power",
-        },
-        {
-            q: "_ against God is a mind thing but not a spirit thing",
-            a: "Enmity",
-        },
-        {
-            q: "Plenty _ can be made with the mind of man but only one _ the spirit",
-            a: "Decisions, affects",
-        },
-        {
-            q: "_ is not your spirit growing up, it is your mind growing up into the reality of your spirit",
+            q: "Respect yourself and your _",
             a: "Spiritual growth",
         },
         {
-            q: "God is _ over the spirit of the universal man",
-            a: "Authority",
+            q: "Value moments of _",
+            a: "The word",
         },
         {
-            q: "Before approaching any _ of man, learn to first respect the _ of God",
-            a: "Theory/concept",
+            q: "After each service, it's either you are trying to make someone to understand more what has been taught or you are _",
+            a: "Praying over it",
         },
         {
-            q: "Apostasy and other concepts that is a _ issue are not authority over _",
-            a: "Mind, man's spirit",
+            q: "_ are the result of the mismanagement of man",
+            a: "Natural disasters",
         },
         {
-            q: "Before explaining any Bible concept, learn to first _ salvation",
-            a: "Respect",
+            q: "You cannot know that God is good by looking at _",
+            a: "Nature",
         },
         {
-            q: "_ is to insult God",
-            a: "To disdain salvation",
+            q: "Lots of Christians only accept God as the _ that the Bible seem to present him as",
+            a: "Tyrant",
         },
         {
-            q: "If you have that mindset of attacking _, you will never know anything about _",
-            a: "Salvation, God",
+            q: "_ will prevent many from going their own way",
+            a: "Detailed explanation",
         },
         {
-            q: "Before you try to learn what is called _, first learn what is called _",
-            a: "Apostasy, salvation",
+            q: "The body is the avenue through which _ and _ can reach out to the mind",
+            a: "The Spirit, a preacher",
         },
         {
-            q: "It is when you don't understand salvation that you will issue _ to any man that fails in ministry",
-            a: "The certificate of hell",
+            q: "When the body leaves, man remains in a state called _",
+            a: "Enmity",
         },
         {
-            q: "The truth as touching salvation is the _ mindset by which we explain every other _ or _ concept",
-            a: "Bias, man, God",
+            q: "_ can be called suffering when compared to unity with God",
+            a: "Independence",
         },
         {
-            q: "Not everything that people call _ in the Bible is actually _",
-            a: "Rapture",
+            q: "An excuse not to _, don't accept it",
+            a: "Follow through",
         },
         {
-            q: "The fact that something exists in _ does not mean it truly exists in _",
-            a: "The dictionary, the christian experience",
+            q: "_ is not 'sorry', it is to do what you are meant to do",
+            a: "Repent",
         },
         {
-            q: "_ can kill but the word of God does not fail",
-            a: "Assumptions",
+            q: "Ignorance is not _ but unwillingness to search for information",
+            a: "Lack of information",
         },
         {
-            q: "If you don't understand salvation and I teach you things of the Spirit, you will _",
-            a: "Enter perversion",
+            q: "When you don't hold the truth in _, you will start saying _",
+            a: "Good conscience, rubbish",
         },
         {
-            q: "If you don't understand salvation and I teach you ministry, you will see it as _",
-            a: "God putting a yoke on your neck",
+            q: "We don't have a _ God at salvation",
+            a: "Unstable",
         },
         {
-            q: "If you don't understand salvation and I teach you heaven, you will see it as _",
-            a: "Something you qualify for",
+            q: "Salvation is God's own _",
+            a: "Commitment",
+        },
+        {
+            q: "There's a _ at work as touching the saved man",
+            a: "Higher law",
+        },
+        {
+            q: "What you did at salvation was to surrender _ to die eternally",
+            a: "Your will",
+        },
+        {
+            q: "God was _ until the new creature emerged",
+            a: "Homeless",
+        },
+        {
+            q: "When a believer does what an unbeliever does to get _, he does not get that same _",
+            a: "Wrath",
+        },
+        {
+            q: "You can take back your will in your _ and _ but the salvation you have received is designed by God not to be rejected",
+            a: "Words, conduct",
+        },
+        {
+            q: "Don't get _ in learning salvation",
+            a: "Moody",
+        },
+        {
+            q: "Your _ is opening the door to a willing God and the deal become sealed",
+            a: "Acceptance",
+        },
+        {
+            q: "Salvation is designed by God to be a _ path",
+            a: "One-way",
+        },
+        {
+            q: "When it is said that someone _ Christianity sorry, Christianity cannot _ you",
+            a: "Rejected, reject",
+        },
+        {
+            q: "You are a pastor cos you can maintain _",
+            a: "Priority",
+        },
+        {
+            q: "A believer can depart from _ but it does not _ his salvation",
+            a: "The faith message, nullify",
+        },
+        {
+            q: "To depart from faith is to declare your independence from the _ message",
+            a: "Faith",
+        },
+        {
+            q: "Honour your pastor's _",
+            a: "Discretion",
+        },
+        {
+            q: "You will not be wise to be friends with those that your pastor _",
+            a: "Bewares",
+        },
+        {
+            q: "False doctrines are highly _",
+            a: "Contagious",
+        },
+        {
+            q: "Do not say that you can _ those that your pastor say he can't _, that will be _",
+            a: "Handle, handle, pride",
+        },
+        {
+            q: "There are emotions in _",
+            a: "Ministry",
+        },
+        {
+            q: "That you have a need does not mean anybody that speaks about that need on _ is you new _",
+            a: "Facebook, hero",
+        },
+        {
+            q: "When you see a sermon or _ teaching putting your faith in things, beware!",
+            a: "Facebook",
         },
 
     ]

@@ -16,7 +16,7 @@ export const part_two = {
             a: "The spirit of man",
         },
         {
-            q: "That mind is the _ for salvation but the salavtion occurs in a region beyond the mind",
+            q: "That mind is the _ for salvation but the salvation occurs in a region beyond the mind",
             a: "Gateway",
         },
         {
@@ -64,7 +64,7 @@ export const part_two = {
             a: "Night, day",
         },
         {
-            q: "You should teach about rapture and people should be _ adn not _",
+            q: "You should teach about rapture and people should be _ and not _",
             a: "Edified, cry",
         },
         {

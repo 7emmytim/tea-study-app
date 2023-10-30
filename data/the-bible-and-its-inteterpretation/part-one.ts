@@ -16,6 +16,10 @@ export const part_one = {
             a: "Word, ministry",
         },
         {
+            q: "The believer must not separate his _ from the _ on God's word",
+            a: "Sense organs, labour",
+        },
+        {
             q: "I must employ my _ in the _ of God's word",
             a: "Senses, labour",
         },
@@ -38,6 +42,10 @@ export const part_one = {
         {
             q: "The Bible must be _",
             a: "Interpreted",
+        },
+        {
+            q: "Men investigated God's will via _",
+            a: "Searching",
         },
         {
             q: "Man is already _ to know God",

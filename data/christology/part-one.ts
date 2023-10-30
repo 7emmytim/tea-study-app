@@ -12,8 +12,12 @@ export const part_one = {
             a: "Defence",
         },
         {
-            q: "Under every topic, there is a topic called _",
-            a: "Christology",
+            q: "There's no _ that is above teaching the believer",
+            a: "Topic",
+        },
+        {
+            q: "Under every topic, there is a _ topic called Christology",
+            a: "Broad",
         },
         {
             q: "In Christianity, great _ and _ is placed on learning",
@@ -22,6 +26,10 @@ export const part_one = {
         {
             q: "Learning is not what you do once in a while, it is a _",
             a: "Lifetime devotion",
+        },
+        {
+            q: "When there is no _ of learning, men will forget",
+            a: "Repetitive culture",
         },
         {
             q: "When there is no _ of learning, men will forget",

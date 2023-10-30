@@ -29,7 +29,7 @@ export const part_one = {
         },
         {
             q: "Even if you are the _, your experience cannot translate to doctrine",
-            a: "Experience",
+            a: "G.O.",
         },
         {
             q: "We are going to rely on _ to explain our experiences",

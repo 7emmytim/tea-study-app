@@ -1,11 +1,11 @@
 import { HuobiToken } from "iconsax-react";
 
 export const part_three = {
-    title: "Apostasy",
+    title: "The Witnesses",
     description: "Part 3",
     icon: HuobiToken,
     color: "#EBE76C",
-    slug: "apostasy_three",
+    slug: "witnesses_three",
     questions: [
         {
             q: "The _ and _ you are receiving should determine when and where to relocate to",

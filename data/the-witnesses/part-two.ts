@@ -1,11 +1,11 @@
 import { Figma } from "iconsax-react";
 
 export const part_two = {
-    title: "Apostasy",
+    title: "Witnesses",
     description: "Part 2",
     icon: Figma,
     color: "#33BBC5",
-    slug: "apostasy_two",
+    slug: "witnesses_two",
     questions: [
         {
             q: "Men will not _ until they are made to _",

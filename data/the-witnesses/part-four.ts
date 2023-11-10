@@ -1,11 +1,11 @@
 import { Layer } from "iconsax-react";
 
 export const part_four = {
-    title: "Apostasy",
+    title: "The Witnesses",
     description: "Part 4",
     icon: Layer,
     color: "#252B48",
-    slug: "apostasy_four",
+    slug: "witnesses_four",
     questions: [
         {
             q: "The spirit determines man's eternal _",

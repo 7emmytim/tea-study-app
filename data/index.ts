@@ -1,15 +1,13 @@
-import * as apostasy from "./apostasy"
-import * as christology from "./christology"
-import * as tbaii from "./the-bible-and-its-inteterpretation"
+import * as witnesses from "./the-witnesses"
 
 export const sermons = [
-    // apostasy.part_one,
-    // apostasy.part_two,
-    // apostasy.part_three,
-    // apostasy.part_four,
-    // apostasy.part_five,
-    // apostasy.part_six,
-    // apostasy.part_seven,
+    witnesses.part_one,
+    // witnesses.part_two,
+    // witnesses.part_three,
+    // witnesses.part_four,
+    // witnesses.part_five,
+    // witnesses.part_six,
+    // witnesses.part_seven,
     // christology.part_one,
     // christology.part_two,
     // christology.part_three,

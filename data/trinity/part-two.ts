@@ -1,7 +1,7 @@
 import { Figma } from "iconsax-react";
 
 export const part_two = {
-    title: "Witnesses",
+    title: "Trinity",
     description: "Part 2",
     icon: Figma,
     color: "#33BBC5",

@@ -1,11 +1,11 @@
 import { Timer1 } from "iconsax-react";
 
 export const part_six = {
-    title: "Apostasy",
+    title: "Trinity",
     description: "Part 6",
     icon: Timer1,
     color: "#F7D060",
-    slug: "apostasy_six",
+    slug: "trinity_six",
     questions: [
         {
             q: "If you are not _, it's as good as you are not hearing",

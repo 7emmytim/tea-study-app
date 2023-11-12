@@ -1,13 +1,13 @@
-import * as witnesses from "./the-witnesses"
+import * as trinity from "./trinity"
 
 export const sermons = [
-    witnesses.part_one,
-    // witnesses.part_two,
-    // witnesses.part_three,
-    // witnesses.part_four,
-    // witnesses.part_five,
-    // witnesses.part_six,
-    // witnesses.part_seven,
+    trinity.part_one,
+    trinity.part_two,
+    trinity.part_three,
+    trinity.part_four,
+    trinity.part_five,
+    // trinity.part_six,
+    // trinity.part_seven,
     // christology.part_one,
     // christology.part_two,
     // christology.part_three,

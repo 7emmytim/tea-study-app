@@ -1,7 +1,9 @@
+import { COLORS, ICONS } from "@/constants";
 import { sermons } from "@/data";
 import {
   Button,
   Card,
+  Center,
   Container,
   Group,
   Stack,
@@ -9,7 +11,7 @@ import {
   TextInput,
   Title,
 } from "@mantine/core";
-import { ArrowRight, Book1, Icon } from "iconsax-react";
+import { ArrowRight, Book1, Icon, Layer, Timer1 } from "iconsax-react";
 import Link from "next/link";
 import { useRouter } from "next/router";
 import { FormEvent, useEffect, useState } from "react";
@@ -41,12 +43,29 @@ export default function Home() {
 
 export function Landing({ data }: { data: Array<Questions> }) {
   const { pathname, query } = useRouter();
+
+  if (!data.length)
+    return (
+      <Center mt={20}>
+        <Stack>
+          <Layer className="m-auto" size={80} />
+          <Text className="text-gray-700">Nothing to show here ):</Text>
+        </Stack>
+      </Center>
+    );
+
   return (
     <Container size="xl">
       <Stack spacing={30}>
-        <Title className="text-center text-[#272829]">Questions ({data.length})</Title>
+        <Title className="text-center text-[#272829]">
+          Questions ({data.length})
+        </Title>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 2xl:grid-cols-4 gap-8">
           {data.map((item, index) => {
+            const newItem = {
+              component: ICONS[index],
+              color: COLORS[index],
+            };
             return (
               <Card
                 key={index}
@@ -67,7 +86,11 @@ export function Landing({ data }: { data: Array<Questions> }) {
               >
                 <Group>
                   <div className="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full bg-white flex-shrink-0">
-                    <item.icon size={20} variant="Bold" color={item.color} />
+                    <newItem.component
+                      size={20}
+                      variant="Bold"
+                      color={newItem.color}
+                    />
                   </div>
                   <Stack spacing={1}>
                     <Text className="text-gray-900 text-lg title-font font-medium">

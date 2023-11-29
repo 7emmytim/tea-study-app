@@ -8,24 +8,24 @@ export const part_two = {
     slug: "sda_two",
     questions: [
         {
-            q: "Truth is free from _ and _ and _",
-            a: "pretence, falsehood, deceit",
+            q: "Once the attention is on _, there's no Jesus there",
+            a: "beat",
         },
         {
-            q: "Truth is not subject to _",
-            a: "personal validation",
+            q: "To confess our sins is not to _ the details",
+            a: "mention",
         },
         {
-            q: "For the Christian faith, truth is _",
-            a: "universally constant",
+            q: "I have been set above, so I can _ very well",
+            a: "teach",
         },
         {
-            q: "Jesus is the _ and _ of what truth is",
-            a: "validation, confirmation",
+            q: "The _ life is a _ life",
+            a: "Christian, speaking",
         },
         {
-            q: " It is easy for us to ascertain what the truth is except you are _",
-            a: "not sincere",
+            q: "You speak until you have _",
+            a: "spoken",
         },
         {
             q: "The issue is not that they don't know the truth but they _",

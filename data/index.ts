@@ -2,7 +2,7 @@ import * as sda from "./sda"
 import * as honour from "./honour"
 
 export const sermons = [
-    // sda.part_one,
+    sda.part_one,
     // sda.part_two,
     // sda.part_three,
     // sda.part_four,

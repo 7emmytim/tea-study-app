@@ -8,84 +8,148 @@ export const part_one = {
     slug: "sda_one",
     questions: [
         {
-            q: "Truth is free from _ and _ and _",
-            a: "pretence, falsehood, deceit",
+            q: "That you saw _ does not mean that is the actual name of the person being spoken about",
+            a: "lucifer",
         },
         {
-            q: "Truth is not subject to _",
-            a: "personal validation",
+            q: "Angels were to carry out man's order and not to _ man",
+            a: "lord over",
         },
         {
-            q: "For the Christian faith, truth is _",
-            a: "universally constant",
+            q: "We have a lot of _ today that avoids the devil",
+            a: "Christians",
         },
         {
-            q: "Jesus is the _ and _ of what truth is",
-            a: "validation, confirmation",
+            q: "We are not teaching word to _ the devil",
+            a: "avoid",
         },
         {
-            q: " It is easy for us to ascertain what the truth is except you are _",
-            a: "not sincere",
+            q: "There's no deliverance from the devil with _",
+            a: "the devil",
         },
         {
-            q: "The issue is not that they don't know the truth but they _",
-            a: "exchanged",
+            q: "_ don't cast out demons",
+            a: "Demons",
         },
         {
-            q: "The man that does not arrive at that destination of truth is _",
-            a: "his fault",
+            q: "There's a _ judgment for the devil",
+            a: "final",
         },
         {
-            q: "The Bible contains the _ of the Christian faith",
-            a: "fundamental knowledge",
+            q: "The torment is to render them _",
+            a: "homeless",
         },
         {
-            q: "The carnal mind always wants to believe what he has _",
-            a: "seen",
+            q: "A day is coming that _ and _ will be fully bound",
+            a: "the devil, his demons",
         },
         {
-            q: "_ is the believer's responsibility to the word",
-            a: "Taking heed",
+            q: "There's a _ judgment for the devil but in preparation for that one, there's _ to be done",
+            a: "final, something",
         },
         {
-            q: "The scripture has a singular _ and a singular _",
-            a: "inspiration, thought pattern",
+            q: "Demons must be tormented before _. That does not translate to tormenting _",
+            a: "their time, the man that is possessed",
         },
         {
-            q: "Even Jesus respected the documentation from his _ and _",
-            a: "words, actions",
+            q: "Whatever I demand with my _ cannot be denied me",
+            a: "in Christ consciousness",
         },
         {
-            q: "Understanding of the scriptures saves a man from _",
-            a: "error",
+            q: "To _ is to pray as a son of God",
+            a: "pray in the name",
         },
         {
-            q: "As much as you are a _, you are not the source",
-            a: "translator",
+            q: "_ is my identity",
+            a: "His name",
         },
         {
-            q: "_ plays a big role in Bibe Documentation, Bible Interpretation, Bible translation and teaching",
-            a: "Sincerity",
+            q: "To _ is to stay with your identity",
+            a: "pray in the name of Jesus",
         },
         {
-            q: "Even if we have 100 _, we should pick them and arrive at the same meaning",
-            a: "translations",
+            q: "A Christian society will use everything in Christianity to fulfil _",
+            a: "carnality",
         },
         {
-            q: "No translation should contain words that give a different meaning from the original intention else it is _",
-            a: "questionable",
+            q: "_ must be powerful to you",
+            a: "The name",
         },
         {
-            q: "We have one _ to know God",
-            a: "documentation",
+            q: "Our issue is that we have been so used to _ prayers",
+            a: "unanswered",
         },
         {
-            q: "_ is not for everyone to be smiling at one another",
-            a: "Unity of faith",
+            q: "If one part of the Bible is false then we can query _",
+            a: "eternal salvation",
         },
         {
-            q: "Same _ from the same _, that is what unity is",
-            a: "understanding, source",
+            q: "When you don't believe the word, _ will torment you",
+            a: "anything",
+        },
+        {
+            q: "Jesus is our _ in the miraculous",
+            a: "qualifier",
+        },
+        {
+            q: "He sent us on the basis of _",
+            a: "finished works",
+        },
+        {
+            q: "I am the _ agent of demonic activities",
+            a: "stopping",
+        },
+        {
+            q: "Demons are agents of _",
+            a: "sadness/sorrow",
+        },
+        {
+            q: "What you don't do is to spend _ casting out demons",
+            a: "an hour",
+        },
+        {
+            q: "When you evict a devil from _, you are tormenting him",
+            a: "his house",
+        },
+        {
+            q: "We are going to see a community that is demon-free because _",
+            a: "we will make it happen",
+        },
+        {
+            q: "Demons don't need your _",
+            a: "prayers",
+        },
+        {
+            q: "You don't need _ before a mad man",
+            a: "fasting",
+        },
+        {
+            q: "demons don't understand _",
+            a: "tongues",
+        },
+        {
+            q: "As they are doing _, you have words so you speak",
+            a: "upticks",
+        },
+        {
+            q: "Upticks is to make you think _",
+            a: "less powerful",
+        },
+        {
+            q: "True _ is with the man in Christ",
+            a: "dominion",
+        },
+        {
+            q: "You oppress demons by _",
+            a: "default",
+        },
+        {
+            q: "That a demon is operating through someone does not mean he is not _",
+            a: "born again",
+        },
+        {
+            q: "A demon operating in _ is useless",
+            a: "the spirit",
         },
     ]
 }

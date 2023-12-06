@@ -8,84 +8,184 @@ export const series_two_part_five = {
     slug: "sda_series_two_part_five",
     questions: [
         {
-            q: "Truth is free from _ and _ and _",
-            a: "pretence, falsehood, deceit",
+            q: "I appreciate _ but I can never be condemned by _",
+            a: "nature",
         },
         {
-            q: "Truth is not subject to _",
-            a: "personal validation",
+            q: "Nothing _ can condemn the essence of _",
+            a: "created, creation",
         },
         {
-            q: "For the Christian faith, truth is _",
-            a: "universally constant",
+            q: "Church in your mind must be _",
+            a: "daily",
         },
         {
-            q: "Jesus is the _ and _ of what truth is",
-            a: "validation, confirmation",
+            q: "Ensure the volume of your _ is more than the volume of _ around you",
+            a: "faith, doubt",
         },
         {
-            q: " It is easy for us to ascertain what the truth is except you are _",
-            a: "not sincere",
+            q: "It is not about 'have I prayed today', it is about _",
+            a: "do I have the mindset of a praying man",
         },
         {
-            q: "The issue is not that they don't know the truth but they _",
-            a: "exchanged",
+            q: "Whether you are _ or _, see yourself as God sees you in Christ",
+            a: "in church, not",
         },
         {
-            q: "The man that does not arrive at that destination of truth is _",
-            a: "his fault",
+            q: "Don't be quick to believe _ about you",
+            a: "negative things",
         },
         {
-            q: "The Bible contains the _ of the Christian faith",
-            a: "fundamental knowledge",
+            q: "When you are corrected, change but ensure you don't play down on _",
+            a: "your in-Christ mindset",
         },
         {
-            q: "The carnal mind always wants to believe what he has _",
-            a: "seen",
+            q: "Christ wants every man perfect with him so it is not only about _",
+            a: "one man",
         },
         {
-            q: "_ is the believer's responsibility to the word",
-            a: "Taking heed",
+            q: "We are the ones that will open _ to others",
+            a: "the door of salvation",
         },
         {
-            q: "The scripture has a singular _ and a singular _",
-            a: "inspiration, thought pattern",
+            q: "When we say the believer in Christ, it means you have the _ and _ of Christ",
+            a: "Spirit, knowledge",
         },
         {
-            q: "Even Jesus respected the documentation from his _ and _",
-            a: "words, actions",
+            q: "_ is to continue in Christ",
+            a: "Spiritual growth",
         },
         {
-            q: "Understanding of the scriptures saves a man from _",
-            a: "error",
+            q: "Don't race for _ knowledge",
+            a: "strange",
         },
         {
-            q: "As much as you are a _, you are not the source",
-            a: "translator",
+            q: "_ is the height",
+            a: "Christology",
         },
         {
-            q: "_ plays a big role in Bibe Documentation, Bible Interpretation, Bible translation and teaching",
-            a: "Sincerity",
+            q: "Some people learn _ from somewhere but want to learn _ somewhere else",
+            a: "the word, power",
         },
         {
-            q: "Even if we have 100 _, we should pick them and arrive at the same meaning",
-            a: "translations",
+            q: "God gave no man _ as a message",
+            a: "power",
         },
         {
-            q: "No translation should contain words that give a different meaning from the original intention else it is _",
-            a: "questionable",
+            q: "There's no special _ to preach anything outside Christ",
+            a: "calling",
         },
         {
-            q: "We have one _ to know God",
-            a: "documentation",
+            q: "Even the _ ministry of Jesus was an offshoot of his _ ministry",
+            a: "healing, teaching",
         },
         {
-            q: "_ is not for everyone to be smiling at one another",
-            a: "Unity of faith",
+            q: "You have no day to forget _",
+            a: "who you are in Christ",
         },
         {
-            q: "Same _ from the same _, that is what unity is",
-            a: "understanding, source",
+            q: "Your duty is to grow in grace and not in _",
+            a: "demonology",
+        },
+        {
+            q: "In Christ is hidden all _ treasures",
+            a: "reasonable",
+        },
+        {
+            q: "Any knowledge of spiritual things outside Christ in _",
+            a: "useless",
+        },
+        {
+            q: "I must be taught and I must _ as I have been taught",
+            a: "stay",
+        },
+        {
+            q: "For preachers, _ in not where you yarn rubbish",
+            a: "the pulpit",
+        },
+        {
+            q: "Our _ is no no for philosophy",
+            a: "pulpit",
+        },
+        {
+            q: "We use _ to keep men occupied",
+            a: "the knowledge of Christ",
+        },
+        {
+            q: "We receive the call of God amidst _",
+            a: "believers",
+        },
+        {
+            q: "Don't be a ceremonial or _ Christian",
+            a: "special programme",
+        },
+        {
+            q: "Angels and demons both love _",
+            a: "ceremonies",
+        },
+        {
+            q: "Once you focus on things, they will take away your _ in Christianity",
+            a: "reward",
+        },
+        {
+            q: "_ things are part of what Paul calls rudiments of the world",
+            a: "angelic",
+        },
+        {
+            q: "We call things _ because it is of Christ and not because it is invisible",
+            a: "heavenly",
+        },
+        {
+            q: "Your _ can _ but you cannot build religion or devotion on it",
+            a: "cloth, heal the sick",
+        },
+        {
+            q: "A man of God can yield to _ on the pulpit",
+            a: "satan",
+        },
+        {
+            q: "In teaching men _, you are invoking _ into their days",
+            a: "vengeance, demonic activities",
+        },
+        {
+            q: "When we say Jesus _ in heaven, it means he sent his message to appeal to our heart",
+            a: "offered his blood",
+        },
+        {
+            q: "That _ of our conscience comes by hearing the word of God, it is not by physical _",
+            a: "purging, hemoglobin/things",
+        },
+        {
+            q: "Blood is figurative of _",
+            a: "the message of Christ's death",
+        },
+        {
+            q: "Be careful of what you celebrate as _",
+            a: "easter",
+        },
+        {
+            q: "Learn to put _ in their place and they will do _",
+            a: "angels, their work",
+        },
+        {
+            q: "Demo is not level, _ is level",
+            a: "sonship (authority)",
+        },
+        {
+            q: "Learn to put angels and _ in their place",
+            a: "experiences",
+        },
+        {
+            q: "As I do _, angels will do _",
+            a: "the word, their work",
+        },
+        {
+            q: "When I say _, it means I come as a son of God",
+            a: "in the name of Jesus",
+        },
+        {
+            q: "Give much reverence to _",
+            a: "your sonship",
         },
     ]
 }

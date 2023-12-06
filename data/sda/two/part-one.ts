@@ -8,84 +8,204 @@ export const series_two_part_one = {
     slug: "sda_series_two_part_one",
     questions: [
         {
-            q: "Truth is free from _ and _ and _",
-            a: "pretence, falsehood, deceit",
+            q: "_ are those who lead others away from steadfastness",
+            a: "Seducers",
         },
         {
-            q: "Truth is not subject to _",
-            a: "personal validation",
+            q: "If you start a journey of _ very soon you will think you are _",
+            a: "insincerity, sincere",
         },
         {
-            q: "For the Christian faith, truth is _",
-            a: "universally constant",
+            q: "The easiest thing to do is to _",
+            a: "continue",
         },
         {
-            q: "Jesus is the _ and _ of what truth is",
-            a: "validation, confirmation",
+            q: "Your progress in God should be _",
+            a: "measurable",
         },
         {
-            q: " It is easy for us to ascertain what the truth is except you are _",
-            a: "not sincere",
+            q: "The Greek word for reproof in 2 Timothy 3:16 is?",
+            a: "elegchos",
         },
         {
-            q: "The issue is not that they don't know the truth but they _",
-            a: "exchanged",
+            q: "_ gives evidence to the resurrection",
+            a: "Faith",
         },
         {
-            q: "The man that does not arrive at that destination of truth is _",
-            a: "his fault",
+            q: "We must not just have the scripture; we must _",
+            a: "obtain profit from it",
         },
         {
-            q: "The Bible contains the _ of the Christian faith",
-            a: "fundamental knowledge",
+            q: "There's _ attached to the giving of the scripture",
+            a: "an intention",
         },
         {
-            q: "The carnal mind always wants to believe what he has _",
-            a: "seen",
+            q: "It is not compulsory that there's a _ for everything",
+            a: "scripture",
         },
         {
-            q: "_ is the believer's responsibility to the word",
-            a: "Taking heed",
+            q: "That God gave a scripture to read through does not mean _",
+            a: "your head will be correct",
         },
         {
-            q: "The scripture has a singular _ and a singular _",
-            a: "inspiration, thought pattern",
+            q: "When you are encountered with questions, you will bring out well laid _",
+            a: "scriptural study",
         },
         {
-            q: "Even Jesus respected the documentation from his _ and _",
-            a: "words, actions",
+            q: "Darkness in 1 John is _",
+            a: "false doctrine",
         },
         {
-            q: "Understanding of the scriptures saves a man from _",
-            a: "error",
+            q: "To obtain profit from the scripture, you must be _",
+            a: "skilful",
         },
         {
-            q: "As much as you are a _, you are not the source",
-            a: "translator",
+            q: "It takes skill to separate _ from prophecy",
+            a: "historical documentation",
         },
         {
-            q: "_ plays a big role in Bibe Documentation, Bible Interpretation, Bible translation and teaching",
-            a: "Sincerity",
+            q: "We don't use _ as authentication for doctrine",
+            a: "history",
         },
         {
-            q: "Even if we have 100 _, we should pick them and arrive at the same meaning",
-            a: "translations",
+            q: "That something is _ is not enough for correctness, it must be _ with the eye of salvation through faith in Christ",
+            a: "written, studied",
         },
         {
-            q: "No translation should contain words that give a different meaning from the original intention else it is _",
-            a: "questionable",
+            q: "That an experience is _ does not make it _",
+            a: "true, correct",
         },
         {
-            q: "We have one _ to know God",
-            a: "documentation",
+            q: "Bible did not say _ me for doctrine but _ me",
+            a: "read, study",
         },
         {
-            q: "_ is not for everyone to be smiling at one another",
-            a: "Unity of faith",
+            q: "For reproof or evidence, I am not just to rely on _ but _",
+            a: "the Bible, Bible study",
         },
         {
-            q: "Same _ from the same _, that is what unity is",
-            a: "understanding, source",
+            q: "When you are asked a question, bring out _",
+            a: "Bible study",
+        },
+        {
+            q: "If everyone is allowed to preach their _, there will be gross _",
+            a: "experiences, inconsistencies",
+        },
+        {
+            q: "God in his wisdom already stamped _ as the authentication for correctness",
+            a: "Bible study",
+        },
+        {
+            q: "The epistles can also be termed as _ from the Old Testament",
+            a: "studies",
+        },
+        {
+            q: "The name of the _ and _ might be different but the _ of the church must not be different, the standard must be the word",
+            a: "church, preacher, practice",
+        },
+        {
+            q: "If _ says the job is to make all see then we can also not preach a _ message",
+            a: "Paul, segregating",
+        },
+        {
+            q: "Our _ said it is all men so it is all men",
+            a: "apostle",
+        },
+        {
+            q: "_ confers on us to carry out that ministry of reconciliation",
+            a: "Bible study",
+        },
+        {
+            q: "_ is God's call upon you to make others to see",
+            a: "That you know",
+        },
+        {
+            q: "It is not impossible for us to have the same _",
+            a: "persuasion",
+        },
+        {
+            q: "We must believe the same thing about _, _ and _",
+            a: "salvation, ministry, priority",
+        },
+        {
+            q: "Christ is the end of all the _ in God",
+            a: "mysteries",
+        },
+        {
+            q: "The greatest _ of man should be to the revelation of God in his word",
+            a: "reverence",
+        },
+        {
+            q: "It is _ to speak against Bible Interpretation/exegesis cos of power",
+            a: "childishness",
+        },
+        {
+            q: "It is _ to be comparing the word and the supernatural",
+            a: "nuisance",
+        },
+        {
+            q: "We do the supernatural by _, we don't _ both",
+            a: "the word we are learning, compare",
+        },
+        {
+            q: "The supernatural is a _ under the word",
+            a: "faculty",
+        },
+        {
+            q: "The supernatural ought to be a _ under the word",
+            a: "learning",
+        },
+        {
+            q: "You have to _ your mind to honour the word above anything",
+            a: "train",
+        },
+        {
+            q: "One of the signs of _ will be lying wonders",
+            a: "the false Christ",
+        },
+        {
+            q: "It is called lying not cos it is not true but cos it is used to _",
+            a: "lure men away from Christ",
+        },
+        {
+            q: "I don't need his _; I've got his life",
+            a: "tomb",
+        },
+        {
+            q: "When we are talking about God, we don't talk about Satan, it is not _",
+            a: "a competition",
+        },
+        {
+            q: "Out of _, they call them idols but Paul called them devils",
+            a: "reverence",
+        },
+        {
+            q: "The _ is not the height of power, you are the height",
+            a: "angel",
+        },
+        {
+            q: "The way some people share the testimonies of their past life it shows they still _ that past life than the present",
+            a: "revere",
+        },
+        {
+            q: "Don't associate _ with darkness, demons, ceremonies",
+            a: "depth",
+        },
+        {
+            q: "Don't amplify some _ more than the word",
+            a: "signs",
+        },
+        {
+            q: "My in Christ _ is superior to my experience",
+            a: "mentality",
+        },
+        {
+            q: "When people try to intimidate you with experiences, let them know that you have been to the _ of all _",
+            a: "depth, depths",
+        },
+        {
+            q: "Before going for _, you must first downgrade demons in your mind",
+            a: "healing meetings",
         },
     ]
 }

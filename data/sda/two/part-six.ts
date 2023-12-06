@@ -8,15 +8,15 @@ export const series_two_part_six = {
     slug: "sda_series_two_part_six",
     questions: [
         {
-            q: "Truth is free from _ and _ and _",
-            a: "pretence, falsehood, deceit",
+            q: "_ ought to be an extension of teaching",
+            a: "Prayer",
         },
         {
-            q: "Truth is not subject to _",
-            a: "personal validation",
+            q: "Be _ in things pertaining to your faith",
+            a: "Excellent",
         },
         {
-            q: "For the Christian faith, truth is _",
+            q: "Don't be _ about things ",
             a: "universally constant",
         },
         {

@@ -87,9 +87,6 @@ export const series_two_part_seven = {
             q: "_ is not a reward for spiritual growth",
             a: "Church position",
         },
-
-        // 
-
         {
             q: "The real _ is to go and preach the gospel. Based on that, we _ and _",
             a: "profession, heal the sick, cast out demons",
@@ -123,29 +120,133 @@ export const series_two_part_seven = {
             a: "your position",
         },
         {
-            q: "Nothing must be pursued more than the _ of your sonship",
-            a: "knowledge",
-        },
-        // 
-        {
-            q: "One thing this church has done to you is _",
-            a: "consistency",
+            q: "Nothing must be _ more than the knowledge of your sonship",
+            a: "pursued",
         },
         {
-            q: "We are not banking on your _ before you pray or go out for outreach",
-            a: "trust",
+            q: "No man is allowed to serve in TEA in physical things until he is _ and _ in spiritual things",
+            a: "faithful, continues to be faithful",
         },
         {
-            q: "Don't be a once in a while prayer _",
-            a: "machine",
+            q: "Don't allow your _ in church to compete with _",
+            a: "physical work, spirituality",
         },
         {
-            q: "The time you want to spend to _, that is the time to let go of a lot of things",
-            a: "know God",
+            q: "We can pursue _ perfection till we miss out on God",
+            a: "sound",
         },
         {
-            q: "_ is not a reward for spiritual growth",
-            a: "Church position",
+            q: "Spiritual things, learning must be the priority of our _",
+            a: "fellowshipping",
         },
+        {
+            q: "Things we use to _ must maintain their level",
+            a: "aid learning",
+        },
+        {
+            q: "The real job can be done without _",
+            a: "the plenty aids",
+        },
+        {
+            q: "Our mastery must be for _",
+            a: "spiritual things",
+        },
+        {
+            q: "Mastery in _ must not be our die hard pursuit",
+            a: "music",
+        },
+        {
+            q: "God works with us with such _",
+            a: "discretion",
+        },
+        {
+            q: "We correct ourselves, we don't _ ourselves",
+            a: "deny",
+        },
+        {
+            q: "We know that the real root cause of demonic activities is a _, _, _",
+            a: "lie, exaggeration, perversion",
+        },
+        {
+            q: "_ is an overstretched truth",
+            a: "exaggeration",
+        },
+        {
+            q: "Your own casting out of demons will definitely be different from _ casting out of demons",
+            a: "an MFM",
+        },
+        {
+            q: "What you believe will affect your _",
+            a: "ministry",
+        },
+        {
+            q: "The more you believe a lie, it will grow to become a _",
+            a: "mountain",
+        },
+        {
+            q: "Fear is an ... to satan",
+            a: "",
+        },
+        {
+            q: "_ is that you have your own victory without fighting",
+            a: "More than a conqueror",
+        },
+        {
+            q: "Every demonic activity, there's a _ connected",
+            a: "lie",
+        },
+        {
+            q: "You don't pray to cast out demons, you _",
+            a: "cast them out",
+        },
+        {
+            q: "The Greek word for able in 2 Corinthians 3:6 is",
+            a: "hikanno",
+        },
+        {
+            q: "To teach God's word is to immune _ and _ from demonic activities",
+            a: "the believer, his hearers",
+        },
+        {
+            q: "This teaching will not make you bestow _ to demonic oppression when you see it",
+            a: "reverence",
+        },
+        {
+            q: "You don't need to _ before you use authority",
+            a: "investigate",
+        },
+        {
+            q: "As you speak, you have the backing of the entire _  and _",
+            a: "heaven, earth",
+        },
+        {
+            q: "You don't speak with _, you speak with _",
+            a: "Probability, certainty",
+        },
+        {
+            q: "Your _ must confuse all the demons",
+            a: "first utterance",
+        },
+        {
+            q: "We know how to _ satan with the truth",
+            a: "confuse",
+        },
+        {
+            q: "It is better to be _ than to be reactive",
+            a: "proactive",
+        },
+        {
+            q: "Satan rules the world by _",
+            a: "lies",
+        },
+        {
+            q: "Every _ is a product of a lie",
+            a: "false religion",
+        },
+        {
+            q: "A billion people are worshipping the sun because of _",
+            a: "a lie",
+        },
+
     ]
 }

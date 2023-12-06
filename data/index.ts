@@ -3,9 +3,9 @@ import * as honour from "./honour"
 
 export const sermons = [
     sda.part_one,
-    // sda.part_two,
-    // sda.part_three,
-    // sda.part_four,
+    sda.part_two,
+    sda.part_three,
+    sda.part_four,
     // sda.part_five,
     // sda.part_six,
     // sda.part_seven,

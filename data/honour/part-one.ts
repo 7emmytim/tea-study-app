@@ -8,16 +8,16 @@ export const part_one = {
     slug: "honour_one",
     questions: [
         {
-            q: "Truth is free from _ and _ and _",
-            a: "pretence, falsehood, deceit",
+            q: "As touching _ it is possible to be ignorant",
+            a: "the spirituals",
         },
         {
-            q: "Truth is not subject to _",
-            a: "personal validation",
+            q: "To get the best of something, _ is important",
+            a: "knowledge",
         },
         {
-            q: "For the Christian faith, truth is _",
-            a: "universally constant",
+            q: "The spirituals has _ benefits to the minister and the recipients.",
+            a: "double",
         },
         {
             q: "Jesus is the _ and _ of what truth is",

@@ -8,84 +8,128 @@ export const series_two_part_three = {
     slug: "sda_series_two_part_three",
     questions: [
         {
-            q: "Truth is free from _ and _ and _",
-            a: "pretence, falsehood, deceit",
+            q: "We have selected our own _ and we have the knowledge of God as superior.",
+            a: "depth",
         },
         {
-            q: "Truth is not subject to _",
-            a: "personal validation",
+            q: "Anything can be _ but the ministry must not be _",
+            a: "wrong",
         },
         {
-            q: "For the Christian faith, truth is _",
-            a: "universally constant",
+            q: "The ministry of Jesus is bigger than _",
+            a: "individuals",
         },
         {
-            q: "Jesus is the _ and _ of what truth is",
-            a: "validation, confirmation",
+            q: "We don't because of our _ spoil the work",
+            a: "appetite",
         },
         {
-            q: " It is easy for us to ascertain what the truth is except you are _",
-            a: "not sincere",
+            q: "The ministry must have your _",
+            a: "defence",
         },
         {
-            q: "The issue is not that they don't know the truth but they _",
-            a: "exchanged",
+            q: "The _ expectation of the preacher is that the people are increasing in the knowledge of God",
+            a: "active",
         },
         {
-            q: "The man that does not arrive at that destination of truth is _",
-            a: "his fault",
+            q: "You must ensure that you are not pushing _ to compete with the word of God in the heart of your listeners",
+            a: "your own personality",
         },
         {
-            q: "The Bible contains the _ of the Christian faith",
-            a: "fundamental knowledge",
+            q: "The power of God births _ in us",
+            a: "consistency",
         },
         {
-            q: "The carnal mind always wants to believe what he has _",
-            a: "seen",
+            q: "The strength of God in you is to the intent that you are _",
+            a: "patient",
         },
         {
-            q: "_ is the believer's responsibility to the word",
-            a: "Taking heed",
+            q: "That your _ is the power of God",
+            a: "doggedness",
         },
         {
-            q: "The scripture has a singular _ and a singular _",
-            a: "inspiration, thought pattern",
+            q: "Your _ and _ are a function of the power of God",
+            a: "simplicity, consistency",
         },
         {
-            q: "Even Jesus respected the documentation from his _ and _",
-            a: "words, actions",
+            q: "Don't just _ to people, ensure you see the job through to the end",
+            a: "preach",
         },
         {
-            q: "Understanding of the scriptures saves a man from _",
-            a: "error",
+            q: "Be mindful of people's _",
+            a: "spiritual growth",
         },
         {
-            q: "As much as you are a _, you are not the source",
-            a: "translator",
+            q: "In _ of Christ is the greatest display of God's power",
+            a: "the resurrection",
         },
         {
-            q: "_ plays a big role in Bibe Documentation, Bible Interpretation, Bible translation and teaching",
-            a: "Sincerity",
+            q: "In the message we preach is the greatest display of God's power and that power happens _ without _",
+            a: "quietly, demo",
         },
         {
-            q: "Even if we have 100 _, we should pick them and arrive at the same meaning",
-            a: "translations",
+            q: "The greatest of power in history was invested into _ so the study of _ is the study of the greatest power",
+            a: "man's salvation, salvation",
         },
         {
-            q: "No translation should contain words that give a different meaning from the original intention else it is _",
-            a: "questionable",
+            q: "In his resurrection is our salvation and not in our _",
+            a: "toils",
         },
         {
-            q: "We have one _ to know God",
-            a: "documentation",
+            q: "In the story of a man is _",
+            a: "power",
         },
         {
-            q: "_ is not for everyone to be smiling at one another",
-            a: "Unity of faith",
+            q: "The power of God is more in _",
+            a: "patience",
         },
         {
-            q: "Same _ from the same _, that is what unity is",
-            a: "understanding, source",
+            q: "In scriptures, we see the power of God in _",
+            a: "weakness",
+        },
+        {
+            q: "He submitted so the prophecies might be fulfilled both the _ and the _",
+            a: "intention, integration",
+        },
+        {
+            q: "If he fulfilled only the intention without the _ then it will not be enough _ in the heart of men",
+            a: "integration, appeal",
+        },
+        {
+            q: "God went to very extreme length to demonstrate _ for us in Christ",
+            a: "obedience",
+        },
+        {
+            q: "His _ is also his resurrection life",
+            a: "intercession",
+        },
+        {
+            q: "Why is Jesus able to make intercession for us?",
+            a: "cos he is alive forever",
+        },
+        {
+            q: "To _ in Isiaah 53 is the same things as he liveth forever in Hebrews",
+            a: "prolong his days",
+        },
+        {
+            q: "In the resurrection of Christ, all the demands for _ were satisfied",
+            a: "man's justification",
+        },
+        {
+            q: "The _ is as powerful as the event",
+            a: "message",
+        },
+        {
+            q: "As I preach the gospel, I am sharing the _",
+            a: "power of God",
+        },
+        {
+            q: "You stop demonic activities by being strong in _",
+            a: "the Lord",
+        },
+        {
+            q: "Don't learn _ outside salvation",
+            a: "the power of God",
         },
     ]
 }

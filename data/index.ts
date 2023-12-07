@@ -12,7 +12,7 @@ export const sermons = [
     // sda.part_eight,
     sda.series_two_part_one,
     sda.series_two_part_two,
-    // sda.series_two_part_three,
+    sda.series_two_part_three,
     // sda.series_two_part_four,
     sda.series_two_part_five,
     sda.series_two_part_six,

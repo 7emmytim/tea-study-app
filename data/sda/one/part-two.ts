@@ -20,8 +20,8 @@ export const part_two = {
             a: "teach",
         },
         {
-            q: "The _ life is a _ life",
-            a: "Christian, speaking",
+            q: "The Christian life is a _ life",
+            a: "speaking",
         },
         {
             q: "You speak until you have _",

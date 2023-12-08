@@ -8,84 +8,152 @@ export const part_eight = {
     slug: "sda_eight",
     questions: [
         {
-            q: "Truth is free from _ and _ and _",
-            a: "pretence, falsehood, deceit",
+            q: "When you find a demon oppressing any man, it is not wrong cos of _, it has been wrong from _",
+            a: "what the man did, beginning",
         },
         {
-            q: "Truth is not subject to _",
-            a: "personal validation",
+            q: "It is _ to be interviewing demons",
+            a: "nonsense",
         },
         {
-            q: "For the Christian faith, truth is _",
-            a: "universally constant",
+            q: "We put the power of God to work by _",
+            a: "our words",
         },
         {
-            q: "Jesus is the _ and _ of what truth is",
-            a: "validation, confirmation",
+            q: "Once a man is trying to lay hold on his demon, what he needs is _",
+            a: "more teaching",
         },
         {
-            q: " It is easy for us to ascertain what the truth is except you are _",
-            a: "not sincere",
+            q: "They rejected Christ and he sent back _",
+            a: "his disciples",
         },
         {
-            q: "The issue is not that they don't know the truth but they _",
-            a: "exchanged",
+            q: "There's a _ that will only come by the Holy Ghost",
+            a: "boldness",
         },
         {
-            q: "The man that does not arrive at that destination of truth is _",
-            a: "his fault",
+            q: "In using _, there are things to stay away from",
+            a: "authority",
         },
         {
-            q: "The Bible contains the _ of the Christian faith",
-            a: "fundamental knowledge",
+            q: "There's a _ that the believer must retain",
+            a: "atmosphere",
         },
         {
-            q: "The carnal mind always wants to believe what he has _",
-            a: "seen",
+            q: "What the scribes did to Jesus was _",
+            a: "accusations",
         },
         {
-            q: "_ is the believer's responsibility to the word",
-            a: "Taking heed",
+            q: "_ will increase upon salvation",
+            a: "boldness",
         },
         {
-            q: "The scripture has a singular _ and a singular _",
-            a: "inspiration, thought pattern",
+            q: "The _ you don't act upon being saved, you won't still see the result",
+            a: "boldness",
         },
         {
-            q: "Even Jesus respected the documentation from his _ and _",
-            a: "words, actions",
+            q: "The flee of the man of God must be _",
+            a: "plenty",
         },
         {
-            q: "Understanding of the scriptures saves a man from _",
-            a: "error",
+            q: "Fasting is about _, to condition your mind for something",
+            a: "abstaining",
         },
         {
-            q: "As much as you are a _, you are not the source",
-            a: "translator",
+            q: "_ scribes, you must abstain from them",
+            a: "modern day",
         },
         {
-            q: "_ plays a big role in Bibe Documentation, Bible Interpretation, Bible translation and teaching",
-            a: "Sincerity",
+            q: "Anything that will _ your faith life, avoid it, it will fabricate an image of _ in your mind",
+            a: "accuse, weakness",
         },
         {
-            q: "Even if we have 100 _, we should pick them and arrive at the same meaning",
-            a: "translations",
+            q: "_ is the greatest of all accusations",
+            a: "the law",
         },
         {
-            q: "No translation should contain words that give a different meaning from the original intention else it is _",
-            a: "questionable",
+            q: "The law will use the authority of God to make you _",
+            a: "weak",
         },
         {
-            q: "We have one _ to know God",
-            a: "documentation",
+            q: "Under the law of Moses, we have _ and _",
+            a: "the laws of Moses, ten commandments",
         },
         {
-            q: "_ is not for everyone to be smiling at one another",
-            a: "Unity of faith",
+            q: "_ told men to keep what they could not",
+            a: "the ten commandments",
         },
         {
-            q: "Same _ from the same _, that is what unity is",
-            a: "understanding, source",
+            q: "To keep my covenant is to honour _",
+            a: "his word",
+        },
+        {
+            q: "_ was a rejection of the covenant",
+            a: "the transgression",
+        },
+        {
+            q: "Those codes given to Moses to enforce was their _",
+            a: "judgement",
+        },
+        {
+            q: "No strong _ of judgement was attached to any of the commandments",
+            a: "tone",
+        },
+        {
+            q: "Angels don't _ death, they don't _ it until a man does",
+            a: "manufacture, premeditate",
+        },
+        {
+            q: "The Hebrew word for judgement in Exodus 21:1 is",
+            a: "mishpat",
+        },
+        {
+            q: "That just recompense of reward was not in _ but in the _",
+            a: "the commandments, additional laws of Moses",
+        },
+        {
+            q: "Jesus never corrected _",
+            a: "the ten commandments",
+        },
+        {
+            q: "The commandments are not evil but the man with the Spirit needs no _",
+            a: "written code of conduct",
+        },
+        {
+            q: "The ten commandments were given to _ men, hence it will be _",
+            a: "dead, broken",
+        },
+        {
+            q: "The man of God that delivered the commandments has the authority of _ or _ based on the disobedience to the commandment",
+            a: "mercy, judgement",
+        },
+        {
+            q: "The letter killeth means that it _",
+            a: "condemns",
+        },
+        {
+            q: "_ will have to do with how the ten commandment was ministered",
+            a: "condemnation",
+        },
+        {
+            q: "_ is not useless in casting out of demons",
+            a: "Studying salvation",
+        },
+        {
+            q: "Studying your righteousness should be your _",
+            a: "default",
+        },
+        {
+            q: "The more _ you are, the better you minister God's power",
+            a: "confident",
+        },
+        {
+            q: "When you put yourself under _, you are judging yourself unfit for God's power",
+            a: "karma",
+        },
+        {
+            q: "Jesus cannot say about you that a demon did not obey you cos you did not _ and _",
+            a: "fast, pray",
         },
     ]
 }

@@ -1,7 +1,7 @@
 import { Timer1 } from "iconsax-react";
 
 export const part_five = {
-    title: "SDA",
+    title: "SDA (Incomplete)",
     description: "Series 1 Part 5",
     icon: Timer1,
     color: "#F7D060",

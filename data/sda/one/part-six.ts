@@ -8,84 +8,112 @@ export const part_six = {
     slug: "sda_six",
     questions: [
         {
-            q: "Truth is free from _ and _ and _",
-            a: "pretence, falsehood, deceit",
+            q: "What _ and _ did not do as touching ministry in the name of Jesus, we cannot do today",
+            a: "Paul, the other apostles",
         },
         {
-            q: "Truth is not subject to _",
-            a: "personal validation",
+            q: "There is no other tool for ministry than _ and _",
+            a: "the word of God, prayers",
         },
         {
-            q: "For the Christian faith, truth is _",
-            a: "universally constant",
+            q: "_ is free but your words must agree",
+            a: "God's mercy",
         },
         {
-            q: "Jesus is the _ and _ of what truth is",
-            a: "validation, confirmation",
+            q: "Job's confession was against God's _",
+            a: "mercy",
         },
         {
-            q: " It is easy for us to ascertain what the truth is except you are _",
-            a: "not sincere",
+            q: "_ and _ cannot suddenly come into agreement cos of you",
+            a: "God, satan",
         },
         {
-            q: "The issue is not that they don't know the truth but they _",
-            a: "exchanged",
+            q: "_ and _ were relating cos of Job's confession",
+            a: "angels, demons",
         },
         {
-            q: "The man that does not arrive at that destination of truth is _",
-            a: "his fault",
+            q: "Once your words are against _, you will conjure the _ of both angels and demons",
+            a: "redemption, authority",
         },
         {
-            q: "The Bible contains the _ of the Christian faith",
-            a: "fundamental knowledge",
+            q: "God does not relate with _ but _ can relate with demons cos of what _ is saying",
+            a: "angels, man",
         },
         {
-            q: "The carnal mind always wants to believe what he has _",
-            a: "seen",
+            q: "The mission of the devil is for you to _ the wrong thing",
+            a: "say",
         },
         {
-            q: "_ is the believer's responsibility to the word",
-            a: "Taking heed",
+            q: "We don't get _ in Christianity",
+            a: "what we deserve",
         },
         {
-            q: "The scripture has a singular _ and a singular _",
-            a: "inspiration, thought pattern",
+            q: "_ will be to give to ministers",
+            a: "sowing to the Spirit",
         },
         {
-            q: "Even Jesus respected the documentation from his _ and _",
-            a: "words, actions",
+            q: "If you don't give to men, you are limiting them from _",
+            a: "blessing you more",
         },
         {
-            q: "Understanding of the scriptures saves a man from _",
-            a: "error",
+            q: "I get what I deserve in _",
+            a: "Christ",
         },
         {
-            q: "As much as you are a _, you are not the source",
-            a: "translator",
+            q: "Job must change what he was _",
+            a: "saying",
         },
         {
-            q: "_ plays a big role in Bibe Documentation, Bible Interpretation, Bible translation and teaching",
-            a: "Sincerity",
+            q: "Some never get healed in meetings cos they have not been taught enough to change _",
+            a: "their words",
         },
         {
-            q: "Even if we have 100 _, we should pick them and arrive at the same meaning",
-            a: "translations",
+            q: "To afflict a man with evil is _",
+            a: "iniquity",
         },
         {
-            q: "No translation should contain words that give a different meaning from the original intention else it is _",
-            a: "questionable",
+            q: "The correction of Job and his affliction, they are _",
+            a: "parallel lines",
         },
         {
-            q: "We have one _ to know God",
-            a: "documentation",
+            q: "There is a _ that belong to the people of the world that a Christian must not partake of",
+            a: "condemnation",
         },
         {
-            q: "_ is not for everyone to be smiling at one another",
-            a: "Unity of faith",
+            q: "When your words do not agree, there can be no _",
+            a: "deliverance",
         },
         {
-            q: "Same _ from the same _, that is what unity is",
-            a: "understanding, source",
+            q: "There's no shortcut from _",
+            a: "teaching",
+        },
+        {
+            q: "_ could not snatch Job from the hand of the devil",
+            a: "God",
+        },
+        {
+            q: "God is not looking for your _",
+            a: "pledge",
+        },
+        {
+            q: "You reap from the _ in Christ",
+            a: "abundance",
+        },
+        {
+            q: "Once your words are against God's mind for you, there's just no _",
+            a: "other way",
+        },
+        {
+            q: "Don't leave your family for _",
+            a: "the devil",
+        },
+        {
+            q: "Spend time to teach your _ God's word",
+            a: "parents",
+        },
+        {
+            q: "Invest in your _ if you don't want to spend money on sickness in the future",
+            a: "family",
         },
     ]
 }

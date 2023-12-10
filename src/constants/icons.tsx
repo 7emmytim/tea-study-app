@@ -13,7 +13,9 @@ import {
   Folder,
   Gallery,
   Game,
+  Key,
   Layer,
+  PlayAdd,
   Stickynote,
   Timer,
   Timer1,
@@ -39,4 +41,6 @@ export const ICONS = [
   Cd,
   Driver,
   Game,
+  Key,
+  PlayAdd,
 ];

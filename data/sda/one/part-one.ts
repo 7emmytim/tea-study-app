@@ -1,12 +1,45 @@
 import { Timer1 } from "iconsax-react";
 
 export const part_one = {
-    title: "SDA (Incomplete)",
+    title: "SDA",
     description: "Series 1 Part 1",
     icon: Timer1,
     color: "#F7D060",
     slug: "sda_one",
     questions: [
+
+        {
+            q: "Be careful the way you interpret the _ of God",
+            a: "omnipotence/omnipresence/all powerfulness",
+        },
+        {
+            q: "We don't see that _ power of God until we see _",
+            a: "big, a man",
+        },
+        {
+            q: "You have see yourself as imporatant in the _ of the miraculous",
+            a: "equation",
+        },
+        {
+            q: "God's power plus _ equal to result",
+            a: "man",
+        },
+        {
+            q: "Honour God but _ man",
+            a: "fear",
+        },
+        {
+            q: "Let an unbeliever curse God from today till tomorrow, nothing will happen to him until _ does something",
+            a: "an Elijah",
+        },
+        {
+            q: "If you don't move _ won't move",
+            a: "God",
+        },
+        {
+            q: "The miracles of Elijah plus the _ and _ that John brought equal to the Elijah",
+            a: "edification, clarity",
+        },
         {
             q: "That you saw _ does not mean that is the actual name of the person being spoken about",
             a: "lucifer",

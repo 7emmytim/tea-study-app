@@ -8,84 +8,132 @@ export const series_two_part_four = {
     slug: "sda_series_two_part_four",
     questions: [
         {
-            q: "Truth is free from _ and _ and _",
-            a: "pretence, falsehood, deceit",
+            q: "Men enter confusion when they try to _",
+            a: "interpret scripture outside Christ",
         },
         {
-            q: "Truth is not subject to _",
-            a: "personal validation",
+            q: "We don't stand on scripture for _, we _ from scriptures",
+            a: "things, learn",
         },
         {
-            q: "For the Christian faith, truth is _",
-            a: "universally constant",
+            q: "Scriptures are about him and not _",
+            a: "it",
         },
         {
-            q: "Jesus is the _ and _ of what truth is",
-            a: "validation, confirmation",
+            q: "Don't focus on plenty people's _",
+            a: "experiences",
         },
         {
-            q: " It is easy for us to ascertain what the truth is except you are _",
-            a: "not sincere",
+            q: "The Jews could later join a line through the scriptures and the _ is Christ",
+            a: "common denominator",
         },
         {
-            q: "The issue is not that they don't know the truth but they _",
-            a: "exchanged",
+            q: "The Bible also utlizes man's wisdom to explain _",
+            a: "spiritual truth",
         },
         {
-            q: "The man that does not arrive at that destination of truth is _",
-            a: "his fault",
+            q: "When you mix the man's wisdom in the book of Proverbs with the intention of the bible, you will get _",
+            a: "the truth there",
         },
         {
-            q: "The Bible contains the _ of the Christian faith",
-            a: "fundamental knowledge",
+            q: "The labour and _ of man should be towards the word of God",
+            a: "diligence",
         },
         {
-            q: "The carnal mind always wants to believe what he has _",
-            a: "seen",
+            q: "When you arrive at _, that is eternal life",
+            a: "the intention of the word",
         },
         {
-            q: "_ is the believer's responsibility to the word",
-            a: "Taking heed",
+            q: "_ is not length of days",
+            a: "90 years",
         },
         {
-            q: "The scripture has a singular _ and a singular _",
-            a: "inspiration, thought pattern",
+            q: "Although you are seeing _, there's something superior called the intention of scriptures",
+            a: "human wisdom",
         },
         {
-            q: "Even Jesus respected the documentation from his _ and _",
-            a: "words, actions",
+            q: "The good thing about the epistles is that they won't use any _ or _",
+            a: "symbolism, stories",
         },
         {
-            q: "Understanding of the scriptures saves a man from _",
-            a: "error",
+            q: "The word _ is an heavenly word",
+            a: "labour",
         },
         {
-            q: "As much as you are a _, you are not the source",
-            a: "translator",
+            q: "Between scripture and doctrine, what is in between is _",
+            a: "profitable",
         },
         {
-            q: "_ plays a big role in Bibe Documentation, Bible Interpretation, Bible translation and teaching",
-            a: "Sincerity",
+            q: "Every believr ought to be a _",
+            a: "theologian",
         },
         {
-            q: "Even if we have 100 _, we should pick them and arrive at the same meaning",
-            a: "translations",
+            q: "The church structure is not to _ you",
+            a: "condemn",
         },
         {
-            q: "No translation should contain words that give a different meaning from the original intention else it is _",
-            a: "questionable",
+            q: "We are _ about the goodness of God",
+            a: "bias",
         },
         {
-            q: "We have one _ to know God",
-            a: "documentation",
+            q: "You must see some dreams and _",
+            a: "laugh it off",
         },
         {
-            q: "_ is not for everyone to be smiling at one another",
-            a: "Unity of faith",
+            q: "Don't be thrilled by _ and _",
+            a: "evils, negatives",
         },
         {
-            q: "Same _ from the same _, that is what unity is",
-            a: "understanding, source",
+            q: "Any word you hear and you are downcasted, it is not of God, it is _",
+            a: "evil gist",
+        },
+        {
+            q: "Don't know _ more than you know God",
+            a: "the devil",
+        },
+        {
+            q: "That we have confidence means _ to God",
+            a: "a lot",
+        },
+        {
+            q: "Even in your preaching of the gospel, you are not _, you will be firm, precise but yet full of love",
+            a: "argumentative",
+        },
+        {
+            q: "You explain Jesus with all simplicity and _",
+            a: "love",
+        },
+        {
+            q: "I don't go around proving a point to _",
+            a: "the unsaved",
+        },
+        {
+            q: "You don't see a dream and your _ is taken away",
+            a: "hope",
+        },
+        {
+            q: "That thing called times and seasons can be _, that's why you need to stay ahead",
+            a: "funny",
+        },
+        {
+            q: "Always put yourself in the position where you can always _",
+            a: "hear the word of God",
+        },
+        {
+            q: "As you speak, if _ is required, they will be deployed",
+            a: "a thousand angel",
+        },
+        {
+            q: "How we speak to situations is an offshoot of how we speak about _",
+            a: "our salvation",
+        },
+        {
+            q: "_ births in us boldness for ministry",
+            a: "salvation",
+        },
+        {
+            q: "My voice is louder than the voice of _",
+            a: "the accuser",
         },
     ]
 }

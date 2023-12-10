@@ -1,7 +1,7 @@
 import { Timer1 } from "iconsax-react";
 
 export const part_five = {
-    title: "SDA (Incomplete)",
+    title: "SDA",
     description: "Series 1 Part 5",
     icon: Timer1,
     color: "#F7D060",
@@ -43,49 +43,93 @@ export const part_five = {
             q: "How did Jesus render the activities of the devil idle in our life?",
             a: "By our knowledge of his death",
         },
-        // {
-        //     q: "_ is the believer's responsibility to the word",
-        //     a: "Taking heed",
-        // },
-        // {
-        //     q: "The scripture has a singular _ and a singular _",
-        //     a: "inspiration, thought pattern",
-        // },
-        // {
-        //     q: "Even Jesus respected the documentation from his _ and _",
-        //     a: "words, actions",
-        // },
-        // {
-        //     q: "Understanding of the scriptures saves a man from _",
-        //     a: "error",
-        // },
-        // {
-        //     q: "As much as you are a _, you are not the source",
-        //     a: "translator",
-        // },
-        // {
-        //     q: "_ plays a big role in Bibe Documentation, Bible Interpretation, Bible translation and teaching",
-        //     a: "Sincerity",
-        // },
-        // {
-        //     q: "Even if we have 100 _, we should pick them and arrive at the same meaning",
-        //     a: "translations",
-        // },
-        // {
-        //     q: "No translation should contain words that give a different meaning from the original intention else it is _",
-        //     a: "questionable",
-        // },
-        // {
-        //     q: "We have one _ to know God",
-        //     a: "documentation",
-        // },
-        // {
-        //     q: "_ is not for everyone to be smiling at one another",
-        //     a: "Unity of faith",
-        // },
-        // {
-        //     q: "Same _ from the same _, that is what unity is",
-        //     a: "understanding, source",
-        // },
+        {
+            q: "His death not found operating in your _, you will still see what you are not expecting",
+            a: "confession",
+        },
+        {
+            q: "God does not respect persons in 2 Samuel 14:14 will mean?",
+            a: "he doesn't take away life",
+        },
+        {
+            q: "The words of Job met the devil at _",
+            a: "home",
+        },
+        {
+            q: "No _ has the right to give me what I did not ask for",
+            a: "angel",
+        },
+        {
+            q: "You resist the devil by _ the truth of God's word",
+            a: "upholding",
+        },
+        {
+            q: "Their burnt offerings should be a seal of their agreement with _",
+            a: "God's word",
+        },
+        {
+            q: "Offering in disagreement to God's word is still _",
+            a: "disobedience",
+        },
+        {
+            q: "_ is not a praise to God",
+            a: "Jehovah Shallom/Nissi",
+        },
+        {
+            q: "In using _, you must not become a slave of your servant",
+            a: "authority",
+        },
+        {
+            q: "The testimony of Jesus is that _ approach to the scriptures",
+            a: "Christ-centred",
+        },
+        {
+            q: "The _ of Job could not save him once his confession was against God's word",
+            a: "plenty sacrifices",
+        },
+        {
+            q: "Don't start having a personal relationship with _",
+            a: "angels",
+        },
+        {
+            q: "The food of angels is _",
+            a: "that reality of Christ",
+        },
+        {
+            q: "Don't just _ the word, speak the word",
+            a: "know",
+        },
+        {
+            q: "Many are not walking in power cos they got tired of _",
+            a: "their confessions",
+        },
+        {
+            q: "You resist the devil by _ the truth of God's word",
+            a: "upholding",
+        },
+        {
+            q: "Their burnt offerings should be a seal of their agreement with _",
+            a: "God's word",
+        },
+        {
+            q: "Offering in disagreement to God's word is still _",
+            a: "disobedience",
+        },
+        {
+            q: "_ is not a praise to God",
+            a: "Jehovah Shallom/Nissi",
+        },
+        {
+            q: "In using _, you must not become a slave of your servant",
+            a: "authority",
+        },
+        {
+            q: "The testimony of Jesus is that _ approach to the scriptures",
+            a: "Christ-centred",
+        },
+        {
+            q: "The _ of Job could not save him once his confession was against God's word",
+            a: "plenty sacrifices",
+        },
     ]
 }

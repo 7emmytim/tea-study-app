@@ -1,11 +1,11 @@
 import { Timer1 } from "iconsax-react";
 
 export const series_two_part_three = {
-    title: "SDA",
+    title: "OFFICES",
     description: "Series 2 Part 3",
     icon: Timer1,
     color: "#F7D060",
-    slug: "sda_series_two_part_three",
+    slug: "offices_series_two_part_three",
     questions: [
         {
             q: "We have selected our own _ and we have the knowledge of God as superior.",

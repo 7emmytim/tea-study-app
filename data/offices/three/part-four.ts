@@ -1,11 +1,11 @@
 import { Timer1 } from "iconsax-react";
 
 export const series_two_part_four = {
-    title: "SDA",
+    title: "OFFICES",
     description: "Series 2 Part 4",
     icon: Timer1,
     color: "#F7D060",
-    slug: "sda_series_two_part_four",
+    slug: "offices_series_two_part_four",
     questions: [
         {
             q: "Men enter confusion when they try to _",

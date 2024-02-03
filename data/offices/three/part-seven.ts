@@ -1,11 +1,11 @@
 import { Timer1 } from "iconsax-react";
 
 export const series_two_part_seven = {
-    title: "SDA",
+    title: "OFFICES",
     description: "Series 2 Part 7",
     icon: Timer1,
     color: "#F7D060",
-    slug: "sda_series_two_part_seven",
+    slug: "offices_series_two_part_seven",
     questions: [
         {
             q: "When we say Christ is in us, we are referring to _ and _",

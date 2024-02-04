@@ -8,128 +8,61 @@ export const series_two_part_three = {
     slug: "offices_series_two_part_three",
     questions: [
         {
-            q: "We have selected our own _ and we have the knowledge of God as superior.",
-            a: "depth",
+            q: "instruction is a proof of _",
+            a: "maturity",
         },
         {
-            q: "Anything can be _ but the ministry must not be _",
-            a: "wrong",
-        },
-        {
-            q: "The ministry of Jesus is bigger than _",
-            a: "individuals",
-        },
-        {
-            q: "We don't because of our _ spoil the work",
-            a: "appetite",
-        },
-        {
-            q: "The ministry must have your _",
-            a: "defence",
-        },
-        {
-            q: "The _ expectation of the preacher is that the people are increasing in the knowledge of God",
-            a: "active",
-        },
-        {
-            q: "You must ensure that you are not pushing _ to compete with the word of God in the heart of your listeners",
-            a: "your own personality",
-        },
-        {
-            q: "The power of God births _ in us",
-            a: "consistency",
-        },
-        {
-            q: "The strength of God in you is to the intent that you are _",
-            a: "patient",
-        },
-        {
-            q: "That your _ is the power of God",
-            a: "doggedness",
-        },
-        {
-            q: "Your _ and _ are a function of the power of God",
-            a: "simplicity, consistency",
-        },
-        {
-            q: "Don't just _ to people, ensure you see the job through to the end",
-            a: "preach",
-        },
-        {
-            q: "Be mindful of people's _",
-            a: "spiritual growth",
-        },
-        {
-            q: "In _ of Christ is the greatest display of God's power",
-            a: "the resurrection",
-        },
-        {
-            q: "In the message we preach is the greatest display of God's power and that power happens _ without _",
-            a: "quietly, demo",
-        },
-        {
-            q: "The greatest of power in history was invested into _ so the study of _ is the study of the greatest power",
-            a: "man's salvation, salvation",
-        },
-        {
-            q: "In his resurrection is our salvation and not in our _",
-            a: "toils",
-        },
-        {
-            q: "In the story of a man is _",
-            a: "power",
-        },
-        {
-            q: "The power of God is more in _",
-            a: "patience",
-        },
-        {
-            q: "In scriptures, we see the power of God in _",
-            a: "weakness",
-        },
-        {
-            q: "He submitted so the prophecies might be fulfilled both the _ and the _",
-            a: "intention, integration",
-        },
-        {
-            q: "If he fulfilled only the intention without the _ then it will not be enough _ in the heart of men",
-            a: "integration, appeal",
-        },
-        {
-            q: "God went to very extreme length to demonstrate _ for us in Christ",
+            q: "_ is for you to show yourself faithful to the word as you are taught",
             a: "obedience",
         },
         {
-            q: "His _ is also his resurrection life",
-            a: "intercession",
+            q: "all things pertaining to life and godliness refers to _",
+            a: "your sonship",
         },
         {
-            q: "Why is Jesus able to make intercession for us?",
-            a: "cos he is alive forever",
+            q: "our devotion is not even to _",
+            a: "miracles",
         },
         {
-            q: "To _ in Isiaah 53 is the same things as he liveth forever in Hebrews",
-            a: "prolong his days",
+            q: "the _ of christ is our devotion",
+            a: "advent",
         },
         {
-            q: "In the resurrection of Christ, all the demands for _ were satisfied",
-            a: "man's justification",
+            q: "the fruits of the spirit are the _ by which we do the gifts of the spirit",
+            a: "vehicle",
         },
         {
-            q: "The _ is as powerful as the event",
-            a: "message",
+            q: "_ is a word many dont want to hear",
+            a: "contentment",
         },
         {
-            q: "As I preach the gospel, I am sharing the _",
-            a: "power of God",
+            q: "the gospel can change the world cos it will change _",
+            a: "individuals",
         },
         {
-            q: "You stop demonic activities by being strong in _",
-            a: "the Lord",
+            q: "dont joint them anywhere they are praying for _, pray for _",
+            a: "national revivals, individual revivals",
         },
         {
-            q: "Don't learn _ outside salvation",
-            a: "the power of God",
+            q: "it is right _ to step down (not shutdown) some of your pace",
+            a: "christian thinking",
         },
+        {
+            q: "if your giving starts looking like a burden to you or makes you feel important, you will _",
+            a: "fail",
+        },
+        {
+            q: "if money is _ you cannot go far in ministry",
+            a: "the loud voice of your faith",
+        },
+        {
+            q: "_ called for those who do well in ministry despite their challenges",
+            a: "names will be",
+        },
+        {
+            q: "the real thing that will come under judgement is _",
+            a: "what you have done with what you were given",
+        },
+
     ]
 }

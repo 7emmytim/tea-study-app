@@ -8,92 +8,97 @@ export const part_four = {
     slug: "handling_oppositions_four",
     questions: [
         {
-            q: "no amount of teaching can take away the place of _",
-            a: "practicals",
+            q: "If there was no _, there will be no need to tell saints to _",
+            a: "opposition, contend",
         },
         {
-            q: "it is _ to serve than to be served in the kingdom",
-            a: "an honourable thing",
+            q: "God is not interested in making sense in man's _ of sense",
+            a: "definition",
         },
         {
-            q: "there's a _ attahced to ministry",
-            a: "cost",
+            q: "Weapons of destruction will become tools for _ cos of the gospel",
+            a: "productivity",
         },
         {
-            q: "you should be happy that your _ and _ is going for an eternal cause",
-            a: "time, money",
+            q: "God will replace man's knowledge of _ and _ with the knowledge of himself and the end result will be peace",
+            a: "wickedness, war",
         },
         {
-            q: "your heart must _ to serve",
-            a: "burn",
+            q: "In the reign of _, we will see peace",
+            a: "righteousness",
         },
         {
-            q: "you should feel _ when you are not serving",
-            a: "bored",
+            q: "_ is not seen in man's action",
+            a: "Peace",
         },
         {
-            q: "the spiritual is _ yet the physical is _",
-            a: "priority, mandatory",
+            q: "Every child of God is a _",
+            a: "peacemaker",
         },
         {
-            q: "serving _ and _ is physical capacities is part of ministry",
-            a: "your leaders, the church",
+            q: "The man on rebellion is on a _ war with God",
+            a: "one-sided",
         },
         {
-            q: "anyone too proud to do _ will be _ with spiritual duties",
-            a: "the dirty job, ambitious",
+            q: "_ is the cure for opposition",
+            a: "The gospel",
         },
         {
-            q: "we may not all _ at the same time",
-            a: "preach",
+            q: "Christ made that peace happen so that there will be an eradication of _",
+            a: "distinction",
         },
         {
-            q: "when you are not _, your duty is _",
-            a: "preaching, help",
+            q: "The goal of every opposition is to get the believer to retract his _",
+            a: "identity",
         },
         {
-            q: "some people stopped growing the day they became _",
-            a: "church treasurers",
+            q: "Satan is after the believer's _",
+            a: "faith",
         },
         {
-            q: "ensure you are leaving in _ and to get better",
-            a: "sincerity",
+            q: "No matter how the attack comes, the intention of the devil is to _ the way of God",
+            a: "pervert",
         },
         {
-            q: "no harm in _ just ensure you are doing ministry",
-            a: "leaving",
+            q: "There's a burning _ that the gospel should not advance and increase",
+            a: "determination",
         },
         {
-            q: "although you are starting something afresh, you must yet not be _",
-            a: "an island",
+            q: "The real evil man is the man that _ your words",
+            a: "opposes",
         },
         {
-            q: "when you come to undestand the word, learn to rest _",
-            a: "previous dreams",
+            q: "Real _ is to block the message",
+            a: "evil",
         },
         {
-            q: "most times, our interpretation of dreams and visions and calling is tied to _",
-            a: "knowledge",
+            q: "Once there's a fight against the message, know that _ is there",
+            a: "Satan",
         },
         {
-            q: "_ could actually affect what you think you are seeing",
-            a: "your previous knowledge",
+            q: "Bible said Satan entered Judas cos of the _ we saw",
+            a: "activity",
         },
         {
-            q: "at times your understanding of _ affects your comprehension of what God is saying",
-            a: "christianity",
+            q: "We see Satan in the _ of men to prevent the spread of the gospel",
+            a: "actions",
         },
         {
-            q: "we must do our best to reduce _ pulling us apart",
-            a: "life realities",
+            q: "The activity of _, we attribute it to the devil",
+            a: "false doctrine",
         },
         {
-            q: "we must plan _ with the unit of the body",
-            a: "continuity",
+            q: "Behind opposition, we know the _ at work",
+            a: "face",
         },
         {
-            q: "let yourslef know that you are _",
-            a: "coming to church",
-        }
+            q: "Opposition can come packaged as a _, it does not always come as _",
+            a: "job, joblessness",
+        },
+        {
+            q: "The first to know in opposition is to know _ so you know how you can fight",
+            a: "your enemy",
+        },
+
     ]
 }

@@ -8,8 +8,8 @@ export const part_five = {
     slug: "preachers_portfolio_part_five",
     questions: [
         {
-            q: "I appreciate _ but I can never be condemned by _",
-            a: "nature",
+            q: "The man that prays is the man that _ God",
+            a: "trusts",
         },
         {
             q: "Nothing _ can condemn the essence of _",

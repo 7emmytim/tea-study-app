@@ -8,84 +8,104 @@ export const part_five = {
     slug: "handling_oppositions_five",
     questions: [
         {
-            q: "the pastor is not a _",
-            a: "superman",
+            q: "A believer must not be unwise as touching _",
+            a: "oppositions",
         },
         {
-            q: "_ is ongoing in the church",
-            a: "feeding",
+            q: "The reason many failed is cos they see _ as the primary target of oppositions",
+            a: "themselves",
         },
         {
-            q: "in sering the food, everyone has _",
-            a: "a role",
+            q: "It's a trial of your faith and not a trial of _",
+            a: "you",
         },
         {
-            q: "your local church builds _ into you",
-            a: "mastery",
+            q: "Your _ responsibility in opposition is to keep doing that same thing that triggered that opposition in the first place",
+            a: "primary",
         },
         {
-            q: "there's a _ that ministry brings that we only give people in ministry",
-            a: "special love",
+            q: "We don't allow the devil win by ensuring that _ is not stopped",
+            a: "the message",
         },
         {
-            q: "that you understand jesus and his minstry is more that a _",
-            a: "million dollar job",
+            q: "The message you are preaching is _ errand",
+            a: "God's",
         },
         {
-            q: "you can postpone _ so you can learn the word",
-            a: "your wedding date",
+            q: "The mandate of the gospel is not from _ but _ war for _, fought by _",
+            a: "man, God's, man, men",
         },
         {
-            q: "a saint that is _ is an asset to the church",
-            a: "available",
+            q: "If the preaching is God's _ and we are facing opposition, it means the opposition is not _",
+            a: "assignment, of God",
         },
         {
-            q: "_ is one of the proofs of salvation",
-            a: "service",
+            q: "We don't exalt our _ above the progress of the gospel",
+            a: "bonds",
         },
         {
-            q: "_ is a proof of rebellion",
-            a: "isolation",
+            q: "Check if the gospel is still making progress through your _ else you are not _",
+            a: "actions, handling oppositions",
         },
         {
-            q: "it is not about _, it is about where your heart truly is",
-            a: "the activity",
+            q: "Opposition is a sign that you are on _",
+            a: "the Lord's side",
         },
         {
-            q: "many want to serve _ without wanting to serve _",
-            a: "jesus, his church",
+            q: "Paul said he was going to stay cos of the _ until it becomes _ to stay",
+            a: "opportunity, impossible",
         },
         {
-            q: "jesus blesses his church through _ annd we bless his church throuhg _",
-            a: "spiritual offices, physical office",
+            q: "It will never get to a time when Satan will cease to oppose the gospel cos that's his own _",
+            a: "devotion",
         },
         {
-            q: "saints are enought _",
-            a: "investment",
+            q: "In all of your _, you don't expect to be _ in anyone's agenda",
+            a: "relationships, first",
         },
         {
-            q: "physical offices take away _ and _",
-            a: "pride, selfishness",
+            q: "Christ showed us the example of how to prefer _ less",
+            a: "self",
         },
         {
-            q: "play your own part and dont compete with _",
-            a: "your leader",
+            q: "God showed us the way of not counting your life _",
+            a: "dear",
         },
         {
-            q: "once you are outside your ppa, your duty is to function in _",
-            a: "spiritual capacity",
+            q: "The Gospel _ people's lives",
+            a: "relocates",
         },
         {
-            q: "your _ here must not cage from emancipating the power of God",
-            a: "JD",
+            q: "To deny is to affirm that you don't have _ with someone",
+            a: "an acquaintance",
         },
         {
-            q: "anyone that talks roghtly about the church setting must be far from _",
-            a: "leadership",
+            q: "Why people fail in _ is cos they don't want to lose sight of what is interesting to them",
+            a: "oppositions",
         },
         {
-            q: "church must create avenues for _",
-            a: "ministry",
+            q: "Immediately you fail to _ yourself, you have _ Christ",
+            a: "deny, denied",
         },
+        {
+            q: "Sacrifice gets _. So long as you don't _, it gets _",
+            a: "easier, succumb, better",
+        },
+        {
+            q: "Don't focus first on what _, focus on the ministry of Christ",
+            a: "you cannot let go of",
+        },
+        {
+            q: "A man that can count the cost and _ is a man that will overcome oppositions",
+            a: "move on",
+        },
+        {
+            q: "We handle opposition by minding _",
+            a: "our business",
+        },
+        {
+            q: "You must keep doing what you are doing and not let your _ contradict your _",
+            a: "actions, faith",
+        }
     ]
 }

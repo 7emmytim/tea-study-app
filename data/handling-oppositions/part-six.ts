@@ -91,6 +91,66 @@ export const part_six = {
             q: "any church where the mog is doing everthing, he is not _",
             a: "helping the body",
         },
+        {
+            q: "_ cannot be given by God",
+            a: "roles",
+        },
+        {
+            q: "a man will _ men to _ others",
+            a: "mature",
+        },
+        {
+            q: "individuals dont have a say to _",
+            a: "the general body",
+        },
+        {
+            q: "ensure your church is a _ of what the body of Christ should be then influence others",
+            a: "role model",
+        },
+        {
+            q: "It is not God's will that the _ of a unit determine who is correct",
+            a: "size",
+        },
+        {
+            q: "ministry _ and _ the truth is your right to correct ministry in falsehood",
+            a: "in, by",
+        },
+        {
+            q: "your role in the body cannot be _, it must be appointed",
+            a: "preconceived",
+        },
+        {
+            q: "no man has a right not to _",
+            a: "gather",
+        },
+        {
+            q: "we are not all directly _ to God",
+            a: "responsible",
+        },
+        {
+            q: "_ to God is to be _ to a unit of the body",
+            a: "accountability",
+        },
+        {
+            q: "we can reach the world best as _",
+            a: "one",
+        },
+        {
+            q: "we cause the body _ when we don't stay",
+            a: "stopping",
+        },
+        {
+            q: "gift is different from _",
+            a: "offices",
+        },
+        {
+            q: "stop seeing yourself as the _ of the body of Christ",
+            a: "GO",
+        },
+        {
+            q: "that _ of God to reach the world is the church",
+            a: "wisdom",
+        },
 
     ]
 }

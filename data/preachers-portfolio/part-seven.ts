@@ -1,11 +1,11 @@
 import { Timer1 } from "iconsax-react";
 
-export const series_three_part_seven = {
-    title: "OFFICES",
-    description: "Series 3 Part 7",
+export const part_seven = {
+    title: "Preacher's Portfolio",
+    description: "Part 7",
     icon: Timer1,
     color: "#F7D060",
-    slug: "offices_series_three_part_seven",
+    slug: "preachers_portfolio_part_seven",
     questions: [
         {
             q: "When we say Christ is in us, we are referring to _ and _",

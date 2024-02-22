@@ -1,11 +1,11 @@
 import { Timer1 } from "iconsax-react";
 
-export const series_three_part_one = {
-    title: "OFFICES",
-    description: "Series 3 Part 1",
+export const part_one = {
+    title: "Preacher's Portfolio",
+    description: "Part 1",
     icon: Timer1,
     color: "#F7D060",
-    slug: "offices_series_three_part_one",
+    slug: "preachers_portfolio_part_one",
     questions: [
         {
             q: "_ are those who lead others away from steadfastness",

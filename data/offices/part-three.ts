@@ -1,11 +1,11 @@
 import { Timer1 } from "iconsax-react";
 
-export const series_two_part_three = {
-    title: "OFFICES",
-    description: "Series 2 Part 3",
+export const part_three = {
+    title: "Offices Series 4",
+    description: "Part 3",
     icon: Timer1,
     color: "#F7D060",
-    slug: "offices_series_two_part_three",
+    slug: "offices_part_three",
     questions: [
         {
             q: "instruction is a proof of _",

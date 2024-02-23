@@ -8,100 +8,68 @@ export const part_one = {
     slug: "offices_part_one",
     questions: [
         {
-            q: "that _ has changed does not mean the word has changed",
-            a: "age",
+            q: "The will of God is not _, we are not going to get to heaven before we know those _",
+            a: "mystical, serving God",
         },
         {
-            q: "_ can be synonymous to too much talking",
-            a: "too much chatting",
+            q: "Explaining what we have in Christ today is the intention of all _",
+            a: "utterance",
         },
         {
-            q: "_ is as important as the Bible itself",
-            a: "BI",
+            q: "The prophets were justified cos they _ what we have today",
+            a: "searched",
         },
         {
-            q: "_ is the saviour of Christianity",
-            a: "BI",
+            q: "The first prophet that must be understood must be _",
+            a: "Moses",
         },
         {
-            q: "dont company with folks that disdain _",
-            a: "BI",
+            q: "Cos he is risen from the dead, let there be _",
+            a: "a gathering",
         },
         {
-            q: "without _ very soon we wont have Christianity again",
-            a: "BI",
+            q: "_ was declared upon resurrection",
+            a: "a gathering",
         },
         {
-            q: "why a lot of havoc happened in the dark ages was cos of _",
-            a: "half hazard BI",
+            q: "the glory of God is in _ but beyond _",
+            a: "individuals, individuals",
         },
         {
-            q: "'fool' in Greek",
-            a: "anoetos",
+            q: "a _ christianity is no christianity",
+            a: "mountainous",
         },
         {
-            q: "the only person that is not intelligent is _",
-            a: "a mad person",
+            q: "the glory which you gave me and I gave them will refer to _",
+            a: "God",
         },
         {
-            q: "differnt humans just need different _ and differnet _",
-            a: "levels of concentration, levels of repetition",
+            q: "the new creation wont end in _",
+            a: "one person",
         },
         {
-            q: "that thing that _ is not God's fault",
-            a: "makes us understand differntly",
+            q: "I am blessed with God amidst us, I should not _",
+            a: "compete",
         },
         {
-            q: "_ is enough reason to judge you before God",
-            a: "your school result",
+            q: "_ and _ were the only tools of communication to describe the relationship btw the church and _",
+            a: "Egypt, Israel, the world",
         },
         {
-            q: "we must teach men to quit _",
-            a: "pervesion",
+            q: "Don't allow institutions that _ elements of christianity to take away the essence from you",
+            a: "hijacked/borrowed",
         },
         {
-            q: "that thing that happened to jesus affects our _, _ and _",
-            a: "ministry, conduct, job",
+            q: "there's no commission to _ to bless the world",
+            a: "individuals",
         },
         {
-            q: "what jesus has done births new sets of _",
-            a: "activities",
+            q: "there's no _ army in this kingdom",
+            a: "one-man",
         },
         {
-            q: "all God has been doing throguh the ages is to ensure that _ is a reality",
-            a: "the incarnation",
-        },
-        {
-            q: "you are going to have more _ not to know God than to know God",
-            a: "headache",
-        },
-        {
-            q: "even _ condemns being an ingrate",
-            a: "human relationship",
-        },
-        {
-            q: "_ is of God but _ is not salvation",
-            a: "conscience",
-        },
-        {
-            q: "_ is a tool for the journet of faith",
-            a: "conscience",
-        },
-        {
-            q: "_ is actually an attention seeker",
-            a: "sin",
-        },
-        {
-            q: "all you knwo about God outside cchrist is _",
-            a: "the rumours",
-        },
-        {
-            q: "_ is not always by praying",
-            a: "intercession",
-        },
-        {
-            q: "God's plan was incarnation and _",
-            a: "resurrection",
+            q: "the first nation intended was the _",
+            a: "new creation",
         },
 
     ]

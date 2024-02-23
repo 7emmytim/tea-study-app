@@ -8,61 +8,128 @@ export const part_four = {
     slug: "offices_part_four",
     questions: [
         {
-            q: "one way people love the world is _",
-            a: "priority error",
+            q: "Any man not in Christ is _",
+            a: "incomplete",
         },
         {
-            q: "good things are goo by God must be _",
-            a: "number one",
+            q: "the idea of the local church is not _ idea",
+            a: "man's",
         },
         {
-            q: "once ministry is _ then you dont love God",
-            a: "number two",
+            q: "God place _ in those that have yeilded to God",
+            a: "multiplication",
         },
         {
-            q: "anyhting you dont give to, your _ is not there",
-            a: "heart",
+            q: "there's an increase in every believer and this comes to play when we _",
+            a: "gather together",
         },
         {
-            q: "the best time to give is when _",
-            a: "the money is there",
+            q: "Don't do a _ of those within",
+            a: "census",
         },
         {
-            q: "before you can serve, it must be clear to you that you are not serving money or _",
-            a: "the diverse possibilities of money",
+            q: "you number those that _ and not those that _",
+            a: "ought to be inside, are already inside",
         },
         {
-            q: "Greek word for 'cannot serve'",
-            a: "douleuo",
+            q: "Let the obvious thing about you be _",
+            a: "meekness",
         },
         {
-            q: "The word serve can be used in a good sense _ or a bad sense _",
-            a: "to yield obedience, to be a slave",
+            q: "One of the major traits of the antiChrist is _",
+            a: "lawlessness",
         },
         {
-            q: "it is either you are obeying God or you are _",
-            a: "enslaved by things",
+            q: "_ is a function of the heart and attitude",
+            a: "lawlessness",
         },
         {
-            q: "at times you must go the extra mile to prove to yourslef that _",
-            a: "you are not serving money",
+            q: "The _ of Eve feeding Adam is a depiction of the loss of _",
+            a: "picture, God's authority",
         },
         {
-            q: "let _ know that you are a believr in ministry",
-            a: "bank account",
+            q: "Sarah calling AB _ is a symbol of mankind submitting to God",
+            a: "lord",
         },
         {
-            q: "God does not need your _, he needs your _",
-            a: "idea, obedience",
+            q: "The church has _ to aid her purpose",
+            a: "physical structures",
         },
         {
-            q: "if you have concepts that you dont understand in the bible, you are setting yourslef up for _",
-            a: "backsliding",
+            q: "That _ of the church will not work without putting some physical things in place",
+            a: "spiritual purpose",
         },
         {
-            q: "_ and _ must be perceived as a gift of God",
-            a: "knowledge, good attitude",
+            q: "We must not rely on people's _ for the progress in the ministry, it can fluctuate",
+            a: "zeal",
         },
-
+        {
+            q: "there must be a structure that sustains your _",
+            a: "spirituality",
+        },
+        {
+            q: "expect to be invaded with _",
+            a: "instructions",
+        },
+        {
+            q: "unlike the _, it is love that makes us obey",
+            a: "government",
+        },
+        {
+            q: "_ is the fuel for consistency",
+            a: "picture, God's authority",
+        },
+        {
+            q: "_ compels us not to allow God's work to suffer",
+            a: "love",
+        },
+        {
+            q: "love makes us not to postpone God's _",
+            a: "committment",
+        },
+        {
+            q: "The paycheck is the _ of God in my heart",
+            a: "love",
+        },
+        {
+            q: "Our freedom in Christ is not a freedom in _ but in _",
+            a: "the flesh, the spirit",
+        },
+        {
+            q: "You can see _ so you can order your steps accordingly",
+            a: "God",
+        },
+        {
+            q: "To serve God acceptably starts from _",
+            a: "your thought",
+        },
+        {
+            q: "My thought pattern as touching ministry gift must be that of _",
+            a: "honour",
+        },
+        {
+            q: "_ is just anti authoirity",
+            a: "sin",
+        },
+        {
+            q: "_ are not idol worshippers",
+            a: "love",
+        },
+        {
+            q: "leaders understand that _ is the culture of the kingdom",
+            a: "selflessness",
+        },
+        {
+            q: "any man ruled by his _ and _ must not be given oversight",
+            a: "own appetite, ego",
+        },
+        {
+            q: "Some people can leave the church cos you did not allow them to _",
+            a: "express the lust in their heart",
+        },
+        {
+            q: "_ is not to sustain spirituality, _ is spirituality",
+            a: "orderliness, orderliness",
+        },
     ]
 }

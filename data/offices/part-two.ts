@@ -8,65 +8,148 @@ export const part_two = {
     slug: "offices_part_two",
     questions: [
         {
-            q: "your _ is not as important as our _",
-            a: "right, purpose",
+            q: "Scriptures document that _ of God for us",
+            a: "heartcry",
         },
         {
-            q: "_ will put your attention to those things we call fruits of the spirit",
-            a: "prayer",
+            q: "Many think they can use God to achieve their own dreams, that is _",
+            a: "irreverence",
         },
         {
-            q: "_ shoudl make you study well",
-            a: "prayer",
+            q: "You find out God's will through _ and submit to it",
+            a: "scripture",
         },
         {
-            q: "christianity is not _ religon, it is _ religion",
-            a: "your fathers, bible",
+            q: "we study scriptures to be more _ in God's plan",
+            a: "relevant",
         },
         {
-            q: "one thing we can see in the bible from the beginning is _",
-            a: "order",
+            q: "God leads us in groups so there must be _",
+            a: "order/protocol/line of command",
         },
         {
-            q: "every creation of God is with _ in mind",
-            a: "order",
+            q: "that personal experience with God is not _, it should lead to a _",
+            a: "ultimate, societal experience",
         },
         {
-            q: "order is not _",
-            a: "superiority",
+            q: "_ was used to refer to a people under God's covering",
+            a: "Jerusalem",
         },
         {
-            q: "every religion that push down _ is false",
-            a: "women",
+            q: "Moses was using the story of _ and _ to teach two kingdoms",
+            a: "Isaac, Ishmael",
         },
         {
-            q: "the kingdom of God should be the highest display of _",
-            a: "orderliness",
+            q: "Performance-mindedness must submit to God's _",
+            a: "promise",
         },
         {
-            q: "the church order does not imply _ but a _",
-            a: "master-slave relationship, leader-follower love",
+            q: "What man is to do is called _, God's duty is the _",
+            a: "faith, movement",
         },
         {
-            q: "_ is what makes us obey in church",
+            q: "It is God that truly moves a man from _ to _",
+            a: "egypt, canaan",
+        },
+        {
+            q: "The _ must be individualistic but the _ will be collective",
+            a: "deliverance/journey, gathering",
+        },
+        {
+            q: "it is not practicable for there to be a joint _",
+            a: "salvation",
+        },
+        {
+            q: "when you try to gather unsaved men and make them a church, you will have _",
+            a: "the book of Numbers/chaos",
+        },
+        {
+            q: "God's kingdom is older than man's _",
+            a: "fantasies",
+        },
+        {
+            q: "You cannot just pick the pattern for the church _",
+            a: "anywhere",
+        },
+        {
+            q: "_ in the church is different from _ in the world",
+            a: "excellence",
+        },
+        {
+            q: "_ in the kingdom of God is a servant",
+            a: "an overseer",
+        },
+        {
+            q: "the stability of the believer is found in _",
+            a: "the local church",
+        },
+        {
+            q: "_ revival cannot get the work done",
+            a: "individual",
+        },
+        {
+            q: "_ must be well structured",
+            a: "evangelism",
+        },
+        {
+            q: "the progress in our ministry must be _",
+            a: "trackable",
+        },
+        {
+            q: "God shines from _",
+            a: "his church",
+        },
+        {
+            q: "if you are looking for _, check the church",
+            a: "God's glory",
+        },
+        {
+            q: "The church is God's _, it is part of his predestination",
+            a: "choice",
+        },
+        {
+            q: "_ existed only in the mind of God before resurrection",
+            a: "zion",
+        },
+        {
+            q: "We have as much prophecy about _ as much as we have about _",
+            a: "the church, individual salvation",
+        },
+        {
+            q: "if you are not active in a good local church, you are not _",
+            a: "in God's plan",
+        },
+        {
+            q: "You wont be called that _ until there is spiritual growth",
+            a: "city of righteousness",
+        },
+        {
+            q: "You can be a christian and the world wont recognise that until _",
+            a: "spiritual growth",
+        },
+        {
+            q: "Men will stop being wicked by the _",
+            a: "teaching ministry",
+        },
+        {
+            q: "People will go to God just to be associated with that _",
+            a: "name of Jesus",
+        },
+        {
+            q: "The days are coming when men will use God's _ for God's _ alone",
+            a: "word, mind",
+        },
+        {
+            q: "_ is also a destination",
+            a: "God's glory",
+        },
+        {
+            q: "From the church, God wages his war of _ to the world",
             a: "love",
         },
         {
-            q: "_ is a work based on the makeup of the believer",
-            a: "ministry",
+            q: "There's God's kingdom but it is not a kingdom of _, it's a kingdom of sons",
+            a: "financial growth",
         },
-        {
-            q: "when i mix _ with bible study, i will see better",
-            a: "patience",
-        },
-        {
-            q: "you can have all the _ and yet you are not fruitful",
-            a: "divine promises",
-        },
-        {
-            q: "a believer that puts his right above us has _",
-            a: "forgotten who he is",
-        },
-
     ]
 }

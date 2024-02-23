@@ -4,12 +4,12 @@ import * as preachers_portfolio from "./preachers-portfolio"
 
 export const sermons = [
     offices.part_one,
-    // offices.part_two,
-    // offices.part_three,
-    // offices.part_four,
-    // offices.part_five,
-    // offices.part_six,
-    // offices.part_seven,
+    offices.part_two,
+    offices.part_three,
+    offices.part_four,
+    offices.part_five,
+    offices.part_six,
+    offices.part_seven,
     // preachers_portfolio.part_one,
     // preachers_portfolio.part_two,
     // preachers_portfolio.part_three,

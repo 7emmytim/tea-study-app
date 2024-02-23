@@ -8,60 +8,180 @@ export const part_three = {
     slug: "offices_part_three",
     questions: [
         {
-            q: "instruction is a proof of _",
-            a: "maturity",
+            q: "My appreciation for things spiritual is _ and _",
+            a: "prompt, accurate",
         },
         {
-            q: "_ is for you to show yourself faithful to the word as you are taught",
-            a: "obedience",
+            q: "God's kingdom must grow _",
+            a: "numerically",
         },
         {
-            q: "all things pertaining to life and godliness refers to _",
-            a: "your sonship",
+            q: "There must be _ progress in God's kingdom",
+            a: "trackable/visible",
         },
         {
-            q: "our devotion is not even to _",
-            a: "miracles",
+            q: "There's a _ in every well-trained believer",
+            a: "multiplication",
         },
         {
-            q: "the _ of christ is our devotion",
+            q: "you are blessed to _",
+            a: "multiply",
+        },
+        {
+            q: "the _ of your ministry will now be men under God's authority",
+            a: "fruit",
+        },
+        {
+            q: "Men should be admitted through the _ process",
+            a: "birth",
+        },
+        {
+            q: "Don't use concert or _ to invite men",
+            a: "tea party",
+        },
+        {
+            q: "before you approach _, we must first know the _ of the church",
+            a: "church structure, source",
+        },
+        {
+            q: "Don't use a _ method to assume that men are saved",
+            a: "random sampling",
+        },
+        {
+            q: "the ministry of Jesus births the most _ of relationships",
+            a: "intimate",
+        },
+        {
+            q: "there's an intimacy between _ and _",
+            a: "disciple, discipler",
+        },
+        {
+            q: "_ is not the one responsible for establishing Timothy in ministry",
+            a: "Jesus",
+        },
+        {
+            q: "Don't compare or compete with _",
+            a: "roles",
+        },
+        {
+            q: "God does not work through me to be _",
+            a: "bossy",
+        },
+        {
+            q: "there's a lot of knowledge out there that are _ to establish saints",
+            a: "not necessary",
+        },
+        {
+            q: "learn not to be looking for new knowledge outside your _",
+            a: "disciplers",
+        },
+        {
+            q: "some people all they are looking for is _ so they can comfort themselves",
+            a: "loopholes",
+        },
+        {
+            q: "be the best in that place that you are before you _",
+            a: "complain that it is not enough",
+        },
+        {
+            q: "church is the center of _ influence",
+            a: "spiritual",
+        },
+        {
+            q: "however you turn out in life, they should be able to _ your pastor for it",
+            a: "blame",
+        },
+        {
+            q: "The end of the commandment is not _, it is love",
+            a: "the miraculous/power",
+        },
+        {
+            q: "no _ in Christ should birth hatred in you",
+            a: "teaching",
+        },
+        {
+            q: "As you appear in Zion, you must get less _",
+            a: "selfish",
+        },
+        {
+            q: "self is the _ of all sin",
+            a: "mother",
+        },
+        {
+            q: "salvation is an _ for the supernatural ministry",
+            a: "enablement",
+        },
+        {
+            q: "It is the duty of your discipler to caution of men to _",
+            a: "beware",
+        },
+        {
+            q: "Your _ pattern must be for the will of God",
+            a: "prayer",
+        },
+        {
+            q: "Don't outgrow _ prayers",
+            a: "selfless",
+        },
+        {
+            q: "you can never go wrong in praying for _",
+            a: "the salvation of men",
+        },
+        {
+            q: "the motivation behind prayer must be _ and not _",
+            a: "the gospel, lust/things",
+        },
+        {
+            q: "God's will is the reason we do _ prayers",
+            a: "corporate",
+        },
+        {
+            q: "you are ordained a preacher cos of _",
+            a: "the sacrifice of Christ",
+        },
+        {
+            q: "ministry gift is cos of God that _",
+            a: "became a man",
+        },
+        {
+            q: "the _ of christ is why we have ministry gifts",
             a: "advent",
         },
         {
-            q: "the fruits of the spirit are the _ by which we do the gifts of the spirit",
-            a: "vehicle",
+            q: "what is not available in _ cannot be the reason you are called into ministry",
+            a: "the resurrection",
         },
         {
-            q: "_ is a word many dont want to hear",
-            a: "contentment",
+            q: "you are ordained a preacher cos God's intention has _ your heart",
+            a: "hit",
         },
         {
-            q: "the gospel can change the world cos it will change _",
-            a: "individuals",
+            q: "prayer is an acitivty of _, so we pray and we _",
+            a: "act",
         },
         {
-            q: "dont joint them anywhere they are praying for _, pray for _",
-            a: "national revivals, individual revivals",
+            q: "dont use the advantage of _ to get back at people",
+            a: "church authority",
         },
         {
-            q: "it is right _ to step down (not shutdown) some of your pace",
-            a: "christian thinking",
+            q: "I am a man of the spirit, I am also a man of _",
+            a: "order",
         },
         {
-            q: "if your giving starts looking like a burden to you or makes you feel important, you will _",
-            a: "fail",
+            q: "don't _ so that your leader can agree with you",
+            a: "exaggerate",
         },
         {
-            q: "if money is _ you cannot go far in ministry",
-            a: "the loud voice of your faith",
+            q: "the _ of your action as a follower can be that your leader should _",
+            a: "interpretation, fail",
         },
         {
-            q: "_ called for those who do well in ministry despite their challenges",
-            a: "names will be",
+            q: "_  and _ are both duty posts",
+            a: "following, leading",
         },
         {
-            q: "the real thing that will come under judgement is _",
-            a: "what you have done with what you were given",
+            q: "I am filled of God to be _",
+            a: "selfless",
         },
 
     ]

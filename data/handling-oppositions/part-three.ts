@@ -8,97 +8,32 @@ export const part_three = {
     slug: "handling_oppositions_three",
     questions: [
         {
-            q: "every member of this family of God will all have singular _",
-            a: "interest",
+            q: "The world will hate you cos you acknowledge that there's nothing worthy of _ outside Christ",
+            a: "devotion",
         },
         {
-            q: "no one has his _ reason for coming to church",
-            a: "personal",
+            q: "See opposition as a source of _. to see it as a source of _ is a proof that you are of _",
+            a: "joy, Christ",
         },
         {
-            q: "the work of the pastor is not just to do everything but to _ people so that everyone can be useful",
-            a: "arrange",
+            q: "_ and _ is one way your identity as a believer can be confirmed",
+            a: "opposition, persecution",
         },
         {
-            q: "the _ of your church must determine your _",
-            a: "interest",
+            q: "when your _, _ and _ is not a discomfort to the unbeliever, it means something is wrong",
+            a: "character, speech, conduct",
         },
         {
-            q: "believers that pray are the _ for the church",
-            a: "security",
+            q: "you should understand that _ is birthed when facing opposition",
+            a: "steadfastness/consistency",
         },
         {
-            q: "you must consider your church before giving yourself _",
-            a: "double pleasure",
+            q: "you will see opposition as a training to be more _",
+            a: "steadfast",
         },
         {
-            q: "even in church some people still _ more",
-            a: "deserve",
+            q: "_ is not to weaken you",
+            a: "opposition",
         },
-        {
-            q: "the church is not _ although personally we are merciful people",
-            a: "a charity organisation",
-        },
-        {
-            q: "we are not giving to people so that they can _, we must have seen that _ in you",
-            a: "take up ministry, seriousness",
-        },
-        {
-            q: "your gift is useless if you are not _",
-            a: "available",
-        },
-        {
-            q: "_ sets priority even in people we select in leadership",
-            a: "availability",
-        },
-        {
-            q: "_ is not everything",
-            a: "charisma",
-        },
-        {
-            q: "you must accept your church _ as your _",
-            a: "goal",
-        },
-        {
-            q: "your church pattern shsould be _ to you",
-            a: "normal",
-        },
-        {
-            q: "we called you a _ so that you can deliberately choose to excel in that line",
-            a: "chorister",
-        },
-        {
-            q: "that we are spiritual is not an excuse for _",
-            a: "mediocracy",
-        },
-        {
-            q: "the best of your _ must be given to your church",
-            a: "talent",
-        },
-        {
-            q: "we are members by _ but we function as _",
-            a: "default, instructed",
-        },
-        {
-            q: "God sets men in church through _",
-            a: "appointment",
-        },
-        {
-            q: "although you are _ by men, you must see yourself as _ by God",
-            a: "appointed, ordained",
-        },
-        {
-            q: "let the _ of your giving be directed to the church",
-            a: "bulk",
-        },
-        {
-            q: "church has no _ cos the church has a purpose",
-            a: "free gift",
-        },
-        {
-            q: "everything we give out, we are expecting _",
-            a: "salvation",
-        },
-
     ]
 }

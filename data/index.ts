@@ -20,9 +20,9 @@ export const sermons = [
     // preachers_portfolio.part_eight,
     handling_oppositions.part_one,
     handling_oppositions.part_two,
-    // handling_oppositions.part_three,
+    handling_oppositions.part_three,
     handling_oppositions.part_four,
     handling_oppositions.part_five,
-    // handling_oppositions.part_six,
+    handling_oppositions.part_six,
 
 ]

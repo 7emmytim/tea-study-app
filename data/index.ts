@@ -17,7 +17,7 @@ export const sermons = [
     preachers_portfolio.part_five,
     preachers_portfolio.part_six,
     preachers_portfolio.part_seven,
-    // preachers_portfolio.part_eight,
+    preachers_portfolio.part_eight,
     // handling_oppositions.part_one,
     // handling_oppositions.part_two,
     // handling_oppositions.part_three,

@@ -8,220 +8,96 @@ export const part_eight = {
     slug: "preachers_portfolio_part_eight",
     questions: [
         {
-            q: "Allow the word of God to work on your _",
-            a: "experiences",
+            q: "_ are what changes lives",
+            a: "words",
         },
         {
-            q: "Don't insulate any part of your life from the _ of God's word",
-            a: "influence",
+            q: "we use the faith of Christ for a _ end",
+            a: "specific",
         },
         {
-            q: "The word of God is your sanity in the day of _, direction the day you get to _, safety in the day of _",
-            a: "confusion, a T junction, danger",
+            q: "_ cannot be the ultimate reason of why you are coming to church",
+            a: "money",
         },
         {
-            q: "Start to value the word from _",
-            a: "now",
+            q: "it is not more _ to try to use God to pursue the wealth in Adam",
+            a: "ridiculous",
         },
         {
-            q: "Value the voice of _ as it comes through the word",
-            a: "reproof",
+            q: "dont equate miracles of sustenance to _",
+            a: "the norm",
         },
         {
-            q: "Be the one that will obey the word without _",
-            a: "question",
+            q: "Jesus did not _ in every chapter",
+            a: "multiply bread",
         },
         {
-            q: "Don't be the one that takes pride in what is _",
-            a: "not in Christ",
+            q: "food is a strong _ for men",
+            a: "bait",
         },
         {
-            q: "You are not redeemed by corruptible things also mean that you are not _",
-            a: "redeemed unto corruptible things",
+            q: "Moses gave _ laws cos of their hearts",
+            a: "extreme",
         },
         {
-            q: "The intention of redemption is not _",
-            a: "takeover",
+            q: "There's this _ indifference that Jesus had about how men got wealth",
+            a: "systematic",
         },
         {
-            q: "Precious blood of Christ refers to _",
-            a: "the life of God",
+            q: "most people are rich today cos they _  people",
+            a: "extort",
         },
         {
-            q: "The reason why the believer exists forever is cos _ exists forever",
-            a: "the word",
+            q: "unrighteous mammon is _",
+            a: "to trust in riches",
         },
         {
-            q: "To see things in _ is to see things clearly",
-            a: "Christ",
+            q: "To expect the preacher of the gospel to teach you how to have things is to have _",
+            a: "misplaced priority",
         },
         {
-            q: "I must not see you and I am predicting that you have _",
-            a: "a demon living in you",
+            q: "parables are _ used to explain an heavenly truth",
+            a: "human experiences",
         },
         {
-            q: "You should not gather _ and be doing deliverance for them, that is to see things _",
-            a: "saints, abnormally",
+            q: "we don't use the _ of Jesus to teach people wealth making",
+            a: "parables",
         },
         {
-            q: "You must learn what it takes to be a minister of _ else you will serve God and the devil together",
-            a: "the NT",
+            q: "Don't teach wealth creation from _ or _",
+            a: "the parables of Jesus, the book of proverbs",
         },
         {
-            q: "At times, what God tells a man is different from what he _ cos of his _",
-            a: "verbalise/present/prophesy, own knowledge",
+            q: "the world teaches us how to _ but the church teaches us how to _",
+            a: "have, give",
         },
         {
-            q: "God deals with men with _ and not _",
-            a: "good, evil",
+            q: "_ is not a curse",
+            a: "working",
         },
         {
-            q: "The things you see in your _ are your mind's representation of what it could perceive from your spirit",
-            a: "dream, spirit",
+            q: "financial increase answers to _ way and not _ way",
+            a: "man's, God's",
         },
         {
-            q: "Our _ will be the destruction of death",
-            a: "glorification",
+            q: "for ministry, money is a _",
+            a: "silent necessity",
         },
         {
-            q: "There is no _ for killing witches",
-            a: "scripture",
+            q: "we don't shortchange _ and _ cos we want to get more money for the gospel",
+            a: "prayers, evangelism",
         },
         {
-            q: "When Christ gave us _, some people just love to still enter the boxing ring and start fighting _",
-            a: "a life of victory, shadows",
+            q: "the service with _ is not acceptable",
+            a: "misplaced priority",
         },
         {
-            q: "The words you hear create _ for you",
-            a: "experiences",
+            q: "as a minister dont change your stand cos people are _",
+            a: "stingy",
         },
         {
-            q: "Be careful of the influences you allow into your _",
-            a: "ear",
-        },
-        {
-            q: "If you are seeing _ as your enemy, one day you will see _ as the enemy.",
-            a: "people, yourself",
-        },
-        {
-            q: "If you don't want to _, teach your loved ones the gospel",
-            a: "spend money on sickness/emergency",
-        },
-        {
-            q: "You can catch a _ in focusing on _",
-            a: "demonic activity",
-        },
-        {
-            q: "_ is actually focused attention",
-            a: "fear",
-        },
-        {
-            q: "Demonic activities originated from _ contrary to God",
-            a: "an opinion",
-        },
-        {
-            q: "We have _ and we have the _",
-            a: "demonic activities",
-        },
-        {
-            q: "Since man is a being of _, all other beings made for the pleasure of man also have _",
-            a: "free will",
-        },
-        {
-            q: "Evil started in certain angels expression of _ against _",
-            a: "free will, God's will",
-        },
-        {
-            q: "Why the creation of angels?",
-            a: "because there is more to the dominion of man beyond the physical",
-        },
-        {
-            q: "Man is to dominate all things, both _ and _",
-            a: "visible, invisible",
-        },
-        {
-            q: "Because of the _ of time and space, we have _ to bridge that for man",
-            a: "limitation, angels",
-        },
-        {
-            q: "What we actually call visible is actually the limitation of _",
-            a: "the human eye",
-        },
-        {
-            q: "Angels supply help to that _ of man",
-            a: "limitation",
-        },
-        {
-            q: "Angels are not the _, they are for the _",
-            a: "intention",
-        },
-        {
-            q: "If _ are not in charge, how much less _?",
-            a: "angels, demons",
-        },
-        {
-            q: "'not yet' in Hebrews 2:8 will mean what in Greek?",
-            a: "oupo",
-        },
-        {
-            q: "God never withdrew _ from man despite _",
-            a: "authority, sin",
-        },
-        {
-            q: "When he said we did not yet see all things under him talks about when he was _",
-            a: "a little lower than the angels/the humanity of Jesus",
-        },
-        {
-            q: "It was when Jesus identified with humanity that we did not see _",
-            a: "all dominion under him",
-        },
-        {
-            q: "Jesus _ so he could die for us",
-            a: "came in human body",
-        },
-        {
-            q: "What we see in Jesus' lifetime was not even _",
-            a: "full dominion",
-        },
-        {
-            q: "When that messsage of that death and resurrection comes, it will break _",
-            a: "the thoughts of bondage in our hearts",
-        },
-        {
-            q: "The destruction of satan is to destroy the _ of satan in our hearts through the learning of _",
-            a: "lies, Christ's death and resurrection",
-        },
-        {
-            q: "Satan is as powerful as your _",
-            a: "imagination",
-        },
-        {
-            q: "His message rescued us from that _ with satan through rebellion",
-            a: "unity",
-        },
-        {
-            q: "He was like us in _, we are in him in _",
-            a: "death, life",
-        },
-        {
-            q: "In the resurrection of Christ is the _ of man",
-            a: "authority",
-        },
-        {
-            q: "If Jesus had come with full authority, he would not have been able to _",
-            a: "bring many sons to glory",
-        },
-        {
-            q: "_ is a defence",
-            a: "truth",
-        },
-        {
-            q: "There are some defences that _ cannot give you",
-            a: "prayer",
-        },
-        {
-            q: "What is the anointing in Isaiah 10:20?",
-            a: "the learning of Christ",
+            q: "teaching meetings are tools for the church to achieve her _",
+            a: "goals",
         },
     ]
 }

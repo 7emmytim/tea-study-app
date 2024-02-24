@@ -8,204 +8,128 @@ export const part_one = {
     slug: "preachers_portfolio_part_one",
     questions: [
         {
-            q: "_ are those who lead others away from steadfastness",
-            a: "Seducers",
+            q: "Even _ can be the reason a man will rebel against God",
+            a: "good things of life",
         },
         {
-            q: "If you start a journey of _ very soon you will think you are _",
-            a: "insincerity, sincere",
+            q: "Things that God gives at times are same things that men use to _",
+            a: "slap him in the face",
         },
         {
-            q: "The easiest thing to do is to _",
-            a: "continue",
+            q: "My _ is not to the gift but to the giver",
+            a: "obsession",
         },
         {
-            q: "Your progress in God should be _",
-            a: "measurable",
+            q: "don't seek an alternative to living outside _",
+            a: "God's word",
         },
         {
-            q: "The Greek word for reproof in 2 Timothy 3:16 is?",
-            a: "elegchos",
+            q: "in our righteousness, there's yet _",
+            a: "instruction",
         },
         {
-            q: "_ gives evidence to the resurrection",
-            a: "Faith",
+            q: "to make profit, you will have to do some _ by the word",
+            a: "training",
         },
         {
-            q: "We must not just have the scripture; we must _",
-            a: "obtain profit from it",
+            q: "scriptures are _ will be the result of the right division of the OT",
+            a: "Christ-centred",
         },
         {
-            q: "There's _ attached to the giving of the scripture",
-            a: "an intention",
+            q: "when we say the bible is _, we mean we find instruction in righteouness inside",
+            a: "Christ-centred",
         },
         {
-            q: "It is not compulsory that there's a _ for everything",
-            a: "scripture",
+            q: "instruction in righteousness _ the mog",
+            a: "moderates",
         },
         {
-            q: "That God gave a scripture to read through does not mean _",
-            a: "your head will be correct",
+            q: "That profit of the ot has been _",
+            a: "written",
         },
         {
-            q: "When you are encountered with questions, you will bring out well laid _",
-            a: "scriptural study",
+            q: "our sermons cannot contradict the _ and _ of the epistles",
+            a: "doctrinal style, stand",
         },
         {
-            q: "Darkness in 1 John is _",
-            a: "false doctrine",
+            q: "to explain God is a fn of your relationship with that _",
+            a: "indwelling",
         },
         {
-            q: "To obtain profit from the scripture, you must be _",
-            a: "skilful",
+            q: "the _ of God can be explained and must be explained",
+            a: "things",
         },
         {
-            q: "It takes skill to separate _ from prophecy",
-            a: "historical documentation",
+            q: "sin made man _ to know God",
+            a: "incapacitated",
         },
         {
-            q: "We don't use _ as authentication for doctrine",
-            a: "history",
+            q: "to understand all _ of salvation, you must receive the Spirit",
+            a: "dynamisms",
         },
         {
-            q: "That something is _ is not enough for correctness, it must be _ with the eye of salvation through faith in Christ",
-            a: "written, studied",
+            q: "even after redemption, light is _",
+            a: "progressive",
         },
         {
-            q: "That an experience is _ does not make it _",
-            a: "true, correct",
+            q: "Salvation is by faith but after that is a journey of _",
+            a: "understanding",
         },
         {
-            q: "Bible did not say _ me for doctrine but _ me",
-            a: "read, study",
+            q: "don't try to _ the gospel, present it in it's _",
+            a: "tush, foolishness",
         },
         {
-            q: "For reproof or evidence, I am not just to rely on _ but _",
-            a: "the Bible, Bible study",
+            q: "when you try to make it have sense, your message loses it's _ to save",
+            a: "vitality",
         },
         {
-            q: "When you are asked a question, bring out _",
-            a: "Bible study",
+            q: "if you are not patient with the gospel, you won't see it as _",
+            a: "profit",
         },
         {
-            q: "If everyone is allowed to preach their _, there will be gross _",
-            a: "experiences, inconsistencies",
+            q: "meditation on sin brings the action and brings even more _",
+            a: "harm",
         },
         {
-            q: "God in his wisdom already stamped _ as the authentication for correctness",
-            a: "Bible study",
+            q: "the action is one of the results of the _",
+            a: "meditation",
         },
         {
-            q: "The epistles can also be termed as _ from the Old Testament",
-            a: "studies",
+            q: "take God away from your thinking, he will never _",
+            a: "use you",
         },
         {
-            q: "The name of the _ and _ might be different but the _ of the church must not be different, the standard must be the word",
-            a: "church, preacher, practice",
+            q: "God's way to settle scores is _",
+            a: "love/forgiveness",
         },
         {
-            q: "If _ says the job is to make all see then we can also not preach a _ message",
-            a: "Paul, segregating",
+            q: "If there's nothing like _, God would be unjust",
+            a: "hell",
         },
         {
-            q: "Our _ said it is all men so it is all men",
-            a: "apostle",
+            q: "hell is the _ of man",
+            a: "labour",
         },
         {
-            q: "_ confers on us to carry out that ministry of reconciliation",
-            a: "Bible study",
+            q: "God will honour man's choice of _ and yet keep _",
+            a: "independence, appealing",
         },
         {
-            q: "_ is God's call upon you to make others to see",
-            a: "That you know",
+            q: "your response to persecution is _",
+            a: "love",
         },
         {
-            q: "It is not impossible for us to have the same _",
-            a: "persuasion",
+            q: "both in the gospels and the epistles, _ is been done",
+            a: "ministry",
         },
         {
-            q: "We must believe the same thing about _, _ and _",
-            a: "salvation, ministry, priority",
+            q: "preachers are not _ providers",
+            a: "all service",
         },
         {
-            q: "Christ is the end of all the _ in God",
-            a: "mysteries",
-        },
-        {
-            q: "The greatest _ of man should be to the revelation of God in his word",
-            a: "reverence",
-        },
-        {
-            q: "It is _ to speak against Bible Interpretation/exegesis cos of power",
-            a: "childishness",
-        },
-        {
-            q: "It is _ to be comparing the word and the supernatural",
-            a: "nuisance",
-        },
-        {
-            q: "We do the supernatural by _, we don't _ both",
-            a: "the word we are learning, compare",
-        },
-        {
-            q: "The supernatural is a _ under the word",
-            a: "faculty",
-        },
-        {
-            q: "The supernatural ought to be a _ under the word",
-            a: "learning",
-        },
-        {
-            q: "You have to _ your mind to honour the word above anything",
-            a: "train",
-        },
-        {
-            q: "One of the signs of _ will be lying wonders",
-            a: "the false Christ",
-        },
-        {
-            q: "It is called lying not cos it is not true but cos it is used to _",
-            a: "lure men away from Christ",
-        },
-        {
-            q: "I don't need his _; I've got his life",
-            a: "tomb",
-        },
-        {
-            q: "When we are talking about God, we don't talk about Satan, it is not _",
-            a: "a competition",
-        },
-        {
-            q: "Out of _, they call them idols but Paul called them devils",
-            a: "reverence",
-        },
-        {
-            q: "The _ is not the height of power, you are the height",
-            a: "angel",
-        },
-        {
-            q: "The way some people share the testimonies of their past life it shows they still _ that past life than the present",
-            a: "revere",
-        },
-        {
-            q: "Don't associate _ with darkness, demons, ceremonies",
-            a: "depth",
-        },
-        {
-            q: "Don't amplify some _ more than the word",
-            a: "signs",
-        },
-        {
-            q: "My in Christ _ is superior to my experience",
-            a: "mentality",
-        },
-        {
-            q: "When people try to intimidate you with experiences, let them know that you have been to the _ of all _",
-            a: "depth, depths",
-        },
-        {
-            q: "Before going for _, you must first downgrade demons in your mind",
-            a: "healing meetings",
+            q: "Jesus' style of ministry is also _",
+            a: "doctrinal",
         },
     ]
 }

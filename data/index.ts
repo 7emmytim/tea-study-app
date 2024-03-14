@@ -1,28 +1,28 @@
 // import * as offices from "./offices"
 // import * as handling_oppositions from "./handling-oppositions"
-import * as preachers_portfolio from "./preachers-portfolio"
+// import * as preachers_portfolio from "./preachers-portfolio"
+import * as judaism from "./judaism"
+import * as religion_of_peace from "./religion-of-peace"
 
 export const sermons = [
-    // offices.part_one,
-    // offices.part_two,
-    // offices.part_three,
-    // offices.part_four,
-    // offices.part_five,
-    // offices.part_six,
-    // offices.part_seven,
-    preachers_portfolio.part_one,
-    preachers_portfolio.part_two,
-    preachers_portfolio.part_three,
-    preachers_portfolio.part_four,
-    preachers_portfolio.part_five,
-    preachers_portfolio.part_six,
-    preachers_portfolio.part_seven,
-    preachers_portfolio.part_eight,
-    // handling_oppositions.part_one,
-    // handling_oppositions.part_two,
-    // handling_oppositions.part_three,
-    // handling_oppositions.part_four,
-    // handling_oppositions.part_five,
-    // handling_oppositions.part_six,
-
+    judaism.part_one,
+    // judaism.part_two,
+    // judaism.part_three,
+    judaism.part_four,
+    judaism.part_five,
+    religion_of_peace.part_one,
+    // religion_of_peace.part_two,
+    // religion_of_peace.part_three,
+    // religion_of_peace.part_four,
+    // religion_of_peace.part_five,
+    // religion_of_peace.part_six,
+    religion_of_peace.part_seven,
+    // religion_of_peace.part_eight,
+    religion_of_peace.part_nine,
+    religion_of_peace.part_ten,
+    // religion_of_peace.part_eleven,
+    // religion_of_peace.part_twelve,
+    // religion_of_peace.part_thirteen,
+    // religion_of_peace.part_fourteen,
+    // religion_of_peace.part_fifteen,
 ]

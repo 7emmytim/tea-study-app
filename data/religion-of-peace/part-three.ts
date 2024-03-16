@@ -36,64 +36,52 @@ export const part_three = {
             a: "the universal man",
         },
         {
-            q: "The _ stability of the saints is vital to Jesus",
-            a: "emotional",
+            q: "a man can relate with God cos of _ that he has",
+            a: "the spirit",
         },
         {
-            q: "there is light to get in the gospels, you only need to read _",
-            a: "patiently",
+            q: "in that _, the level of correctness they will have will not be optimal",
+            a: "search",
         },
         {
-            q: "Jesus did not say no to anyone that showed _",
-            a: "faith",
+            q: "God primarily relates with _",
+            a: "the spirit of man",
         },
         {
-            q: "_ pattern started in the gospels but got clearer in the epistles",
-            a: "ministry",
+            q: "cos the man is in an unregenerated state, _ usually aid in the communication process through dreams and visions",
+            a: "angels",
         },
         {
-            q: "Don't zone your _ to only a part of the bible",
-            a: "grace message",
+            q: "that a man received _ is not automatic proof that the divine communication proceeded from God",
+            a: "a vision",
         },
         {
-            q: "the preacher has a _ portfolio",
-            a: "strict",
+            q: "_ does not make anyone special",
+            a: "angelic visitation",
         },
         {
-            q: "_ is also used for things beyond your control",
-            a: "Father",
+            q: "the ministry of _ is to help man",
+            a: "angels",
         },
         {
-            q: "Pleasing God is _ based",
-            a: "spirit",
+            q: "any man can see an angel when it becomes _",
+            a: "necessary",
         },
         {
-            q: "it is not in our portfolio to preach kingdom _",
-            a: "takeover",
+            q: "angelic appearance does not give _ and does not _ any minitry",
+            a: "credence, authenticate",
         },
         {
-            q: "don't just pick the _, pick the ministry style",
-            a: "anointing",
+            q: "your information must be traced from _ and it is for _",
+            a: "God, men",
         },
         {
-            q: "Money and physical things can promote _ but is cannot promote the cause of _",
-            a: "Islam, Christ",
+            q: "we know a prophet by how they _ and their _",
+            a: "receive their message, message",
         },
         {
-            q: "The gospel is the only _ of God to save",
-            a: "power",
-        },
-        {
-            q: "There's difference between having things and _ on things",
-            a: "relying",
-        },
-        {
-            q: "We must not have billionaires in church and then change _",
-            a: "church structure",
-        },
-        {
-            q: "Ministry is best supported by _",
-            a: "willing minds/in-house/ministry minded people",
-        },
+            q: "a man cannot _ this scripture and fail to arrive at the _ of the scripture",
+            a: "honour, destination",
+        }
     ]
 }

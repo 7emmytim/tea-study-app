@@ -8,149 +8,120 @@ export const part_twelve = {
     slug: "religion_of_peace_part_twelve",
     questions: [
         {
-            q: "Don't be a slave of _",
-            a: "attention",
+            q: "Some men by reason of _ can explore and Solomon was one of such men",
+            a: "quest",
         },
         {
-            q: "The _ of the believer is vital to God",
-            a: "mental health",
+            q: "to understand humanity in its entirety, the end result will be _ which is _",
+            a: "vexation, frustration",
         },
         {
-            q: "_ does not always mean love",
-            a: "I love you",
+            q: "there's no _ formula to understand man",
+            a: "almighty",
         },
         {
-            q: "The Spirit is the qualification to explain _",
-            a: "divinity",
+            q: "so long as man has a choice, what happens on earth will always _",
+            a: "vary",
         },
         {
-            q: "There's this _ in the minister to try to _ all the parts of the life of a believer",
-            a: "temptation, control",
+            q: "_ men will give a _ different scenerios",
+            a: "a billion, billion",
         },
         {
-            q: "The duty of the preacher is to deal with your _ as you pursue physical things",
-            a: "conduct",
+            q: "man cannot choose his _, he can only make a _",
+            a: "consequences, choice",
         },
         {
-            q: "God is not responsible for _",
-            a: "poverty",
+            q: "the devil in his _ veils the consequence of man's action from him",
+            a: "deceptive nature",
         },
         {
-            q: "He blessed the earth already and let everyone go and find their _",
-            a: "square root",
+            q: "no man's action affects only him, there's a _ effect of your action",
+            a: "ripple",
         },
         {
-            q: "_ on what you have matters, not what you have",
-            a: "Your thinking",
+            q: "it is _ to not see beyond yourself",
+            a: "selfishness",
         },
         {
-            q: "How you relate with your _ is what we teach you",
-            a: "wealth",
+            q: "once God authors something, it will be _ for all men",
+            a: "the same",
         },
         {
-            q: "No amount of _ that scares the power of God",
-            a: "money",
+            q: "God cannot create something that will not be _",
+            a: "eternal",
         },
         {
-            q: "Most of the things you are hearing you would not have heard if you had just served God in your _",
-            a: "current situation",
+            q: "most times men think they _ more than God and so they attribute _ to him",
+            a: "care, evil things",
         },
         {
-            q: "Things like the _ person to marry is not the pastor's business to choose for you",
-            a: "particular",
+            q: "any God that you can be more _ that, run for your life",
+            a: "caring",
         },
         {
-            q: "What should be done in marriage counselling is _. That is not the perfect place to try to detect _",
-            a: "counselling, deceitful relationship",
+            q: "God's eternal disposition to man is _",
+            a: "love",
         },
         {
-            q: "_ does not guarantee a good marriage",
-            a: "Marriage counselling",
+            q: "God has no _ to give any man",
+            a: "evil",
         },
         {
-            q: "What determines a good marriage is that _ teaching of God's word",
-            a: "progressive",
+            q: "when you see _, you can trace the source, a man is involved",
+            a: "evil",
         },
         {
-            q: "_ is the proof of a good person",
-            a: "Service",
+            q: "evils on earth is as a result of a _ or _ of a man who exercise his choice to reject life and accept death",
+            a: "ripple effect, consequence",
         },
         {
-            q: "The church's tool to make your mind right is _ and not _",
-            a: "daily consistent teaching, a one-time marriage counselling",
+            q: "The blessing God has for all men is _ and he does it by giving _",
+            a: "sonship, his Spirit",
         },
         {
-            q: "You cannot fake _ for long",
-            a: "service",
+            q: "God is only responsible for _. He has no business for creating anything that is _",
+            a: "immortality, mortal",
         },
         {
-            q: "Deal with their conduct as a _ and not cos you want to marry them",
-            a: "norm",
+            q: "by becoming a son, you have crossed from one _ to another",
+            a: "reality",
         },
         {
-            q: "The job of the preacher is what is done in the _",
-            a: "marriage",
+            q: "_ and it's attendant effect cannot override the benefits of immortality",
+            a: "mortality",
         },
         {
-            q: "It is the reality of our redemption to teach how they should walk in love in marriage",
-            a: "",
+            q: "the _ and _ of immortality far outweighs every struggle we have",
+            a: "beauty, blessing",
         },
         {
-            q: "The ceremony is not our duty but the _",
-            a: "conduct",
+            q: "God has nto given us a _ hope",
+            a: "baseless",
         },
         {
-            q: "Marriage is a _ affair, you don't have to be born again to have a 'successful' marriage",
-            a: "worldly",
+            q: "Don't let this body _ you",
+            a: "fool",
         },
         {
-            q: "The preacher will now teach you how you can use your _ as a blessing",
-            a: "marriage",
+            q: "God gave us a _ to direct our days, words",
+            a: "weapon",
         },
         {
-            q: "It is not the pastor's _ to divorce anyone",
-            a: "authority",
+            q: "_ gives us that doggedness",
+            a: "immortality",
         },
         {
-            q: "You can't promise any man _ cos he has believed the gospel.",
-            a: "a physical change of status",
+            q: "God gave us _ and the blessing of saints",
+            a: "words",
         },
         {
-            q: "_ does not always translate to physical upliftment",
-            a: "Righteousness",
+            q: "no error in your _ that God's power cannot correct",
+            a: "body",
         },
         {
-            q: "The driver behind many _ are things that are not the duty of the church",
-            a: "special programmes",
-        },
-        {
-            q: "Our _ and conduct is the duty of Jesus",
-            a: "spirituality",
-        },
-        {
-            q: "My _ is the fact that I am one with divinity",
-            a: "glory",
-        },
-        {
-            q: "Why Christianity wont go into extinction is not cos of the _ we build but cos of what we _",
-            a: "monuments, teach",
-        },
-        {
-            q: "We are not after what works but after the _",
-            a: "word",
-        },
-        {
-            q: "Things don't promote Christianity or _",
-            a: "spirituality",
-        },
-        {
-            q: "_ is the Father's kingdom",
-            a: "Salvation",
-        },
-        {
-            q: "We must not rely on the arm of flesh for _",
-            a: "ministry",
-        },
-
+            q: "there's already enough _ out there, let it end with you",
+            a: "evil",
+        }
     ]
 }

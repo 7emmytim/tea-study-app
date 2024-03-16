@@ -8,96 +8,92 @@ export const part_eight = {
     slug: "religion_of_peace_part_eight",
     questions: [
         {
-            q: "_ are what changes lives",
-            a: "words",
+            q: "This eternal being cannot _",
+            a: "beget",
         },
         {
-            q: "we use the faith of Christ for a _ end",
-            a: "specific",
+            q: "God cannot through the natural course of _ give birth to a child",
+            a: "man's reproduction",
         },
         {
-            q: "_ cannot be the ultimate reason of why you are coming to church",
-            a: "money",
+            q: "only beings with bodies can _",
+            a: "die",
         },
         {
-            q: "it is not more _ to try to use God to pursue the wealth in Adam",
-            a: "ridiculous",
+            q: "cos _ was introduced, something became essential for man to partake of which is salvation",
+            a: "death",
         },
         {
-            q: "dont equate miracles of sustenance to _",
-            a: "the norm",
+            q: "no man after _ could have said he does not need salvation",
+            a: "Adam",
         },
         {
-            q: "Jesus did not _ in every chapter",
-            a: "multiply bread",
+            q: "salvation became a _ and _ that every man must have",
+            a: "cry, burden",
         },
         {
-            q: "food is a strong _ for men",
-            a: "bait",
+            q: "sin is _ committed against God so only God can give man salvation",
+            a: "primarily",
         },
         {
-            q: "Moses gave _ laws cos of their hearts",
-            a: "extreme",
+            q: "those looking for salvation anywhere else have _",
+            a: "no knowledge",
         },
         {
-            q: "There's this _ indifference that Jesus had about how men got wealth",
-            a: "systematic",
+            q: "the prophets described _ in different terms",
+            a: "sins",
         },
         {
-            q: "most people are rich today cos they _  people",
-            a: "extort",
+            q: "expecting salvation from any other source is doing it _",
+            a: "in vain",
         },
         {
-            q: "unrighteous mammon is _",
-            a: "to trust in riches",
+            q: "man is to wait for this _",
+            a: "salvation",
         },
         {
-            q: "To expect the preacher of the gospel to teach you how to have things is to have _",
-            a: "misplaced priority",
+            q: "God is not just saying that salvation is his duty but that it is _ and men should _",
+            a: "at hand, wait",
         },
         {
-            q: "parables are _ used to explain an heavenly truth",
-            a: "human experiences",
+            q: "Jesus is _ is cos he became a man for the sin of man",
+            a: "the Son of God",
         },
         {
-            q: "we don't use the _ of Jesus to teach people wealth making",
-            a: "parables",
+            q: "a virgin gave birth without the _ of man",
+            a: "input",
         },
         {
-            q: "Don't teach wealth creation from _ or _",
-            a: "the parables of Jesus, the book of proverbs",
+            q: "when it comes to salvation, there is no _",
+            a: "impossibility",
         },
         {
-            q: "the world teaches us how to _ but the church teaches us how to _",
-            a: "have, give",
+            q: "if you believe that Sarah conceived at 90 then you should believe _",
+            a: "the incarnation",
         },
         {
-            q: "_ is not a curse",
-            a: "working",
+            q: "he became a man for a _ purpose and not to prove _",
+            a: "specific, superiority",
         },
         {
-            q: "financial increase answers to _ way and not _ way",
-            a: "man's, God's",
+            q: "sin has been preventing man from being _ and _",
+            a: "holy, righteous",
         },
         {
-            q: "for ministry, money is a _",
-            a: "silent necessity",
+            q: "God became a man and he is going to bring about salvation by the _ of sins",
+            a: "cancellation",
         },
         {
-            q: "we don't shortchange _ and _ cos we want to get more money for the gospel",
-            a: "prayers, evangelism",
+            q: "Prophecy consistently spoke about the seed that is coming, he will be the _ of all _",
+            a: "conclusion, the prophecies",
         },
         {
-            q: "the service with _ is not acceptable",
-            a: "misplaced priority",
+            q: "You are not to believe in a _ but in a _",
+            a: "spirit, man",
         },
         {
-            q: "as a minister dont change your stand cos people are _",
-            a: "stingy",
-        },
-        {
-            q: "teaching meetings are tools for the church to achieve her _",
-            a: "goals",
-        },
+            q: "Don't bring your _ to God's corner",
+            a: "impossibility",
+        }
     ]
 }

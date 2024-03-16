@@ -8,32 +8,32 @@ export const part_three = {
     slug: "religion_of_peace_part_three",
     questions: [
         {
-            q: "We are here cos we respect _",
-            a: "the word",
+            q: "the destination of _ to _ is that a man arrives at salvation",
+            a: "Genesis, Malachi",
         },
         {
-            q: "if you respect experiences than the written word, you ought not to be _",
-            a: "in church",
+            q: "if you don't arrive at that destination, it means you have taken a _",
+            a: "detour",
         },
         {
-            q: "dont mind those that sa your service to God is _, most of them are addicted to _",
-            a: "too much, frivolities",
+            q: "our _ must be based on scriptures",
+            a: "teaching",
         },
         {
-            q: "if you don't have any _, it means you are dead",
-            a: "passion",
+            q: "scripture is the basis of which we ascertain the correctness or otherwise of any teaching related to _",
+            a: "God/divine realities",
         },
         {
-            q: "_ will not help you as much as consistency in spirituality",
-            a: "special programmes",
+            q: "scripture is the _ we have for truth",
+            a: "evidence",
         },
         {
-            q: "We must make _ a routine",
-            a: "spirituality",
+            q: "_ is a firmly held belief",
+            a: "conviction",
         },
         {
-            q: "spiritual growth will improve your _ and your _ will be rewarded eternally",
-            a: "service",
+            q: "the search of _ is right standing with God",
+            a: "the universal man",
         },
         {
             q: "The _ stability of the saints is vital to Jesus",

@@ -8,136 +8,80 @@ export const part_two = {
     slug: "judaism_two",
     questions: [
         {
-            q: "The introduction of the Bible is a summary of God's will in spite of _",
-            a: "man's state",
+            q: "The reason they have such importance to David's kingdom and that place is cos of a misinterpretation of an utterance from _ to _",
+            a: "Nathan, David",
         },
         {
-            q: "God has no intention to abandon man to the _ of man's way so he commanded light to shine out of darkness",
-            a: "foolishness",
+            q: "Everlasting kingdom cannot refer to _",
+            a: "a man",
         },
         {
-            q: "We can call the Bible a _ of how light travelled through the ages",
-            a: "documentation",
+            q: "Anything that has eternal added to it cannot have the _ of a man",
+            a: "trappings",
         },
         {
-            q: "Sin created _ influence on earth",
-            a: "two",
+            q: "God cannot say something will be _ and come back to change it",
+            a: "forever",
         },
         {
-            q: "Man determines the _ and how far he goes",
-            a: "process",
+            q: "The law is as strong as when there's _",
+            a: "an enforcer",
         },
         {
-            q: "Allowing your _ to draw you away is your choice",
-            a: "desire",
+            q: "_ was never the promised land",
+            a: "Canaan",
         },
         {
-            q: "Even though God has no hand in _ but we still see him trying to ensure _",
-            a: "darkness, that light shines",
+            q: "_ and _ refers to something that God will do by himself",
+            a: "builder, maker",
         },
         {
-            q: "Light shinning through darkness is not _",
-            a: "automatic",
+            q: "The best of what the Jews fought for were _",
+            a: "shadows",
         },
         {
-            q: "We have _ cos God wants to shine light through darkness",
-            a: "opposition",
+            q: "God's home has never been in things and structures but in that _ destination which is man's spirit",
+            a: "final",
         },
         {
-            q: "_ was a situation where righteousness was the prevailing influence without sin",
-            a: "Eden",
+            q: "Since men could not fully discern the promise there will be plenty _",
+            a: "integrations",
         },
         {
-            q: "The _ that God has for man is also what will pull man out of darkness",
-            a: "life",
+            q: "_ are the additions men places in a bid to understand the entire message",
+            a: "integrations",
         },
         {
-            q: "There's _ in the light to crush darkness",
-            a: "potency",
+            q: "circumcision was a _ physical assurance for Abraham to show his covenant with God",
+            a: "permanent",
         },
         {
-            q: "The influence of the light will always overcome darkness as long as it is _",
-            a: "present",
+            q: "_ is self-generated",
+            a: "condemnation",
         },
         {
-            q: "The light will always find a way to sift through the _",
-            a: "cracks",
+            q: "once you buy the lie that Christ is not enough, the journey won't end with _",
+            a: "circumcision",
         },
         {
-            q: "No matter where the man is, he cannot deny that a measure of _ has happened to him",
-            a: "light",
+            q: "_ determines holiness",
+            a: "God",
         },
         {
-            q: "No man can deny God's _",
-            a: "intention",
+            q: "The _ that counts is the one that God counts",
+            a: "holiness",
         },
         {
-            q: "The preacher is simply to come and give _ to the light that has shinned in your heart",
-            a: "witness",
+            q: "A believer that says he cannot _ is insulting his nature",
+            a: "speak in tongues",
         },
         {
-            q: "The preacher comes to _ what has been _ in the heart of men.",
-            a: "affirm, stirred up",
+            q: "it is your identity that brings abour your _",
+            a: "authority",
         },
         {
-            q: "For the unbeliever, it is _ and not 'I don't know'",
-            a: "'I don't want'",
-        },
-        {
-            q: "Light will _ actions men don't want to let go of",
-            a: "expose",
-        },
-        {
-            q: "A man will have to present God's own _",
-            a: "argument",
-        },
-        {
-            q: "The gospel needs _ who will stand for it",
-            a: "men",
-        },
-        {
-            q: "To cripple the gospel, take _ out of the equation and expect _",
-            a: "men, God to come and fight for himself",
-        },
-        {
-            q: "_ are the players in history",
-            a: "Men",
-        },
-        {
-            q: "There's no advancement without _",
-            a: "men",
-        },
-        {
-            q: "The gospel is the _ for opposition and also the _ to oppositio",
-            a: "reason, solution",
-        },
-        {
-            q: "Our advancement is with _",
-            a: "the gospel",
-        },
-        {
-            q: "God did not promise us advancement without _",
-            a: "a fight",
-        },
-        {
-            q: "The proclamation of the gospel is called a _",
-            a: "war",
-        },
-        {
-            q: "Ministry is called a _. The minster is called a _",
-            a: "war, soldier",
-        },
-        {
-            q: "The only way to avoid the conflict is to _",
-            a: "entangle yourself with the world",
-        },
-        {
-            q: "Your devotion is yours to _",
-            a: "safeguard",
-        },
-        {
-            q: "Don't accept the _ on your devotion",
-            a: "blame",
+            q: "no conduct, actions, feelings is bigger that your _ in Christ",
+            a: "identity",
         }
     ]
 }

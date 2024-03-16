@@ -8,128 +8,64 @@ export const part_fifteen = {
     slug: "religion_of_peace_part_fifteen",
     questions: [
         {
-            q: "there's no _ to learning",
-            a: "shortcut",
+            q: "islam means _",
+            a: "peace",
         },
         {
-            q: "_ takes so much precision",
-            a: "BI",
+            q: "The man that _ has put himself on a journey and you must arrive at a particular destination",
+            a: "believes the scripture",
         },
         {
-            q: "You dont come to church to be _ but to learn",
-            a: "excited",
+            q: "We cannot all say we _ and arrive at different destinations",
+            a: "believe the scripture",
         },
         {
-            q: "you dont come to be _ but to be edified",
-            a: "hiked",
+            q: "The man's _ can exist independent of the body",
+            a: "spirit",
         },
         {
-            q: "you dont form conclusion based on a _",
-            a: "line",
+            q: "Man's spirit gives man _ while the body gives _",
+            a: "vitality, functionality",
         },
         {
-            q: "dont build people's faith on _",
-            a: "frivolities",
+            q: "God's image is not this _ of man",
+            a: "physical body",
         },
         {
-            q: "one major dominion of the devil on earth is _",
-            a: "wrong teaching",
+            q: "If man was already _ then it would have been impossible for man to fall",
+            a: "in God's image",
         },
         {
-            q: "it is in _ we discern who is used of God and who is used of the devil",
-            a: "doctrine",
+            q: "There was a _ representation that man was meant to fill by his choice",
+            a: "skeletal",
         },
         {
-            q: "_ is an embodiment of false teaching",
-            a: "antiChrist",
+            q: "Being a prophet is not by _",
+            a: "sentiment",
         },
         {
-            q: "_ is to take away from knowledge",
-            a: "seduction",
+            q: "If Muhammed did not resurrect, it means he does not have any _ to confer on any man",
+            a: "eternal blessing",
         },
         {
-            q: "the antiChrist speaks contrary to _",
-            a: "the doctrine of Christ",
+            q: "Going to _ does not take away a man sin",
+            a: "hajj",
         },
         {
-            q: "there's an intelligence in the normal man by which he can _ the wealth of the earth",
-            a: "harness",
+            q: "God only accepts the _ of sons who choose voluntarily to order their path according to his _",
+            a: "service, will",
         },
         {
-            q: "we don't do _ gospel, it is demonic",
-            a: "class",
+            q: "No matter how you desire, there are some _ that cannot be about you",
+            a: "scriptures",
         },
         {
-            q: "that idea of 'close your account for the gospel' is _",
-            a: "manipulative",
+            q: "Why is Jesus called Son of God",
+            a: "he is the custodian of all of God's blessings",
         },
         {
-            q: "giving is always based on individual _",
-            a: "discretion",
-        },
-        {
-            q: "_ is strongly against 'bring one amount'",
-            a: "the NT",
-        },
-        {
-            q: "Bounty is what _",
-            a: "you have",
-        },
-        {
-            q: "it is _ to start dealing with quantity in church",
-            a: "covetous",
-        },
-        {
-            q: "when you drop money in church, it is _ to expect multiplication",
-            a: "irreverence",
-        },
-        {
-            q: "God does not have any secret _ anywhere",
-            a: "bank",
-        },
-        {
-            q: "_ also has its own temptation",
-            a: "poverty",
-        },
-        {
-            q: "there are some portions of the bible that you cannot just apply like that for your _ use",
-            a: "day to day",
-        },
-        {
-            q: "you are a man so you are permitted to have _ property",
-            a: "Caeser's",
-        },
-        {
-            q: "Know what belongs to _ and what belongs to _",
-            a: "God, Caesar",
-        },
-        {
-            q: "We don't use _ to pursue things that are God's",
-            a: "Caesar's",
-        },
-        {
-            q: "We don't use God's tools to look for Caesar's _",
-            a: "wealth",
-        },
-        {
-            q: "Caesar has a way of giving out wealth and God _ it",
-            a: "respects",
-        },
-        {
-            q: "the bible is not a book to learn _ making",
-            a: "money",
-        },
-        {
-            q: "Jesus mentioned the fact that some people were _ but he did not teach _",
-            a: "wealthy, how",
-        },
-        {
-            q: "follow Caesar's way to get money but allow God to _",
-            a: "moderate you",
-        },
-        {
-            q: "you have right to _ of the earth cos you are a man",
-            a: "resources",
+            q: "How did Jesus become the Son of God?",
+            a: "Him becoming a man",
         },
     ]
 }

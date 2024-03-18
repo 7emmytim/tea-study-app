@@ -8,132 +8,180 @@ export const part_thirteen = {
     slug: "religion_of_peace_part_thirteen",
     questions: [
         {
-            q: "The man that prays is the man that _ God",
-            a: "trusts",
+            q: "By giving man choice, you have given him _",
+            a: "power",
         },
         {
-            q: "We don't give thanks for _ but we give thanks in _",
-            a: "all things, all things",
+            q: "The major reason why men don't see their actions as _ is cos of the way they view man as _ before God",
+            a: "powerful, slaves",
         },
         {
-            q: "We wont approach scriptures as a _, you use godly wisdom",
-            a: "dullard",
-        },
-        {
-            q: "A passage of the scripture should not have a _ interpretation",
-            a: "dual",
-        },
-        {
-            q: "You don't promise a man _ physical life cos he has believed the gospel",
-            a: "an upgraded",
-        },
-        {
-            q: "What a lot of people call prayers is actually _",
+            q: "Anything that takes away your choice and compel you to do what you don't want to do, that is _",
             a: "manipulation",
         },
         {
-            q: "We don't give men a new pursuit cos of the name _",
-            a: "Pastor",
+            q: "God gave each man a spirit and a _ in creation for them to embark on a journey of _ and arrive at him",
+            a: "witness, faith",
         },
         {
-            q: "As touching _, the mog only keeps his own ideas on the pulpit",
-            a: "politics",
+            q: "Man deliberately decide to _ what is meant to point him to God",
+            a: "change",
         },
         {
-            q: "Although the system by which we measure wealth is man's creation but the _ of the earth is the Lord's",
-            a: "abundance",
+            q: "To be able to say _ or _ is the biggest power that man has",
+            a: "yes, no",
         },
         {
-            q: "_ and _ are not things God gives everyday but what God has given",
-            a: "Wealth, intelligence",
+            q: "It might sound _ but that power even overrides God",
+            a: "audacious",
         },
         {
-            q: "Although God created but he has _",
-            a: "given",
+            q: "_ can either be your ally or enemy",
+            a: "Curiosity",
         },
         {
-            q: "Man has built _ by those earthly things",
-            a: "structures",
+            q: "_ would give you what experience will give you and spare you of _",
+            a: "Learning, the consequence",
         },
         {
-            q: "_ is a structure that men built by the things that God provided",
-            a: "Money",
+            q: "It is an attempt at _ before God that makes them see the worst of themselves in relation to God",
+            a: "humility",
         },
         {
-            q: "Men invented money as a means of _ and not God",
-            a: "hierarchy",
+            q: "The value of a thing is not _ generated",
+            a: "self",
         },
         {
-            q: "_ is also for men but not under the control of man",
-            a: "Heavens",
+            q: "Man cannot correctly judge his own _, he will always conclude in error",
+            a: "value",
         },
         {
-            q: "One of the sins of Adam was that he _ the earth but refused to _ the heavens",
-            a: "possessed, possess",
+            q: "You ask the _ what our value is to him",
+            a: "creator",
         },
         {
-            q: "No man is required to do away with _ to be saved",
-            a: "physical things",
+            q: "The value God placed on man is _",
+            a: "himself",
         },
         {
-            q: "Judas was called _ cos he missed out of the glory of the first apostles",
-            a: "son of perdition",
+            q: "Never think you _ more than God",
+            a: "love",
         },
         {
-            q: "Any message that still sees Jesus as _ cannot give you the Holy Ghost but can give you a justification to cash later",
-            a: "a promise to come",
+            q: "The real _ is to love the unlovable",
+            a: "strength",
         },
         {
-            q: "In Jesus' ministry, _ is key",
-            a: "priority",
+            q: "True power is displayed in _ and not in _",
+            a: "love, vengeance",
         },
         {
-            q: "It is not wise to just wake up and forsake your _, that's why you need a _",
-            a: "job, discipler",
+            q: "God shows his power in _",
+            a: "his love",
         },
         {
-            q: "Following Jesus is not for _",
-            a: "salvation",
+            q: "God by his _ has placed value on man and that value is that of a _",
+            a: "action, son",
         },
         {
-            q: "Money is a _ necessity in ministry",
-            a: "silent",
+            q: "_ must be your choice",
+            a: "service",
         },
         {
-            q: "Labourer is worthy of his hire is not for you to go and be collecting your hire everywhere, it is a statement of _",
-            a: "self control",
+            q: "We voluntarily give ourselves to God's _",
+            a: "service",
         },
         {
-            q: "Some people can pick this method and leave the _",
-            a: "training",
+            q: "Service is to be devoted to someone else cause to the _ of your own interest",
+            a: "disregarding",
         },
         {
-            q: "When you look at wealth in ministry, you are seeing _ and not _",
-            a: "sustenance, enjoyment",
+            q: "The service of _ is what God wants",
+            a: "sons",
         },
         {
-            q: "The contentment is relative to the _ he is talking about in 1 Timothy 6",
-            a: "godliness",
+            q: "Your disposition must not be that of _",
+            a: "entitlement",
         },
         {
-            q: "Jesus emphasised priority cos the _ ahead",
-            a: "dark days",
+            q: "There's a disposition in _ that says I just want to do what you want",
+            a: "service",
         },
         {
-            q: "Rebellious folks will call what Jesus did _",
-            a: "extremism",
+            q: "Serving as a response to _ is not what God wants",
+            a: "fear",
         },
         {
-            q: "To _ something strong is not to be an extremist",
-            a: "emphasize",
+            q: "Our prayer is not a duty, it is not to mark register. It is a _",
+            a: "relationship",
         },
         {
-            q: "We don't run more _ to sustain the gospel at the expense of the gospel",
-            a: "jobs",
+            q: "God does not want any service that is _",
+            a: "forced",
         },
         {
-            q: "God is not against wealth but we don't see ministry as a means of _",
-            a: "gain",
+            q: "It might be _ to give all and it might not be _",
+            a: "necessary, necessary",
+        },
+        {
+            q: "It is not a function of amount but a function of _",
+            a: "disposition",
+        },
+        {
+            q: "Worship is not _ cos the person you are worshipping is not tied to a _",
+            a: "location-based, physical location",
+        },
+        {
+            q: "There's a _ to worship God and it is in the spirit",
+            a: "how",
+        },
+        {
+            q: "True worship is _",
+            a: "spirit-based",
+        },
+        {
+            q: "The _ of worship defines the manner of worship",
+            a: "object",
+        },
+        {
+            q: "God assigns _ to record any man's sins",
+            a: "no angel",
+        },
+        {
+            q: "The way God wants men to _ him is to understand that there's forgiveness with him",
+            a: "reverence",
+        },
+        {
+            q: "If God does not record sin then no _ has that duty",
+            a: "angel",
+        },
+        {
+            q: "No one _, _ or _ has the responsibility from God to record any man's sin",
+            a: "angel, demon, man",
+        },
+        {
+            q: "If righteousness comes by _, no man will be justified",
+            a: "keeping good deeds",
+        },
+        {
+            q: "There is no _ and no _, it is not the function of the weight of sin",
+            a: "big sin, small sin",
+        },
+        {
+            q: "What determines the eternal destination of a man is not the presence or absence of _ but the presence or absence of _",
+            a: "sin, justification",
+        },
+        {
+            q: "If you are relying on your actions for eternal rest, it will never be _ and you will never be _",
+            a: "enough, certain",
+        },
+        {
+            q: "No variance between what Jesus came to do and the _",
+            a: "intention of God",
+        },
+        {
+            q: "In Christ, we are not offering you something that is _",
+            a: "uncertain",
         },
     ]
 }

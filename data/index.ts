@@ -11,7 +11,7 @@ export const sermons = [
     judaism.part_four,
     judaism.part_five,
     religion_of_peace.part_one,
-    // religion_of_peace.part_two,
+    religion_of_peace.part_two,
     religion_of_peace.part_three,
     religion_of_peace.part_four,
     religion_of_peace.part_five,
@@ -22,7 +22,7 @@ export const sermons = [
     religion_of_peace.part_ten,
     religion_of_peace.part_eleven,
     religion_of_peace.part_twelve,
-    // religion_of_peace.part_thirteen,
+    religion_of_peace.part_thirteen,
     religion_of_peace.part_fourteen,
     religion_of_peace.part_fifteen,
 ]

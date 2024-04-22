@@ -1,11 +1,11 @@
 import { Timer1 } from "iconsax-react";
 
 export const part_three = {
-    title: "Judaism",
+    title: "SDA",
     description: "Part 3",
     icon: Timer1,
     color: "#F7D060",
-    slug: "judaism_three",
+    slug: "sda_three",
     questions: [
         {
             q: "when people say Paul is _, it must be explained",

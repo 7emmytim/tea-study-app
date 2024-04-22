@@ -1,11 +1,11 @@
 import { Timer1 } from "iconsax-react";
 
 export const part_three = {
-    title: "Religion of Peace",
+    title: "Healings",
     description: "Part 3",
     icon: Timer1,
     color: "#F7D060",
-    slug: "religion_of_peace_part_three",
+    slug: "healings_part_three",
     questions: [
         {
             q: "the destination of _ to _ is that a man arrives at salvation",

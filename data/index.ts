@@ -1,28 +1,31 @@
 // import * as offices from "./offices"
 // import * as handling_oppositions from "./handling-oppositions"
 // import * as preachers_portfolio from "./preachers-portfolio"
-import * as judaism from "./judaism"
-import * as religion_of_peace from "./religion-of-peace"
+import * as sda from "./sda"
+import * as healings from "./healings"
+import * as faith from "./faith"
 
 export const sermons = [
-    judaism.part_one,
-    judaism.part_two,
-    judaism.part_three,
-    judaism.part_four,
-    judaism.part_five,
-    religion_of_peace.part_one,
-    religion_of_peace.part_two,
-    religion_of_peace.part_three,
-    religion_of_peace.part_four,
-    religion_of_peace.part_five,
-    religion_of_peace.part_six,
-    religion_of_peace.part_seven,
-    religion_of_peace.part_eight,
-    religion_of_peace.part_nine,
-    religion_of_peace.part_ten,
-    religion_of_peace.part_eleven,
-    religion_of_peace.part_twelve,
-    religion_of_peace.part_thirteen,
-    religion_of_peace.part_fourteen,
-    religion_of_peace.part_fifteen,
+    // healings.part_one,
+    // healings.part_two,
+    // healings.part_three,
+    // healings.part_four,
+    // healings.part_five,
+    // healings.part_six,
+    // healings.part_seven,
+    // healings.part_eight,
+    // healings.part_nine,
+    // sda.part_one,
+    // sda.part_two,
+    // sda.part_three,
+    // sda.part_four,
+    // sda.part_five,
+    // sda.part_six,
+    // faith.part_one,
+    // faith.part_two,
+    // faith.part_three,
+    // faith.part_four,
+    // faith.part_five,
+    // faith.part_six,
+    // faith.part_seven
 ]

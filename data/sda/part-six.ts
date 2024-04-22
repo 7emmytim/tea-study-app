@@ -1,11 +1,11 @@
 import { Timer1 } from "iconsax-react";
 
-export const part_four = {
-    title: "Judaism",
-    description: "Part 4",
+export const part_six = {
+    title: "SDA",
+    description: "Part 6",
     icon: Timer1,
     color: "#F7D060",
-    slug: "judaism_four",
+    slug: "sda_six",
     questions: [
         {
             q: "In Christ, the _ you are trying to find in the law is found",

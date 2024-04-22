@@ -1,11 +1,11 @@
 import { Timer1 } from "iconsax-react";
 
 export const part_two = {
-    title: "Judaism",
+    title: "SDA",
     description: "Part 2",
     icon: Timer1,
     color: "#F7D060",
-    slug: "judaism_two",
+    slug: "sda_two",
     questions: [
         {
             q: "The reason they have such importance to David's kingdom and that place is cos of a misinterpretation of an utterance from _ to _",

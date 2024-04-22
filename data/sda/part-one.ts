@@ -1,11 +1,11 @@
 import { Timer1 } from "iconsax-react";
 
 export const part_one = {
-    title: "Judaism",
+    title: "SDA",
     description: "Part 1",
     icon: Timer1,
     color: "#F7D060",
-    slug: "judaism_one",
+    slug: "sda_one",
     questions: [
 
         {
@@ -57,7 +57,7 @@ export const part_one = {
             a: "entirety, sincerely",
         },
         {
-            q: "Judaism is a teaching founded on the premise that the Jews have a _, _ relationship with God",
+            q: "SDA is a teaching founded on the premise that the Jews have a _, _ relationship with God",
             a: "special, solo",
         },
         {

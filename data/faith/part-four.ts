@@ -8,97 +8,152 @@ export const part_four = {
     slug: "maximizing_the_spirituals_faith_four",
     questions: [
         {
-            q: "If there was no _, there will be no need to tell saints to _",
-            a: "opposition, contend",
+            q: "Have the uttermost honour for the _ and the _",
+            a: "gathering, activities in the gathering",
         },
         {
-            q: "God is not interested in making sense in man's _ of sense",
-            a: "definition",
+            q: "Your _ is tied to how much you honour exactly what is going on",
+            a: "profiting",
         },
         {
-            q: "Weapons of destruction will become tools for _ cos of the gospel",
-            a: "productivity",
+            q: "There are simple things we do that connote _ and _",
+            a: "order, discipline",
         },
         {
-            q: "God will replace man's knowledge of _ and _ with the knowledge of himself and the end result will be peace",
-            a: "wickedness, war",
+            q: "When it comes to any _ concept, man's responsibility is to first examine what God has done and follow",
+            a: "spiritual",
         },
         {
-            q: "In the reign of _, we will see peace",
-            a: "righteousness",
+            q: "I know what is _ by seeing what God has done",
+            a: "right",
         },
         {
-            q: "_ is not seen in man's action",
-            a: "Peace",
+            q: "For the believer, what _ us is faith and not sight",
+            a: "regulates",
         },
         {
-            q: "Every child of God is a _",
-            a: "peacemaker",
+            q: "Faith should guide my physical _",
+            a: "eyes",
         },
         {
-            q: "The man on rebellion is on a _ war with God",
-            a: "one-sided",
+            q: "Faith must guide how I see even with my _",
+            a: "physical eyes",
         },
         {
-            q: "_ is the cure for opposition",
-            a: "The gospel",
+            q: "Faith makes me realise that there are _ things to see",
+            a: "weightier",
         },
         {
-            q: "Christ made that peace happen so that there will be an eradication of _",
-            a: "distinction",
+            q: "There is nothing we do outside the faith of _",
+            a: "the Son",
         },
         {
-            q: "The goal of every opposition is to get the believer to retract his _",
-            a: "identity",
+            q: "The believer is to act _ based on the same faith he has received",
+            a: "daily",
         },
         {
-            q: "Satan is after the believer's _",
-            a: "faith",
+            q: "Even in the supernatural, stop waiting for _ or _ faith",
+            a: "an extra, special",
         },
         {
-            q: "No matter how the attack comes, the intention of the devil is to _ the way of God",
-            a: "pervert",
+            q: "_ and _ happen by the same message of faith",
+            a: "Salvation, miracles",
         },
         {
-            q: "There's a burning _ that the gospel should not advance and increase",
-            a: "determination",
+            q: "_ is more potent",
+            a: "The unseen",
         },
         {
-            q: "The real evil man is the man that _ your words",
-            a: "opposes",
+            q: "What I cannot _ decides what I _",
+            a: "see, see",
         },
         {
-            q: "Real _ is to block the message",
-            a: "evil",
+            q: "The _ shapes the _",
+            a: "unseen, seen",
         },
         {
-            q: "Once there's a fight against the message, know that _ is there",
-            a: "Satan",
+            q: "A man who says he has faith, we will see it in his _ and _",
+            a: "words, actions",
         },
         {
-            q: "Bible said Satan entered Judas cos of the _ we saw",
-            a: "activity",
+            q: "Faith is not about _",
+            a: "mental assent",
         },
         {
-            q: "We see Satan in the _ of men to prevent the spread of the gospel",
-            a: "actions",
+            q: "As a man you will have the _ and the _ but what you focus on is _",
+            a: "seen, unseen, your choice",
         },
         {
-            q: "The activity of _, we attribute it to the devil",
-            a: "false doctrine",
+            q: "What you cannot see is _ than what you can see",
+            a: "greater",
         },
         {
-            q: "Behind opposition, we know the _ at work",
-            a: "face",
+            q: "Faith _ that you trust God above everything else",
+            a: "demands",
         },
         {
-            q: "Opposition can come packaged as a _, it does not always come as _",
-            a: "job, joblessness",
+            q: "Confidence in the physical is not _ for the believer",
+            a: "an option",
         },
         {
-            q: "The first to know in opposition is to know _ so you know how you can fight",
-            a: "your enemy",
+            q: "The physical may look more potent but that's a _",
+            a: "deception",
         },
-
+        {
+            q: "The believer has _ choice, choose the side that you are on",
+            a: "only one",
+        },
+        {
+            q: "Your knowledge of God should amplify your _",
+            a: "trust in him",
+        },
+        {
+            q: "You cannot say you _ God and not _ him",
+            a: "know, trust",
+        },
+        {
+            q: "God's _ is that he does not abandon a man that trusts him",
+            a: "track record",
+        },
+        {
+            q: "Your trust in God will not end in _ or _",
+            a: "shame, disappointment",
+        },
+        {
+            q: "To trust God is to my _",
+            a: "advantage",
+        },
+        {
+            q: "My heart is _ trusting God",
+            a: "stable",
+        },
+        {
+            q: "The same _ that gives you the Spirit is the same _ that is used in the supernatural",
+            a: "hearing of faith, hearing of faith",
+        },
+        {
+            q: "The believer is the most _ person in the planet",
+            a: "assured",
+        },
+        {
+            q: "God has over _ the believer",
+            a: "assured",
+        },
+        {
+            q: "God has done all to assure you of his eternal _",
+            a: "goodness",
+        },
+        {
+            q: "Someone can be in the midst of the greatest _ and all he is seeing is still _",
+            a: "hardship, God's faithfulness",
+        },
+        {
+            q: "_ is not denial",
+            a: "Faith",
+        },
+        {
+            q: "As long as you are a man, _ will always come up",
+            a: "the physical",
+        },
     ]
 }

@@ -8,104 +8,184 @@ export const part_five = {
     slug: "maximizing_the_spirituals_faith_five",
     questions: [
         {
-            q: "A believer must not be unwise as touching _",
-            a: "oppositions",
+            q: "There's something the believer must esteem so high, there's something he must consider _ and that's God's word",
+            a: "absolute",
         },
         {
-            q: "The reason many failed is cos they see _ as the primary target of oppositions",
-            a: "themselves",
+            q: "What God has _ is the anchor of our faith",
+            a: "said",
         },
         {
-            q: "It's a trial of your faith and not a trial of _",
-            a: "you",
+            q: "You must hold on to God's word as _",
+            a: "absolute",
         },
         {
-            q: "Your _ responsibility in opposition is to keep doing that same thing that triggered that opposition in the first place",
-            a: "primary",
+            q: "Faith is to agree with what God has _",
+            a: "said",
         },
         {
-            q: "We don't allow the devil win by ensuring that _ is not stopped",
-            a: "the message",
+            q: "You cannot _ God's word",
+            a: "fault",
         },
         {
-            q: "The message you are preaching is _ errand",
-            a: "God's",
+            q: "Trusting in something that is tried comes easy when you understand that this is _",
+            a: "a true brand",
         },
         {
-            q: "The mandate of the gospel is not from _ but _ war for _, fought by _",
-            a: "man, God's, man, men",
+            q: "God does not _ with man",
+            a: "crack joke",
         },
         {
-            q: "If the preaching is God's _ and we are facing opposition, it means the opposition is not _",
-            a: "assignment, of God",
+            q: "If it is _ then it has the backing of God",
+            a: "God's word",
         },
         {
-            q: "We don't exalt our _ above the progress of the gospel",
-            a: "bonds",
+            q: "No word of God is _ or _",
+            a: "purposeless, aimless",
         },
         {
-            q: "Check if the gospel is still making progress through your _ else you are not _",
-            a: "actions, handling oppositions",
+            q: "Where God's word is, _ is there",
+            a: "God's power",
         },
         {
-            q: "Opposition is a sign that you are on _",
-            a: "the Lord's side",
+            q: "Don't just look at men, receive the _",
+            a: "words",
         },
         {
-            q: "Paul said he was going to stay cos of the _ until it becomes _ to stay",
-            a: "opportunity, impossible",
+            q: "_ is to stand on God's word that you have received",
+            a: "Faith",
         },
         {
-            q: "It will never get to a time when Satan will cease to oppose the gospel cos that's his own _",
-            a: "devotion",
+            q: "God's word is my _",
+            a: "lifeline",
         },
         {
-            q: "In all of your _, you don't expect to be _ in anyone's agenda",
-            a: "relationships, first",
+            q: "God does not _ with his words so I won't",
+            a: "joke",
         },
         {
-            q: "Christ showed us the example of how to prefer _ less",
-            a: "self",
+            q: "The great miracle of incarnation happened by someone accepting _",
+            a: "the word",
         },
         {
-            q: "God showed us the way of not counting your life _",
-            a: "dear",
+            q: "All the explanation you need to give is that I _",
+            a: "saw God",
         },
         {
-            q: "The Gospel _ people's lives",
-            a: "relocates",
+            q: "We get into problems when we try to _ and _ to the senses",
+            a: "explain, appeal",
         },
         {
-            q: "To deny is to affirm that you don't have _ with someone",
-            a: "an acquaintance",
+            q: "_ will never give you evidence that will help you",
+            a: "The physical",
         },
         {
-            q: "Why people fail in _ is cos they don't want to lose sight of what is interesting to them",
-            a: "oppositions",
+            q: "For every negative experience, there are _ of positive",
+            a: "millions",
         },
         {
-            q: "Immediately you fail to _ yourself, you have _ Christ",
-            a: "deny, denied",
+            q: "You must be able to bank everything you have based on _",
+            a: "words spoken",
         },
         {
-            q: "Sacrifice gets _. So long as you don't _, it gets _",
-            a: "easier, succumb, better",
+            q: "Jesus did not give his disciples anything more than _",
+            a: "words",
         },
         {
-            q: "Don't focus first on what _, focus on the ministry of Christ",
-            a: "you cannot let go of",
+            q: "I _ cos God said so",
+            a: "go",
         },
         {
-            q: "A man that can count the cost and _ is a man that will overcome oppositions",
-            a: "move on",
+            q: "If you have not learnt to trust those words, you will just be _",
+            a: "helpless",
         },
         {
-            q: "We handle opposition by minding _",
-            a: "our business",
+            q: "The words spoken by Jesus are already a reality for the man who believes to _",
+            a: "manifest",
         },
         {
-            q: "You must keep doing what you are doing and not let your _ contradict your _",
-            a: "actions, faith",
-        }
+            q: "I am not _ to God's power",
+            a: "an exception",
+        },
+        {
+            q: "_ is not an assumption",
+            a: "faith",
+        },
+        {
+            q: "_ is not a joke for me, it is not a casual activity",
+            a: "prayer",
+        },
+        {
+            q: "The permanent indwelling of the Holy Ghost is my assurance of _",
+            a: "answered prayers",
+        },
+        {
+            q: "There's a _ and _ that comes from when you receive answers to prayers",
+            a: "beauty, joy",
+        },
+        {
+            q: "Don't think faith has worked when everything is _",
+            a: "rosy",
+        },
+        {
+            q: "Faith is _ as I am standing in faith",
+            a: "working",
+        },
+        {
+            q: "It is the _ man that will say come and show your faith based on what you have in the physical",
+            a: "foolish",
+        },
+        {
+            q: "I don't say my faith has _ cos my circumstances have changed",
+            a: "worked",
+        },
+        {
+            q: "In the midst of it, my trusting God is _ already",
+            a: "victory",
+        },
+        {
+            q: "My faith is _ already",
+            a: "victory",
+        },
+        {
+            q: "_ to lose faith will show up always",
+            a: "opportunities",
+        },
+        {
+            q: "It is better I trust God even though it looks like I am in _",
+            a: "darkness",
+        },
+        {
+            q: "When the victory is yet to manifest, your duty is to keep his _ in your mind",
+            a: "voice",
+        },
+        {
+            q: "There are _ to seeking alternatives to God",
+            a: "dangers",
+        },
+        {
+            q: "_ is not pretence",
+            a: "faith",
+        },
+        {
+            q: "When you feel that immediate _, that is not the time to lose your gaze on what made you have that _",
+            a: "relief, relief",
+        },
+        {
+            q: "Faith is to keep your focus on _",
+            a: "God's words",
+        },
+        {
+            q: "Stop succumbing to situations as if you don't have _",
+            a: "another reality",
+        },
+        {
+            q: "Faith is an exception to _",
+            a: "medicine",
+        },
+        {
+            q: "The man who cannot have faith is the one that has not _ anything",
+            a: "heard",
+        },
     ]
 }

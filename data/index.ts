@@ -21,11 +21,11 @@ export const sermons = [
     // sda.part_four,
     // sda.part_five,
     // sda.part_six,
-    // faith.part_one,
-    // faith.part_two,
-    // faith.part_three,
-    // faith.part_four,
-    // faith.part_five,
-    // faith.part_six,
-    // faith.part_seven
+    faith.part_one,
+    faith.part_two,
+    faith.part_three,
+    faith.part_four,
+    faith.part_five,
+    faith.part_six,
+    faith.part_seven
 ]

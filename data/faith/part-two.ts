@@ -8,136 +8,168 @@ export const part_two = {
     slug: "maximizing_the_spirituals_faith_two",
     questions: [
         {
-            q: "The introduction of the Bible is a summary of God's will in spite of _",
-            a: "man's state",
+            q: "I may be _ but I am not without God",
+            a: "tired",
         },
         {
-            q: "God has no intention to abandon man to the _ of man's way so he commanded light to shine out of darkness",
-            a: "foolishness",
+            q: "You don't _ all your learning when circumstances of life comes up",
+            a: "throw away",
         },
         {
-            q: "We can call the Bible a _ of how light travelled through the ages",
-            a: "documentation",
+            q: "To _ is to get the best use out of something",
+            a: "maximise",
         },
         {
-            q: "Sin created _ influence on earth",
-            a: "two",
+            q: "God has bever asked man to _ him in a vacuum",
+            a: "believe",
         },
         {
-            q: "Man determines the _ and how far he goes",
-            a: "process",
+            q: "There's a _ basis for God to demand faith from man",
+            a: "justifiable",
         },
         {
-            q: "Allowing your _ to draw you away is your choice",
-            a: "desire",
+            q: "Faith is not _",
+            a: "wishful thinking/fanciful imagination",
         },
         {
-            q: "Even though God has no hand in _ but we still see him trying to ensure _",
-            a: "darkness, that light shines",
+            q: "Faith is a _ based on the reliability of God's nature",
+            a: "concrete assurance",
         },
         {
-            q: "Light shinning through darkness is not _",
-            a: "automatic",
-        },
-        {
-            q: "We have _ cos God wants to shine light through darkness",
-            a: "opposition",
-        },
-        {
-            q: "_ was a situation where righteousness was the prevailing influence without sin",
-            a: "Eden",
-        },
-        {
-            q: "The _ that God has for man is also what will pull man out of darkness",
-            a: "life",
-        },
-        {
-            q: "There's _ in the light to crush darkness",
-            a: "potency",
-        },
-        {
-            q: "The influence of the light will always overcome darkness as long as it is _",
-            a: "present",
-        },
-        {
-            q: "The light will always find a way to sift through the _",
-            a: "cracks",
-        },
-        {
-            q: "No matter where the man is, he cannot deny that a measure of _ has happened to him",
-            a: "light",
-        },
-        {
-            q: "No man can deny God's _",
-            a: "intention",
-        },
-        {
-            q: "The preacher is simply to come and give _ to the light that has shinned in your heart",
+            q: "Faith is to give _ to God's faithfulness",
             a: "witness",
         },
         {
-            q: "The preacher comes to _ what has been _ in the heart of men.",
-            a: "affirm, stirred up",
+            q: "One of the use of this Bible in your hands is to _ God's faithfulness to you",
+            a: "prove",
         },
         {
-            q: "For the unbeliever, it is _ and not 'I don't know'",
-            a: "'I don't want'",
+            q: "This book (Bible) is a _ of God's faithfulness",
+            a: "catalogue",
         },
         {
-            q: "Light will _ actions men don't want to let go of",
-            a: "expose",
+            q: "_ shows that reliability",
+            a: "Faithfulness",
         },
         {
-            q: "A man will have to present God's own _",
-            a: "argument",
+            q: "God performs his action of _ as a proof of his own faithfulness",
+            a: "salvation",
         },
         {
-            q: "The gospel needs _ who will stand for it",
-            a: "men",
+            q: "God is communicating his faithfulness by his own _",
+            a: "action",
         },
         {
-            q: "To cripple the gospel, take _ out of the equation and expect _",
-            a: "men, God to come and fight for himself",
+            q: "In God's _ and _, we see his faithfulness",
+            a: "intention, execution",
         },
         {
-            q: "_ are the players in history",
-            a: "Men",
+            q: "His faithfulness reaching to the clouds is just an adjective to describe the _ of God's faithfulness",
+            a: "vastness",
         },
         {
-            q: "There's no advancement without _",
-            a: "men",
+            q: "God's word has no _",
+            a: "alteration",
         },
         {
-            q: "The gospel is the _ for opposition and also the _ to oppositio",
-            a: "reason, solution",
+            q: "God has been utterly faithful to his cause despite man's _",
+            a: "agenda",
         },
         {
-            q: "Our advancement is with _",
-            a: "the gospel",
+            q: "God is unfailing in his _",
+            a: "love",
         },
         {
-            q: "God did not promise us advancement without _",
-            a: "a fight",
+            q: "God's _ and _ goes together",
+            a: "lovingkindness, faithfulness",
         },
         {
-            q: "The proclamation of the gospel is called a _",
-            a: "war",
+            q: "God is not just saying he is _, he is saying that he is faithful in that _",
+            a: "good, goodness",
         },
         {
-            q: "Ministry is called a _. The minster is called a _",
-            a: "war, soldier",
+            q: "You must be absolutely _ of God's faithfulness",
+            a: "certain",
         },
         {
-            q: "The only way to avoid the conflict is to _",
-            a: "entangle yourself with the world",
+            q: "The _ you have is cos God is faithful",
+            a: "security",
         },
         {
-            q: "Your devotion is yours to _",
-            a: "safeguard",
+            q: "I have _ and I trust that God will do his part",
+            a: "prayed",
         },
         {
-            q: "Don't accept the _ on your devotion",
-            a: "blame",
-        }
+            q: "The basis why we _ is cos God is faithful",
+            a: "pray",
+        },
+        {
+            q: "When you are _, the question is who are you copying that from",
+            a: "vacillating",
+        },
+        {
+            q: "You are to take your eyes from _ to God's faithfulness",
+            a: "physical circumstances",
+        },
+        {
+            q: "Your makeup is a _ that you can overcome temptation",
+            a: "guarantee",
+        },
+        {
+            q: "When it comes to the spirituals, it should actually be the believer's _",
+            a: "playground",
+        },
+        {
+            q: "When it comes to the spirituals, the _ should keep quiet",
+            a: "scientist",
+        },
+        {
+            q: "When it comes to things pertaining to the spirituals, the believer cannot say he has a _ problem cos that was how you got here in the first place",
+            a: "faith",
+        },
+        {
+            q: "It is in the place of the spirituals that _ tends to creep in",
+            a: "doubt",
+        },
+        {
+            q: "You must do all you can to magnify _ in your head",
+            a: "God's faithfulness",
+        },
+        {
+            q: "Don't let anybody's _ be the reason for your own faith or not",
+            a: "testimony",
+        },
+        {
+            q: "The basis for what you fix your mind on in the spirituals is _",
+            a: "God's faithfulness",
+        },
+        {
+            q: "Faith is not in _ but on God",
+            a: "situations",
+        },
+        {
+            q: "You must do all to ensure that you don't ascribe _ to God",
+            a: "unfaithfulness",
+        },
+        {
+            q: "ame way I can't doubt his _, I can't doubt his faithfulness",
+            a: "salvation",
+        },
+        {
+            q: "_ is a testimony that God is faithfu",
+            a: "The Spirit in me",
+        },
+        {
+            q: "God is more faithful than the _ that medicine has provided",
+            a: "drugs",
+        },
+        {
+            q: "I will not utter words like _",
+            a: "an unbeliever",
+        },
+        {
+            q: "God is faithful and I am a _",
+            a: "witness",
+        },
     ]
 }

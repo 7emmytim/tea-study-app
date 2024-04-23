@@ -7,83 +7,205 @@ export const part_one = {
     color: "#F7D060",
     slug: "maximizing_the_spirituals_faith_one",
     questions: [
-
         {
-            q: "The _ we have is what we see as precious",
+            q: "It is very possible for the believer to be _ as touching the spirituals",
+            a: "unintelligent",
+        },
+        {
+            q: "When you are unintelligent, it will show in your _",
+            a: "actions",
+        },
+        {
+            q: "Even if you _ it, ensure you are taught it",
+            a: "caught",
+        },
+        {
+            q: "When you are asked questions, let your default response not be _",
+            a: "I don't know",
+        },
+        {
+            q: "If you cannot pass on something fully, you are not _",
+            a: "an effective minister",
+        },
+        {
+            q: "How well you can share your faith is based on how well you _",
+            a: "understand",
+        },
+        {
+            q: "The criteria to _ is that you understand",
+            a: "teach",
+        },
+        {
+            q: "When you say I can't _, it means you are saying you don't understand",
+            a: "teach",
+        },
+        {
+            q: "Paul's writing is a function and proof of his _",
+            a: "understanding",
+        },
+        {
+            q: "_ does not water down the potency of the spirituals",
+            a: "Explanation",
+        },
+        {
+            q: "It does not cease to be _ cos you can explain it",
+            a: "spectacular",
+        },
+        {
+            q: "Learn to treasure _",
+            a: "explanation",
+        },
+        {
+            q: "Explanation of the spirituals should not make you disdain the _",
+            a: "process",
+        },
+        {
+            q: "_ makes it easy for persons to accept it",
+            a: "explanation",
+        },
+        {
+            q: "It is not out of place to _ the spirituals periodically",
+            a: "study",
+        },
+        {
+            q: "One major reason we must study the spirituals is cos it is the _",
+            a: "spirituals",
+        },
+        {
+            q: "One major area where the believer must always be at attention to make sure the physical does not override is the area of _",
             a: "faith",
         },
         {
-            q: "Faith in the context of 1 Peter 1 is our _, _ and _",
-            a: "identity, message, life",
+            q: "God is the source of _ and all _",
+            a: "good, actions of good",
         },
         {
-            q: "The reason you have this faith is cos of something that is _",
-            a: "priceless",
+            q: "God does not need man to model an action of _ for him to follow",
+            a: "good",
         },
         {
-            q: "You shine as light by holding out _",
-            a: "the word of life",
+            q: "God is the pioneer of _",
+            a: "good",
         },
         {
-            q: "Compromise is never _. The opposition will always _",
-            a: "enough, demand more",
+            q: "If a man attempts to originate an action before God, it is most likely _",
+            a: "evil",
         },
         {
-            q: "_ will never be satisfied with a little part of you",
-            a: "The world",
+            q: "There is no _ outside God",
+            a: "good",
         },
         {
-            q: "When you try to take your stand, the world will try to push back till you start seeing _ as the reason for your problem",
-            a: "God",
+            q: "There is only one _ of good and that is God",
+            a: "source",
         },
         {
-            q: "When you accept to serve their own way, there will no longer be _",
-            a: "an obvious distinction between you and them",
+            q: "God's actions are _ actions",
+            a: "good",
         },
         {
-            q: "The opposition wants to withhold _",
-            a: "resources",
+            q: "If it is from God then you can be sure that it is _",
+            a: "good",
         },
         {
-            q: "Once you don't back down, the result will be that you will be able to _",
-            a: "serve God",
+            q: "God does not ask man to do something if he has not modelled the _",
+            a: "pattern",
         },
         {
-            q: "The goal of the opposition is to see how much they can diminish _",
-            a: "your devotion",
+            q: "_ and _ is an institution of God",
+            a: "Copy, paste",
         },
         {
-            q: "Your goal as a believer is to stand your ground, no _",
-            a: "compromise",
+            q: "God's idea of _ is that he goes beyond man's expectation",
+            a: "love",
         },
         {
-            q: "The world will not support my _ in this journey",
-            a: "progress",
+            q: "For a believer, your standard is _",
+            a: "Christ",
         },
         {
-            q: "A lot get upset cos they are expecting _ from people that do not value their faith",
-            a: "support",
+            q: "In _, we see God serving man",
+            a: "creation/redemption",
         },
         {
-            q: "The world's  is not God's _, the world's _ is not God's _",
-            a: "standard, system",
+            q: "Jesus made it clear that he is the only _",
+            a: "master",
         },
         {
-            q: "Even in the little things, you will still be met with _, _ it",
-            a: "rejection, expect",
+            q: "_ is to let go of something precious",
+            a: "Sacrifice",
         },
         {
-            q: "In the middle of oppositions, remember that _ is more precious than whatever the world has to offer",
-            a: "your faith",
+            q: "Hating your life will mean _",
+            a: "sacrifice",
         },
         {
-            q: "Nothing the world can offer me is worth _",
-            a: "losing this faith for",
+            q: "Jesus mirrored for us the path way to _ and he said it is by a life of sacrifice",
+            a: "fruitfulness",
         },
         {
-            q: "Part of the inheritance you have as a saint in Christ is to be _ to opposition",
-            a: "opened",
+            q: "God has been _ and _ that his character is mercy",
+            a: "clear, consistent",
         },
-
+        {
+            q: "Man is not more _ than God",
+            a: "merciful",
+        },
+        {
+            q: "God is the embodiment of _ to all types of men",
+            a: "mercy",
+        },
+        {
+            q: "If you are not mirroring _, know that God is not there",
+            a: "mercy",
+        },
+        {
+            q: "The believer is equipped to _ God",
+            a: "mirror",
+        },
+        {
+            q: "You are not asked to go and _ an action to copy",
+            a: "borrow",
+        },
+        {
+            q: "To mirror God is to express the _ that you have",
+            a: "characteristics",
+        },
+        {
+            q: "_ is not an impossible task",
+            a: "Living right",
+        },
+        {
+            q: "We don't abandon that _ of God",
+            a: "character",
+        },
+        {
+            q: "In faith, the believer must arm himself with the _ of God",
+            a: "faithfulness",
+        },
+        {
+            q: "You must see God as _",
+            a: "faithful",
+        },
+        {
+            q: "Past victories are to strengthen us for _ battles",
+            a: "tomorrow's",
+        },
+        {
+            q: "It might be _ but the battle of faith is still the same",
+            a: "a new day",
+        },
+        {
+            q: "God will not tell man to _ an action",
+            a: "originate",
+        },
+        {
+            q: "For the believer, we see God's faithfulness in _",
+            a: "salvation",
+        },
+        {
+            q: "If the believe cannot be assured of _ then there's no point in doing anything",
+            a: "God's faithfulness",
+        },
     ]
 }

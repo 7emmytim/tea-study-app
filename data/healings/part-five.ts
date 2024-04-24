@@ -8,112 +8,84 @@ export const part_five = {
     slug: "healings_part_five",
     questions: [
         {
-            q: "_ suggests a writing or a documentation",
-            a: "scriptures",
+            q: "the _ God does to our body is to heal it",
+            a: "least",
         },
         {
-            q: "if there was no documentation, there will be no standard of _",
-            a: "truth",
+            q: "there's no grace in Christ to _ sickness",
+            a: "manage",
         },
         {
-            q: "We use the documentation to jugde _",
-            a: "correctness",
+            q: "the best God will do will be to give us a _",
+            a: "new body",
         },
         {
-            q: "the documentation is God's _",
-            a: "idea",
+            q: "God is also anxious for us to get a _",
+            a: "new body",
         },
         {
-            q: "no single individual can claim _ to the Bible",
-            a: "copyright",
+            q: "although you have the Spirit but the Spirit also has _ for you",
+            a: "promises",
         },
         {
-            q: "we have only one _ referred to as scriptures",
-            a: "documentation",
+            q: "the Spirit in us is the proof and the reality of the coming _",
+            a: "resurrection",
         },
         {
-            q: "God did not _ any other book outside the scriptures",
-            a: "author",
+            q: "light affliction will refer to _",
+            a: "mortality",
         },
         {
-            q: "it is cos God authored scriptures that's why we have that level of _ in the scriptures",
-            a: "coherence",
+            q: "we can have healing as a _",
+            a: "taste",
         },
         {
-            q: "the _ is possible cos there is one author",
-            a: "coherence",
+            q: "_ is the full food",
+            a: "the new body",
         },
         {
-            q: "the scripture is about that _ information that God placed in the heart of men",
-            a: "central",
+            q: "the message of rapture _ the saints",
+            a: "gladdens",
         },
         {
-            q: "that central information is what we call _",
-            a: "prophecies",
+            q: "if by the Spirit i will have _ then I can enjoy health now",
+            a: "a new body",
         },
         {
-            q: "what makes the scripures what it is is cos of the _ in it and not just _ in it",
-            a: "prophecies, everything",
+            q: "we have symptoms of _",
+            a: "good things",
         },
         {
-            q: "the _ contains the bulk of the OT portion",
-            a: "history",
+            q: "as long as the indwelling of the Spirit is eternal, it means our healing too in _",
+            a: "not conditional",
         },
         {
-            q: "in picking relevance from the utterance of _, you must be careful",
-            a: "Job",
+            q: "when ministering healing to people, don't give them _",
+            a: "conditions",
         },
         {
-            q: "_ documented his own folly",
-            a: "Job",
+            q: "same way God works in you ro forgive your neighbour is the same way he works in you to _",
+            a: "heal your body",
         },
         {
-            q: "we value scriptures as God _, not cos of anything else but cos of that _",
-            a: "inspired, central information",
+            q: "the heart of _ is one of the realities we have in Christ",
+            a: "forgiveness",
         },
         {
-            q: "it is man's duty to _",
-            a: "write",
+            q: "that you are not perfect in some areas does not mean you should resolve your life to _",
+            a: "sickness",
         },
         {
-            q: "when you see a reference of the angel of the Lord writing, it refers to the _ around that time",
-            a: "supernatural influence",
+            q: "don't teach _ as a condition to receive healing",
+            a: "forgiveness",
         },
         {
-            q: "_ had a duty of multiplying the writings",
-            a: "men",
+            q: "if you focus on Christ, you will find that heart of _ and _",
+            a: "love, healings",
         },
         {
-            q: "_ is to aid men to pay attention",
-            a: "documentation",
-        },
-        {
-            q: "it is recognised everywhere that it is men that wrote scriptures and it did not _",
-            a: "fall from God",
-        },
-        {
-            q: "the fact that a man wrote it down does not diminish the value of the _",
-            a: "source",
-        },
-        {
-            q: "Moses wrote but it was still _",
-            a: "the word of the Lord",
-        },
-        {
-            q: "the _ of the scripture must be maintained",
-            a: "integrity",
-        },
-        {
-            q: "men wrote it but it is still _",
-            a: "divine",
-        },
-        {
-            q: "cos men are _, they might make mistake in their documentation",
-            a: "not perfect",
-        },
-        {
-            q: "Cos it is divine we can count on it to build _",
-            a: "doctrine",
+            q: "God does not use sickness to take back his own _",
+            a: "pound of flesh",
         },
     ]
 }

@@ -8,96 +8,120 @@ export const part_seven = {
     slug: "healings_part_seven",
     questions: [
         {
-            q: "The local church is a _, every other thing is a _",
-            a: "school, side attraction",
+            q: "there's an attitude the believer must have towards _",
+            a: "Holy Ghost meetings",
         },
         {
-            q: "_ is what we are here for",
-            a: "The word",
-        },
-        {
-            q: "The _ must teach us the word",
-            a: "singing",
-        },
-        {
-            q: "This is not where you come to _ the sorrows of the week",
-            a: "drown",
-        },
-        {
-            q: "Your pastor is not an _",
-            a: "entertainer",
-        },
-        {
-            q: "There's an attitude in _ that the believer must learn",
-            a: "note taking",
-        },
-        {
-            q: "Note taking is not to jot down _",
-            a: "key points",
-        },
-        {
-            q: "If someone not in service cannot take your note and get _, you have failed in _",
-            a: "coherence, note taking",
-        },
-        {
-            q: "Your note taking is a _ of what happened",
-            a: "documentation",
-        },
-        {
-            q: "I know it before is not an excuse not to _",
-            a: "write it down",
-        },
-        {
-            q: "We can accept Zechariah's prophecy cos it tallies with _",
-            a: "the divine will",
-        },
-        {
-            q: "In the midst of history, we can see the _",
-            a: "prophecies",
-        },
-        {
-            q: "John was the bring the people a _ that they needed salvation",
+            q: "you need _ to walk in what you have received",
             a: "consciousness",
         },
         {
-            q: "You cannot claim the Lord is my shepherd and not _",
-            a: "believe in Jesus",
+            q: "the fellowship with the Holy Ghost does not stop in _",
+            a: "the church",
         },
         {
-            q: "The _ message that the prophets all spoke about were fulfilled in Jesus",
-            a: "cental",
+            q: "_ is just there to set up your week for signs and wonders",
+            a: "service",
         },
         {
-            q: "Jesus is _ personified",
-            a: "the message",
+            q: "don't be current, be _",
+            a: "full of power",
         },
         {
-            q: "To understand the scriptures is to understand that Christ is the _ message that the prophets have been _",
-            a: "central, heralding",
+            q: "_ is actually a time to set your mind apart fully",
+            a: "fasting",
         },
         {
-            q: "Jesus distinguished himself from every other _",
-            a: "prophet",
+            q: "the Christian life is your _ life",
+            a: "full time",
         },
         {
-            q: "When we say the Bible is not _, we must understand what is being said",
-            a: "the word of God",
+            q: "church is not _, it is practical",
+            a: "theoritical",
         },
         {
-            q: "That central message is what we call the _",
-            a: "word of God",
+            q: "_ is activities that glorifies God",
+            a: "Christianity",
         },
         {
-            q: "_ contains the word of God",
-            a: "The Bible",
+            q: "it is very _ for the preacher to miss out on God's blessing",
+            a: "easy",
         },
         {
-            q: "The divine will communicated to man by God is a _",
+            q: "people put their _ to use and got result. we glorify God by putting _ to use",
+            a: "ignorance, knowledge",
+        },
+        {
+            q: "you must be found doing _ with the truth",
+            a: "ministry",
+        },
+        {
+            q: "put _ to the word",
+            a: "activity",
+        },
+        {
+            q: "God is glorified when you _ and not just when you _",
+            a: "act, know",
+        },
+        {
+            q: "there's _ upon man before Jesus came",
+            a: "an ignorance",
+        },
+        {
+            q: "Jesus did not just bring redemption, he brought _",
+            a: "the revelation of God",
+        },
+        {
+            q: "man in his ignorance never knew the problem of _",
             a: "man",
         },
         {
-            q: "To speak against this message today, you are not a _",
-            a: "prophet",
+            q: "in different context in the OT, they saw _ as different things",
+            a: "salvation",
         },
+        {
+            q: "healing is one of the ways to understand _",
+            a: "salvation",
+        },
+        {
+            q: "not all men are _ but all men need _",
+            a: "sick, salvation",
+        },
+        {
+            q: "sin and death is the _ destruction we were delivered from",
+            a: "major",
+        },
+        {
+            q: "I am not accept the _ God and reject the _ Jesus",
+            a: "saving, healing",
+        },
+        {
+            q: "Jesus healed the sick to show that he is the _",
+            a: "Messiah",
+        },
+        {
+            q: "I don't see _ as an excuse to be sick",
+            a: "salvation",
+        },
+        {
+            q: "there are _ scriptures in the epistles that talks about healing",
+            a: "limited",
+        },
+        {
+            q: "Jesus deliberately used _ more to prove that he _",
+            a: "healing, saves",
+        },
+        {
+            q: "we don't talk about _ withtout talking about healing",
+            a: "the gospel",
+        },
+        {
+            q: "when we are gathered in the churc, we are gathered with the _ of healing",
+            a: "gift",
+        },
+        {
+            q: "we don't speak with _ but with certainty",
+            a: "probability",
+        }
     ]
 }

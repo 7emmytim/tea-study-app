@@ -6,10 +6,10 @@ import * as healings from "./healings"
 import * as faith from "./faith"
 
 export const sermons = [
-    // healings.part_one,
-    // healings.part_two,
-    // healings.part_three,
-    // healings.part_four,
+    healings.part_one,
+    healings.part_two,
+    healings.part_three,
+    healings.part_four,
     // healings.part_five,
     // healings.part_six,
     // healings.part_seven,

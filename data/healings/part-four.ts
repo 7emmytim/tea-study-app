@@ -8,64 +8,101 @@ export const part_four = {
     slug: "healings_part_four",
     questions: [
         {
-            q: "we know _ by the message that he carries",
-            a: "a prophet",
+            q: "a good church and pastor will _ your spiritual growth",
+            a: "monitor",
         },
         {
-            q: "the most important thing about a prophet is that they have _",
-            a: "a message",
+            q: "don't get used to where they give you God's word _",
+            a: "sparingly",
         },
         {
-            q: "prophets are God's _",
-            a: "spokesmen",
+            q: "the sin was actually the creation of that _",
+            a: "death-doomed body",
         },
         {
-            q: "God had only one _ and it was consistent through the _",
-            a: "message, prophets",
+            q: "another description of Adam's sin is that he rejected _ and accepted _",
+            a: "immortality, mortality",
         },
         {
-            q: "prophecies did not just say the seed is _, they _ the seed",
-            a: "coming, described",
+            q: "_ was a deviation",
+            a: "mortality",
         },
         {
-            q: "what the seed will do and what we will _ as a result of what the seed will do was said",
-            a: "get",
+            q: "the heavely body was not _, it was the initial plan",
+            a: "after thought",
         },
         {
-            q: "we can use other _ that have gone ahead to check if your message is correct",
-            a: "prophets",
+            q: "every man on earth can lay claim to God's _ power",
+            a: "healing",
         },
         {
-            q: "_ is not just a title",
-            a: "prophet/messenger of God",
+            q: "you don't use signs and wonders as a _ of Christianity",
+            a: "description",
         },
         {
-            q: "we have a _ to know who a prophet is",
-            a: "test",
+            q: "quit thinking you deserve to be _",
+            a: "sick",
         },
         {
-            q: "the _ is bigger than any single man",
-            a: "message",
+            q: "you don't have to join _ to be healed",
+            a: "workers",
         },
         {
-            q: "the message is the proof of a prophet not _, _ or _",
-            a: "visions, angels, character",
+            q: "men need not _ before you minister to them",
+            a: "qualify",
         },
         {
-            q: "the documented and _ prophets we have in the Bible were not always _",
-            a: "approved, perfect",
+            q: "faith is not something _, it is to do as required",
+            a: "mystical",
         },
         {
-            q: "_ in character does not make a man not to be a prophet",
-            a: "deficiency",
+            q: "when we act on God's word, we _ power",
+            a: "unleash",
         },
         {
-            q: "God can speak through _ and _ men",
-            a: "unworthy, imperfect",
+            q: "I am not _ that my Father is good rather I take after him",
+            a: "angry",
         },
         {
-            q: "the _ you have received from God is the determining factor",
-            a: "message",
-        }
+            q: "Don't get too used to 'I will take drug', take _ too",
+            a: "the word",
+        },
+        {
+            q: "anyone that does not want you healed is an _",
+            a: "adversary",
+        },
+        {
+            q: "the qualification for healing is to just be _",
+            a: "sick",
+        },
+        {
+            q: "divine healing is to be _",
+            a: "practised",
+        },
+        {
+            q: "when you learn about salvation, you _",
+            a: "preach",
+        },
+        {
+            q: "when you learn about healing, you _",
+            a: "practise",
+        },
+        {
+            q: "Practise healing with _",
+            a: "irritation",
+        },
+        {
+            q: "no one has an excuse not to _",
+            a: "speak the word",
+        },
+        {
+            q: "one of the ways to maintain the consciousness of divine healing is to _",
+            a: "heal others",
+        },
+        {
+            q: "we use _ as the medicine",
+            a: "faith",
+        },
+
     ]
 }

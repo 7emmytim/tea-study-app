@@ -8,84 +8,92 @@ export const part_one = {
     slug: "healings_part_one",
     questions: [
         {
-            q: "As believers, we never _ beyond knowledge",
-            a: "grow",
+            q: "There are pleasures to enjoy in life and _",
+            a: "ministry",
         },
         {
-            q: "There's no point in time where we will never need _",
+            q: "There are lots to enjoy if only we can _",
+            a: "stay healthy",
+        },
+        {
+            q: "The first thing to understand if you can be healed or not is _",
+            a: "the character of God",
+        },
+        {
+            q: "_ is why we can explain the Bible",
+            a: "the character of God",
+        },
+        {
+            q: "if God can change then it is useless _",
+            a: "explaining the Bible",
+        },
+        {
+            q: "Bible is _ cos the intelligent author is either always good or always bad",
+            a: "explainable",
+        },
+        {
+            q: "don't blame us for always explainint the _",
+            a: "good God",
+        },
+        {
+            q: "don't allow _ decieve you",
+            a: "your experience",
+        },
+        {
+            q: "there will be _ that will tend to take you away from this path",
+            a: "experiences",
+        },
+        {
+            q: "_ will always come but don't get carried away",
+            a: "errors",
+        },
+        {
+            q: "that prayers get unanswered cos of sin is _",
+            a: "an error",
+        },
+        {
+            q: "We have a lot of junks we need to _",
+            a: "vomit",
+        },
+        {
+            q: "vain repetition is talk so much and _",
+            a: "say nothing",
+        },
+        {
+            q: "_ does not stop God from answering prayers",
+            a: "sin",
+        },
+        {
+            q: "man is capable of producing good things for himself the same way he was capable of producing _",
+            a: "death",
+        },
+        {
+            q: "the word of God is not the problem but how you _",
+            a: "fellowship with it",
+        },
+        {
+            q: "amongst those who understands, _ differs",
+            a: "productivity",
+        },
+        {
+            q: "how much you comprehend God's _ and _ will show in how you pray",
+            a: "love, character",
+        },
+        {
+            q: "_ will set you pray right",
             a: "knowledge",
         },
         {
-            q: "Knowing the importance, we give the word that _ it deserves",
-            a: "priority",
+            q: "your words are sufficient to stop _ but you must keep talking",
+            a: "judgement",
         },
         {
-            q: "There's no end to praying this prayer for _",
-            a: "knowledge",
+            q: "our tool to doctor this _ is the word but _ must be there",
+            a: "body, consistency",
         },
         {
-            q: "although we are men, our duties is not _, it is not according to physical _ or _",
-            a: "man-based, dictates, methods",
-        },
-        {
-            q: "We must give ministry the _ it demands in our mind",
-            a: "severity",
-        },
-        {
-            q: "If you don't see ministry as serious business, you will handle like a _",
-            a: "child's play",
-        },
-        {
-            q: "The man you are preaching to is not the _",
-            a: "actual enemy",
-        },
-        {
-            q: "When you know who you are contending with, you will use _",
-            a: "the right tool",
-        },
-        {
-            q: "No demolition is _",
-            a: "peaceful",
-        },
-        {
-            q: "there is no knowledge of God outside a _",
-            a: "vacuum",
-        },
-        {
-            q: "A man's mind must stop _ the reality he has in God",
-            a: "antagonising",
-        },
-        {
-            q: "The spirit is God's _ domain however the mind is where a man has full _",
-            a: "exclusive, dominion",
-        },
-        {
-            q: " A man that does not have _ is not a man",
-            a: "free will",
-        },
-        {
-            q: "Every information that comes to you is _ being sold to you",
-            a: "an influence",
-        },
-        {
-            q: "God is the only _ of the spirit of man",
-            a: "authority",
-        },
-        {
-            q: "We have the hope of _ cos we know that Satan's influence cannot go beyond the mind",
-            a: "preaching",
-        },
-        {
-            q: "We don't fight _, we battle with the man's mind",
-            a: "Satan",
-        },
-        {
-            q: "No matter the influence of Satan on a man, it can be reversed as long as we keep _",
-            a: "putting out the word",
-        },
-        {
-            q: "If it is _, your expectation is pointless",
-            a: "irreversible",
+            q: "we doctor this body with the word and by _",
+            a: "the power of God",
         },
     ]
 }

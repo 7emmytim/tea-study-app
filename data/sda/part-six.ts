@@ -8,109 +8,92 @@ export const part_six = {
     slug: "sda_six",
     questions: [
         {
-            q: "In Christ, the _ you are trying to find in the law is found",
-            a: "righteousness",
+            q: "as a believer, i'm not _ about anything",
+            a: "over reactive",
         },
         {
-            q: "The same book that the Jews picked up to claim _ is the same book that Paul picked up to gain the _ that salvation is for everyone",
-            a: "superiority, assurance",
+            q: "the difference between the son and servant is in the _",
+            a: "mind",
         },
         {
-            q: "It is _ that will make a man realise that he has been sent",
-            a: "right teaching",
+            q: "at salvation and upon spiritual growth, you were decked with the ability to _ and _ correctly",
+            a: "think, speak",
         },
         {
-            q: "_ believers have been sent",
-            a: "Trained",
+            q: "you cannot preach a _ that you are not convinced about",
+            a: "truth",
         },
         {
-            q: "That _ is your sending",
-            a: "training",
+            q: "have a regular schedule of _",
+            a: "prayers",
         },
         {
-            q: "Paul went back to the prophecies to show that Israel ought to be aware that the message will _",
-            a: "go round further than them",
+            q: "a defeated mind is a _ believer",
+            a: "failed",
         },
         {
-            q: "God does not _ anyone in salvation",
-            a: "reject",
+            q: "failure is known in _, _ and _",
+            a: "words, thoughts, actions",
         },
         {
-            q: "It is your responsibility as a believer that is _ to search out that good and emphasise it",
-            a: "thinking correctly",
+            q: "satan does not need to push any man to _, he only needs to weaken the mind",
+            a: "destruction",
         },
         {
-            q: "The gospel of grace is already _",
-            a: "balanced",
+            q: "a _ mind is all satan needs, such a man will destroy himself",
+            a: "weakened",
         },
         {
-            q: "It is your _ that will determine whether you are blinded or not",
-            a: "attitude",
+            q: "lack of wisdom was the _ satan sold to Eve",
+            a: "deficiency",
         },
         {
-            q: "_ already spoke of the character of those that will accept and those that will reject",
-            a: "Prophecies",
+            q: "you cannot take any action of your life based on _",
+            a: "anger",
         },
         {
-            q: "No matter the attitude you put up now, it is not new, there's a scripture that _ your action",
-            a: "foreshadows",
+            q: "temptation is not _",
+            a: "sin",
         },
         {
-            q: "To a rebellious man, there's always _",
-            a: "longsuffering",
+            q: "all satan needs to do is to supply the _",
+            a: "deficiency",
         },
         {
-            q: "No man by _ is totally disqualified from salvation",
-            a: "unbelief",
+            q: "indecision, lack of wisdom is an hopeless _",
+            a: "mind",
         },
         {
-            q: "Paul _ and _ his office",
-            a: "magnified, esteemed",
+            q: "_ will end up fulfiling satan's agenda",
+            a: "a weak mind",
         },
         {
-            q: "salvation _ the word boasting",
-            a: "excludes",
+            q: "a defeated mind is a defeated _",
+            a: "believer",
         },
         {
-            q: "The common qualifier is _",
-            a: "faith",
+            q: "you will not move God's power with _ but with your _",
+            a: "tears, persuasion",
         },
         {
-            q: "God does not automatically _ a man that _ the gospel",
-            a: "reject, rejects",
+            q: "if you want to change the situation, the way forward is not by _",
+            a: "tears",
         },
         {
-            q: "Once there's no _ or _ for a man to believe the gospel, then that's the _",
-            a: "faculty, link, finality",
+            q: "you have things already in God that you can _ to change situation",
+            a: "deploy",
         },
         {
-            q: "There's no _ salvation cos you are a Jew",
-            a: "automatic",
+            q: "you enter a prayer meeting with a burdened heart but you leave with _",
+            a: "persuasion",
         },
         {
-            q: "Don't say preaching is _",
-            a: "useless",
+            q: "_ is ahead of the enemy",
+            a: "God",
         },
         {
-            q: "Don't say believing is not _",
-            a: "enough",
+            q: "God saw _ before us so he has prepared us for _",
+            a: "today, today",
         },
-        {
-            q: "Don't _ any part of the plan",
-            a: "negate",
-        },
-        {
-            q: "Don't belittle _",
-            a: "believing",
-        },
-        {
-            q: "We _ the scriptures by remembering the entire intention",
-            a: "establish",
-        },
-        {
-            q: "God is _ in that he has put one standard and qualification which is faith",
-            a: "fair",
-        },
-
     ]
 }

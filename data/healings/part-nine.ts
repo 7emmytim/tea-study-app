@@ -112,8 +112,8 @@ export const part_nine = {
             a: "ministry",
         },
         {
-            q: "cripples _ the power of God",
-            a: "incarnation",
+            q: "_ cripples the power of God",
+            a: "unbelief",
         },
         {
             q: "man can say _ if Jesus says _",
@@ -164,7 +164,7 @@ export const part_nine = {
             a: "voice",
         },
         {
-            q: "don't life casually and without _",
+            q: "don't live life casually and without _",
             a: "testimonies",
         },
         {

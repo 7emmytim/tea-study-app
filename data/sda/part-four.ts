@@ -8,412 +8,236 @@ export const part_four = {
     slug: "sda_four",
     questions: [
         {
-            q: "In Christ, the _ you are trying to find in the law is found",
+            q: "there's never a season in your life you are left without _",
+            a: "counsel",
+        },
+        {
+            q: "the knowledge of Christ in our mind is enough _ over all demonic activities",
+            a: "victory",
+        },
+        {
+            q: "you don't need the knowledge of _ of demons to overcome demons",
+            a: "categories",
+        },
+        {
+            q: "_ gives us victory both in the defensive and offensive against all demonic activities",
+            a: "christology",
+        },
+        {
+            q: "learn to stick with Bible _",
+            a: "vocabs",
+        },
+        {
+            q: "the Bible said _ and not die",
+            a: "resist",
+        },
+        {
+            q: "we submit to his _ that's how we submit to God",
             a: "righteousness",
         },
         {
-            q: "The same book that the Jews picked up to claim _ is the same book that Paul picked up to gain the _ that salvation is for everyone",
-            a: "superiority, assurance",
+            q: "you must _ learn your salvation",
+            a: "over",
         },
         {
-            q: "It is _ that will make a man realise that he has been sent",
-            a: "right teaching",
+            q: "in the expression of our faith is our _ victory guaranteed",
+            a: "daily",
         },
         {
-            q: "_ believers have been sent",
-            a: "Trained",
+            q: "preaching is not enough, you have to also _",
+            a: "acknowledge",
         },
         {
-            q: "That _ is your sending",
-            a: "training",
+            q: "to submit is _ word",
+            a: "an action",
         },
         {
-            q: "Paul went back to the prophecies to show that Israel ought to be aware that the message will _",
-            a: "go round further than them",
+            q: "you submit yourself to God's _ of you",
+            a: "valuation",
         },
         {
-            q: "God does not _ anyone in salvation",
-            a: "reject",
+            q: "your realities are not from _",
+            a: "african magic",
         },
         {
-            q: "It is your responsibility as a believer that is _ to search out that good and emphasise it",
-            a: "thinking correctly",
+            q: "the world is _ but you are powerful",
+            a: "evil",
         },
         {
-            q: "The gospel of grace is already _",
-            a: "balanced",
+            q: "friends and family may call you a _ but you are valuable to God",
+            a: "parasite",
         },
         {
-            q: "It is your _ that will determine whether you are blinded or not",
-            a: "attitude",
+            q: "rate people by their _ in the gospel",
+            a: "pace",
         },
         {
-            q: "_ already spoke of the character of those that will accept and those that will reject",
-            a: "Prophecies",
+            q: "you must have a restrain for some _",
+            a: "outings",
         },
         {
-            q: "No matter the attitude you put up now, it is not new, there's a scripture that _ your action",
-            a: "foreshadows",
+            q: "you must know you are not fit for some _",
+            a: "places",
         },
         {
-            q: "To a rebellious man, there's always _",
-            a: "longsuffering",
+            q: "you must restrain in replying some messages, that's how you build _",
+            a: "your discernment",
         },
         {
-            q: "No man by _ is totally disqualified from salvation",
-            a: "unbelief",
+            q: "it is when you honour little _ that you get to know bigger ones",
+            a: "promptings",
         },
         {
-            q: "Paul _ and _ his office",
-            a: "magnified, esteemed",
+            q: "you build your discernment from _",
+            a: "litle things",
         },
         {
-            q: "salvation _ the word boasting",
-            a: "excludes",
+            q: "apart from praying and fasting enough also _ and _",
+            a: "expect, practise",
         },
         {
-            q: "The common qualifier is _",
-            a: "faith",
+            q: "what applies to unbelievers also apply to _ believers",
+            a: "carnal",
         },
         {
-            q: "God does not automatically _ a man that _ the gospel",
-            a: "reject, rejects",
+            q: "our only encounter with _ is to influence them",
+            a: "unbelievers",
         },
         {
-            q: "Once there's no _ or _ for a man to believe the gospel, then that's the _",
-            a: "faculty, link, finality",
+            q: "it is human nature to want to open up to someone less _",
+            a: "resistant",
         },
         {
-            q: "There's no _ salvation cos you are a Jew",
-            a: "automatic",
+            q: "let those who teach the _ of Christ be your delight and _",
+            a: "testimonies, counsellor",
         },
         {
-            q: "Don't say preaching is _",
-            a: "useless",
+            q: "the things of the spirit are both taught and _",
+            a: "practised",
         },
         {
-            q: "Don't say believing is not _",
-            a: "enough",
+            q: "your attitude to the things of the spirit is to _",
+            a: "covet it",
         },
         {
-            q: "Don't _ any part of the plan",
-            a: "negate",
+            q: "your mind is in _ when you are in church",
+            a: "sync",
         },
         {
-            q: "Don't belittle _",
-            a: "believing",
+            q: "in times of _, listen with keen attention",
+            a: "edification",
         },
         {
-            q: "We _ the scriptures by remembering the entire intention",
-            a: "establish",
+            q: "you can be very _ and your life is heavily plagued with demons",
+            a: "holy/righteous/evangelistic",
         },
         {
-            q: "God is _ in that he has put one standard and qualification which is faith",
-            a: "fair",
+            q: "_ spiritual activities is to engage angels to announce your name",
+            a: "positive",
         },
         {
-            q: "The reason they have such importance to David's kingdom and that place is cos of a misinterpretation of an utterance from _ to _",
-            a: "Nathan, David",
+            q: "be used to _",
+            a: "trance",
         },
         {
-            q: "Everlasting kingdom cannot refer to _",
-            a: "a man",
+            q: "desire to _ and _ things spiritually",
+            a: "see, hear",
         },
         {
-            q: "Anything that has eternal added to it cannot have the _ of a man",
-            a: "trappings",
+            q: "desire to be in a _ space",
+            a: "spiritual",
         },
         {
-            q: "God cannot say something will be _ and come back to change it",
-            a: "forever",
+            q: "_ are not in my past, they are in my everyday",
+            a: "revelations",
         },
         {
-            q: "The law is as strong as when there's _",
-            a: "an enforcer",
+            q: "people should not _ to you continously and you don't have a _ in your heart",
+            a: "lie, check",
         },
         {
-            q: "_ was never the promised land",
-            a: "Canaan",
+            q: "don't allow _ to take away the gifts of the Spirit away",
+            a: "technology",
         },
         {
-            q: "_ and _ refers to something that God will do by himself",
-            a: "builder, maker",
+            q: "we are in different levels of _",
+            a: "enhancement",
         },
         {
-            q: "The best of what the Jews fought for were _",
-            a: "shadows",
+            q: "some _ are glued to some people than some others",
+            a: "gifts",
         },
         {
-            q: "God's home has never been in things and structures but in that _ destination which is man's spirit",
-            a: "final",
+            q: "God sustains spiritual meetings with _",
+            a: "diversities",
         },
         {
-            q: "Since men could not fully discern the promise there will be plenty _",
-            a: "integrations",
+            q: "its in Christ but you need to _",
+            a: "covet",
         },
         {
-            q: "_ are the additions men places in a bid to understand the entire message",
-            a: "integrations",
+            q: "when you see a vision, write the _",
+            a: "time",
         },
         {
-            q: "circumcision was a _ physical assurance for Abraham to show his covenant with God",
-            a: "permanent",
+            q: "you can save your days by _",
+            a: "hearing",
         },
         {
-            q: "_ is self-generated",
-            a: "condemnation",
+            q: "I fall into _ things",
+            a: "good",
         },
         {
-            q: "once you buy the lie that Christ is not enough, the journey won't end with _",
-            a: "circumcision",
+            q: "if you saw something and it is not clear, be _",
+            a: "composed",
         },
         {
-            q: "_ determines holiness",
-            a: "God",
+            q: "nothing from God is for _",
+            a: "confusion",
         },
         {
-            q: "The _ that counts is the one that God counts",
-            a: "holiness",
+            q: "_ activities is not different from your normal _ activites",
+            a: "stopping demonic, spiritual",
         },
         {
-            q: "A believer that says he cannot _ is insulting his nature",
-            a: "speak in tongues",
+            q: "_ is servicing spiritual activities",
+            a: "prayer",
         },
         {
-            q: "it is your identity that brings abour your _",
-            a: "authority",
+            q: "practice is for _",
+            a: "daily",
         },
         {
-            q: "no conduct, actions, feelings is bigger that your _ in Christ",
-            a: "identity",
+            q: "_ is just where you are free to express yourself",
+            a: "prayer altar",
         },
         {
-            q: "the price of a soul is the death of a _ creator",
-            a: "sinless",
+            q: "don't give too much room beyond _",
+            a: "demonstrations",
         },
         {
-            q: "if he got the authority, there will be no man agian, he would not allow any man _",
-            a: "accept Jesus",
+            q: "the teaching we have is to master our authority in Christ and not to master _",
+            a: "categories of demons",
         },
         {
-            q: "the sin of satan was in the _ of information",
-            a: "falsification",
+            q: "there is a _ factor to the power of God",
+            a: "time",
         },
         {
-            q: "man be simply being more _ can overcome a whole lot of demonic activities",
-            a: "intelligent",
+            q: "don't quit too early in the demonstration of the spirit, always seek to _",
+            a: "overdo",
         },
         {
-            q: "at times, man does not need to be _ to resist demonic activiteis from himself",
-            a: "born again",
+            q: "that _ from your spirit is a demonstration",
+            a: "prompting",
         },
         {
-            q: "the _ of man is superiority over spirits",
-            a: "makeup",
+            q: "lasting long shows _",
+            a: "conviction",
         },
         {
-            q: "In Christ, the _ you are trying to find in the law is found",
-            a: "righteousness",
-        },
-        {
-            q: "The same book that the Jews picked up to claim _ is the same book that Paul picked up to gain the _ that salvation is for everyone",
-            a: "superiority, assurance",
-        },
-        {
-            q: "It is _ that will make a man realise that he has been sent",
-            a: "right teaching",
-        },
-        {
-            q: "_ believers have been sent",
-            a: "Trained",
-        },
-        {
-            q: "That _ is your sending",
-            a: "training",
-        },
-        {
-            q: "Paul went back to the prophecies to show that Israel ought to be aware that the message will _",
-            a: "go round further than them",
-        },
-        {
-            q: "God does not _ anyone in salvation",
-            a: "reject",
-        },
-        {
-            q: "It is your responsibility as a believer that is _ to search out that good and emphasise it",
-            a: "thinking correctly",
-        },
-        {
-            q: "The gospel of grace is already _",
-            a: "balanced",
-        },
-        {
-            q: "It is your _ that will determine whether you are blinded or not",
-            a: "attitude",
-        },
-        {
-            q: "_ already spoke of the character of those that will accept and those that will reject",
-            a: "Prophecies",
-        },
-        {
-            q: "No matter the attitude you put up now, it is not new, there's a scripture that _ your action",
-            a: "foreshadows",
-        },
-        {
-            q: "To a rebellious man, there's always _",
-            a: "longsuffering",
-        },
-        {
-            q: "No man by _ is totally disqualified from salvation",
-            a: "unbelief",
-        },
-        {
-            q: "Paul _ and _ his office",
-            a: "magnified, esteemed",
-        },
-        {
-            q: "salvation _ the word boasting",
-            a: "excludes",
-        },
-        {
-            q: "The common qualifier is _",
-            a: "faith",
-        },
-        {
-            q: "God does not automatically _ a man that _ the gospel",
-            a: "reject, rejects",
-        },
-        {
-            q: "Once there's no _ or _ for a man to believe the gospel, then that's the _",
-            a: "faculty, link, finality",
-        },
-        {
-            q: "There's no _ salvation cos you are a Jew",
-            a: "automatic",
-        },
-        {
-            q: "Don't say preaching is _",
-            a: "useless",
-        },
-        {
-            q: "Don't say believing is not _",
-            a: "enough",
-        },
-        {
-            q: "Don't _ any part of the plan",
-            a: "negate",
-        },
-        {
-            q: "Don't belittle _",
-            a: "believing",
-        },
-        {
-            q: "We _ the scriptures by remembering the entire intention",
-            a: "establish",
-        },
-        {
-            q: "God is _ in that he has put one standard and qualification which is faith",
-            a: "fair",
-        },
-        {
-            q: "The reason they have such importance to David's kingdom and that place is cos of a misinterpretation of an utterance from _ to _",
-            a: "Nathan, David",
-        },
-        {
-            q: "Everlasting kingdom cannot refer to _",
-            a: "a man",
-        },
-        {
-            q: "Anything that has eternal added to it cannot have the _ of a man",
-            a: "trappings",
-        },
-        {
-            q: "God cannot say something will be _ and come back to change it",
-            a: "forever",
-        },
-        {
-            q: "The law is as strong as when there's _",
-            a: "an enforcer",
-        },
-        {
-            q: "_ was never the promised land",
-            a: "Canaan",
-        },
-        {
-            q: "_ and _ refers to something that God will do by himself",
-            a: "builder, maker",
-        },
-        {
-            q: "The best of what the Jews fought for were _",
-            a: "shadows",
-        },
-        {
-            q: "God's home has never been in things and structures but in that _ destination which is man's spirit",
-            a: "final",
-        },
-        {
-            q: "Since men could not fully discern the promise there will be plenty _",
-            a: "integrations",
-        },
-        {
-            q: "_ are the additions men places in a bid to understand the entire message",
-            a: "integrations",
-        },
-        {
-            q: "circumcision was a _ physical assurance for Abraham to show his covenant with God",
-            a: "permanent",
-        },
-        {
-            q: "_ is self-generated",
-            a: "condemnation",
-        },
-        {
-            q: "once you buy the lie that Christ is not enough, the journey won't end with _",
-            a: "circumcision",
-        },
-        {
-            q: "_ determines holiness",
-            a: "God",
-        },
-        {
-            q: "The _ that counts is the one that God counts",
-            a: "holiness",
-        },
-        {
-            q: "A believer that says he cannot _ is insulting his nature",
-            a: "speak in tongues",
-        },
-        {
-            q: "it is your identity that brings abour your _",
-            a: "authority",
-        },
-        {
-            q: "no conduct, actions, feelings is bigger that your _ in Christ",
-            a: "identity",
-        },
-        {
-            q: "the price of a soul is the death of a _ creator",
-            a: "sinless",
-        },
-        {
-            q: "if he got the authority, there will be no man agian, he would not allow any man _",
-            a: "accept Jesus",
-        },
-        {
-            q: "the sin of satan was in the _ of information",
-            a: "falsification",
-        },
-        {
-            q: "man be simply being more _ can overcome a whole lot of demonic activities",
-            a: "intelligent",
-        },
-        {
-            q: "at times, man does not need to be _ to resist demonic activiteis from himself",
-            a: "born again",
-        },
-        {
-            q: "the _ of man is superiority over spirits",
-            a: "makeup",
+            q: "don't be an early quitter, _ it",
+            a: "stretch",
         },
     ]
 }

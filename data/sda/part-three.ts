@@ -8,76 +8,100 @@ export const part_three = {
     slug: "sda_three",
     questions: [
         {
-            q: "when people say Paul is _, it must be explained",
-            a: "an apostle to the Gentiles",
+            q: "nothing done in church is _, it is for _",
+            a: "casual, edification",
         },
         {
-            q: "Paul is not only showing his identification with Israel, he is showing a deep seated passion to _",
-            a: "get them saved",
+            q: "you are a _ believer and not a seasonal believer",
+            a: "ready",
         },
         {
-            q: "Paul was never a _ apostle to the Gentiles with the _ of the Jews",
-            a: "solo, exclusion",
+            q: "you become a _ under which others will come and feed",
+            a: "domain",
         },
         {
-            q: "God's communication pattern to man is not _",
-            a: "promises",
+            q: "you are too loaded to act _",
+            a: "less",
         },
         {
-            q: "when prophets speak for God, it somes as _",
-            a: "promises",
+            q: "anything contrary to God's truth is _",
+            a: "a lie",
         },
         {
-            q: "no everyone of the physical _ are also of the spiritual _",
-            a: "entity, relevance",
+            q: "where God's will is made to bow to things, _ is not far",
+            a: "demonic activity",
         },
         {
-            q: "God's mercy is not _, it is found in Christ",
-            a: "abstract",
+            q: "don't push every _ in the name of God",
+            a: "possibility",
         },
         {
-            q: "any man who is in Christ is a recipient of God's _ irrespect of what he is doing",
-            a: "mercy",
+            q: "don't try to use the name of God for _ to work, don't force God into your _",
+            a: "things, mode",
         },
         {
-            q: "Some people's life in the Bible _ the judgement that will come on the rebellious man",
-            a: "foreshadowed",
+            q: "the truth is not always for you to _, it is not always what is _",
+            a: "advance, convenient/juicy",
         },
         {
-            q: "individuals response to the message determines their relevance in _",
-            a: "history",
+            q: "the truth is what God has said about you and your _",
+            a: "walk with him",
         },
         {
-            q: "we see God's response to those that reject which is his _",
-            a: "longsuffering",
+            q: "as a minister of God, ensure you are always in _",
+            a: "tune",
         },
         {
-            q: "God's intention for man is salvation and cos of that his disposition to those that reject is _",
-            a: "longsuffering",
+            q: "vision is like a _ given to you to understand something",
+            a: "drama",
         },
         {
-            q: "we would have been _ without God's longsuffering",
-            a: "destroyed",
+            q: "the mindset of the prophet will play a role in the _",
+            a: "vision",
         },
         {
-            q: "stumblingblock and rock of offence is not to say that Jesus is the cause of _",
-            a: "their sin",
+            q: "your _ of God will affect the visions you see",
+            a: "knowledge",
         },
         {
-            q: "it is not within man's _ to decide how God should give salvation or _",
-            a: "jurisdiction, who he should give it to",
+            q: "you cannot fight satan and win on the basis of _ or _",
+            a: "smartness, intelligence",
         },
         {
-            q: "the Jews have that _ mindset towards salvation",
-            a: "proprietory",
+            q: "a breach of authority under God is to open up for satan's _",
+            a: "lordship",
         },
         {
-            q: "people place too much emphasis on _",
-            a: "believing",
+            q: "accepting satan's _ is to accept his lordship over you",
+            a: "lies",
         },
         {
-            q: "believing is not salvation, it opens you up to a _",
-            a: "willing God",
+            q: "_ is inability to do the right things",
+            a: "depression",
+        },
+        {
+            q: "depression leads to _",
+            a: "possession",
+        },
+        {
+            q: "_ is an empowerment to do the wrong things",
+            a: "oppression",
+        },
+        {
+            q: "when there's a _, anything can happen",
+            a: "weak mind",
+        },
+        {
+            q: "no _ is to small to seek for direction",
+            a: "matter",
+        },
+        {
+            q: "I reject the world's _ of me",
+            a: "valuation",
+        },
+        {
+            q: "the devil sells a lie to make the believer _",
+            a: "useless on earth",
         },
 
     ]

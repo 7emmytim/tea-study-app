@@ -1,11 +1,11 @@
 import { Timer1 } from "iconsax-react";
 
-export const part_five = {
-    title: "Faith",
-    description: "Part 5",
+export const part_eight = {
+    title: "TTMOJ - Series 2",
+    description: "Part 8",
     icon: Timer1,
     color: "#F7D060",
-    slug: "maximizing_the_spirituals_faith_five",
+    slug: "ttm2_eight",
     questions: [
         {
             q: "There's something the believer must esteem so high, there's something he must consider _ and that's God's word",
@@ -53,7 +53,7 @@ export const part_five = {
         },
         {
             q: "_ is to stand on God's word that you have received",
-            a: "Faith",
+            a: "TTMOJ - Series 2",
         },
         {
             q: "God's word is my _",

@@ -1,11 +1,11 @@
 import { Timer1 } from "iconsax-react";
 
-export const part_three = {
-    title: "Faith",
-    description: "Part 3",
+export const part_thirteen = {
+    title: "TTMOJ - Series 2",
+    description: "Part 13",
     icon: Timer1,
     color: "#F7D060",
-    slug: "maximizing_the_spirituals_faith_three",
+    slug: "ttm2_thirteen",
     questions: [
         {
             q: "To validate _ action, it means _ actions are not _ actions",

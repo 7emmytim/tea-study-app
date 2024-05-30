@@ -1,11 +1,11 @@
 import { Timer1 } from "iconsax-react";
 
-export const part_four = {
-    title: "Faith",
-    description: "Part 4",
+export const part_nine = {
+    title: "TTMOJ - Series 2",
+    description: "Part 9",
     icon: Timer1,
     color: "#F7D060",
-    slug: "maximizing_the_spirituals_faith_four",
+    slug: "ttm2_ninepart_nine",
     questions: [
         {
             q: "Have the uttermost honour for the _ and the _",
@@ -149,7 +149,7 @@ export const part_four = {
         },
         {
             q: "_ is not denial",
-            a: "Faith",
+            a: "TTMOJ - Series 2",
         },
         {
             q: "As long as you are a man, _ will always come up",

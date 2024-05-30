@@ -1,11 +1,11 @@
 import { Timer1 } from "iconsax-react";
 
 export const part_two = {
-    title: "Faith",
+    title: "TTMOJ - Series 2",
     description: "Part 2",
     icon: Timer1,
     color: "#F7D060",
-    slug: "maximizing_the_spirituals_faith_two",
+    slug: "ttm2_two",
     questions: [
         {
             q: "I may be _ but I am not without God",

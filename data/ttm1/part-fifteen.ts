@@ -1,11 +1,11 @@
 import { Timer1 } from "iconsax-react";
 
-export const part_one = {
-    title: "Healings",
-    description: "Part 1",
+export const part_fifteen = {
+    title: "TTOJ - Series 1",
+    description: "Part 15",
     icon: Timer1,
     color: "#F7D060",
-    slug: "healings_part_one",
+    slug: "ttm1_part_fifteen",
     questions: [
         {
             q: "There are pleasures to enjoy in life and _",

@@ -8,84 +8,103 @@ export const part_twelve = {
     slug: "ttm1_part_twelve",
     questions: [
         {
-            q: "the _ God does to our body is to heal it",
-            a: "least",
+            q: "As touching life, there's no child of God that is without _",
+            a: "instruction",
         },
         {
-            q: "there's no grace in Christ to _ sickness",
-            a: "manage",
+            q: "Don't think God will be talking to you everyday like your _",
+            a: "earthly father",
         },
         {
-            q: "the best God will do will be to give us a _",
-            a: "new body",
+            q: "It's not just word for the _ but word for _",
+            a: "hour, life",
         },
         {
-            q: "God is also anxious for us to get a _",
-            a: "new body",
+            q: "God doesn't do word for the _",
+            a: "hour",
         },
         {
-            q: "although you have the Spirit but the Spirit also has _ for you",
-            a: "promises",
+            q: "It is not _ for you to write down the things God has told you",
+            a: "OT",
         },
         {
-            q: "the Spirit in us is the proof and the reality of the coming _",
-            a: "resurrection",
+            q: "Don't be a fan of discarding _",
+            a: "instruction",
         },
         {
-            q: "light affliction will refer to _",
-            a: "mortality",
+            q: "We don't use _ to water down God's instruction in your life",
+            a: "time",
         },
         {
-            q: "we can have healing as a _",
-            a: "taste",
+            q: "Time is for you to get _ and not for you to _",
+            a: "better, disregard",
         },
         {
-            q: "_ is the full food",
-            a: "the new body",
+            q: "Don't waste your time in _ while rejecting God's instruction to you",
+            a: "church",
         },
         {
-            q: "the message of rapture _ the saints",
-            a: "gladdens",
+            q: "Your _ is in the word of God you adhere to each day",
+            a: "service",
         },
         {
-            q: "if by the Spirit i will have _ then I can enjoy health now",
-            a: "a new body",
+            q: "_ does not mean the best will now come to you",
+            a: "Skimming",
         },
         {
-            q: "we have symptoms of _",
-            a: "good things",
+            q: "Let your _ know that you belong to a kingdom",
+            a: "mind",
+        },
+
+        {
+            q: "Church is the place for openness and _",
+            a: "sincerity",
         },
         {
-            q: "as long as the indwelling of the Spirit is eternal, it means our healing too in _",
-            a: "not conditional",
+            q: "Everything that happens in church is a reason to love and not to _",
+            a: "hate or backbite",
         },
         {
-            q: "when ministering healing to people, don't give them _",
-            a: "conditions",
+            q: "Anyone you see in church is a _ of God",
+            a: "customer/patient",
         },
         {
-            q: "same way God works in you ro forgive your neighbour is the same way he works in you to _",
-            a: "heal your body",
+            q: "Don't treat God's _ with disdain",
+            a: "customer",
         },
         {
-            q: "the heart of _ is one of the realities we have in Christ",
-            a: "forgiveness",
+            q: "Don't save out of _",
+            a: "insecurity",
         },
         {
-            q: "that you are not perfect in some areas does not mean you should resolve your life to _",
-            a: "sickness",
+            q: "What should give you joy should not be your _ but your labour in the kingdom",
+            a: "savings account",
         },
         {
-            q: "don't teach _ as a condition to receive healing",
-            a: "forgiveness",
+            q: "If your joy is in your savings account, you are setting up yourself to be _",
+            a: "discouraged",
         },
         {
-            q: "if you focus on Christ, you will find that heart of _ and _",
-            a: "love, healings",
+            q: "The reason a lot labour and work so much is cos of _",
+            a: "the fear of tomorrow",
         },
         {
-            q: "God does not use sickness to take back his own _",
-            a: "pound of flesh",
+            q: "Bible standard for Christian living is to _ but yet contentment",
+            a: "work hard",
         },
+
+        {
+            q: "The pursuit of money is the real _ cager in the world",
+            a: "life",
+        },
+        {
+            q: "Your _ must be clear to everyone around you",
+            a: "priority",
+        },
+        {
+            q: "Wasting your _ is wasting your life.",
+            a: "time",
+        },
+
     ]
 }

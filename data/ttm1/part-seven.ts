@@ -8,120 +8,77 @@ export const part_seven = {
     slug: "ttm1_part_seven",
     questions: [
         {
-            q: "there's an attitude the believer must have towards _",
-            a: "Holy Ghost meetings",
+            q: "Don't be tired of _ anytime",
+            a: "the word",
         },
         {
-            q: "you need _ to walk in what you have received",
-            a: "consciousness",
+            q: "Look forward to _",
+            a: "hearing the word",
         },
         {
-            q: "the fellowship with the Holy Ghost does not stop in _",
-            a: "the church",
+            q: "At times it looks like the process of the word is _ but it is for you to become better",
+            a: "slow",
         },
         {
-            q: "_ is just there to set up your week for signs and wonders",
-            a: "service",
+            q: "You have to _ for you to know why people do what they do",
+            a: "stick long enough",
         },
         {
-            q: "don't be current, be _",
-            a: "full of power",
+            q: "It is the essence that can _ and not the custom",
+            a: "bless",
         },
         {
-            q: "_ is actually a time to set your mind apart fully",
-            a: "fasting",
+            q: "Love is _",
+            a: "selflessness",
         },
         {
-            q: "the Christian life is your _ life",
-            a: "full time",
+            q: "Ordinances work for _ of issues but it is still that _ of the word to change people's lives",
+            a: "quick fixes, long teaching",
         },
         {
-            q: "church is not _, it is practical",
-            a: "theoritical",
+            q: "You cannot rely on _ for long to keep people in check.",
+            a: "customs",
         },
         {
-            q: "_ is activities that glorifies God",
-            a: "Christianity",
+            q: "_ is based on why",
+            a: "Ministry",
         },
         {
-            q: "it is very _ for the preacher to miss out on God's blessing",
-            a: "easy",
+            q: "Customs are not _ into the will of God",
+            a: "a express way",
         },
         {
-            q: "people put their _ to use and got result. we glorify God by putting _ to use",
-            a: "ignorance, knowledge",
+            q: "_ is the only resting place for man",
+            a: "God",
         },
         {
-            q: "you must be found doing _ with the truth",
-            a: "ministry",
+            q: "It is your own _ and _ you are keeping in marriage",
+            a: "word, commitment",
         },
         {
-            q: "put _ to the word",
-            a: "activity",
+            q: "Marriage is a man or woman that you are saying I will _",
+            a: "never give up on you",
         },
         {
-            q: "God is glorified when you _ and not just when you _",
-            a: "act, know",
+            q: "To _, you must worked on yourself also",
+            a: "make someone better",
         },
         {
-            q: "there's _ upon man before Jesus came",
-            a: "an ignorance",
+            q: "Create an allowance of _ for people in your heart",
+            a: "love",
         },
         {
-            q: "Jesus did not just bring redemption, he brought _",
-            a: "the revelation of God",
+            q: "Physical worth does not always translate to _ before God",
+            a: "riches",
         },
         {
-            q: "man in his ignorance never knew the problem of _",
-            a: "man",
+            q: "Most times, what we have is angry _ and not an angry _",
+            a: "men of God, God",
         },
         {
-            q: "in different context in the OT, they saw _ as different things",
-            a: "salvation",
+            q: "When you show love to someone and their actions or response deny the love you are showing them, _ will not deny you",
+            a: "their conscience",
         },
-        {
-            q: "healing is one of the ways to understand _",
-            a: "salvation",
-        },
-        {
-            q: "not all men are _ but all men need _",
-            a: "sick, salvation",
-        },
-        {
-            q: "sin and death is the _ destruction we were delivered from",
-            a: "major",
-        },
-        {
-            q: "I am not accept the _ God and reject the _ Jesus",
-            a: "saving, healing",
-        },
-        {
-            q: "Jesus healed the sick to show that he is the _",
-            a: "Messiah",
-        },
-        {
-            q: "I don't see _ as an excuse to be sick",
-            a: "salvation",
-        },
-        {
-            q: "there are _ scriptures in the epistles that talks about healing",
-            a: "limited",
-        },
-        {
-            q: "Jesus deliberately used _ more to prove that he _",
-            a: "healing, saves",
-        },
-        {
-            q: "we don't talk about _ withtout talking about healing",
-            a: "the gospel",
-        },
-        {
-            q: "when we are gathered in the churc, we are gathered with the _ of healing",
-            a: "gift",
-        },
-        {
-            q: "we don't speak with _ but with certainty",
-            a: "probability",
-        }
+
     ]
 }

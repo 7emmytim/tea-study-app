@@ -8,136 +8,88 @@ export const part_ten = {
     slug: "ttm1_part_ten",
     questions: [
         {
-            q: "if you don't perceive humanity as _, you will miss God",
-            a: "divinity",
+            q: "The gospel of Christ gives our life a _",
+            a: "meaning",
         },
         {
-            q: "God has ordained _ to bless men",
-            a: "men",
+            q: "The only _ help for man is the Spirit of God",
+            a: "sustainable",
         },
         {
-            q: "one key thing in giving and receving is people's _",
-            a: "perception",
+            q: "Man/carnality will always outsmart _",
+            a: "customs/ordinances",
         },
         {
-            q: "there's never a _ problem with the believer, it is always a _ problem",
-            a: "power, perception",
+            q: "The Spirit of God does not pamper _",
+            a: "carnality",
         },
         {
-            q: "if you are the type that disdains humnaity, you will miss God by _",
-            a: "kilometers",
+            q: "We must not always be speaking after _, teach men their reality",
+            a: "the manner of men",
         },
         {
-            q: "we saw God in Christ and he was _",
-            a: "a man",
+            q: "The man without _ is an incomplete man",
+            a: "the Spirit of God",
         },
         {
-            q: "if you despise the container, you won't get the _",
-            a: "content",
+            q: "The man in God's destination is the man that has partook in the _",
+            a: "tree of life",
         },
         {
-            q: "you can be _ in the world and also in the things of God",
-            a: "achiever",
+            q: "_ is the first thing believers must learn",
+            a: "Priority",
         },
         {
-            q: "if anyone should despise humanity it should be _",
-            a: "Jesus",
+            q: "Once you get it wrong on _ you will be useless in ministry",
+            a: "priority",
         },
         {
-            q: "God heals us cos he _ with us",
-            a: "relates",
+            q: "Good _ and good _ is a reason to serve and not a reason not to serve",
+            a: "job, family",
         },
         {
-            q: "mankind can be healed independent of _",
-            a: "salvation",
+            q: "In giving glory to God, don't neglect _",
+            a: "his work",
         },
         {
-            q: "in the default _ of God is healing",
-            a: "character",
+            q: "We lose lots of our converts back to Satan cos we don't _",
+            a: "feed them",
         },
         {
-            q: "God's response to a sick man is healing and not _",
-            a: "endurance",
+            q: "Let people be saved by _. Don't _ people into salvation",
+            a: "much teaching, force",
         },
         {
-            q: "he can't save those that don't _ but he can heal those that don't _",
-            a: "believe, believe in him",
+            q: "When you don't feed them, they die in their _",
+            a: "appreciation",
         },
         {
-            q: "to be in the _ of power is enough faith",
-            a: "atmosphere",
+            q: "You got someone saved yesterday, don't give _ a chance",
+            a: "doubt",
         },
         {
-            q: "sickness is not a fn of _ or _",
-            a: "holiness, consecration",
+            q: "Preaching is not sharing _",
+            a: "tracts",
         },
         {
-            q: "the biggest first happening on earth is _ and _",
-            a: "time, chance",
+            q: "Let the word get to a _ site in your heart",
+            a: "permanent",
         },
         {
-            q: "_ and _ was one of the repercussions of Adam's sin",
-            a: "time, chance",
+            q: "Jesus did not say you should _ to the mountain",
+            a: "quote scripture",
         },
         {
-            q: "healing is a proof of God's _ to the man in disobedience",
-            a: "mercy",
+            q: "Don't belittle your _ for the gospel today",
+            a: "little labours",
         },
         {
-            q: "although Abel did not inherit Adam's _ but he had his _",
-            a: "sin, body",
+            q: "Don't be a fan of _ your church note",
+            a: "throw away",
         },
         {
-            q: "the first man recorded healed in the bible was not _",
-            a: "a believer",
+            q: "Every human being is _. Atheism is a _",
+            a: "religious, religion",
         },
-        {
-            q: "that you are _ does not mean you should not heal the sick",
-            a: "sick",
-        },
-        {
-            q: "God puts power in _ for humanity",
-            a: "humanity",
-        },
-        {
-            q: "there is power in your _ for your body",
-            a: "body",
-        },
-        {
-            q: "you must recognise God in _ and God in _",
-            a: "you, others",
-        },
-        {
-            q: "there's power in you for _ and for _",
-            a: "you, others",
-        },
-        {
-            q: "you can lay hands on _ and on _",
-            a: "yourself, others",
-        },
-        {
-            q: "we are humans yet _",
-            a: "supernatural",
-        },
-        {
-            q: "_ will do his best to see you as a servant of God",
-            a: "the sick",
-        },
-        {
-            q: "don't have the mindset that the gift of healing is for _ and not _",
-            a: "others, yourself",
-        },
-        {
-            q: "_ men will heal _ men",
-            a: "imperfect, imperfect",
-        },
-        {
-            q: "if you will _ yourself, you will receive from yourself",
-            a: "honour",
-        },
-        {
-            q: "look at yourself as the man on duty bringing _ to others",
-            a: "healing",
-        }
     ]
 }

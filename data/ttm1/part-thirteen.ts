@@ -8,101 +8,96 @@ export const part_thirteen = {
     slug: "ttm1_part_thirteen",
     questions: [
         {
-            q: "a good church and pastor will _ your spiritual growth",
-            a: "monitor",
+            q: "To use Bible to correct the conduct of an unsaved man, you are giving that man another _",
+            a: "priority",
         },
         {
-            q: "don't get used to where they give you God's word _",
-            a: "sparingly",
+            q: "God's correction should not result into _",
+            a: "depression",
         },
         {
-            q: "the sin was actually the creation of that _",
-            a: "death-doomed body",
+            q: "It is not every good deed that gets _",
+            a: "rewarded",
         },
         {
-            q: "another description of Adam's sin is that he rejected _ and accepted _",
-            a: "immortality, mortality",
+            q: "We cannot predict the actions of the man not _",
+            a: "born again",
         },
         {
-            q: "_ was a deviation",
-            a: "mortality",
+            q: "People do _ to actually discredit God",
+            a: "NGO",
         },
         {
-            q: "the heavely body was not _, it was the initial plan",
-            a: "after thought",
+            q: "Kingdom of God here is not _",
+            a: "heaven",
         },
         {
-            q: "every man on earth can lay claim to God's _ power",
-            a: "healing",
+            q: "No matter how _ Satan is, the church must not endorse him",
+            a: "correct",
         },
         {
-            q: "you don't use signs and wonders as a _ of Christianity",
-            a: "description",
+            q: "The church does not side or antagonise a matter based on _ true or _ false but based on _ true or _ false",
+            a: "worldly, worldly, gospel, gospel",
         },
         {
-            q: "quit thinking you deserve to be _",
-            a: "sick",
+            q: "Don't ever expect a day that _ will support your God",
+            a: "CNN",
         },
         {
-            q: "you don't have to join _ to be healed",
-            a: "workers",
+            q: "Our character is a teaching ministry for man's _ but not a teaching ministry for _",
+            a: "conduct, salvation",
         },
         {
-            q: "men need not _ before you minister to them",
-            a: "qualify",
+            q: "Your conduct is _ reason for men to listen to your message",
+            a: "an extra",
         },
         {
-            q: "faith is not something _, it is to do as required",
-            a: "mystical",
+            q: "You can be 80 years and still be so _",
+            a: "carnal",
         },
         {
-            q: "when we act on God's word, we _ power",
-            a: "unleash",
+            q: "Faith in Christ is strongly against _",
+            a: "hypocrisy",
         },
         {
-            q: "I am not _ that my Father is good rather I take after him",
-            a: "angry",
+            q: "_ believers are tools in the hands of the devil",
+            a: "Untaught",
         },
         {
-            q: "Don't get too used to 'I will take drug', take _ too",
-            a: "the word",
+            q: "Devil will accuse you by giving you a _ evidence against yourself",
+            a: "true",
         },
         {
-            q: "anyone that does not want you healed is an _",
-            a: "adversary",
+            q: "Untaught believers are _ workers for the devil",
+            a: "soft",
         },
         {
-            q: "the qualification for healing is to just be _",
-            a: "sick",
+            q: "Now that you have received the free gift of God, there's an expectation of a new _ of actions",
+            a: "outflow",
         },
         {
-            q: "divine healing is to be _",
-            a: "practised",
+            q: "All believers need a _ engaging church",
+            a: "ministry",
         },
         {
-            q: "when you learn about salvation, you _",
-            a: "preach",
+            q: "_ is not old fashion",
+            a: "Morning devotion",
         },
         {
-            q: "when you learn about healing, you _",
-            a: "practise",
+            q: "What God rewards is the ministry done by _ and by _",
+            a: "the word, the gospel",
         },
         {
-            q: "Practise healing with _",
-            a: "irritation",
+            q: "_ is the bias of God",
+            a: "The gospel",
         },
         {
-            q: "no one has an excuse not to _",
-            a: "speak the word",
+            q: "The gospel defines our _ and _",
+            a: "actions, reactions",
         },
         {
-            q: "one of the ways to maintain the consciousness of divine healing is to _",
-            a: "heal others",
+            q: "Don't use your own _ to override the will of God",
+            a: "good conduct",
         },
-        {
-            q: "we use _ as the medicine",
-            a: "faith",
-        },
-
     ]
 }

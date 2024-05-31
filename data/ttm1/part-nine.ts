@@ -8,260 +8,96 @@ export const part_nine = {
     slug: "ttm1_part_nine",
     questions: [
         {
-            q: "sickness is an oppression of the devil either _ or _",
-            a: "active, passive",
+            q: "The prayers we pray in church is not to have authority over _",
+            a: "demons",
         },
         {
-            q: "A _ that _ will need was tied to that seed",
-            a: "blessing, the whole world",
+            q: "Your sonship is your _",
+            a: "authorisation",
         },
         {
-            q: "wrong _ produces wrong believing and wrong believing produces wrong _",
-            a: "thinking, experiences",
+            q: "Don't be in the camp of _",
+            a: "murmurers",
         },
         {
-            q: "you need to keep renewing your mind towards that _",
-            a: "healing Jesus",
+            q: "We are being taught this much so we can be _",
+            a: "voluminous",
         },
         {
-            q: "we must have a tag over our head called _",
-            a: "ready to heal",
+            q: "You must not be _ in your defence for the gospel",
+            a: "scanty",
         },
         {
-            q: "_ directs consciousness",
-            a: "words",
+            q: "You are not a _ with the scriptures",
+            a: "weakling",
         },
         {
-            q: "it is not what they say that will matter, it is your _ or _ of what they are saying",
-            a: "agreement, denial",
+            q: "It is in much reading we see _",
+            a: "retention",
         },
         {
-            q: "if the greatest gift we receive from God is by _, other things must follow same pattern",
-            a: "speaking",
+            q: "Love requires no feedback loop for _",
+            a: "sustenance",
         },
         {
-            q: "_ is a proof of faith unto salvation but _ is a pproof of faith for healing",
-            a: "speaking, much speaking",
+            q: "As touching _, learn to show love in your approach",
+            a: "doctrine",
         },
         {
-            q: "faith is not _, faith is located in _",
-            a: "abstract, words",
+            q: "Giving _ is the primary show of love",
+            a: "spiritual things",
         },
         {
-            q: "we must teach christianity beyond _",
-            a: "experiences",
+            q: "There's no definition for _, it is by explanation",
+            a: "trinity",
         },
         {
-            q: "your _ does not set the power of God in motion",
-            a: "crying",
+            q: "Before you pray, deal with _",
+            a: "doubt",
         },
         {
-            q: "if you want God to _, he will _ you",
-            a: "pity, pity",
+            q: "Don't use _ to deal with doubt, use _ to deal with doubt",
+            a: "long prayers, the word",
         },
         {
-            q: "God's compassion to you is  _",
-            a: "power",
+            q: "The _ idea we must see from the Bible is Christ from the _ writings.",
+            a: "perfect, imperfect",
         },
         {
-            q: "indifference is _",
-            a: "unbelief",
+            q: "There is no portion in the entire NT portion that attaches forgiveness of sins from God to _",
+            a: "prayers",
         },
         {
-            q: "we will also give account of _ containers",
-            a: "empty",
+            q: "Unforgiveness can actually be a _",
+            a: "weight",
         },
         {
-            q: "the things you ought to say that you did not say, it will reflect in _",
-            a: "your body",
+            q: "To say that God will only forgive you when you have forgiven people is clearly _",
+            a: "anti redemptive",
         },
         {
-            q: "being _ is unbelief",
-            a: "quiet",
+            q: "If it is not _ then it is not love",
+            a: "one-sided",
         },
         {
-            q: "_ has never solved anything",
-            a: "complaining",
+            q: "The Lord's prayer must be explained in _ or _ as an addition in translation",
+            a: "honesty, doubted",
         },
         {
-            q: "you _ when you stopped speaking",
-            a: "lost",
+            q: "We must not find God's _ and _ in the same verse",
+            a: "forgiveness, prayer point",
         },
         {
-            q: "_ does not override words",
-            a: "thoughts",
+            q: "_ is God's PPA",
+            a: "Forgiveness",
         },
         {
-            q: "faith always has a _",
-            a: "voice",
+            q: "_ is of man and not a condition God place before he answers your prayers",
+            a: "Faith",
         },
         {
-            q: "faith is always contrary to _",
-            a: "the natural",
-        },
-        {
-            q: "it is not compulsory that you _ people cos you see them everyday",
-            a: "dishonour",
-        },
-        {
-            q: "mighty works was not a function of _ but a function of the honour for _",
-            a: "Jesus, his ministry",
-        },
-        {
-            q: "any man that honours you as from God will be blessed by your _",
-            a: "ministry",
-        },
-        {
-            q: "_ cripples the power of God",
-            a: "unbelief",
-        },
-        {
-            q: "man can say _ if Jesus says _",
-            a: "no, yes",
-        },
-        {
-            q: "wrong words _ God's power",
-            a: "short circuits",
-        },
-        {
-            q: "we spend too much time with _ than edifying ourselves",
-            a: "entertainment",
-        },
-        {
-            q: "even after receiving your healing, _ more in what you have received",
-            a: "rejoice",
-        },
-        {
-            q: "there's no _ faith",
-            a: "gentle",
-        },
-        {
-            q: "a good _ gets people to receive",
-            a: "healing minister",
-        },
-        {
-            q: "healing is one of the _ of our ministry",
-            a: "signature",
-        },
-        {
-            q: "when you finish preaching, ensure you _",
-            a: "sign",
-        },
-        {
-            q: "the name of Jesus carries that _ of healing",
-            a: "office",
-        },
-        {
-            q: "we speak rightly and not with _",
-            a: "probability",
-        },
-        {
-            q: "before _ talks, you speak",
-            a: "the doubter",
-        },
-        {
-            q: "your words are the _ of the condition of your heart",
-            a: "voice",
-        },
-        {
-            q: "don't live life casually and without _",
-            a: "testimonies",
-        },
-        {
-            q: "that condition of the heart can be _",
-            a: "programmed",
-        },
-        {
-            q: "you don't await a _ sickness",
-            a: "seasonal",
-        },
-        {
-            q: "suffering in sickness is not Christian _",
-            a: "persecution",
-        },
-        {
-            q: "the gifts we have as _  and _ are not for sickness but for _",
-            a: "temprance, longsuffering, preaching the gospel",
-        },
-        {
-            q: "use this _ life to focus on the power of God",
-            a: "early",
-        },
-        {
-            q: "once you are not _, God cannot override your will",
-            a: "paying attention",
-        },
-        {
-            q: "let the _ of faith flush out unbelief from inside you",
-            a: "hearing",
-        },
-        {
-            q: "you don't keep a _ full of black books",
-            a: "mind",
-        },
-        {
-            q: "a _ mind will find it difficult to give and receive healing",
-            a: "troubled/hurtful/hurting",
-        },
-        {
-            q: "keep your head filled with less _ information",
-            a: "contrary",
-        },
-        {
-            q: "don't allow mobile phone taKe away your _ ministry",
-            a: "miraculous",
-        },
-        {
-            q: "for what you call the healing ministry, this mind must be _",
-            a: "at rest",
-        },
-        {
-            q: "you cannot fake your _",
-            a: "desire",
-        },
-        {
-            q: "speak until it is almost _",
-            a: "too much",
-        },
-        {
-            q: "when you _, you are empowered to _ more",
-            a: "speak, speak",
-        },
-        {
-            q: "make a _ of the gift of healing",
-            a: "practice",
-        },
-        {
-            q: "cause your words to align with _",
-            a: "healing",
-        },
-        {
-            q: "there's something about _ and _ on what you are hearing",
-            a: "hearing, concentrating",
-        },
-        {
-            q: "keep your _ appointments",
-            a: "healing",
-        },
-        {
-            q: "let the acts of _ sink in",
-            a: "power",
-        },
-        {
-            q: "when you lay hands, you transmit _ power",
-            a: "tangible",
-        },
-        {
-            q: "healings are always in my _",
-            a: "hands",
-        },
-        {
-            q: "my hands are the _ of the power of God",
-            a: "conduits",
-        },
-        {
-            q: "God loves _ so much that he gave us his power",
-            a: "humanity",
+            q: "Faith is just the _ with which you receive answers",
+            a: "attitude",
         },
     ]
 }

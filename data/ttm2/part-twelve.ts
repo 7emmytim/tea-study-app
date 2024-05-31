@@ -8,68 +8,76 @@ export const part_twelve = {
     slug: "ttm2_twelve",
     questions: [
         {
-            q: "In the events documented, we don't see Jesus refer to a _ or _ when the miraculous was done",
-            a: "status, special power",
+            q: "In studying the scripture, always look for that _ thought",
+            a: "underlying",
         },
         {
-            q: "Jesus did not _ anything about himself",
-            a: "hype",
+            q: "Answers to prayers is attached to a good God and not _",
+            a: "man's efforts",
         },
         {
-            q: "The _ always goes to the faith of the recipient",
-            a: "credit",
+            q: "Vain repetition is actually of the _",
+            a: "heart",
         },
         {
-            q: "Without that corresponding action of faith, _ is useless",
-            a: "power",
+            q: "The Lord's prayer is _ and not a recitation",
+            a: "an understanding",
         },
         {
-            q: "Your _ and _ will be fixed on an expected result",
-            a: "mind, mouth",
+            q: "The _ Father is not competing with the _ father",
+            a: "heavenly, earthly",
         },
         {
-            q: "Put yourself in the position to _",
-            a: "receive",
+            q: "Father in heaven is also used for God of all _",
+            a: "supplies",
         },
         {
-            q: "Faith and unbelief are very _",
-            a: "powerful",
+            q: "The money of God is the one that cannot be _",
+            a: "quantified",
         },
         {
-            q: "Since it's man's response, it means it is man's _",
-            a: "choice",
+            q: "People have left church cos of _",
+            a: "testimony time",
         },
         {
-            q: "Being _ is not faith",
-            a: "indifferent",
+            q: "That kingdom coming is a function of the _",
+            a: "resurrection of Jesus",
         },
         {
-            q: "We must find faith present either with the _ or the _",
-            a: "minister, recipient",
+            q: "The _ is the creation of that harmony between heaven and earth",
+            a: "resurrection",
         },
         {
-            q: "The Bible is not a collection of _",
-            a: "stories",
+            q: "It was in his resurrection that _ became a reality for us",
+            a: "heaven",
         },
         {
-            q: "God himself testifies about _",
-            a: "the scriptures",
+            q: "Heaven is for _ and Christ made it a reality",
+            a: "men",
         },
         {
-            q: "These things are written to inspire us to have faith in the Son and not to _ us",
-            a: "entertain",
+            q: "The heavenly Father aids us automatically in _ in his own way",
+            a: "physical needs",
         },
         {
-            q: "The supernatural, the miraculous is God's _ to man",
-            a: "help",
+            q: "When there is a deficiency in _, the problem is never from your heavenly Father",
+            a: "physical needs",
         },
         {
-            q: "If it is the same _ and same _, then we see the same _",
-            a: "message, Spirit, result",
+            q: "physical things are things we _ and not things we _ about",
+            a: "affirm, pray",
         },
         {
-            q: "There's nothing like _ days",
-            a: "Bible",
+            q: "Expect to receive answers even before you _",
+            a: "pray for them",
+        },
+        {
+            q: "When that thought comes to you, the response is not _ but to _",
+            a: "prayer, speak out",
+        },
+        {
+            q: "Physical instability does not affect your _",
+            a: "faith life",
         },
     ]
 }

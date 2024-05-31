@@ -8,92 +8,109 @@ export const part_one = {
     slug: "ttm1_part_one",
     questions: [
         {
-            q: "There are pleasures to enjoy in life and _",
-            a: "ministry",
+            q: "Teaching must be voluminous and it must be made for _",
+            a: "all",
         },
         {
-            q: "There are lots to enjoy if only we can _",
-            a: "stay healthy",
+            q: "Don't try and _ any of your friends from the influence of God's word",
+            a: "insulate",
         },
         {
-            q: "The first thing to understand if you can be healed or not is _",
-            a: "the character of God",
+            q: "that church must be a teaching _",
+            a: "empire",
         },
         {
-            q: "_ is why we can explain the Bible",
-            a: "the character of God",
+            q: "all Jesus said must be well _",
+            a: "investigated",
         },
         {
-            q: "if God can change then it is useless _",
-            a: "explaining the Bible",
+            q: "_ has been available before the law of Moses",
+            a: "life",
         },
         {
-            q: "Bible is _ cos the intelligent author is either always good or always bad",
-            a: "explainable",
+            q: "the preaching of the gospel did not start from _, it started from _",
+            a: "Moses, Genesis",
         },
         {
-            q: "don't blame us for always explainint the _",
-            a: "good God",
+            q: "_ is the message from the beginning",
+            a: "life",
         },
         {
-            q: "don't allow _ decieve you",
-            a: "your experience",
+            q: "_ gospel is the abolishment of death",
+            a: "the full",
         },
         {
-            q: "there will be _ that will tend to take you away from this path",
-            a: "experiences",
+            q: "_ is not a 20th century thing",
+            a: "the preaching of Jesus",
         },
         {
-            q: "_ will always come but don't get carried away",
-            a: "errors",
+            q: "his physical lineage came as a result of the _ of the fathers",
+            a: "integration",
         },
         {
-            q: "that prayers get unanswered cos of sin is _",
-            a: "an error",
+            q: "integration is actually cos of lack of thorough _",
+            a: "understanding",
         },
         {
-            q: "We have a lot of junks we need to _",
-            a: "vomit",
+            q: "Jesus need not come through _ for redemption to occur",
+            a: "AB",
         },
         {
-            q: "vain repetition is talk so much and _",
-            a: "say nothing",
+            q: "_ gospel still cannot save",
+            a: "an integrated",
         },
         {
-            q: "_ does not stop God from answering prayers",
-            a: "sin",
+            q: "it is not about what you _ but what happens to you upon believing",
+            a: "did",
         },
         {
-            q: "man is capable of producing good things for himself the same way he was capable of producing _",
-            a: "death",
+            q: "an integrated gospel cannot give the _",
+            a: "Holy Ghost",
         },
         {
-            q: "the word of God is not the problem but how you _",
-            a: "fellowship with it",
+            q: "sickness does not come cos of _ but cos of the _ that Adam passed",
+            a: "sin, death doomed body",
         },
         {
-            q: "amongst those who understands, _ differs",
-            a: "productivity",
+            q: "the way we _ must communicate God's character",
+            a: "heal the sick",
         },
         {
-            q: "how much you comprehend God's _ and _ will show in how you pray",
-            a: "love, character",
+            q: "it was _ that made the Jews superior",
+            a: "an integration",
         },
         {
-            q: "_ will set you pray right",
-            a: "knowledge",
+            q: "both _ and _ were healed cos of faith",
+            a: "Jews, Gentiles",
         },
         {
-            q: "your words are sufficient to stop _ but you must keep talking",
-            a: "judgement",
+            q: "Jesus did not respect that law of _",
+            a: "separation",
         },
         {
-            q: "our tool to doctor this _ is the word but _ must be there",
-            a: "body, consistency",
+            q: "Jesus was relying on _ for the preaching of the gospel",
+            a: "the resurrection",
         },
         {
-            q: "we doctor this body with the word and by _",
-            a: "the power of God",
+            q: "Jews were not automatic recepients of _",
+            a: "miracles",
         },
+        {
+            q: "_ is the solution to unbelief",
+            a: "teaching",
+        },
+        {
+            q: "your simple _ is enough to cast out demons",
+            a: "get out",
+        },
+        {
+            q: "_ so that those in unbelief won't cos you to doubt yourself",
+            a: "do more",
+        },
+        {
+            q: "Jesus' message was to _ the legalism of Moses, not to _, _ or _ it",
+            a: "outwit, respect, continue, perfect",
+        },
+
     ]
 }

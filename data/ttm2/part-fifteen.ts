@@ -8,168 +8,72 @@ export const part_fifteen = {
     slug: "ttm2_fifteen",
     questions: [
         {
-            q: "I may be _ but I am not without God",
-            a: "tired",
+            q: "We pick the strength for a good _ relationship from a _ relationship",
+            a: "human, divine",
         },
         {
-            q: "You don't _ all your learning when circumstances of life comes up",
-            a: "throw away",
+            q: "We trace our actions of goodness to the _ of God at salvation",
+            a: "supply",
         },
         {
-            q: "To _ is to get the best use out of something",
-            a: "maximise",
+            q: "What thrills us is that _",
+            a: "goodness of God",
         },
         {
-            q: "God has bever asked man to _ him in a vacuum",
-            a: "believe",
+            q: "There is no day that _ will not be available in Christ",
+            a: "mercy",
         },
         {
-            q: "There's a _ basis for God to demand faith from man",
-            a: "justifiable",
+            q: "The good of the land is _",
+            a: "forgiveness of sins",
         },
         {
-            q: "Faith is not _",
-            a: "wishful thinking/fanciful imagination",
+            q: "To rebel against God's forgiveness is _",
+            a: "self destruction",
         },
         {
-            q: "Faith is a _ based on the reliability of God's nature",
-            a: "concrete assurance",
+            q: "_ is not God's invention",
+            a: "Temptation",
         },
         {
-            q: "Faith is to give _ to God's faithfulness",
-            a: "witness",
+            q: "We pray for _ from unfavourable situations",
+            a: "deliverance",
         },
         {
-            q: "One of the use of this Bible in your hands is to _ God's faithfulness to you",
-            a: "prove",
+            q: "The Lord's prayer is also the prayer of the _",
+            a: "revivalist",
         },
         {
-            q: "This book (Bible) is a _ of God's faithfulness",
-            a: "catalogue",
+            q: "You losing out in fellowship is now captured as you not being _",
+            a: "forgiven",
         },
         {
-            q: "_ shows that reliability",
-            a: "Faithfulness",
+            q: "If you don't forgive your brother their trespasses, you will not have a successful _ with the saints",
+            a: "fellowship",
         },
         {
-            q: "God performs his action of _ as a proof of his own faithfulness",
-            a: "salvation",
+            q: "When you don't forgive you will miss out of the blessing inside _",
+            a: "fellowship",
         },
         {
-            q: "God is communicating his faithfulness by his own _",
-            a: "action",
+            q: "There's truly a _ upon those who refuse to forgive",
+            a: "torment",
         },
         {
-            q: "In God's _ and _, we see his faithfulness",
-            a: "intention, execution",
+            q: "We are here today as TEA cos of countless _ among brethren",
+            a: "forgiveness",
         },
         {
-            q: "His faithfulness reaching to the clouds is just an adjective to describe the _ of God's faithfulness",
-            a: "vastness",
+            q: "The church is an empire of _",
+            a: "forgiveness",
         },
         {
-            q: "God's word has no _",
-            a: "alteration",
+            q: "Don't correct cos you want _, correct cos you want the person to be better",
+            a: "your ego restored",
         },
         {
-            q: "God has been utterly faithful to his cause despite man's _",
-            a: "agenda",
-        },
-        {
-            q: "God is unfailing in his _",
-            a: "love",
-        },
-        {
-            q: "God's _ and _ goes together",
-            a: "lovingkindness, faithfulness",
-        },
-        {
-            q: "God is not just saying he is _, he is saying that he is faithful in that _",
-            a: "good, goodness",
-        },
-        {
-            q: "You must be absolutely _ of God's faithfulness",
-            a: "certain",
-        },
-        {
-            q: "The _ you have is cos God is faithful",
-            a: "security",
-        },
-        {
-            q: "I have _ and I trust that God will do his part",
-            a: "prayed",
-        },
-        {
-            q: "The basis why we _ is cos God is faithful",
-            a: "pray",
-        },
-        {
-            q: "When you are _, the question is who are you copying that from",
-            a: "vacillating",
-        },
-        {
-            q: "You are to take your eyes from _ to God's faithfulness",
-            a: "physical circumstances",
-        },
-        {
-            q: "Your makeup is a _ that you can overcome temptation",
-            a: "guarantee",
-        },
-        {
-            q: "When it comes to the spirituals, it should actually be the believer's _",
-            a: "playground",
-        },
-        {
-            q: "When it comes to the spirituals, the _ should keep quiet",
-            a: "scientist",
-        },
-        {
-            q: "When it comes to things pertaining to the spirituals, the believer cannot say he has a _ problem cos that was how you got here in the first place",
-            a: "faith",
-        },
-        {
-            q: "It is in the place of the spirituals that _ tends to creep in",
-            a: "doubt",
-        },
-        {
-            q: "You must do all you can to magnify _ in your head",
-            a: "God's faithfulness",
-        },
-        {
-            q: "Don't let anybody's _ be the reason for your own faith or not",
-            a: "testimony",
-        },
-        {
-            q: "The basis for what you fix your mind on in the spirituals is _",
-            a: "God's faithfulness",
-        },
-        {
-            q: "Faith is not in _ but on God",
-            a: "situations",
-        },
-        {
-            q: "You must do all to ensure that you don't ascribe _ to God",
-            a: "unfaithfulness",
-        },
-        {
-            q: "ame way I can't doubt his _, I can't doubt his faithfulness",
-            a: "salvation",
-        },
-        {
-            q: "_ is a testimony that God is faithfu",
-            a: "The Spirit in me",
-        },
-        {
-            q: "God is more faithful than the _ that medicine has provided",
-            a: "drugs",
-        },
-        {
-            q: "I will not utter words like _",
-            a: "an unbeliever",
-        },
-        {
-            q: "God is faithful and I am a _",
-            a: "witness",
-        },
+            q: "We take _ in the kingdom of God",
+            a: "shit",
+        }
     ]
 }

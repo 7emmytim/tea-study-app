@@ -8,152 +8,92 @@ export const part_two = {
     slug: "ttm1_part_two",
     questions: [
         {
-            q: "sickness is also _",
-            a: "gradual death",
+            q: "not having time for God is _",
+            a: "evil",
         },
         {
-            q: "you won't _ the devil thinking God is doing you a favour",
-            a: "romance",
+            q: "don't be part of such excuse that is summarised in _",
+            a: "I cannot serve God for some reasons",
         },
         {
-            q: "_ is actually not the initial plan of God",
-            a: "the mortal body",
+            q: "_ is darkness",
+            a: "accusation/legalism",
         },
         {
-            q: "_ has always been the plan, _ is a deviation",
-            a: "immortality, mortality",
+            q: "every message in the Bible is _ centered",
+            a: "faith",
         },
         {
-            q: "Healing is as old as _",
-            a: "sickness",
+            q: "if you say Jesus is using the law it means he has a message that does not require _",
+            a: "faith",
         },
         {
-            q: "Christ is also the _ of God for the man that sinned",
-            a: "remedy",
+            q: "the promise of AB is only a shade/type of _ of that which was from the beginning",
+            a: "explanation",
         },
         {
-            q: "Healing is older than _",
-            a: "medical practice",
+            q: "the inheritance could not have been by _",
+            a: "the law",
         },
         {
-            q: "when you receive the word of healing when you are _, it keeps you healthy",
-            a: "not sick",
+            q: "his earthly life must not be against his day, his earthly life must _ his day",
+            a: "announce",
         },
         {
-            q: "don't separate messages of divine _ from divine _",
-            a: "health, healing",
+            q: "condemnation is a deliberate _ for ignorance",
+            a: "agape",
         },
         {
-            q: "Jehovah Jireh is a revelation in _",
-            a: "progress",
+            q: "the man that rejects the gospel does so cos he has another _",
+            a: "pursuit",
         },
         {
-            q: "a _ that you pamper at a younger age always becomes a _ when you become older",
-            a: "repetitive sickness, monster",
+            q: "_ is self generated",
+            a: "condemnation",
         },
         {
-            q: "the more you pray, the more you see more of his _ at work towards you",
-            a: "power",
+            q: "when you do evil, you become _",
+            a: "worse",
         },
         {
-            q: "the power at work towards us is _",
-            a: "endless",
+            q: "doing evil is _",
+            a: "unbelief",
         },
         {
-            q: "the power at work in the OT worked from _",
-            a: "outside",
+            q: "Doing truth is you responding with _ when you saw that small light then that will lead to the light",
+            a: "honour",
         },
         {
-            q: "don't put in God's _ what he has put in your _",
-            a: "ledger",
+            q: "No man can deny God's _",
+            a: "influence",
         },
         {
-            q: "in the Bible we have seen that healing is not for those who do not _",
-            a: "sin",
+            q: "The will of the Father is no _",
+            a: "condemnation",
         },
         {
-            q: "healings exist cos man _",
-            a: "sinned",
+            q: "Unbelief is the _ of all sin",
+            a: "mother",
         },
         {
-            q: "_ can never be an issue why a man will not be healed",
-            a: "sin",
+            q: "_ received is not salvation received",
+            a: "Miracles",
         },
         {
-            q: "all the healings you need is already in you in the form of _",
-            a: "power",
+            q: "An intelligent way of communication is called the use of _",
+            a: "figure of speech",
         },
         {
-            q: "the _ saints should come to church healed and ready to heal others",
-            a: "knowledgable",
+            q: "In our evangelism, when we see difficult people, the solution is not to leave the person but to _",
+            a: "get smart",
         },
         {
-            q: "be prepared to use _ correctly",
-            a: "your mouth",
+            q: "The enemy sows tares through _",
+            a: "false influences",
         },
         {
-            q: "one thing that affects christians is _",
-            a: "indifference",
-        },
-        {
-            q: "_ to the words of healing is actually you succumbing your life to sickness",
-            a: "indifference",
-        },
-        {
-            q: "indifference is actually a _ step",
-            a: "negative",
-        },
-        {
-            q: "you are also saying _ when you are not saying 'I am healed'",
-            a: "'I will be sick'",
-        },
-        {
-            q: "when a man is in bitterness, it is a proof that you are not exercising your heart towards _",
-            a: "goodness",
-        },
-        {
-            q: "in matters of health, we must consciously fill our heart with _",
-            a: "good things",
-        },
-        {
-            q: "you must be able to produce _ by default",
-            a: "goodness",
-        },
-        {
-            q: "you must find it difficult to _ a human being",
-            a: "curse",
-        },
-        {
-            q: "in receiving healing your gaze must be firm on _",
-            a: "God's love",
-        },
-        {
-            q: "of every good thing God could have done for man, he selected _",
-            a: "healing",
-        },
-        {
-            q: "the _ is our confidence with which we use the name",
-            a: "blood",
-        },
-        {
-            q: "in the place of the miraculous, _ is jey",
-            a: "confidence",
-        },
-        {
-            q: "we don't stop until _  is full",
-            a: "our joy",
-        },
-        {
-            q: "the name of Jesus is our _",
-            a: "authority",
-        },
-        {
-            q: "for healing, it is not _ but confidence",
-            a: "exegesis",
-        },
-        {
-            q: "since he took away _, _ is nothing",
-            a: "our sins, sickness",
+            q: "Jesus did not come from heaven loaded with _",
+            a: "knowledge",
         },
     ]
 }

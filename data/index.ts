@@ -5,8 +5,8 @@ import * as ttm1 from "./ttm1"
 import * as ttm2 from "./ttm2"
 
 export const sermons = [
-    // ttm1.part_one,
-    // ttm1.part_two,
+    ttm1.part_one,
+    ttm1.part_two,
     ttm1.part_three,
     ttm1.part_four,
     ttm1.part_five,
@@ -35,5 +35,5 @@ export const sermons = [
     ttm2.part_twelve,
     ttm2.part_thirteen,
     ttm2.part_fourteen,
-    // ttm2.part_fifteen
+    ttm2.part_fifteen
 ]

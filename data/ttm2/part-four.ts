@@ -8,152 +8,80 @@ export const part_four = {
     slug: "ttm2_four",
     questions: [
         {
-            q: "Have the uttermost honour for the _ and the _",
-            a: "gathering, activities in the gathering",
+            q: "Many have taken out time to write the _ tradition",
+            a: "oral",
         },
         {
-            q: "Your _ is tied to how much you honour exactly what is going on",
-            a: "profiting",
+            q: "The 4 gospels were first _",
+            a: "an oral tradition",
         },
         {
-            q: "There are simple things we do that connote _ and _",
-            a: "order, discipline",
+            q: "the early first fathers focused more on the ones more _, _ and _ as touching Christology",
+            a: "rich, precise, coherent",
         },
         {
-            q: "When it comes to any _ concept, man's responsibility is to first examine what God has done and follow",
-            a: "spiritual",
+            q: "A man that is not born again is not qualified to write about Jesus, he will _",
+            a: "miss it",
         },
         {
-            q: "I know what is _ by seeing what God has done",
-            a: "right",
+            q: "One of the jokers of the Bible is that the characters were not painted well to show _",
+            a: "perfection",
         },
         {
-            q: "For the believer, what _ us is faith and not sight",
-            a: "regulates",
+            q: "We saw God relating with men in their _ states",
+            a: "worst possible",
         },
         {
-            q: "Faith should guide my physical _",
-            a: "eyes",
+            q: "The revelation of Christ comes in the place of _",
+            a: "fellowship",
         },
         {
-            q: "Faith must guide how I see even with my _",
-            a: "physical eyes",
+            q: "Making clear the Christ is the duty of _",
+            a: "the church",
         },
         {
-            q: "Faith makes me realise that there are _ things to see",
-            a: "weightier",
+            q: "Eating together in the Bible is a symbol of _",
+            a: "fellowship",
         },
         {
-            q: "There is nothing we do outside the faith of _",
-            a: "the Son",
+            q: "Jesus supplied an added aid for them to kickstart ministry by _",
+            a: "appearing to them",
         },
         {
-            q: "The believer is to act _ based on the same faith he has received",
-            a: "daily",
+            q: "Don't expect _ every time, let faith always be enough for you",
+            a: "the spectacular",
         },
         {
-            q: "Even in the supernatural, stop waiting for _ or _ faith",
-            a: "an extra, special",
+            q: "The _ of Jesus is the key that unlocks Bible understanding",
+            a: "resurrection",
         },
         {
-            q: "_ and _ happen by the same message of faith",
-            a: "Salvation, miracles",
+            q: "No gospel of Jesus that lacks the _ of his resurrection",
+            a: "details",
         },
         {
-            q: "_ is more potent",
-            a: "The unseen",
+            q: "Anything regarded as the gospel takes it's _ at that resurrection of Jesus from the dead",
+            a: "highpoint",
         },
         {
-            q: "What I cannot _ decides what I _",
-            a: "see, see",
+            q: "We are seeing different rendition but same _",
+            a: "information",
         },
         {
-            q: "The _ shapes the _",
-            a: "unseen, seen",
+            q: "Men wrote from _ yet it was divine",
+            a: "understanding",
         },
         {
-            q: "A man who says he has faith, we will see it in his _ and _",
-            a: "words, actions",
+            q: "You interpret everything correctly after seeing the _",
+            a: "end",
         },
         {
-            q: "Faith is not about _",
-            a: "mental assent",
+            q: "The 4 gospels were not just raw _",
+            a: "history",
         },
         {
-            q: "As a man you will have the _ and the _ but what you focus on is _",
-            a: "seen, unseen, your choice",
-        },
-        {
-            q: "What you cannot see is _ than what you can see",
-            a: "greater",
-        },
-        {
-            q: "Faith _ that you trust God above everything else",
-            a: "demands",
-        },
-        {
-            q: "Confidence in the physical is not _ for the believer",
-            a: "an option",
-        },
-        {
-            q: "The physical may look more potent but that's a _",
-            a: "deception",
-        },
-        {
-            q: "The believer has _ choice, choose the side that you are on",
-            a: "only one",
-        },
-        {
-            q: "Your knowledge of God should amplify your _",
-            a: "trust in him",
-        },
-        {
-            q: "You cannot say you _ God and not _ him",
-            a: "know, trust",
-        },
-        {
-            q: "God's _ is that he does not abandon a man that trusts him",
-            a: "track record",
-        },
-        {
-            q: "Your trust in God will not end in _ or _",
-            a: "shame, disappointment",
-        },
-        {
-            q: "To trust God is to my _",
-            a: "advantage",
-        },
-        {
-            q: "My heart is _ trusting God",
-            a: "stable",
-        },
-        {
-            q: "The same _ that gives you the Spirit is the same _ that is used in the supernatural",
-            a: "hearing of faith, hearing of faith",
-        },
-        {
-            q: "The believer is the most _ person in the planet",
-            a: "assured",
-        },
-        {
-            q: "God has over _ the believer",
-            a: "assured",
-        },
-        {
-            q: "God has done all to assure you of his eternal _",
-            a: "goodness",
-        },
-        {
-            q: "Someone can be in the midst of the greatest _ and all he is seeing is still _",
-            a: "hardship, God's faithfulness",
-        },
-        {
-            q: "_ is not denial",
-            a: "TTMOJ - Series 2",
-        },
-        {
-            q: "As long as you are a man, _ will always come up",
-            a: "the physical",
+            q: "Man is created to _ the work of the saviour",
+            a: "receive",
         },
     ]
 }

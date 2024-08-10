@@ -8,132 +8,84 @@ export const part_five = {
     slug: "understanding_genesis_series1_part_five",
     questions: [
         {
-            q: "The man that prays is the man that _ God",
-            a: "trusts",
+            q: "Whatsoever God has created does not _",
+            a: "decay",
         },
         {
-            q: "We don't give thanks for _ but we give thanks in _",
-            a: "all things, all things",
+            q: "Spirits can perform activities independent of the _",
+            a: "body",
         },
         {
-            q: "We wont approach scriptures as a _, you use godly wisdom",
-            a: "dullard",
+            q: "Your _ will make your body immortal",
+            a: "spirit",
         },
         {
-            q: "A passage of the scripture should not have a _ interpretation",
-            a: "dual",
+            q: "We can heal the sick cos we can give _",
+            a: "life",
         },
         {
-            q: "You don't promise a man _ physical life cos he has believed the gospel",
-            a: "an upgraded",
+            q: "Spirits create by _",
+            a: "speaking",
         },
         {
-            q: "What a lot of people call prayers is actually _",
-            a: "manipulation",
+            q: "You can write a whole novel by _",
+            a: "vision",
         },
         {
-            q: "We don't give men a new pursuit cos of the name _",
-            a: "Pastor",
+            q: "Dominion is not only communicated by your _, you have a spirit that is _",
+            a: "IQ, alive",
         },
         {
-            q: "As touching _, the mog only keeps his own ideas on the pulpit",
-            a: "politics",
+            q: "_ started counting when man sinned",
+            a: "Time",
         },
         {
-            q: "Although the system by which we measure wealth is man's creation but the _ of the earth is the Lord's",
-            a: "abundance",
+            q: "_ was not in the world until Adam _",
+            a: "Sin, sinned",
         },
         {
-            q: "_ and _ are not things God gives everyday but what God has given",
-            a: "Wealth, intelligence",
+            q: "The devil is not much of a problem as the _ of man",
+            a: "choice",
         },
         {
-            q: "Although God created but he has _",
-            a: "given",
+            q: "death had the ticket to travel through cos _ sinned and not cos _ sinned",
+            a: "man, the devil",
         },
         {
-            q: "Man has built _ by those earthly things",
-            a: "structures",
+            q: "The gospel is not to believe in your own _",
+            a: "intellect",
         },
         {
-            q: "_ is a structure that men built by the things that God provided",
-            a: "Money",
+            q: "it is evil to gather Christians and what you are doing in the name of the church is to be building up their _",
+            a: "intellect",
         },
         {
-            q: "Men invented money as a means of _ and not God",
-            a: "hierarchy",
+            q: "Motivational speaking is not bad but it must not replace _",
+            a: "life",
         },
         {
-            q: "_ is also for men but not under the control of man",
-            a: "Heavens",
+            q: "We are going to give account of the things we do in _",
+            a: "the name of God",
         },
         {
-            q: "One of the sins of Adam was that he _ the earth but refused to _ the heavens",
-            a: "possessed, possess",
+            q: "There are things that are in man for man to know but that is not the duty of the _",
+            a: "church",
         },
         {
-            q: "No man is required to do away with _ to be saved",
-            a: "physical things",
+            q: "When we come to church, we focus on things in _ and not things in _",
+            a: "Christ, man",
         },
         {
-            q: "Judas was called _ cos he missed out of the glory of the first apostles",
-            a: "son of perdition",
+            q: "There are things available in man that we must not _ in church",
+            a: "emphasise",
         },
         {
-            q: "Any message that still sees Jesus as _ cannot give you the Holy Ghost but can give you a justification to cash later",
-            a: "a promise to come",
+            q: "We minister _ in the name of God",
+            a: "life",
         },
         {
-            q: "In Jesus' ministry, _ is key",
-            a: "priority",
-        },
-        {
-            q: "It is not wise to just wake up and forsake your _, that's why you need a _",
-            a: "job, discipler",
-        },
-        {
-            q: "Following Jesus is not for _",
-            a: "salvation",
-        },
-        {
-            q: "Money is a _ necessity in ministry",
-            a: "silent",
-        },
-        {
-            q: "Labourer is worthy of his hire is not for you to go and be collecting your hire everywhere, it is a statement of _",
-            a: "self control",
-        },
-        {
-            q: "Some people can pick this method and leave the _",
-            a: "training",
-        },
-        {
-            q: "When you look at wealth in ministry, you are seeing _ and not _",
-            a: "sustenance, enjoyment",
-        },
-        {
-            q: "The contentment is relative to the _ he is talking about in 1 Timothy 6",
-            a: "godliness",
-        },
-        {
-            q: "Jesus emphasised priority cos the _ ahead",
-            a: "dark days",
-        },
-        {
-            q: "Rebellious folks will call what Jesus did _",
-            a: "extremism",
-        },
-        {
-            q: "To _ something strong is not to be an extremist",
-            a: "emphasize",
-        },
-        {
-            q: "We don't run more _ to sustain the gospel at the expense of the gospel",
-            a: "jobs",
-        },
-        {
-            q: "God is not against wealth but we don't see ministry as a means of _",
-            a: "gain",
+            q: "Although the church is a _ gathering but it is a gathering to an intent",
+            a: "physical",
         },
     ]
 }

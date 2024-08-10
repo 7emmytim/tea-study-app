@@ -8,168 +8,100 @@ export const part_six = {
     slug: "understanding_genesis_series1_part_six",
     questions: [
         {
-            q: "_ is not just about knowing the Greek word",
-            a: "Bible study",
+            q: "For the word of God to come to pass, there must be a man to put the words in _",
+            a: "his mouth",
         },
         {
-            q: "The Bible is not written for _ but for study",
-            a: "cramming",
+            q: "For _ to come to reality, a man must be in the equation",
+            a: "God's word",
         },
         {
-            q: "One part of the book is not sufficient for _",
-            a: "profit",
+            q: "The _ of man won't make the word of God to be of no effect",
+            a: "unbelief",
         },
         {
-            q: "In doctrine, we know our _",
-            a: "boundaries",
+            q: "_ will be what man has said that God did not say",
+            a: "Evil",
         },
         {
-            q: "_ will save Christianity from disaster",
-            a: "Sound doctrine",
+            q: "If man made the body, the _ of same body should be a small thing for man",
+            a: "healing",
         },
         {
-            q: "It is _ being the fastest man on the wrong lane",
-            a: "useless",
+            q: "What God has said will give you so much boldness in the _ and not in the _",
+            a: "positive, negative",
         },
         {
-            q: "Bible recognise the _ authority and place in marriage",
-            a: "parents'",
+            q: "Adam was not _ for him to even be able to work on the body",
+            a: "born again",
         },
         {
-            q: "The church's duty in marriage is in the _ of marriage and not the _",
-            a: "responsibilities, ceremony",
+            q: "One major thing sin brought in was _",
+            a: "ignorance",
         },
         {
-            q: "Money is at the root of almost all _",
-            a: "false gospels",
+            q: "No _ glorifies God",
+            a: "death",
         },
         {
-            q: "Your _ can be your tool of rebellion",
-            a: "poverty",
+            q: "Whether you are _ or not, we all have access to authority",
+            a: "lucky",
         },
         {
-            q: "It's about the _ on how much or how little",
-            a: "meditation",
+            q: "When speaking about _, ensure you mean it and ensure you don't give up",
+            a: "healings",
         },
         {
-            q: "Don't allow yourself to be drowned in _",
-            a: "thoughts",
+            q: "In redemption, we saw heaven as a place that was _ for man",
+            a: "cleansed/prepared",
         },
         {
-            q: "There is no reason why a teaching should end with _",
-            a: "come and sow a seed",
+            q: "In Christianity, we don't dethrone _, we exalt them",
+            a: "men",
         },
         {
-            q: "We give ministry the _ it deserves",
-            a: "time",
+            q: "The book of revelation was written to _ and not _",
+            a: "men, celestial beings",
         },
         {
-            q: "There's a _ in the epistles that talks less about how men acquire material things",
-            a: "wisdom",
+            q: "We can see heaven as a _ and as a _",
+            a: "location, state",
         },
         {
-            q: "There's no _ teaching in the Bible to teach you how to make money",
-            a: "exclusive",
+            q: "There's no lineage for _ and there's no lineage for _",
+            a: "hell, heaven",
         },
         {
-            q: "Withdraw yourself from a man trying to use God as tool for _",
-            a: "wealth",
+            q: "The _ for heaven is Christ and the _ for hell is those out of Christ",
+            a: "lineage, lineage",
         },
         {
-            q: "Manage the things you expect cos you are a _",
-            a: "Christian",
+            q: "When we say we carry heaven, it means we carry _",
+            a: "the Spirit",
         },
         {
-            q: "The way many remain rich is by _",
-            a: "not giving",
+            q: "When you emphasize your _, you are dominating heaven",
+            a: "righteousness by faith",
         },
         {
-            q: "_ and _ is not a sustainable principle of wealth",
-            a: "Giving, receiving",
+            q: "Don't see heaven as a place that is _, it is one of the things in _",
+            a: "mystical, Christ",
         },
         {
-            q: "Investment is not _",
-            a: "giving",
+            q: "Man is meant to go and come back from the _ called heaven at will",
+            a: "physical location",
         },
         {
-            q: "Bumper harvest is for your _",
-            a: "trade",
+            q: "As we preach the gospel, we change the _ of people",
+            a: "destinies",
         },
         {
-            q: " Don't teach _ as doctrine with the book of proverb as your tool",
-            a: "common sense",
+            q: "There's no better _ changing process than the gospel",
+            a: "destiny",
         },
         {
-            q: "The book of proverb has a very low _",
-            a: "doctrinal tone",
-        },
-        {
-            q: "The book of proverbs are the words of a _",
-            a: "judge",
-        },
-        {
-            q: "The _ of the book of proverbs is not heavy",
-            a: "doctrinal weight",
-        },
-        {
-            q: "Don't be _ or deceptive with your evangelism",
-            a: "stylish",
-        },
-        {
-            q: "It's not about _ vs _ but there's a wisdom in the revelation of the epistles that we must accept and respect",
-            a: "physical, spiritual things",
-        },
-        {
-            q: "The healing was a _, the material provision was a response to a need",
-            a: "duty",
-        },
-        {
-            q: "_ is far emphasised above material things",
-            a: "Healing",
-        },
-        {
-            q: "So you can't say if Jesus can _ then I can have a _ by the power of God",
-            a: "heal, million",
-        },
-        {
-            q: "Most of the material miracles of Jesus was towards a need and not a _ of ministry",
-            a: "catcher",
-        },
-        {
-            q: "To go around and say you _ for ministry, that's to walk in rebellion",
-            a: "multiply money",
-        },
-        {
-            q: "Jesus used _ and preaching the gospel to authenticate his ministry",
-            a: "healing the sick",
-        },
-        {
-            q: "Jesus multiplied _ also and not _",
-            a: "food, money",
-        },
-        {
-            q: "Don't ask your pastor what to study, ask your _",
-            a: "brain",
-        },
-        {
-            q: "When you _, don't make an habit of trying to solve everyone's physical problem",
-            a: "go out to preach",
-        },
-        {
-            q: "Some deceitful people will say poverty is also a _",
-            a: "sickness",
-        },
-        {
-            q: "You cannot take out any man from under the bridge to _",
-            a: "your house",
-        },
-        {
-            q: "In the name of _, help people in physical things with discretion",
-            a: "the preacher",
-        },
-        {
-            q: "There's this thing about physical and material things that makes men function less in their _",
-            a: "call",
+            q: "_ is deadly",
+            a: "Ignorance",
         },
     ]
 }

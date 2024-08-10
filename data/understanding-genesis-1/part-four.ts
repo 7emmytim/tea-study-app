@@ -8,149 +8,72 @@ export const part_four = {
     slug: "understanding_genesis_series1_part_four",
     questions: [
         {
-            q: "Don't be a slave of _",
-            a: "attention",
+            q: "Don't underestimate what can happen via _ conversation",
+            a: "one on one/simple",
         },
         {
-            q: "The _ of the believer is vital to God",
-            a: "mental health",
+            q: "Don't have friends that are _ and you are doing nothing about it",
+            a: "dull",
         },
         {
-            q: "_ does not always mean love",
-            a: "I love you",
+            q: "The scriptures has _ ability to make you wise",
+            a: "an inherent",
         },
         {
-            q: "The Spirit is the qualification to explain _",
-            a: "divinity",
+            q: "Proverbs is not the book of _ for the believer",
+            a: "wisdom",
         },
         {
-            q: "There's this _ in the minister to try to _ all the parts of the life of a believer",
-            a: "temptation, control",
+            q: "Adam was lord of _",
+            a: "the garden",
         },
         {
-            q: "The duty of the preacher is to deal with your _ as you pursue physical things",
-            a: "conduct",
+            q: "God's word is self _",
+            a: "confirming",
         },
         {
-            q: "God is not responsible for _",
-            a: "poverty",
+            q: "Man in his _ and angels in their _ can still not recognise God",
+            a: "innocence, unfallen state",
         },
         {
-            q: "He blessed the earth already and let everyone go and find their _",
-            a: "square root",
+            q: "It is not impossible for _ to render activities for Adam",
+            a: "angels",
         },
         {
-            q: "_ on what you have matters, not what you have",
-            a: "Your thinking",
+            q: "It was not like Alleluia came from _",
+            a: "heaven",
         },
         {
-            q: "How you relate with your _ is what we teach you",
-            a: "wealth",
+            q: "_ is not the name of the devil",
+            a: "Lucifer",
         },
         {
-            q: "No amount of _ that scares the power of God",
-            a: "money",
+            q: "_ was simply descriptive of satan's glory and not satan's name",
+            a: "Morning star",
         },
         {
-            q: "Most of the things you are hearing you would not have heard if you had just served God in your _",
-            a: "current situation",
+            q: "Man is designed to eat the _ and not the tree",
+            a: "fruit",
         },
         {
-            q: "Things like the _ person to marry is not the pastor's business to choose for you",
-            a: "particular",
+            q: "The tree of the knowledge of good and evil will mean ministries that minister _",
+            a: "self dependency",
         },
         {
-            q: "What should be done in marriage counselling is _. That is not the perfect place to try to detect _",
-            a: "counselling, deceitful relationship",
+            q: "God does not want his children to live in _",
+            a: "ignorance",
         },
         {
-            q: "_ does not guarantee a good marriage",
-            a: "Marriage counselling",
+            q: "If there is anything like _, it will be to _ everywhere you have said rubbish",
+            a: "restitution, restitute",
         },
         {
-            q: "What determines a good marriage is that _ teaching of God's word",
-            a: "progressive",
+            q: "The implication of deliberately _ is bad",
+            a: "misleading people",
         },
         {
-            q: "_ is the proof of a good person",
-            a: "Service",
+            q: "If there's anything like categories of sin, number one will be _",
+            a: "false doctrine",
         },
-        {
-            q: "The church's tool to make your mind right is _ and not _",
-            a: "daily consistent teaching, a one-time marriage counselling",
-        },
-        {
-            q: "You cannot fake _ for long",
-            a: "service",
-        },
-        {
-            q: "Deal with their conduct as a _ and not cos you want to marry them",
-            a: "norm",
-        },
-        {
-            q: "The job of the preacher is what is done in the _",
-            a: "marriage",
-        },
-        {
-            q: "It is the reality of our redemption to teach how they should walk in love in marriage",
-            a: "",
-        },
-        {
-            q: "The ceremony is not our duty but the _",
-            a: "conduct",
-        },
-        {
-            q: "Marriage is a _ affair, you don't have to be born again to have a 'successful' marriage",
-            a: "worldly",
-        },
-        {
-            q: "The preacher will now teach you how you can use your _ as a blessing",
-            a: "marriage",
-        },
-        {
-            q: "It is not the pastor's _ to divorce anyone",
-            a: "authority",
-        },
-        {
-            q: "You can't promise any man _ cos he has believed the gospel.",
-            a: "a physical change of status",
-        },
-        {
-            q: "_ does not always translate to physical upliftment",
-            a: "Righteousness",
-        },
-        {
-            q: "The driver behind many _ are things that are not the duty of the church",
-            a: "special programmes",
-        },
-        {
-            q: "Our _ and conduct is the duty of Jesus",
-            a: "spirituality",
-        },
-        {
-            q: "My _ is the fact that I am one with divinity",
-            a: "glory",
-        },
-        {
-            q: "Why Christianity wont go into extinction is not cos of the _ we build but cos of what we _",
-            a: "monuments, teach",
-        },
-        {
-            q: "We are not after what works but after the _",
-            a: "word",
-        },
-        {
-            q: "Things don't promote Christianity or _",
-            a: "spirituality",
-        },
-        {
-            q: "_ is the Father's kingdom",
-            a: "Salvation",
-        },
-        {
-            q: "We must not rely on the arm of flesh for _",
-            a: "ministry",
-        },
-
     ]
 }

@@ -69,7 +69,7 @@ export const part_twelve = {
             a: "customer/patient",
         },
         {
-            q: "Don't treat God's _ with disdain",
+            q: "Don't treat God's _ with diunderstanding_genesis_series4in",
             a: "customer",
         },
         {

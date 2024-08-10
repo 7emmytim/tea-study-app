@@ -76,7 +76,7 @@ export const part_eight = {
             a: "a good face",
         },
         {
-            q: "Don't honour the pastor and disdain _",
+            q: "Don't honour the pastor and diunderstanding_genesis_series4in _",
             a: "your sub leaders",
         },
         {

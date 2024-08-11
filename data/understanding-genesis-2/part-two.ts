@@ -8,44 +8,104 @@ export const part_two = {
     slug: "understanding_genesis_series2_two",
     questions: [
         {
-            q: "When saints are living together, it becomes a plus for the faith",
-            a: "tired",
+            q: "One of the proofs of _ is not being able to sit down in one place during service",
+            a: "carnality",
         },
         {
-            q: "When you don't know him by _, you won't know him in _",
-            a: "scriptures, reality",
+            q: "We having _ is we having the mind of God",
+            a: "the Spirit",
         },
         {
-            q: "The things Christ did were not a _ affair",
-            a: "secret",
+            q: "The joker of knowing the things of God is having _",
+            a: "the Spirit of God",
         },
         {
-            q: "God will be perceived as a _ when scriptures are not well read",
-            a: "liar",
+            q: "The Spirit is not only given for _ but also for _",
+            a: "redemption, revelation",
         },
         {
-            q: "The resurrection is actually to the _ part of man",
-            a: "unseen",
+            q: "_ serve as our guide as we look through the OT",
+            a: "The epistles",
         },
         {
-            q: "The soul is an immaterial part of man, it is not meant to be _",
-            a: "weighed",
+            q: "No _ of the OT must be contrary to the epistles",
+            a: "interpretation",
         },
         {
-            q: "Without _, you will think God scammed or lied to you",
-            a: "understanding",
+            q: "We are going to trust God with _ as we pray",
+            a: "BI",
         },
         {
-            q: "The four gospels were Jesus' _ seen as _ of scripture",
-            a: "history, the fulfilment",
+            q: "Before you complain that you don't understand, how long have you _",
+            a: "prayed",
         },
         {
-            q: "In the four gospels, we saw a _ fulfilment of the scriptures",
-            a: "bodily",
+            q: "You cannot be done praying to _",
+            a: "understand God",
         },
         {
-            q: "Coming to God with long list of prayer point is _",
-            a: "idolatry",
+            q: "We pray more than we _",
+            a: "preach",
+        },
+        {
+            q: "_ talks about the influence of the fruit of the Spirit in us",
+            a: "The mind of Christ",
+        },
+        {
+            q: "Even when we see men truly using grace as _, we preach more grace",
+            a: "a license for sin",
+        },
+        {
+            q: "Our _ now is with the truth and not with their intentions or actions",
+            a: "allegiance",
+        },
+        {
+            q: "We don't give people what _ but the word",
+            a: "works",
+        },
+        {
+            q: "_ will be to read Moses in Moses",
+            a: "Ministration of death",
+        },
+        {
+            q: "You can either read _ in Moses or you read _ in Moses",
+            a: "Moses, Christ",
+        },
+        {
+            q: "We don't change the gospel cos of _",
+            a: "a rebellious audience",
+        },
+        {
+            q: "Don't use _ to preach giving money cos your audience is not giving offering",
+            a: "John 3:16",
+        },
+        {
+            q: "What God gave in _ was specific",
+            a: "John 3:16",
+        },
+        {
+            q: "Come what may our best _ is to appeal to men and not to declare _",
+            a: "stake, judgement",
+        },
+        {
+            q: "Faith is a _ and unbelief is also a _",
+            a: "response, response",
+        },
+        {
+            q: "The _ of all murder is hatred for the truth",
+            a: "mother",
+        },
+        {
+            q: "Your _ is not a proof of faith or unbelief",
+            a: "self-condemnation",
+        },
+        {
+            q: "_ puts you in the right frame of mind to pray",
+            a: "Love",
+        },
+        {
+            q: "_ are not the laws of Moses",
+            a: "The ten commandments",
         },
     ]
 }

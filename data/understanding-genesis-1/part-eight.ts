@@ -8,96 +8,184 @@ export const part_eight = {
     slug: "understanding_genesis_series1_part_eight",
     questions: [
         {
-            q: "_ are what changes lives",
+            q: "You can celebrate _ to yourself and not to God",
+            a: "Christmas",
+        },
+        {
+            q: "Mark 16 is you celebrating _",
+            a: "God",
+        },
+        {
+            q: "The greatest honour you can do to _ and to _ is to preach it",
+            a: "Jesus, his salvation",
+        },
+        {
+            q: "God sent _ from the beginning and not everyday",
+            a: "angels",
+        },
+        {
+            q: "There's no _ between God and angels that he will be sending them message everyday",
+            a: "SMS service",
+        },
+        {
+            q: "Deliverance from evil is not based on _",
+            a: "God",
+        },
+        {
+            q: "Our prayers and decree is not to get God to send _",
+            a: "angels",
+        },
+        {
+            q: "Angels have _ and not _",
+            a: "power, authority",
+        },
+        {
+            q: "The _ for angels to carry out anything belongs to man",
+            a: "authority",
+        },
+        {
+            q: "Angels were one of the creation and that would mean they are for man to _",
+            a: "dominate",
+        },
+        {
+            q: "Jesus or the apostles never quoted the words of _",
+            a: "angels",
+        },
+        {
+            q: "Jesus and the apostles quoted _",
+            a: "men",
+        },
+        {
+            q: "For any word of angels to be used as _, a man must repeat it",
+            a: "doctrine",
+        },
+        {
+            q: "Errors don't emanate from _",
+            a: "angels",
+        },
+        {
+            q: "Angels ordained Moses and Moses gave _",
+            a: "the law",
+        },
+        {
+            q: "The words of angels were never _",
+            a: "authoritative",
+        },
+        {
+            q: "Man is to dominate the world by _",
+            a: "Christ",
+        },
+        {
+            q: "True dominion is by _",
+            a: "life",
+        },
+        {
+            q: "_ that involves other men are subject to the decisions of men",
+            a: "Prophecies",
+        },
+        {
+            q: "Without the physical presence of _, man could healed himself if he could get rid of _",
+            a: "Jesus, fear",
+        },
+        {
+            q: "When man sinned God did not cut the _ off, _ cut it off",
+            a: "power, fear",
+        },
+        {
+            q: "Faith comes by hearing but the _ of faith does not _ at hearing",
+            a: "journey, stop",
+        },
+        {
+            q: "You call with your mouth and not your _",
+            a: "mind",
+        },
+        {
+            q: "The things Isaish wrote is not just for _ but for _",
+            a: "knowledge, speaking",
+        },
+        {
+            q: "_ does not change situation",
+            a: "Tears",
+        },
+        {
+            q: "_ is your staying power",
+            a: "the word",
+        },
+        {
+            q: "As small as that mustard seed is, it will be seen in your _",
             a: "words",
         },
         {
-            q: "we use the faith of Christ for a _ end",
-            a: "specific",
+            q: "Surely means there's no _",
+            a: "fear here",
         },
         {
-            q: "_ cannot be the ultimate reason of why you are coming to church",
-            a: "money",
+            q: "A whole lot of things we do in church today is for us to change what we _",
+            a: "say",
         },
         {
-            q: "it is not more _ to try to use God to pursue the wealth in Adam",
-            a: "ridiculous",
+            q: "Christianity is called the great _",
+            a: "confession",
         },
         {
-            q: "dont equate miracles of sustenance to _",
-            a: "the norm",
+            q: "Even if you see a bad thing manifesting in your health, you don't _ it",
+            a: "acknowledge",
         },
         {
-            q: "Jesus did not _ in every chapter",
-            a: "multiply bread",
+            q: "It is a _ for angels to lord over man",
+            a: "sin",
         },
         {
-            q: "food is a strong _ for men",
-            a: "bait",
+            q: "Salvation is the taking away of _",
+            a: "fear",
         },
         {
-            q: "Moses gave _ laws cos of their hearts",
-            a: "extreme",
+            q: "To us what we call _ is simply reverence for God",
+            a: "the fear of God",
         },
         {
-            q: "There's this _ indifference that Jesus had about how men got wealth",
-            a: "systematic",
+            q: "If _ will not fail you, your life cannot fail you",
+            a: "your mouth",
         },
         {
-            q: "most people are rich today cos they _  people",
-            a: "extort",
+            q: "Even God cannot reject what you are _",
+            a: "saying",
         },
         {
-            q: "unrighteous mammon is _",
-            a: "to trust in riches",
+            q: "Fear is the fruit of unbelief and that made man _ of the will of God",
+            a: "ignorant",
         },
         {
-            q: "To expect the preacher of the gospel to teach you how to have things is to have _",
-            a: "misplaced priority",
+            q: "Before you pray, first use _ to deal with fear",
+            a: "the word of God",
         },
         {
-            q: "parables are _ used to explain an heavenly truth",
-            a: "human experiences",
+            q: "You can use the _ without calling the _",
+            a: "name of Jesus, name",
         },
         {
-            q: "we don't use the _ of Jesus to teach people wealth making",
-            a: "parables",
+            q: "The name of Jesus is not a _, it is not _",
+            a: "formula, gymnastics",
         },
         {
-            q: "Don't teach wealth creation from _ or _",
-            a: "the parables of Jesus, the book of proverbs",
+            q: "The mightiest things on earth were not crated by _ but by _",
+            a: "bulldozers, words",
         },
         {
-            q: "the world teaches us how to _ but the church teaches us how to _",
-            a: "have, give",
+            q: "_ came to change your vocabulary",
+            a: "Salvation",
         },
         {
-            q: "_ is not a curse",
-            a: "working",
+            q: "When we pray in the Holy Ghost, we speak devoid of _",
+            a: "selfishness",
         },
         {
-            q: "financial increase answers to _ way and not _ way",
-            a: "man's, God's",
+            q: "Salvation came so that you can use _ perfectly",
+            a: "authority",
         },
         {
-            q: "for ministry, money is a _",
-            a: "silent necessity",
-        },
-        {
-            q: "we don't shortchange _ and _ cos we want to get more money for the gospel",
-            a: "prayers, evangelism",
-        },
-        {
-            q: "the service with _ is not acceptable",
-            a: "misplaced priority",
-        },
-        {
-            q: "as a minister dont change your stand cos people are _",
-            a: "stingy",
-        },
-        {
-            q: "teaching meetings are tools for the church to achieve her _",
-            a: "goals",
+            q: "Nothing in heaven and on earth works against you cos you are the _ in the heart of the Father",
+            a: "real intention",
         },
     ]
 }

@@ -8,68 +8,80 @@ export const part_three = {
     slug: "understanding_genesis_series2_three",
     questions: [
         {
-            q: "A normal _ knew that they were expecting a Messiah",
-            a: "Jew",
+            q: "You cannot separate your faith from _",
+            a: "love",
         },
         {
-            q: "When we say Jesus is _, it is not just a cliche",
-            a: "Lord",
+            q: "_ with your faith will birth more love for one another",
+            a: "fellowshipping",
         },
         {
-            q: "Christianity is not where you use God or the church to achieve _, that is _",
-            a: "your dreams, idol worshipping",
+            q: "There is no _ attached to disobedience in the 10 commandments",
+            a: "consequence",
         },
         {
-            q: "Anointed means he is consecrated for that office by _",
-            a: "prophecy",
+            q: "What they call ten commandments is simply the _",
+            a: "gospel",
         },
         {
-            q: "The idea of redemption was not _",
-            a: "hidden",
+            q: "_ is a symbol of receiving his Spirit",
+            a: "Circumcision",
         },
         {
-            q: "For you to be an authentic religion in the world today, you must put _ somewhere in your chronicles",
-            a: "Jesus",
+            q: "The clarity is a function of the _",
+            a: "minister",
         },
         {
-            q: "The kingdom will be glorious but they never knew that that glamour will be seen in _",
-            a: "the sacrifice",
+            q: "The _ cannot be improved upon",
+            a: "epistles",
         },
         {
-            q: "There's enough energy in Christianity overturn every false religion in the world but the issue is _",
-            a: "false comprehension",
+            q: "we will see less of _ and _ in Genesis cos it was a period before the law was given",
+            a: "condemnation, accusation",
         },
         {
-            q: "What happens with the earthly is to point to _",
-            a: "the heavenly",
+            q: "There must first be an action of sin before any _ called sin",
+            a: "noun",
         },
         {
-            q: "In discipleship today, we drill men well before _, we must not be too hasty",
-            a: "commissioning",
+            q: "By one man's disobedience, a _ pattern of disobedience entered the world",
+            a: "communication",
         },
         {
-            q: "Jesus did not allow any documentation of his life to be written before _",
-            a: "understanding",
+            q: "Nobody will go to hell for _ sin",
+            a: "Adam's",
         },
         {
-            q: "He won't be _ if he is testifying of himself",
-            a: "the saviour",
+            q: "There's not a common _ to humanity",
+            a: "sin",
         },
         {
-            q: "Any material on the life of Jesus written by men not filled with the Spirit of God will definitely be a _",
-            a: "misunderstanding",
+            q: "Adam was never a _ for Jesus",
+            a: "replacement/figure/type",
         },
         {
-            q: "If you don't have _, you cannot speak for Jesus",
-            a: "the Spirit of God",
+            q: "Fellowship via the _ has always been the plan of God",
+            a: "incarnation",
         },
         {
-            q: "Paul gave _ credence to those that saw Jesus",
-            a: "special",
+            q: "If it will take _ for Jesus to come, Enoch or Noah would have brought him",
+            a: "one man",
         },
         {
-            q: "You are in that perfect position to calm people down to see _",
-            a: "the risen Christ",
+            q: "_ was not charged upon all men",
+            a: "Adam's sin",
         },
+        {
+            q: "_ was not an excuse for any man to sin",
+            a: "Adam's sin",
+        },
+        {
+            q: "Individuals will have to _ for them to get death",
+            a: "sin",
+        },
+        {
+            q: "Stop saying _ is your problem",
+            a: "Adam",
+        }
     ]
 }

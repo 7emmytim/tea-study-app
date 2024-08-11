@@ -8,64 +8,72 @@ export const part_nine = {
     slug: "understanding_genesis_series2_ninepart_nine",
     questions: [
         {
-            q: "We can say the promise of God was well defined from _",
-            a: "Abraham",
+            q: "The war that man was fighting with God is a _ one",
+            a: "one-sided",
         },
         {
-            q: "Any tracing we are doing outside Jesus is _",
-            a: "an endless genealogy",
+            q: " When man was throwing his _, God was not retaliating",
+            a: "punch",
         },
         {
-            q: "We can call Christ God's last _",
-            a: "card",
+            q: "The issue is not the _ but what they are using the _ to accomplish",
+            a: "sin, sin",
         },
         {
-            q: "God's story ended in a man and not in _",
-            a: "angels",
+            q: "In the tower of Babel, there was nothing we could call _",
+            a: "moral sin",
         },
         {
-            q: "Exercising self control and discretion is _",
-            a: "nobility",
+            q: "The issue is that grand finale _",
+            a: "unbelief",
         },
         {
-            q: "Joseph was to mirror God as the _ father of Jesus",
-            a: "supposed",
+            q: "When a man is in rebellion, he will use anything as _",
+            a: "an accessory/a cover up",
         },
         {
-            q: "Don't give volume to your _, give more volume to _",
-            a: "achievement, labour",
+            q: "Them not retaining God in their knowledge is the _ part",
+            a: "active",
         },
         {
-            q: "It is not every _ you shout out to the media",
-            a: "work in progress",
+            q: "You being a fan of a man can be your own _",
+            a: "voice of rebellion",
         },
         {
-            q: "God is a God of discretion and of _",
-            a: "instruction",
+            q: "Technology is not bad but it can be _",
+            a: "the voice of a man's rebellion",
         },
         {
-            q: "God saved Jesus from Herod by _",
-            a: "instruction",
+            q: "The journey is the issue and not the _",
+            a: "vehicle",
         },
         {
-            q: "In ministry, pay attention to instruction. Instruction will make you like _",
-            a: "a magician",
+            q: "Christians must know how to use the things of this world without _",
+            a: "abuse",
         },
         {
-            q: "Nurse your vision within but be seen daily with _",
-            a: "labour",
+            q: "Every good thing of this world has _",
+            a: "an abuse",
         },
         {
-            q: "Men in power and authority are always easy tool in the hands of the devil to _",
-            a: "fight the gospel",
+            q: "Man will go his own way and he will blame God for the repercussion of his own actions and yet God will still _",
+            a: "take the blame",
         },
         {
-            q: "_ and _ relationship is also worship to God",
-            a: "Smooth, Godly",
+            q: "The death of Jesus was more of a _ to man and not a requirement of God",
+            a: "demonstration of God's love",
         },
         {
-            q: "The time you give for _ has no good outcome",
-            a: "anger",
+            q: "God has never _ man whether in the new covenant or the old covenant",
+            a: "counted the sin of",
+        },
+        {
+            q: "A lot of things _ passed through was cos of what Moses said",
+            a: "Jesus",
+        },
+        {
+            q: "God was never looking for his own _",
+            a: "pound of flesh",
         },
     ]
 }

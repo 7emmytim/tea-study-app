@@ -8,80 +8,192 @@ export const part_four = {
     slug: "understanding_genesis_series2_four",
     questions: [
         {
-            q: "Many have taken out time to write the _ tradition",
-            a: "oral",
+            q: "Watch your _",
+            a: "countenance",
         },
         {
-            q: "The 4 gospels were first _",
-            a: "an oral tradition",
+            q: "Reject that mindset that tells you to be stubborn to _",
+            a: "instructions",
         },
         {
-            q: "the early first fathers focused more on the ones more _, _ and _ as touching Christology",
-            a: "rich, precise, coherent",
+            q: "Don't develop _ to disobey your pastor or to stay off from fellowship",
+            a: "resistance",
         },
         {
-            q: "A man that is not born again is not qualified to write about Jesus, he will _",
-            a: "miss it",
+            q: "Once man can embark on a _ journey to do anything, God cannot stop him",
+            a: "definite",
         },
         {
-            q: "One of the jokers of the Bible is that the characters were not painted well to show _",
-            a: "perfection",
+            q: "Don't brainstorm about _, pray",
+            a: "Adam and Eve",
         },
         {
-            q: "We saw God relating with men in their _ states",
-            a: "worst possible",
+            q: "To be a master of anything in life, it takes _",
+            a: "labour",
         },
         {
-            q: "The revelation of Christ comes in the place of _",
-            a: "fellowship",
+            q: "That thing that tells you that church ought to be _ times in a day is evil",
+            a: "one and a half",
         },
         {
-            q: "Making clear the Christ is the duty of _",
-            a: "the church",
+            q: "In reading any part of the OT be careful to cut off the things that are written under the influence of _",
+            a: "the law of sin and death",
         },
         {
-            q: "Eating together in the Bible is a symbol of _",
-            a: "fellowship",
+            q: "This type of keeping things secret is the communication pattern of _",
+            a: "the OT",
         },
         {
-            q: "Jesus supplied an added aid for them to kickstart ministry by _",
-            a: "appearing to them",
+            q: "_ which is the communication pattern of the OT need interpretation and understanding",
+            a: "Dark sayings",
         },
         {
-            q: "Don't expect _ every time, let faith always be enough for you",
-            a: "the spectacular",
+            q: "The OT generally needs _",
+            a: "interpretation",
         },
         {
-            q: "The _ of Jesus is the key that unlocks Bible understanding",
-            a: "resurrection",
+            q: "The perfect work of faith will be your confession and not in _",
+            a: "building ark",
         },
         {
-            q: "No gospel of Jesus that lacks the _ of his resurrection",
-            a: "details",
+            q: "Abel was not accepted cos of _ but cos of faith",
+            a: "offering",
         },
         {
-            q: "Anything regarded as the gospel takes it's _ at that resurrection of Jesus from the dead",
-            a: "highpoint",
+            q: "_ is to do nothing and to enter into God's rest",
+            a: "Faith",
         },
         {
-            q: "We are seeing different rendition but same _",
-            a: "information",
+            q: "Same way _ is an influence, same way _ can also be an influence",
+            a: "sin and death, righteousness",
         },
         {
-            q: "Men wrote from _ yet it was divine",
-            a: "understanding",
+            q: "Burnt offerings are _ works in the Bible",
+            a: "dead",
         },
         {
-            q: "You interpret everything correctly after seeing the _",
-            a: "end",
+            q: "_ works are things done by man for justification",
+            a: "dead",
         },
         {
-            q: "The 4 gospels were not just raw _",
-            a: "history",
+            q: "Abraham had _ to find out God's plan",
+            a: "a lifetime",
         },
         {
-            q: "Man is created to _ the work of the saviour",
-            a: "receive",
+            q: "God cannot tell you to embark on a _ labour",
+            a: "fruitless",
+        },
+        {
+            q: "Restitution and confession of sins is _",
+            a: "sin consciousness",
+        },
+        {
+            q: "Man was serving _ in offering sacrifices",
+            a: "sin",
+        },
+        {
+            q: "The sacrifice of Jesus was not to _ but for _",
+            a: "God, sin",
+        },
+        {
+            q: "The sacrifice of Jesus was not only for _, it was to _",
+            a: "sin, sin",
+        },
+        {
+            q: "Jesus paid the _ owner to redeem us",
+            a: "slave",
+        },
+        {
+            q: "Once your heart is hardened towards God's word, the only thing can do for you is to send you _",
+            a: "teachers",
+        },
+        {
+            q: "What landed Job in problem was not _ but dead works",
+            a: "works of the flesh",
+        },
+        {
+            q: "Job avoided works of the flesh but he was servicing _",
+            a: "dead works",
+        },
+        {
+            q: "God's will is for man to _ and not for him to pay for his sin",
+            a: "live",
+        },
+        {
+            q: "Paying for anyone's sin is _",
+            a: "abnormal",
+        },
+        {
+            q: "Once a man believes in the promise even in the OT he stands justified but awaits _",
+            a: "eternal life",
+        },
+        {
+            q: "For your heart to be troubled is for you to exercise your heart in _",
+            a: "unbelief",
+        },
+        {
+            q: "It is not _ that is really in need of construction, it is man that is in need of redemption",
+            a: "the Father's house",
+        },
+        {
+            q: "The Father's house will need _ cos man needs redemption",
+            a: "reconstruction",
+        },
+        {
+            q: "It is not that the Father's house is _ but it is man that needs to be _",
+            a: "dirty, clean",
+        },
+        {
+            q: "The Spirit living with us is as good as _ living with us",
+            a: "Jesus",
+        },
+        {
+            q: "We cannot _ Jesus from eternal life",
+            a: "separate",
+        },
+        {
+            q: "Man has the capacity to search God out without _",
+            a: "a preacher",
+        },
+        {
+            q: "Worshipping God _ is not enough for salvation",
+            a: "ignorantly",
+        },
+        {
+            q: "That _ of God is not far or hidden from man",
+            a: "conclusion",
+        },
+        {
+            q: "Almost without scripture, the natural man should be able to know that _ is not serving God",
+            a: "idol worship",
+        },
+        {
+            q: "What he called the _ is limited knowledge or self knowledge",
+            a: "times of ignorance",
+        },
+        {
+            q: "What the preacher brings to the scene is _ and _",
+            a: "clarity, more knowledge",
+        },
+        {
+            q: "If there's no new birth, there is no _",
+            a: "Father",
+        },
+        {
+            q: "Wrong influence is responsible more for _ around",
+            a: "idolatry",
+        },
+        {
+            q: "God never put _ around man to lead man astray",
+            a: "angels",
+        },
+        {
+            q: "Works of the flesh will be a proof of _",
+            a: "unbelief",
+        },
+        {
+            q: "_ don't make choices for people",
+            a: "Preachers",
         },
     ]
 }

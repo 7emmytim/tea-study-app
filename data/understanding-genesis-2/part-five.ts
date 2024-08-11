@@ -8,68 +8,84 @@ export const part_five = {
     slug: "understanding_genesis_series2_five",
     questions: [
         {
-            q: "At times when a man sticks with the word, it looks like _",
-            a: "his pace is slow",
+            q: "I don't make an idol of my own _",
+            a: "thinking",
         },
         {
-            q: "God put our _ in a story, in the gospel",
-            a: "advancement",
+            q: "What makes a man a new creature is not just the resurrection of Christ but the _ of the resurrection of Christ",
+            a: "message",
         },
         {
-            q: "The natural state of man is not _, not bad but simply _",
-            a: "evil, incomplete",
+            q: "You can obtain a promise of redemption as a check but the check will be _ until resurrection",
+            a: "postdated",
         },
         {
-            q: "John selected specific _ to teach Christology",
-            a: "miracles",
+            q: "There's no _ ongoing in hell",
+            a: "preaching",
         },
         {
-            q: "Once you believe, you instantly see _",
-            a: "the glory of God",
+            q: "It takes the full gospel for any man to be called the _",
+            a: "new creature",
         },
         {
-            q: "After salvation, there is a _",
-            a: "loosing",
+            q: "The Spirit will not jump on you cos you believe in Jesus that is _",
+            a: "coming",
         },
         {
-            q: "What _ the disciples during the lifetime of Jesus still _ some people today",
-            a: "plagued, plagues",
+            q: "Until your mind can mature to make a choice, you cannot be called _",
+            a: "an unbeliever",
         },
         {
-            q: "_ must not be embarked upon until understanding dawns",
-            a: "Ministry",
+            q: "What should be called sinful nature should be sinful _",
+            a: "influence",
         },
         {
-            q: "In the gospel, we appeal but without _",
-            a: "shifting grounds",
+            q: "There is no dark matter that anyone is born with that is called _",
+            a: "sinful nature",
         },
         {
-            q: "You don't allow your audience dictate to you how _ ought to be",
-            a: "Christianity",
+            q: "Sin is rebellion against God and not _",
+            a: "conduct",
         },
         {
-            q: "You _ without compromising doctrine",
-            a: "appeal",
+            q: "There's a stage actually called _",
+            a: "innocence",
         },
         {
-            q: "Don't mix people's _ with the message",
-            a: "culture",
+            q: "God will eventually save a man until he paves out a way of _ for himself",
+            a: "death",
         },
         {
-            q: "You receive a fresh assignment, you receive it by _",
-            a: "prayer",
+            q: "God recognises _",
+            a: "innocence",
         },
         {
-            q: "What we plan to do on _, let's start doing it now",
-            a: "the grand style",
+            q: "That instruction from Samuel to kill the Amalekites including the infants and suckling, that is _",
+            a: "satanic",
         },
         {
-            q: "Your _ is for the appeal part",
-            a: "learning",
+            q: "Unbelief cannot consume the _",
+            a: "innocent",
         },
         {
-            q: "There's something called the power of _",
-            a: "the Holy Ghost",
+            q: "What we call the justice of God is actually the _ of men",
+            a: "labour",
+        },
+        {
+            q: "The _ of the eyes is the _ of the heart",
+            a: "blinding, hardening",
+        },
+        {
+            q: "The problem of Pharaoh initially was _",
+            a: "deceitfulness of sin",
+        },
+        {
+            q: "How to solve the problem of blindness is by _",
+            a: "preaching",
+        },
+        {
+            q: "The reign of sin and death is not about biological birth but about _",
+            a: "wrong influence",
         },
     ]
 }

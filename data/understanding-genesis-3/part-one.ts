@@ -8,6 +8,22 @@ export const part_one = {
     slug: "understanding_genesis_series3_part_one",
     questions: [
         {
+            q: "In God, there's no _ for retaliation or wrat",
+            a: "justification",
+        },
+        {
+            q: "Forgiveness is that platform under which all _ melt down",
+            a: "offences",
+        },
+        {
+            q: "You can pick Matthew 5 and teach _ from there",
+            a: "love walk",
+        },
+        {
+            q: "What has been plaguing men for ages is _",
+            a: "wrong BI",
+        },
+        {
             q: "The will of God is not _, we are not going to get to heaven before we know those _",
             a: "mystical, serving God",
         },

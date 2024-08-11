@@ -8,64 +8,76 @@ export const part_eight = {
     slug: "understanding_genesis_series2_eight",
     questions: [
         {
-            q: "In the _ of Jesus, we are taught of God to triumph where Israel fell",
-            a: "temptation",
+            q: "There's no oral tradition that could have picked _",
+            a: "Gensis 1",
         },
         {
-            q: "We are taught to _ who tempted Eve and Adam",
-            a: "outsmart",
+            q: "Adam could not have _ Gensis 1, Adam _ Genesis 2, Moses _ Gensis 1",
+            a: "known, discovered, saw",
         },
         {
-            q: "As you read, you are copying that _ of Jesus into your own life",
-            a: "overcoming experience",
+            q: "_ defines the circle of influence that man received",
+            a: "The garden",
         },
         {
-            q: "When _ roars at you, let the need for spiritual growth and God's word is still be higher in your mind",
-            a: "lawful appetite",
+            q: "Mankind has been expecting the _ since",
+            a: "incarnation",
         },
         {
-            q: "Don't quit learning cos of _",
-            a: "money",
+            q: "_ and _ is used for what you get from sin, the reward of sin",
+            a: "Thorns, thistles",
         },
         {
-            q: "When outright temptation with _ does not get to you, Satan will seek to guilt you with a false _ of the faith",
-            a: "appetite, representation",
+            q: "Man is given to the flesh by resisting the _",
+            a: "spirit",
         },
         {
-            q: "In being strong in doctrine, you will know _ from the almost _",
-            a: "the true, true",
+            q: "The body will only perform out of the _ of the heart",
+            a: "abundance",
         },
         {
-            q: "To tempt God is to pressure him for what you could have gotten _",
-            a: "yourself",
+            q: "What we call _ is an abundance of what the man has conceived",
+            a: "actions",
         },
         {
-            q: "Don't use physical things to condition your _",
-            a: "spirituality",
+            q: "The departing from God that is being judged is the one that happens in the _",
+            a: "heart",
         },
         {
-            q: "_ is self-destruction",
-            a: "Tempting God",
+            q: "The fight against God will be seen in _ but the actual rebellion is in the _",
+            a: "actions, heart",
         },
         {
-            q: "When you use physical things to substantiate your faith, it is _",
-            a: "self-destruction",
+            q: "We are to read this and focus on the _ of sin and not the details",
+            a: "motion",
         },
         {
-            q: "_ is the reason some people will never serve God again",
-            a: "answered prayers",
+            q: "Covenant is a word of _",
+            a: "Moses",
         },
         {
-            q: "We don't only treasure God's word but also his _",
-            a: "style",
+            q: "To reject God's word even in the OT is to reject _",
+            a: "Jesus/salvation",
         },
         {
-            q: "Don't worship your _, worship God alone",
-            a: "achievements",
+            q: "Longsuffering in the OT is a function of the _, that's what we call the _",
+            a: "prophet, appeal of God",
         },
         {
-            q: "That which is dear to you is worth _ for God",
-            a: "giving up",
+            q: "Angels came to respond to the _ of Lot",
+            a: "vexing",
         },
+        {
+            q: "Preachers are God's agent of _",
+            a: "longsuffering",
+        },
+        {
+            q: "God's _ and _ to save is acted out by the preacher",
+            a: "strength, urgency",
+        },
+        {
+            q: "We have a God that is _ to bless",
+            a: "hyper",
+        }
     ]
 }

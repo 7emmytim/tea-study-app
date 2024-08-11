@@ -8,68 +8,52 @@ export const part_ten = {
     slug: "understanding_genesis_series2_ten",
     questions: [
         {
-            q: "Man will always pitch his tent for _ or _",
-            a: "faith, unbelief",
+            q: "That term called spiritual death must always be well _",
+            a: "explained",
         },
         {
-            q: "If you say you are staying on the _, you are most likely in unbelief",
-            a: "fence",
+            q: "The Bible is not a _",
+            a: "dictionary",
         },
         {
-            q: "It's either your _ is towards faith or towards unbelief",
-            a: "persuasion",
+            q: "There's no clear _ of faith in the Bible, you can only _ faith",
+            a: "definition, explain",
         },
         {
-            q: "_ is a reflection of the state of the heart of man",
-            a: "The law",
+            q: "Biblical concepts must be _ and not just _",
+            a: "explained, defined",
         },
         {
-            q: "_ is not to be taken out of context",
-            a: "The law",
+            q: "Nakedness will describe _",
+            a: "spiritual death",
         },
         {
-            q: "The law is a _ now written for the sake of self discovery, self judgment, to hide pride from man",
-            a: "set of instructions",
+            q: "If you did not partake in _ sin, we cannot call you an outcast from God",
+            a: "Adam's",
         },
         {
-            q: "For trying to do eye for eye, you are _",
-            a: "cursed",
+            q: "Living in the Spirit will be our _ and walking in the Spirit will be our _",
+            a: "nature, conduct",
         },
         {
-            q: "Our worship to God goes beyond our actions, it goes into _",
-            a: "the thought",
+            q: "We must be able to read _ in the epistles and not be afraid that God is going to take away salvation",
+            a: "instructions",
         },
         {
-            q: "There are things, although _ to us but we can do away with for the sake of the _",
-            a: "beneficial, greater glory",
+            q: "That promise of the messiah is as strong as strong as before and after he _",
+            a: "died",
         },
         {
-            q: "Putting away your wife is like you are putting away your _",
-            a: "glory",
+            q: "you won't be a new creature on earth until you hear the full the gospel after _",
+            a: "the resurrection",
         },
         {
-            q: "Don't replace _ with a divorce paper or with the court of law",
-            a: "love",
+            q: "You must believe the full gospel after the full gospel has been _",
+            a: "consummated",
         },
         {
-            q: "_ was what the rebellious audience of Moses refused to see in his writings",
-            a: "Goodness",
-        },
-        {
-            q: "In God, there's no _ for retaliation or wrat",
-            a: "justification",
-        },
-        {
-            q: "Forgiveness is that platform under which all _ melt down",
-            a: "offences",
-        },
-        {
-            q: "You can pick Matthew 5 and teach _ from there",
-            a: "love walk",
-        },
-        {
-            q: "What has been plaguing men for ages is _",
-            a: "wrong BI",
+            q: "The message of rapture is not to _ people, it is to _",
+            a: "threaten, comfort",
         },
     ]
 }

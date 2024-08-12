@@ -8,128 +8,68 @@ export const part_one = {
     slug: "understanding_genesis_series1_part_one",
     questions: [
         {
-            q: "Even _ can be the reason a man will rebel against God",
-            a: "good things of life",
+            q: "The core part of ministry is in _ and _",
+            a: "preaching, teaching",
         },
         {
-            q: "Things that God gives at times are same things that men use to _",
-            a: "slap him in the face",
+            q: "The terms of Genesis is better understood in _",
+            a: "Job",
         },
         {
-            q: "My _ is not to the gift but to the giver",
-            a: "obsession",
+            q: "We are not ignorant of the _",
+            a: "rapture",
         },
         {
-            q: "don't seek an alternative to living outside _",
-            a: "God's word",
+            q: "The primary work of God is _",
+            a: "salvation",
         },
         {
-            q: "in our righteousness, there's yet _",
-            a: "instruction",
+            q: "God can't do anything until we _",
+            a: "preach",
         },
         {
-            q: "to make profit, you will have to do some _ by the word",
-            a: "training",
+            q: "Without the gospel, God is powerless in _",
+            a: "salvation",
         },
         {
-            q: "scriptures are _ will be the result of the right division of the OT",
-            a: "Christ-centred",
+            q: "God separated the light from the darkness via _",
+            a: "the gospel",
         },
         {
-            q: "when we say the bible is _, we mean we find instruction in righteouness inside",
-            a: "Christ-centred",
+            q: "The gospel separates men into _",
+            a: "category",
         },
         {
-            q: "instruction in righteousness _ the mog",
-            a: "moderates",
+            q: "_ is the dividing line",
+            a: "The gospel",
         },
         {
-            q: "That profit of the ot has been _",
-            a: "written",
+            q: "_ and _ is by the gospel",
+            a: "Lost, found",
         },
         {
-            q: "our sermons cannot contradict the _ and _ of the epistles",
-            a: "doctrinal style, stand",
+            q: "The tree of life will be closely associated with man’s _",
+            a: "speaking",
         },
         {
-            q: "to explain God is a fn of your relationship with that _",
-            a: "indwelling",
+            q: "The summary of the gospel in all generation is that Jesus will _ and he will _",
+            a: "die, rise again",
         },
         {
-            q: "the _ of God can be explained and must be explained",
-            a: "things",
+            q: "There is no gospel without the announcement of _",
+            a: "resurrection",
         },
         {
-            q: "sin made man _ to know God",
-            a: "incapacitated",
+            q: "_ is impossible without the resurrection",
+            a: "Life",
         },
         {
-            q: "to understand all _ of salvation, you must receive the Spirit",
-            a: "dynamisms",
+            q: "A message without the _ cannot save",
+            a: "resurrection",
         },
         {
-            q: "even after redemption, light is _",
-            a: "progressive",
-        },
-        {
-            q: "Salvation is by faith but after that is a journey of _",
-            a: "understanding",
-        },
-        {
-            q: "don't try to _ the gospel, present it in it's _",
-            a: "tush, foolishness",
-        },
-        {
-            q: "when you try to make it have sense, your message loses it's _ to save",
-            a: "vitality",
-        },
-        {
-            q: "if you are not patient with the gospel, you won't see it as _",
-            a: "profit",
-        },
-        {
-            q: "meditation on sin brings the action and brings even more _",
-            a: "harm",
-        },
-        {
-            q: "the action is one of the results of the _",
-            a: "meditation",
-        },
-        {
-            q: "take God away from your thinking, he will never _",
-            a: "use you",
-        },
-        {
-            q: "God's way to settle scores is _",
-            a: "love/forgiveness",
-        },
-        {
-            q: "If there's nothing like _, God would be unjust",
-            a: "hell",
-        },
-        {
-            q: "hell is the _ of man",
-            a: "labour",
-        },
-        {
-            q: "God will honour man's choice of _ and yet keep _",
-            a: "independence, appealing",
-        },
-        {
-            q: "your response to persecution is _",
-            a: "love",
-        },
-        {
-            q: "both in the gospels and the epistles, _ is been done",
-            a: "ministry",
-        },
-        {
-            q: "preachers are not _ providers",
-            a: "all service",
-        },
-        {
-            q: "Jesus' style of ministry is also _",
-            a: "doctrinal",
+            q: "The message that lacks the _ of resurrection cannot raise the sinner from death to life",
+            a: "details",
         },
     ]
 }

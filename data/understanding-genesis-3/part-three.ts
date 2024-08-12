@@ -8,181 +8,108 @@ export const part_three = {
     slug: "understanding_genesis_series3_part_three",
     questions: [
         {
-            q: "My appreciation for things spiritual is _ and _",
-            a: "prompt, accurate",
+            q: "Sin is traced to Genesis. We also see _ and _ in Genesis",
+            a: "love, forgiveness",
         },
         {
-            q: "God's kingdom must grow _",
-            a: "numerically",
+            q: "Men discard the beginning and went after the _",
+            a: "addition",
         },
         {
-            q: "There must be _ progress in God's kingdom",
-            a: "trackable/visible",
+            q: "The law was _, the law was not the intention",
+            a: "added",
         },
         {
-            q: "There's a _ in every well-trained believer",
-            a: "multiplication",
+            q: "Christian are people that stick with their _",
+            a: "commitment",
         },
         {
-            q: "you are blessed to _",
-            a: "multiply",
+            q: "The law of Moses did not preach _",
+            a: "equality",
         },
         {
-            q: "the _ of your ministry will now be men under God's authority",
-            a: "fruit",
+            q: "You are a believer and so you don't have _",
+            a: "hardness of heart",
         },
         {
-            q: "Men should be admitted through the _ process",
-            a: "birth",
+            q: "Moses did not invent _",
+            a: "love",
         },
         {
-            q: "Don't use concert or _ to invite men",
-            a: "tea party",
+            q: "The purpose of teaching is _",
+            a: "comprehension",
         },
         {
-            q: "before you approach _, we must first know the _ of the church",
-            a: "church structure, source",
+            q: "It was already ordained from the beginning that there should be no _ in salvation",
+            a: "preference",
         },
         {
-            q: "Don't use a _ method to assume that men are saved",
-            a: "random sampling",
+            q: "That fact that salvation is for all men has always been there, it was just lack of _",
+            a: "focus",
         },
         {
-            q: "the ministry of Jesus births the most _ of relationships",
-            a: "intimate",
+            q: "Let there be light in Genesis is _ of salvation in Christ",
+            a: "prophetic",
         },
         {
-            q: "there's an intimacy between _ and _",
-            a: "disciple, discipler",
+            q: "Salvation is the _ of the Bible",
+            a: "theme",
         },
         {
-            q: "_ is not the one responsible for establishing Timothy in ministry",
-            a: "Jesus",
+            q: "Knowing the Father is not knowing _ but to see God in the Son",
+            a: "God",
         },
         {
-            q: "Don't compare or compete with _",
-            a: "roles",
+            q: "Father is a _ terminology",
+            a: "redemptive",
         },
         {
-            q: "God does not work through me to be _",
-            a: "bossy",
+            q: "The revelation of the Father is only _ in the Son",
+            a: "consistent",
         },
         {
-            q: "there's a lot of knowledge out there that are _ to establish saints",
-            a: "not necessary",
+            q: "Scriptures spoke more against _ than against the devil",
+            a: "legalism",
         },
         {
-            q: "learn not to be looking for new knowledge outside your _",
-            a: "disciplers",
+            q: "Jesus rebuked legalism 50 times than he rebuked _",
+            a: "the devil",
         },
         {
-            q: "some people all they are looking for is _ so they can comfort themselves",
-            a: "loopholes",
+            q: "Once you have that mindset of _, it will trip you off",
+            a: "performance",
         },
         {
-            q: "be the best in that place that you are before you _",
-            a: "complain that it is not enough",
+            q: "90% of the theme of the epistles was anti _",
+            a: "legalism",
         },
         {
-            q: "church is the center of _ influence",
-            a: "spiritual",
+            q: "Ishmel is not _",
+            a: "Islam",
         },
         {
-            q: "however you turn out in life, they should be able to _ your pastor for it",
-            a: "blame",
+            q: "Ishmel is a symbol of legalism which we find both in _ and in _",
+            a: "Christianity, Islam",
         },
         {
-            q: "The end of the commandment is not _, it is love",
-            a: "the miraculous/power",
+            q: "We see how _ was sacked in Genesis",
+            a: "the law",
         },
         {
-            q: "no _ in Christ should birth hatred in you",
-            a: "teaching",
+            q: "_ was a tool to pull down the Levitical priesthood and not to sustain it",
+            a: "Tithing",
         },
         {
-            q: "As you appear in Zion, you must get less _",
-            a: "selfish",
+            q: "Your defence against the accuser is the response of your _",
+            a: "priest",
         },
         {
-            q: "self is the _ of all sin",
-            a: "mother",
+            q: "Once your priest is dead that means _ still remains",
+            a: "your sin",
         },
         {
-            q: "salvation is an _ for the supernatural ministry",
-            a: "enablement",
+            q: "People read _ and they think tithing meanwhile the story was given to sack legalism off your soul",
+            a: "Melchizedek",
         },
-        {
-            q: "It is the duty of your discipler to caution of men to _",
-            a: "beware",
-        },
-        {
-            q: "Your _ pattern must be for the will of God",
-            a: "prayer",
-        },
-        {
-            q: "Don't outgrow _ prayers",
-            a: "selfless",
-        },
-        {
-            q: "you can never go wrong in praying for _",
-            a: "the salvation of men",
-        },
-        {
-            q: "the motivation behind prayer must be _ and not _",
-            a: "the gospel, lust/things",
-        },
-        {
-            q: "God's will is the reason we do _ prayers",
-            a: "corporate",
-        },
-        {
-            q: "you are ordained a preacher cos of _",
-            a: "the sacrifice of Christ",
-        },
-        {
-            q: "ministry gift is cos of God that _",
-            a: "became a man",
-        },
-        {
-            q: "the _ of christ is why we have ministry gifts",
-            a: "advent",
-        },
-        {
-            q: "what is not available in _ cannot be the reason you are called into ministry",
-            a: "the resurrection",
-        },
-        {
-            q: "you are ordained a preacher cos God's intention has _ your heart",
-            a: "hit",
-        },
-        {
-            q: "prayer is an acitivty of _, so we pray and we _",
-            a: "act",
-        },
-        {
-            q: "dont use the advantage of _ to get back at people",
-            a: "church authority",
-        },
-        {
-            q: "I am a man of the spirit, I am also a man of _",
-            a: "order",
-        },
-        {
-            q: "don't _ so that your leader can agree with you",
-            a: "exaggerate",
-        },
-        {
-            q: "the _ of your action as a follower can be that your leader should _",
-            a: "interpretation, fail",
-        },
-        {
-            q: "_  and _ are both duty posts",
-            a: "following, leading",
-        },
-        {
-            q: "I am filled of God to be _",
-            a: "selfless",
-        },
-
     ]
 }

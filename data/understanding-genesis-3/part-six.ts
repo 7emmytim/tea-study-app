@@ -8,97 +8,56 @@ export const part_six = {
     slug: "understanding_genesis_series3_part_six",
     questions: [
         {
-            q: "In _, there must be service forever",
-            a: "understanding_genesis_series3",
+            q: "Once you know the will of the Father in heaven, it is _ to be asking 'what is my purpose on earth?'",
+            a: "fallacy",
         },
         {
-            q: "Saints are not only in _, they can also be found in _",
-            a: "Christ, a place",
+            q: "Your career cannot be your reason for living cos the _ and _ of your career ends here",
+            a: "length, breadth",
         },
         {
-            q: "Saints are always _ specific",
-            a: "location",
+            q: "Any pursuit outside Christ cannot be my purpose for living, it will _ me",
+            a: "vex",
         },
         {
-            q: "For the sake of _, we are not on the same level",
-            a: "Jesus",
+            q: "The authority of salvation is based on _",
+            a: "earth",
         },
         {
-            q: "It is also up to the _ to create the leader",
-            a: "followers",
+            q: "The only one you can tie to a location is the _",
+            a: "Son",
         },
         {
-            q: "it is not _ being called a pastor",
-            a: "fun",
+            q: "Spiritual power is in _ activities",
+            a: "earthly",
         },
         {
-            q: "In giving your leader _, you are making it obvious that it is the minstry of Jesus that binds us together",
-            a: "double honour",
+            q: "_ was never used anywhere in the Bible to scare anyone",
+            a: "Heaven",
         },
         {
-            q: "dont allow anyone to tell you that _ is the problem of your life",
-            a: "your church",
+            q: "You must not hear heaven and be _",
+            a: "scared",
         },
         {
-            q: "a _ person will not be convenient when you are honoring those you suppose to honour",
-            a: "dishonourable",
+            q: "There's no _ side of God",
+            a: "left",
         },
         {
-            q: "dont expect to be accorded honour when you are not _",
-            a: "available",
+            q: "_ in heaven refers to _ that bear the testimony of Christ",
+            a: "angels",
         },
         {
-            q: "leaders are called leaders cos they _",
-            a: "earned it",
+            q: "Heaven as a _ is not as important as heaven as a _",
+            a: "physical location, state",
         },
         {
-            q: "Good attitude _ the doctrine of Christ",
-            a: "promotes",
+            q: "Why we have heaven today as a physical location is cos of a saviour that is _",
+            a: "a man",
         },
         {
-            q: "Learn to practice _ irrespective of your predicament",
-            a: "love",
+            q: "men that died after believing the gospel are in heaven as _",
+            a: "spirits",
         },
-        {
-            q: "dont allow a physical situation push you into _ situation",
-            a: "an idolatrious",
-        },
-        {
-            q: "you also influence people by your _",
-            a: "actions",
-        },
-        {
-            q: "your _ is also a teaching ministry",
-            a: "actions",
-        },
-        {
-            q: "showing _ is teaching _",
-            a: "mercy, mercy",
-        },
-        {
-            q: "We get _ when we have caused men to grow",
-            a: "accepted",
-        },
-        {
-            q: "Once your disciple cannot carefully teach like you, you have _",
-            a: "laboured in vain",
-        },
-        {
-            q: "dont get emotional with _",
-            a: "correction",
-        },
-        {
-            q: "your _ must be able to rely on you",
-            a: "leaders",
-        },
-        {
-            q: "you must be there to defend all your church stands for since you have _",
-            a: "learnt it from the word",
-        },
-        {
-            q: "nothing _ can be a disadvantage to that eternal work that you have been given",
-            a: "physical",
-        },
-
     ]
 }

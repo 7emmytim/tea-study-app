@@ -8,128 +8,76 @@ export const part_four = {
     slug: "understanding_genesis_series3_part_four",
     questions: [
         {
-            q: "Any man not in Christ is _",
-            a: "incomplete",
+            q: "It is an attempt not to _ with God's word that lands people in problem",
+            a: "stay simple",
         },
         {
-            q: "the idea of the local church is not _ idea",
-            a: "man's",
+            q: "If we agree that God is _ then it will be funny to say that God lives in heaven",
+            a: "everywhere",
         },
         {
-            q: "God place _ in those that have yeilded to God",
-            a: "multiplication",
+            q: "To analyse Father, Son and Spirit, you must analyse _",
+            a: "man",
         },
         {
-            q: "there's an increase in every believer and this comes to play when we _",
-            a: "gather together",
+            q: "Genesis 1 is not a incontestable account of _ rather it is an incontestable account of _",
+            a: "creation, salvation",
         },
         {
-            q: "Don't do a _ of those within",
-            a: "census",
+            q: "By the time you believe in _, you won't have a problem with _",
+            a: "salvation, creation",
         },
         {
-            q: "you number those that _ and not those that _",
-            a: "ought to be inside, are already inside",
+            q: "There's a _ covering upon the earth",
+            a: "progressive",
         },
         {
-            q: "Let the obvious thing about you be _",
-            a: "meekness",
+            q: "Some of the planets are basically too cold or too hot which we may all call Adam's _",
+            a: "failed project",
         },
         {
-            q: "One of the major traits of the antiChrist is _",
-            a: "lawlessness",
+            q: "It is easy to assume that anything that comes from above is _",
+            a: "heaven",
         },
         {
-            q: "_ is a function of the heart and attitude",
-            a: "lawlessness",
+            q: "_ will tell you that there's a God to search for but won't lead you to that God",
+            a: "Creation",
         },
         {
-            q: "The _ of Eve feeding Adam is a depiction of the loss of _",
-            a: "picture, God's authority",
+            q: "If you look at _ you can't say that there's no God but you don't search for that God in _",
+            a: "creation, creation",
         },
         {
-            q: "Sarah calling AB _ is a symbol of mankind submitting to God",
-            a: "lord",
+            q: "They are using a place that their comprehension cannot grasp to describe _",
+            a: "the location of God",
         },
         {
-            q: "The church has _ to aid her purpose",
-            a: "physical structures",
+            q: "They call him God of heaven not cos he lives there but cos they _",
+            a: "cannot reach him",
         },
         {
-            q: "That _ of the church will not work without putting some physical things in place",
-            a: "spiritual purpose",
+            q: "No _ successfully called heaven the house of God",
+            a: "prophet",
         },
         {
-            q: "We must not rely on people's _ for the progress in the ministry, it can fluctuate",
-            a: "zeal",
+            q: "If heaven is a creation then it is man's _",
+            a: "home",
         },
         {
-            q: "there must be a structure that sustains your _",
-            a: "spirituality",
+            q: "There's no kingdom of heaven before the _",
+            a: "coming of Christ",
         },
         {
-            q: "expect to be invaded with _",
-            a: "instructions",
+            q: "Both heaven as a state and a heaven as a place is tied to that _",
+            a: "coming of Jesus",
         },
         {
-            q: "unlike the _, it is love that makes us obey",
-            a: "government",
+            q: "What we saw in Genesis 1 is the account of the creation of the _",
+            a: "earth",
         },
         {
-            q: "_ is the fuel for consistency",
-            a: "picture, God's authority",
-        },
-        {
-            q: "_ compels us not to allow God's work to suffer",
-            a: "love",
-        },
-        {
-            q: "love makes us not to postpone God's _",
-            a: "committment",
-        },
-        {
-            q: "The paycheck is the _ of God in my heart",
-            a: "love",
-        },
-        {
-            q: "Our freedom in Christ is not a freedom in _ but in _",
-            a: "the flesh, the spirit",
-        },
-        {
-            q: "You can see _ so you can order your steps accordingly",
-            a: "God",
-        },
-        {
-            q: "To serve God acceptably starts from _",
-            a: "your thought",
-        },
-        {
-            q: "My thought pattern as touching ministry gift must be that of _",
-            a: "honour",
-        },
-        {
-            q: "_ is just anti authoirity",
-            a: "sin",
-        },
-        {
-            q: "_ are not idol worshippers",
-            a: "love",
-        },
-        {
-            q: "leaders understand that _ is the culture of the kingdom",
-            a: "selflessness",
-        },
-        {
-            q: "any man ruled by his _ and _ must not be given oversight",
-            a: "own appetite, ego",
-        },
-        {
-            q: "Some people can leave the church cos you did not allow them to _",
-            a: "express the lust in their heart",
-        },
-        {
-            q: "_ is not to sustain spirituality, _ is spirituality",
-            a: "orderliness, orderliness",
+            q: "The account of the creation of heaven was found in _",
+            a: "Christ",
         },
     ]
 }

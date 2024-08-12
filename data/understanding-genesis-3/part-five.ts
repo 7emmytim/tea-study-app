@@ -8,132 +8,60 @@ export const part_five = {
     slug: "understanding_genesis_series3_part_five",
     questions: [
         {
-            q: "_ are those that don't have time for the will of God",
-            a: "unbelievers",
+            q: "We can have a spiritual _ but from a physical _",
+            a: "influence, entity",
         },
         {
-            q: "There are actions that characterises _ and _",
-            a: "an unbeliever, believer",
+            q: "Physical eyes won't be able to _ the kingdom of God",
+            a: "grasp",
         },
         {
-            q: "Jesus identified with our _",
-            a: "humanity",
+            q: "Anything _ cannot be the kingdom of God",
+            a: "physical",
         },
         {
-            q: "Believers are those who are _ with the will of God",
-            a: "bothered",
+            q: "The kingdom of heaven is not _ alone or _ alone",
+            a: "God, man",
         },
         {
-            q: "We are to seek that _ that only God gives",
-            a: "honour",
+            q: "The only reason a place can be called _ heaven is where men of the spirit are gathered",
+            a: "physical",
         },
         {
-            q: "The unbelief of man after faith does not _ God's _",
-            a: "nullify, faithfulness",
+            q: "There's no hell as a _ before hell as a _",
+            a: "location, state",
         },
         {
-            q: "The same way God made a _ to himself to save us is the same way you decide yourself to _ him",
-            a: "vow, follow",
+            q: "Religion has amplified _ even more than Christ",
+            a: "heaven",
         },
         {
-            q: "you dont rely on any _ to progress in the work of God",
-            a: "external validation",
+            q: "If you ask for things physical, it will be a good _ and not a perfect _",
+            a: "giving, bestowment",
         },
         {
-            q: "God's _ is in salvation and man's _ should be in the work of the ministry",
-            a: "committment, committment",
+            q: "Healing is a good _ but not a perfect _",
+            a: "giving, bestowment",
         },
         {
-            q: "Cos of that _ of salvation, we are to be found at our _",
-            a: "committment, duty post",
+            q: "A perfect bestowment is such that will not need _",
+            a: "a part two/renewing/rededication",
         },
         {
-            q: "He saved you well so you can _ well",
-            a: "labour",
+            q: "We saw a creation in _ and also in _",
+            a: "Adam, Christ",
         },
         {
-            q: "it is a _ for a pastor to accept offering from a rebellious person",
-            a: "curse",
+            q: "The creation in Christ is the one that is called the _",
+            a: "kingdom of heaven",
         },
         {
-            q: "we dont receive _ and deny God in _",
-            a: "salvation, the work of the ministry",
+            q: "Any salvation that you need to rededicate is not from God, it is from your _",
+            a: "pastor",
         },
         {
-            q: "your _ is a blessing when you are in God's will",
-            a: "money",
-        },
-        {
-            q: "to build ministry on yourself alone is not _",
-            a: "smart",
-        },
-        {
-            q: "doing ministry by yourself alone is to trust _ than _",
-            a: "humanity, divinity",
-        },
-        {
-            q: "Men may be inconsistent but _ will not",
-            a: "the body",
-        },
-        {
-            q: "there's a _ when you are not reproducing leaders",
-            a: "danger",
-        },
-        {
-            q: "it is in resurrection that we receive a work called _",
-            a: "grace",
-        },
-        {
-            q: "Our own _ is enabled by the _ of another",
-            a: "work, work",
-        },
-        {
-            q: "the proof of maturity is that ability to stick with _",
-            a: "the written word",
-        },
-        {
-            q: "Your workis made possible not cos of the _ but cos of the _ of God",
-            a: "pleasure, travail",
-        },
-        {
-            q: "I dont feed people's lust with _",
-            a: "understanding_genesis_series3",
-        },
-        {
-            q: "as a leader you must learn not to listen to _",
-            a: "the crowd",
-        },
-        {
-            q: "the _ you are to feed don't determine what you are to do",
-            a: "crowd",
-        },
-        {
-            q: "Kingdom prosperity refers to _",
-            a: "more souls",
-        },
-        {
-            q: "the little you understand, let _ know it",
-            a: "a million people",
-        },
-        {
-            q: "we simply teach more for more _",
-            a: "conviction",
-        },
-        {
-            q: "let the _ of God cause you to be consistent",
-            a: "love",
-        },
-        {
-            q: "love is a _ commitment to a cause, love is not _",
-            a: "sacrificial, tea party",
-        },
-        {
-            q: "faithfulness is possible cos of _",
-            a: "love",
-        },
-        {
-            q: "the _ thing is for men to be submitted to the authority of God",
-            a: "normal",
+            q: "The man in Christ is the _ for this earth",
+            a: "security",
         },
     ]
 }

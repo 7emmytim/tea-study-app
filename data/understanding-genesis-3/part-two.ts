@@ -8,148 +8,72 @@ export const part_two = {
     slug: "understanding_genesis_series3_part_two",
     questions: [
         {
-            q: "Scriptures document that _ of God for us",
-            a: "heartcry",
+            q: "Learn to find _ in the ministry of Jesus",
+            a: "joy",
         },
         {
-            q: "Many think they can use God to achieve their own dreams, that is _",
-            a: "irreverence",
+            q: "No tribe is destined for _",
+            a: "doom",
         },
         {
-            q: "You find out God's will through _ and submit to it",
-            a: "scripture",
+            q: "In being warned/admonished of God, there's _ influence",
+            a: "an angelic",
         },
         {
-            q: "we study scriptures to be more _ in God's plan",
-            a: "relevant",
+            q: "Once you start seeing _ measurements, an angelic influence is there",
+            a: "strict",
         },
         {
-            q: "God leads us in groups so there must be _",
-            a: "order/protocol/line of command",
+            q: "Whether the angel is bringing goodness or wrath, he seeks _",
+            a: "man's permission",
         },
         {
-            q: "that personal experience with God is not _, it should lead to a _",
-            a: "ultimate, societal experience",
+            q: "Every thus saith the Lord must be _",
+            a: "interpreted",
         },
         {
-            q: "_ was used to refer to a people under God's covering",
-            a: "Jerusalem",
+            q: "The priesthood of Levi was inaugurated by _",
+            a: "death",
         },
         {
-            q: "Moses was using the story of _ and _ to teach two kingdoms",
-            a: "Isaac, Ishmael",
+            q: "When you say God destroyed the earth with flood, be _",
+            a: "intelligent",
         },
         {
-            q: "Performance-mindedness must submit to God's _",
-            a: "promise",
+            q: "God's longsuffering anticipates _ and not _",
+            a: "repentance, destruction",
         },
         {
-            q: "What man is to do is called _, God's duty is the _",
-            a: "faith, movement",
+            q: "That glorification of saints will also be the expiry date of God's _ for those in unbelief",
+            a: "longsuffering",
         },
         {
-            q: "It is God that truly moves a man from _ to _",
-            a: "egypt, canaan",
+            q: "The fearing of Noah was a _ but the gospel that Noah preached was a _",
+            a: "reaction, pro action",
         },
         {
-            q: "The _ must be individualistic but the _ will be collective",
-            a: "deliverance/journey, gathering",
+            q: "_ is an intercession against men",
+            a: "Fall down and die",
         },
         {
-            q: "it is not practicable for there to be a joint _",
-            a: "salvation",
+            q: "It was the _ of man that destroyed the earth with flood",
+            a: "wrath",
         },
         {
-            q: "when you try to gather unsaved men and make them a church, you will have _",
-            a: "the book of Numbers/chaos",
+            q: "The real wrath of unbelief is _ and not _",
+            a: "spiritual, physical",
         },
         {
-            q: "God's kingdom is older than man's _",
-            a: "fantasies",
+            q: "There's nothing to learn with _",
+            a: "destruction",
         },
         {
-            q: "You cannot just pick the pattern for the church _",
-            a: "anywhere",
+            q: "It is a _ man that uses evil/death",
+            a: "weak",
         },
         {
-            q: "_ in the church is different from _ in the world",
-            a: "excellence",
-        },
-        {
-            q: "_ in the kingdom of God is a servant",
-            a: "an overseer",
-        },
-        {
-            q: "the stability of the believer is found in _",
-            a: "the local church",
-        },
-        {
-            q: "_ revival cannot get the work done",
-            a: "individual",
-        },
-        {
-            q: "_ must be well structured",
-            a: "evangelism",
-        },
-        {
-            q: "the progress in our ministry must be _",
-            a: "trackable",
-        },
-        {
-            q: "God shines from _",
-            a: "his church",
-        },
-        {
-            q: "if you are looking for _, check the church",
-            a: "God's glory",
-        },
-        {
-            q: "The church is God's _, it is part of his predestination",
-            a: "choice",
-        },
-        {
-            q: "_ existed only in the mind of God before resurrection",
-            a: "zion",
-        },
-        {
-            q: "We have as much prophecy about _ as much as we have about _",
-            a: "the church, individual salvation",
-        },
-        {
-            q: "if you are not active in a good local church, you are not _",
-            a: "in God's plan",
-        },
-        {
-            q: "You wont be called that _ until there is spiritual growth",
-            a: "city of righteousness",
-        },
-        {
-            q: "You can be a christian and the world wont recognise that until _",
-            a: "spiritual growth",
-        },
-        {
-            q: "Men will stop being wicked by the _",
-            a: "teaching ministry",
-        },
-        {
-            q: "People will go to God just to be associated with that _",
-            a: "name of Jesus",
-        },
-        {
-            q: "The days are coming when men will use God's _ for God's _ alone",
-            a: "word, mind",
-        },
-        {
-            q: "_ is also a destination",
-            a: "God's glory",
-        },
-        {
-            q: "From the church, God wages his war of _ to the world",
-            a: "love",
-        },
-        {
-            q: "There's God's kingdom but it is not a kingdom of _, it's a kingdom of sons",
-            a: "financial growth",
+            q: "Death is not _, life is _",
+            a: "power",
         },
     ]
 }

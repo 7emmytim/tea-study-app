@@ -8,181 +8,137 @@ export const part_two = {
     slug: "understanding_genesis_series4_two",
     questions: [
         {
-            q: "it is too late for you to try to stay neutral of _",
-            a: "spiritual activities",
+            q: "The normal rules of literature will also have to apply in BI cos we have a central _ and _",
+            a: "figure, tools of communication",
         },
         {
-            q: "spiritual activites and demonstrations have a huge place in the _ we wist to see",
-            a: "revival",
+            q: "There's a type of new age doctrine we have now that they want to talk about _",
+            a: "sin",
         },
         {
-            q: "satan prefers the believer's _ cos in that way, he dulls your _",
-            a: "ignorance, discernment",
+            q: "We can use _ to describe personalities but in describing events, we use _",
+            a: "symbols, figures of speech",
         },
         {
-            q: "a believer must not be ignorant of _ and _ activities",
-            a: "angelic, demonic",
+            q: "Using eating of the tree to symbolize faith or unbelief will be _",
+            a: "figure of speech",
         },
         {
-            q: "whatsoever puts a man under spirits is not of God whether in _ or _",
-            a: "righteousness, disobedience",
+            q: "Serpent as Satan is _",
+            a: "symbolism",
         },
         {
-            q: "God's own punishment for sin lands on _ and not _",
-            a: "himself, man",
+            q: "God is going to be the light of man and that light will shine via _",
+            a: "speaking",
         },
         {
-            q: "there was never a handing over of man to _ by God",
-            a: "satan",
+            q: "When there was nothing, God said let there be light and the light shinned without any _",
+            a: "effect",
         },
         {
-            q: "God's word and _ are ways to get better in the spirituals",
-            a: "experiences",
+            q: "Heaven and earth was used more _ than _ in the scriptures",
+            a: "figurative, literal",
         },
         {
-            q: "God never agreed with satan to _ any man",
-            a: "afflict",
+            q: "We have little information about _ in the Bible",
+            a: "Eden",
         },
         {
-            q: "God cannot _ a man and then _ him",
-            a: "bless, curse",
+            q: "_ will depict a plan of God wherein righteousness reigned without sin",
+            a: "Eden",
         },
         {
-            q: "God's full _ is to deal with man so that he can stop handing himself over to be afflicted",
-            a: "deliverance",
+            q: "_ was never compulsory before life",
+            a: "Death",
         },
         {
-            q: "God dealt with man in _",
-            a: "salvation",
+            q: "_ is a primary tool of communication of life to Adam",
+            a: "Eternal life",
         },
         {
-            q: "you have to occupy the space the demon left with _, that is full _",
-            a: "Christology, deliverance",
+            q: "Eden is to show you that God never had _ in the plan for man",
+            a: "death",
         },
         {
-            q: "the true punishment for sin is _",
-            a: "separation",
+            q: "The gospel came to Adam as a _, not redemptive",
+            a: "choice",
         },
         {
-            q: "anything torment that happens on earth due to sin is not God's making, it's _",
-            a: "an external introduction",
+            q: "The first obvious sign that man had sinned was _",
+            a: "mortality",
         },
         {
-            q: "you cannot base your victory in Christ on your _",
-            a: "correctness",
+            q: "The death of Christ was not a _ before sin",
+            a: "necessity",
         },
         {
-            q: "instead of _, the teaching ministry is what is done in the NT",
-            a: "curses",
+            q: "The sufferings of Christ was cos of the _ of man but the glory that follows will be the _",
+            a: "sin, plan of God",
         },
         {
-            q: "the _ was against God but the _ was not from God",
-            a: "sins, punishment",
+            q: "Man's _ won't produce God's righteousness",
+            a: "knowledge",
         },
         {
-            q: "the enforcer made God's will and it's _ real to their senses",
-            a: "consequences",
+            q: "The tree of knowledge of good and evil is other knowledge at the expense of the _ of God",
+            a: "knowledge",
         },
         {
-            q: "Jesus does not use the consequence of sin to _ man",
-            a: "teach",
+            q: "It was not sin that made man discover _",
+            a: "reproduction",
         },
         {
-            q: "the true consequence of _ is that you will not be blessed by the ministry of the mog",
-            a: "dishonour",
+            q: "If how Eve was deceived then is different from how people are deceived today then the Bible is not _",
+            a: "coherent",
         },
         {
-            q: "what we have now is _ and not mediators",
-            a: "pastors",
+            q: "Satan tries to occupy man with things until man is _",
+            a: "out of time",
         },
         {
-            q: "In Christ, the ministry of _ has ended for good",
-            a: "the enforcer",
+            q: "The communication in Gensis 3 will be _ but the character and the sin is not _",
+            a: "figurative, figurative",
         },
         {
-            q: "_ is not power",
-            a: "destruction",
+            q: "Doing the right thing is _ but doing the right thing at the right time is _",
+            a: "okay, very important",
         },
         {
-            q: "don't bring in _ in your effort to serve God",
-            a: "demonic activities",
+            q: "Procrastination of the will of God is _",
+            a: "terrible",
         },
         {
-            q: "fall down and die is _",
-            a: "evil",
+            q: "Nailing God's will doesn't take _, it only takes _",
+            a: "forever, a moment of focus",
         },
         {
-            q: "_ are not one of tools for edification",
-            a: "curses",
-        },
-        {
-            q: "to _ a man or to demand _ over anyone is to call Jesus accursed",
-            a: "curse, judgement",
-        },
-        {
-            q: "don't wish anyone _ cos they disobeyed you",
-            a: "evil/accident",
-        },
-        {
-            q: "satan is always _ and you don't join him, rebuke him",
-            a: "wrong",
-        },
-        {
-            q: "angels obey the _ of us",
-            a: "least",
-        },
-        {
-            q: "_ puts us in a perfect position to command acitivities",
-            a: "sonship",
-        },
-        {
-            q: "when you are around, satan has reached his _",
-            a: "limit",
-        },
-        {
-            q: "you have authoirty to _ activities and power to _ it",
-            a: "stop, reverse",
-        },
-        {
-            q: "_ happened when you believed the gospel",
-            a: "a lot",
-        },
-        {
-            q: "I am born with the _ package",
-            a: "full",
-        },
-        {
-            q: "in your _, you are a son of God",
-            a: "dreams",
-        },
-        {
-            q: "the God of the _ is the God of the _",
-            a: "day, night",
-        },
-        {
-            q: "The God in the _ is the God in the _",
-            a: "church, grave yard",
-        },
-        {
-            q: "your in Christ sanity is enough _, your words is enought _",
-            a: "defence, offence",
-        },
-        {
-            q: "it is my _ that will submit to my reality",
-            a: "experiences",
-        },
-        {
-            q: "your reality is _",
-            a: "boldness",
-        },
-        {
-            q: "you will deliberately cause your experience to conform to _",
-            a: "the word of God",
-        },
-        {
-            q: "satan does not respond to _, he responds to _",
-            a: "prayers, authority",
+            q: "Temptation is always _",
+            a: "progressive",
         },
 
+        {
+            q: "Watch out for _, it makes men unfruitful in the path of God",
+            a: "the cares of this world",
+        },
+        {
+            q: "Don't expect Satan to come in your _, he comes in _",
+            a: "dreams, thoughts",
+        },
+        {
+            q: "The three temptation of Jesus is a summation of _ he received and he overcame",
+            a: "influences",
+        },
+        {
+            q: "Watch those _ that downplays God's will",
+            a: "thoughts",
+        },
+        {
+            q: "Once you can overcome _ in your thoughts, your actions will follow suit",
+            a: "Satan",
+        },
+        {
+            q: "Where you must always be found is where _ is working",
+            a: "God's will",
+        },
     ]
 }

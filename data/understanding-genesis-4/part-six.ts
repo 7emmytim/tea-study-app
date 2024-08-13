@@ -8,92 +8,100 @@ export const part_six = {
     slug: "understanding_genesis_series4_six",
     questions: [
         {
-            q: "as a believer, i'm not _ about anything",
-            a: "over reactive",
+            q: "The believer need not to be smart in every _ in the world",
+            a: "knowledge",
         },
         {
-            q: "the difference between the son and servant is in the _",
-            a: "mind",
+            q: "In your _ to be a preacher, you must only be smart in BI",
+            a: "qualification",
         },
         {
-            q: "at salvation and upon spiritual growth, you were decked with the ability to _ and _ correctly",
-            a: "think, speak",
+            q: "In reading Genesis, I must take off the concealer of _",
+            a: "Exodus",
         },
         {
-            q: "you cannot preach a _ that you are not convinced about",
-            a: "truth",
+            q: "The only reason you won't need Christ is if you don't have a _",
+            a: "mortal body",
         },
         {
-            q: "have a regular schedule of _",
-            a: "prayers",
+            q: "There's no special _ as touching individuals on who should be saved or who should not be saved",
+            a: "election",
         },
         {
-            q: "a defeated mind is a _ believer",
-            a: "failed",
+            q: "The devil's sin from the beginning is _",
+            a: "hatred for the truth",
         },
         {
-            q: "failure is known in _, _ and _",
-            a: "words, thoughts, actions",
+            q: "It will be _ to say that God will enter a fight with Satan",
+            a: "an unfair contest",
         },
         {
-            q: "satan does not need to push any man to _, he only needs to weaken the mind",
-            a: "destruction",
+            q: "Anywhere Christ meets the seed of the serpent, there will be a _",
+            a: "confrontation",
         },
         {
-            q: "a _ mind is all satan needs, such a man will destroy himself",
-            a: "weakened",
+            q: "Anywhere you Satan used, you see _",
+            a: "deception",
         },
         {
-            q: "lack of wisdom was the _ satan sold to Eve",
-            a: "deficiency",
+            q: "The central reason a man is called of _ is rebellion against the truth which is the seed of the serpent",
+            a: "Satan",
         },
         {
-            q: "you cannot take any action of your life based on _",
-            a: "anger",
+            q: "In scriptures, don't focus on _ but on the seed",
+            a: "Satan",
         },
         {
-            q: "temptation is not _",
+            q: "_ is rebellion taking the place of a person",
+            a: "Antichrist",
+        },
+        {
+            q: "The prophets will use a _ of rebellion to speak about rebellion",
+            a: "carrier",
+        },
+        {
+            q: "We see a war against sin with _ as the tool of communication",
+            a: "Satan",
+        },
+        {
+            q: "What Jesus destroyed was _ hereby making Satan powerless",
             a: "sin",
         },
         {
-            q: "all satan needs to do is to supply the _",
-            a: "deficiency",
+            q: "There's no _ contest between God and Satan",
+            a: "physical",
         },
         {
-            q: "indecision, lack of wisdom is an hopeless _",
-            a: "mind",
+            q: "God _ as I preach the gospel",
+            a: "fights",
         },
         {
-            q: "_ will end up fulfiling satan's agenda",
-            a: "a weak mind",
+            q: "God works in our heart to reject _",
+            a: "rebellion",
         },
         {
-            q: "a defeated mind is a defeated _",
-            a: "believer",
+            q: "In our heart, God still rebels against _",
+            a: "rebellion",
         },
         {
-            q: "you will not move God's power with _ but with your _",
-            a: "tears, persuasion",
+            q: "We don't _ the actions of men going to hell",
+            a: "applaud",
         },
         {
-            q: "if you want to change the situation, the way forward is not by _",
-            a: "tears",
+            q: "He died for sin and in that death, our _ died",
+            a: "old man",
         },
         {
-            q: "you have things already in God that you can _ to change situation",
-            a: "deploy",
+            q: "Don't live your life like the man going to _",
+            a: "hell",
         },
         {
-            q: "you enter a prayer meeting with a burdened heart but you leave with _",
-            a: "persuasion",
+            q: "God can never lead a man to eternal _",
+            a: "irrelevance",
         },
         {
-            q: "_ is ahead of the enemy",
-            a: "God",
-        },
-        {
-            q: "God saw _ before us so he has prepared us for _",
-            a: "today, today",
+            q: "Some ambitions are not normal, they are _",
+            a: "demonic",
         },
     ]
 }

@@ -8,101 +8,72 @@ export const part_three = {
     slug: "understanding_genesis_series4_three",
     questions: [
         {
-            q: "nothing done in church is _, it is for _",
-            a: "casual, edification",
+            q: "God works patience in me to _",
+            a: "learn",
         },
         {
-            q: "you are a _ believer and not a seasonal believer",
-            a: "ready",
+            q: "Some preachers work for the deceiver _",
+            a: "unknowingly",
         },
         {
-            q: "you become a _ under which others will come and feed",
-            a: "domain",
+            q: "_ is one big thing they can use to easily swerve you around",
+            a: "Creation",
         },
         {
-            q: "you are too loaded to act _",
-            a: "less",
+            q: "That _ creation points to an _ God but we see that _ of God is in salvation",
+            a: "abundant, abundant, abundance",
         },
         {
-            q: "anything contrary to God's truth is _",
-            a: "a lie",
+            q: "The cunny preacher won't tell you that the _ you should expect in abundance from God is _",
+            a: "blessing, spiritual blessing",
         },
         {
-            q: "where God's will is made to bow to things, _ is not far",
-            a: "demonic activity",
+            q: "A _ blessing cannot point to another _ blessing",
+            a: "physical",
         },
         {
-            q: "don't push every _ in the name of God",
-            a: "possibility",
+            q: "_ will imply all that can be known by man via and through man",
+            a: "Knowledge of good and evil",
         },
         {
-            q: "don't try to use the name of God for _ to work, don't force God into your _",
-            a: "things, mode",
+            q: "You will definitely see _ in creation",
+            a: "marvel",
         },
         {
-            q: "the truth is not always for you to _, it is not always what is _",
-            a: "advance, convenient/juicy",
+            q: "Science captures the fancies of man until man is _",
+            a: "out of time",
         },
         {
-            q: "the truth is what God has said about you and your _",
-            a: "walk with him",
+            q: "It is when you get carried away with _ that you say that man is a product of evolution",
+            a: "creation",
         },
         {
-            q: "as a minister of God, ensure you are always in _",
-            a: "tune",
+            q: "The day science can make _, throw away your Bible",
+            a: "eternal life",
         },
         {
-            q: "vision is like a _ given to you to understand something",
-            a: "drama",
+            q: "Recreation is also not _",
+            a: "creation",
         },
         {
-            q: "the mindset of the prophet will play a role in the _",
-            a: "vision",
+            q: "You won't meet God _, you will meet God _",
+            a: "outside, within",
         },
         {
-            q: "your _ of God will affect the visions you see",
-            a: "knowledge",
+            q: "What many blame God for are clearly written in the scriptures as the consequences of man's _ and not God's _",
+            a: "disobedience, judgement",
         },
         {
-            q: "you cannot fight satan and win on the basis of _ or _",
-            a: "smartness, intelligence",
+            q: "That mentality of sliding into atheism using the fallen nature as a yardstick is _",
+            a: "self-deception",
         },
         {
-            q: "a breach of authority under God is to open up for satan's _",
-            a: "lordship",
+            q: "God claims responsibility for the _. God does not claim responsibility for the _",
+            a: "new creature, fallen earth",
         },
         {
-            q: "accepting satan's _ is to accept his lordship over you",
-            a: "lies",
+            q: "You must not sin in your understanding and speaking of _",
+            a: "creation",
         },
-        {
-            q: "_ is inability to do the right things",
-            a: "depression",
-        },
-        {
-            q: "depression leads to _",
-            a: "possession",
-        },
-        {
-            q: "_ is an empowerment to do the wrong things",
-            a: "oppression",
-        },
-        {
-            q: "when there's a _, anything can happen",
-            a: "weak mind",
-        },
-        {
-            q: "no _ is to small to seek for direction",
-            a: "matter",
-        },
-        {
-            q: "I reject the world's _ of me",
-            a: "valuation",
-        },
-        {
-            q: "the devil sells a lie to make the believer _",
-            a: "useless on earth",
-        },
-
     ]
 }

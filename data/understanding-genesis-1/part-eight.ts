@@ -88,6 +88,10 @@ export const part_eight = {
             a: "Jesus, fear",
         },
         {
+            q: "No man that operates in authority walks in _",
+            a: "fear",
+        },
+        {
             q: "When man sinned God did not cut the _ off, _ cut it off",
             a: "power, fear",
         },

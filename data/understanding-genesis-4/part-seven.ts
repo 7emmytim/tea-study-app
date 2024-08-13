@@ -8,219 +8,92 @@ export const part_seven = {
     slug: "understanding_genesis_series4_seven",
     questions: [
         {
-            q: "_ is part of the service",
-            a: "prayer",
+            q: "Choice is part of the _ of man",
+            a: "make up",
         },
         {
-            q: "prayer is part of what we do together but for _ enhancement",
-            a: "individual",
+            q: "Man is called a man cos he is a being of _",
+            a: "choice",
         },
         {
-            q: "God wants me to _ always in the congregation of saints",
-            a: "participate",
+            q: "_ is not something God will give man some day",
+            a: "Choice",
         },
         {
-            q: "in what man calls a _, there's already a God",
-            a: "beginning",
+            q: "Regardless of _, every man will be responsible for the choice he makes",
+            a: "influence",
         },
         {
-            q: "God _ the beginning of man",
-            a: "transcends",
+            q: "No one goes against God's will in total _",
+            a: "ignorance",
         },
         {
-            q: "you cannot believe Bible and _ together",
-            a: "evolution",
+            q: "Even before a man dies, he sees himself in the _ of the choices he has made",
+            a: "effect",
         },
         {
-            q: "physical creation is used by the Bible to describe _",
-            a: "God's power",
+            q: "Some people think avoiding God is avoiding _",
+            a: "judgement",
         },
         {
-            q: "we have both _ and _ meaning to the word host",
-            a: "physical, spiritual",
+            q: "Man is free to _ but not free from the consequence of his _",
+            a: "choose, choice",
         },
         {
-            q: "there's an influence of man on _",
-            a: "creation",
+            q: "The _ of your choice may cage you",
+            a: "result",
         },
         {
-            q: "these hosts are instrumental in the creation of this _ cosmos",
-            a: "physical",
+            q: "There's nothing like a free thinker, you are only a free _",
+            a: "sinner",
         },
         {
-            q: "the _ are responsible for the visible",
-            a: "invisible",
+            q: "The _ of man is key in choice making",
+            a: "mind",
         },
         {
-            q: "things the five senses cannot _ are responsible for the physical",
-            a: "decode",
+            q: "A sinner is the one that rejects the choice of _",
+            a: "eternal life",
         },
         {
-            q: "it's cos of an invisible force that's why man's _ function",
-            a: "organs",
-        },
-        {
-            q: "there's a spiritual life _ to man",
-            a: "line",
-        },
-        {
-            q: "it shouldn't be strange to you if the physical can be _ via unseen realities",
-            a: "changed/adjusted/damaged",
-        },
-        {
-            q: "even what I cannot do with my physical strength can be _",
-            a: "done",
-        },
-        {
-            q: "both the physical _, invisible _ and physical _ are all called spiritual",
-            a: "action, response, response",
-        },
-        {
-            q: "since man is being sustained by a spiritual force then it is not a big deal for man to do things like _",
-            a: "raising the dead",
-        },
-        {
-            q: "don't shortchange yourself, the world you live in is a result of _",
-            a: "miracle",
-        },
-        {
-            q: "what we call natural today is simply what is created supernaturally but with an inherent ability of _",
-            a: "self sustainance",
-        },
-        {
-            q: "in creation, God told everything to _ itself",
-            a: "sustain",
-        },
-        {
-            q: "there's really nothing _, supernatural creation ensures self sustainance",
-            a: "natural",
-        },
-        {
-            q: "_ is not creation",
-            a: "discovery",
-        },
-        {
-            q: "ability to explain does not make you _",
-            a: "God",
-        },
-        {
-            q: "we are in a world where _ power is at it's peak",
-            a: "mental",
-        },
-        {
-            q: "the dominion of man is _",
-            a: "thorough",
-        },
-        {
-            q: "the only being man is not meant to _ is the creator himself",
-            a: "dominate",
-        },
-        {
-            q: "_ advancement does not make any man God",
-            a: "scientific",
-        },
-        {
-            q: "the physical will always have their _",
-            a: "limitation",
-        },
-        {
-            q: "there's always space for _",
-            a: "the power of God",
-        },
-        {
-            q: "_ is only depending on what was created supernaturally",
-            a: "science",
-        },
-        {
-            q: "as a believer, don't get _ over science",
-            a: "jittery",
-        },
-        {
-            q: "although lesser than angels in _ but greater than angels in _",
-            a: "nature, authority",
-        },
-        {
-            q: "satan can only come with a _ and not with _",
-            a: "suggestions, weapons",
-        },
-        {
-            q: "_ is not even a legal right for satan to dominate man",
+            q: "If you say babies are sinners it means you are saying God instituted _",
             a: "sin",
         },
         {
-            q: "_ is man submitting to satan deliberately",
+            q: "Reproduction does not produce _",
+            a: "sinners",
+        },
+        {
+            q: "We need Christ not cos of _ but cos we are men",
             a: "sin",
         },
         {
-            q: "the price of a soul is the death of a _ creator",
-            a: "sinless",
+            q: "For babies, their _ is not fully formed",
+            a: "mental faculty",
         },
         {
-            q: "if he got the authority, there will be no man agian, he would not allow any man _",
-            a: "accept Jesus",
+            q: "The nature of sin is not the _ but that mindset of rebellion against the gospel",
+            a: "flesh",
         },
         {
-            q: "the sin of satan was in the _ of information",
-            a: "falsification",
+            q: "The human body is God's _ to be active on earth",
+            a: "permission",
         },
         {
-            q: "man be simply being more _ can overcome a whole lot of demonic activities",
-            a: "intelligent",
+            q: "The spirit of man is the _ of the choice of the mind",
+            a: "receptor",
         },
         {
-            q: "at times, man does not need to be _ to resist demonic activiteis from himself",
-            a: "born again",
+            q: "When a man now passes out of the body there's no more _",
+            a: "repentance",
         },
         {
-            q: "the _ of man is superiority over spirits",
-            a: "makeup",
-        },
-
-        // 
-
-        {
-            q: "for us to stop demonic activities in another, it takes _",
-            a: "power",
+            q: "There's a mercy of God that we see on sinners, it is called _",
+            a: "God's longsuffering",
         },
         {
-            q: "angels by reason of _ are beings of power",
-            a: "their nature",
-        },
-        {
-            q: "spirit being means power not _",
-            a: "authority",
-        },
-        {
-            q: "in Christ is the only _ use of man's authority and you won't end in _",
-            a: "legal, pervertion",
-        },
-        {
-            q: "_ can stop the workings of power",
-            a: "authority",
-        },
-        {
-            q: "same way _ can initiate demonic activies, same way it can stop demonic activites",
-            a: "words",
-        },
-        {
-            q: "in the presence of authority, the _ and _ for affliction does not matter",
-            a: "names, reasons",
-        },
-        {
-            q: "you are conscious of your authority and not _ of the afflictions",
-            a: "details",
-        },
-        {
-            q: "spirit beings that do not live by _ laws submit to you",
-            a: "natural",
-        },
-        {
-            q: "whatsoever has gone wrong _ or _ can be corrected supernaturally",
-            a: "naturally, supernaturally",
-        },
-        {
-            q: "in casting out of demons, workings of miracles, I upgrade my _ and _ superior to the natural",
-            a: "thinking, expectation",
+            q: "The truth that has been written for more 4000 years and that stood, be _ of it",
+            a: "afraid",
         },
     ]
 }

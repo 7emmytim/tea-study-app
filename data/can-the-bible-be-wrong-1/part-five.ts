@@ -1,11 +1,11 @@
 import { Timer1 } from "iconsax-react";
 
 export const part_five = {
-    title: "UG - Series 1",
+    title: "CTBBW - Series 1",
     description: "Part 5",
     icon: Timer1,
     color: "#F7D060",
-    slug: "understanding_genesis_series1_part_five",
+    slug: "can_the_bible_be_wrong_series1_part_five",
     questions: [
         {
             q: "Whatsoever God has created does not _",

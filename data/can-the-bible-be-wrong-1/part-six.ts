@@ -1,11 +1,11 @@
 import { Timer1 } from "iconsax-react";
 
 export const part_six = {
-    title: "UG - Series 1",
+    title: "CTBBW - Series 1",
     description: "Part 6",
     icon: Timer1,
     color: "#F7D060",
-    slug: "understanding_genesis_series1_part_six",
+    slug: "can_the_bible_be_wrong_series1_part_six",
     questions: [
         {
             q: "For the word of God to come to pass, there must be a man to put the words in _",

@@ -8,104 +8,156 @@ export const part_two = {
     slug: "can_the_bible_be_wrong_series1_part_two",
     questions: [
         {
-            q: "When you pray with boldness, that is using _",
-            a: "the name of Jesus",
+            q: "Your worship is actually for _",
+            a: "you",
         },
         {
-            q: "A week must not go without you using _",
-            a: "the name of Jesus",
+            q: "We _ him to know him more",
+            a: "worship",
         },
         {
-            q: "we come to church to _ what we have done in the name of Jesus during the week",
-            a: "cumulate",
+            q: "Worship is not different from a _",
+            a: "sermon",
         },
         {
-            q: "Our _ is useless without that name",
-            a: "gathering",
+            q: "When looking at the scriptures, look for what to _",
+            a: "believe",
         },
         {
-            q: "The name of Jesus is the basis on which we have _",
-            a: "ministry",
+            q: "You cannot successfully preach _ from the Bible",
+            a: "salvation by works",
         },
         {
-            q: "There's no Christianity without _",
-            a: "the name",
+            q: "The men that had the _ perished in the wilderness",
+            a: "book of the law",
         },
         {
-            q: "There is no Christianity without _ in the name",
-            a: "activities",
+            q: "To meditate on the book of the law is not to focus on the _",
+            a: "book of the law",
         },
         {
-            q: "Church should teach you well to handle your problem at _",
-            a: "home",
+            q: "_ is to follow God fully",
+            a: "Faith",
         },
         {
-            q: "One thing Christians must learn to do is to learn how to _",
-            a: "relate",
+            q: "Don't look into the Bible for _, you will hook one day",
+            a: "character modification",
         },
         {
-            q: "The _ to the Bible was salvation",
-            a: "introduction",
+            q: "Historical books are not _",
+            a: "doctrinal",
         },
         {
-            q: "The activities of the Holy Ghost is found in _",
-            a: "man",
+            q: "We don't _ the writers but that doesn't mean the writers are always _",
+            a: "doubt, correct",
         },
         {
-            q: "What you say is important in _",
-            a: "Christianity",
+            q: "In categorising a book as revelational, you must be very careful cos we have _",
+            a: "depths of revelation",
         },
         {
-            q: "In redemption, God _ himself in you",
-            a: "pleases",
+            q: "The books are not ranked in _ but with the clarity of the utterance",
+            a: "themselves",
         },
         {
-            q: "There are some _ in me acceptable to God",
-            a: "activities",
+            q: "The _ of the scripture will now be a function of how clearly Jesus can be seen in those books",
+            a: "ranking",
         },
         {
-            q: "What the Holy Ghost will do will be based on _",
-            a: "redemption",
+            q: "God does not speak the type, God speaks the _ but man will _ in types",
+            a: "reality, manifest/demonstrate",
         },
         {
-            q: "Although, the activities will be post redemption, we will yet find the _ in the OT",
-            a: "type and shadow",
+            q: "Noah was warned of the consequence of saying no to _",
+            a: "resurrection",
         },
         {
-            q: "Faith did not originate from _, it was perfected in _",
-            a: "resurrection, resurrection",
+            q: "The ark was Noah's own _",
+            a: "teaching ministry",
         },
         {
-            q: "The Holy Ghost functions in _ men",
-            a: "talking",
+            q: "Jesus on the cross was our _ and not our _",
+            a: "sin, righteousness",
         },
         {
-            q: "In your preaching and teaching, there's a _ you are meant to combat",
+            q: "We look out for the books that are louder on _ than on the _",
+            a: "faith, contradictions of faith",
+        },
+        {
+            q: "Whatsoever is not of faith is _",
             a: "sin",
         },
         {
-            q: "Cos we will see Jesus no more, _ will be available",
-            a: "righteousness",
+            q: "In your mind when you see so much law, you rank it lesser cos the law is not _",
+            a: "of faith",
         },
         {
-            q: "His disappearance is our _",
-            a: "righteousness",
+            q: "The entire book is not written to make us feel _",
+            a: "guilty",
         },
         {
-            q: "Although Jesus disappeared,  he was doing _",
-            a: "intercession",
+            q: "Faith cannot be _",
+            a: "baseless",
         },
         {
-            q: "The assurance of salvation equals _",
-            a: "righteousness",
+            q: "Both Cain and Abel acted on _",
+            a: "an information",
         },
         {
-            q: "One of the work of the Spirit is for you to teach believers _",
-            a: "righteousness",
+            q: "There was no law in _ yet we have people that were justified by faith",
+            a: "Genesis",
         },
         {
-            q: "When we practice _, we judge the devil",
-            a: "healing",
+            q: "You will find faith more in the book of _ than any other book of _",
+            a: "Genesis, Moses",
+        },
+        {
+            q: "What Cain presented was like _",
+            a: "works of man",
+        },
+        {
+            q: "Since you won't find faith easily from _, you must rank that period lesser in your mind in your study",
+            a: "Exodus 20",
+        },
+        {
+            q: "It is _ to say I read the whole Bible once in a year",
+            a: "foolishness",
+        },
+        {
+            q: "Exploits of _ does not mean exploits of _",
+            a: "faith, power",
+        },
+        {
+            q: "It is only _ that spoke about redemtpion that glorifies God",
+            a: "exploit",
+        },
+        {
+            q: "You must focus more on the _ of David more than his _",
+            a: "prophecies, history",
+        },
+        {
+            q: "Any goodness that is following you all the days of your life, it speaks of _",
+            a: "eternal life",
+        },
+        {
+            q: "In the _, slow to anger now becomes no anger at all",
+            a: "epistles",
+        },
+        {
+            q: "Hell was a location for _",
+            a: "sin",
+        },
+        {
+            q: "People go to hell cos they remain _ with sin",
+            a: "identified",
+        },
+        {
+            q: "If God marked iniquity, _ would also not stand",
+            a: "Nathan",
+        },
+        {
+            q: "Bible has _",
+            a: "ranking",
         },
     ]
 }

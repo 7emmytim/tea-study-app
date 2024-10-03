@@ -8,52 +8,112 @@ export const part_ten = {
     slug: "can_the_bible_be_wrong_series2_ten",
     questions: [
         {
-            q: "That term called spiritual death must always be well _",
-            a: "explained",
+            q: "When a man is in trouble, God is _ to help",
+            a: "ready",
         },
         {
-            q: "The Bible is not a _",
-            a: "dictionary",
+            q: "God's word is _ and _, not _",
+            a: "past, present, future",
         },
         {
-            q: "There's no clear _ of faith in the Bible, you can only _ faith",
-            a: "definition, explain",
+            q: "Past in his _ but present in his ability",
+            a: "intention",
         },
         {
-            q: "Biblical concepts must be _ and not just _",
-            a: "explained, defined",
+            q: "God does not use _ and _ in relation to sin",
+            a: "sowing, reaping",
         },
         {
-            q: "Nakedness will describe _",
-            a: "spiritual death",
+            q: "_ is a statement of preaching",
+            a: "'I will'",
         },
         {
-            q: "If you did not partake in _ sin, we cannot call you an outcast from God",
-            a: "Adam's",
+            q: "_ is used expecting man to receive the promise as his own",
+            a: "'I will'",
         },
         {
-            q: "Living in the Spirit will be our _ and walking in the Spirit will be our _",
-            a: "nature, conduct",
+            q: "_ received is no longer a _",
+            a: "Promise, promise",
         },
         {
-            q: "We must be able to read _ in the epistles and not be afraid that God is going to take away salvation",
-            a: "instructions",
+            q: "God never brought _ for man to cash later",
+            a: "a postdated check",
         },
         {
-            q: "That promise of the messiah is as strong as strong as before and after he _",
-            a: "died",
+            q: "The word _ is to tell man how prepared God is to bless.",
+            a: "promise",
         },
         {
-            q: "you won't be a new creature on earth until you hear the full the gospel after _",
-            a: "the resurrection",
+            q: "God is not exercising faith to make Abraham a _",
+            a: "father of many nations",
         },
         {
-            q: "You must believe the full gospel after the full gospel has been _",
-            a: "consummated",
+            q: "Calling the things that be not as though they were is _ for Abraham",
+            a: "an exercise of faith",
         },
         {
-            q: "The message of rapture is not to _ people, it is to _",
-            a: "threaten, comfort",
+            q: "We must all be _ of faith",
+            a: "students",
+        },
+        {
+            q: "_ does not make God's word to work",
+            a: "Pity",
+        },
+        {
+            q: "Before he was 100 years Abraham was _",
+            a: "weak in faith",
+        },
+        {
+            q: "It is called _ to Abraham cos he had not believed",
+            a: "a promise",
+        },
+        {
+            q: "No _ of God is without power",
+            a: "word",
+        },
+        {
+            q: "God does not _ to do good, God is good to us",
+            a: "prepare",
+        },
+        {
+            q: "Till some people die they will keep saying _",
+            a: "God has promised me",
+        },
+        {
+            q: "The _ was not with God but with Abraham in the school of faith",
+            a: "endurance",
+        },
+        {
+            q: "Faith is a _",
+            a: "school",
+        },
+        {
+            q: "Prayers and fasting is not needed to _ but for you to dare to believe God",
+            a: "cast out demons",
+        },
+        {
+            q: "_ is consecration or focus",
+            a: "Prayer and fasting",
+        },
+        {
+            q: "Turning his name from Abram to Abraham is simply _",
+            a: "focus",
+        },
+        {
+            q: "You are not waiting on God to _ but waiting on yourself to _",
+            a: "give, receive",
+        },
+        {
+            q: "_ receives what God has provided",
+            a: "Faith",
+        },
+        {
+            q: "God's word is _, it is not postdated",
+            a: "now",
+        },
+        {
+            q: "The _ is with yourself in the school of faith",
+            a: "patience",
         },
     ]
 }

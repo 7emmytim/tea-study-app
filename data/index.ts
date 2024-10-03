@@ -18,9 +18,9 @@ export const sermons = [
     // can_the_bible_be_wrong_series2.part_five,
     // can_the_bible_be_wrong_series2.part_six,
     // can_the_bible_be_wrong_series2.part_seven,
-    // can_the_bible_be_wrong_series2.part_eight,
-    // can_the_bible_be_wrong_series2.part_nine,
-    // can_the_bible_be_wrong_series2.part_ten,
-    // can_the_bible_be_wrong_series2.part_eleven,
-    // can_the_bible_be_wrong_series2.part_twelve
+    can_the_bible_be_wrong_series2.part_eight,
+    can_the_bible_be_wrong_series2.part_nine,
+    can_the_bible_be_wrong_series2.part_ten,
+    can_the_bible_be_wrong_series2.part_eleven,
+    can_the_bible_be_wrong_series2.part_twelve
 ]

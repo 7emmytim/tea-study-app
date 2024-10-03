@@ -8,76 +8,148 @@ export const part_twelve = {
     slug: "can_the_bible_be_wrong_series2_twelve",
     questions: [
         {
-            q: "In studying the scripture, always look for that _ thought",
-            a: "underlying",
+            q: "God cannot be known outside what he does and what he does is _",
+            a: "mercy",
         },
         {
-            q: "Answers to prayers is attached to a good God and not _",
-            a: "man's efforts",
+            q: "God doesn't _ ungodliness but he _ the ungodly",
+            a: "condone, justifies",
         },
         {
-            q: "Vain repetition is actually of the _",
-            a: "heart",
+            q: "Under interpreting scriptures by _, pay attention to _ words, it can be deadly",
+            a: "grammar, italicised",
         },
         {
-            q: "The Lord's prayer is _ and not a recitation",
-            a: "an understanding",
+            q: "Since God's counsel have been communicated in _, you must be a student of _ to understand clearly",
+            a: "words, words",
         },
         {
-            q: "The _ Father is not competing with the _ father",
-            a: "heavenly, earthly",
+            q: "The _ of all religion has been looking for God",
+            a: "mother",
         },
         {
-            q: "Father in heaven is also used for God of all _",
-            a: "supplies",
+            q: "The only height God wants you to climb now is _",
+            a: "comprehension",
         },
         {
-            q: "The money of God is the one that cannot be _",
-            a: "quantified",
+            q: "Never consistently bow to any _ that will take away that priority of knowing God from you",
+            a: "engagement",
         },
         {
-            q: "People have left church cos of _",
-            a: "testimony time",
+            q: "It is _ to think of God's will only twice in a week",
+            a: "insulting",
         },
         {
-            q: "That kingdom coming is a function of the _",
-            a: "resurrection of Jesus",
+            q: "You must not allow _ to distract you from knowing God",
+            a: "the provisions of God",
         },
         {
-            q: "The _ is the creation of that harmony between heaven and earth",
-            a: "resurrection",
+            q: "The blessings of the same God can be why many will _ the will of God",
+            a: "be far from",
         },
         {
-            q: "It was in his resurrection that _ became a reality for us",
-            a: "heaven",
+            q: "Don't learn God in the things he _, learn him in _",
+            a: "provides, salvation",
         },
         {
-            q: "Heaven is for _ and Christ made it a reality",
-            a: "men",
+            q: "Learn God for _ and not what he _",
+            a: "who he is, gives",
         },
         {
-            q: "The heavenly Father aids us automatically in _ in his own way",
-            a: "physical needs",
+            q: "The word of God is not the _ of Jesus but the _ of Jesus",
+            a: "person, duty",
         },
         {
-            q: "When there is a deficiency in _, the problem is never from your heavenly Father",
-            a: "physical needs",
+            q: "If alphabet A is _ correctly, _ correctly and _ in sincerity then that is the epistle",
+            a: "heard, believed, spoken",
         },
         {
-            q: "physical things are things we _ and not things we _ about",
-            a: "affirm, pray",
+            q: "Once your gaze is outside Christ your heart will be _",
+            a: "troubled",
         },
         {
-            q: "Expect to receive answers even before you _",
-            a: "pray for them",
+            q: "To despise _ is to despise Jesus which is to despise God",
+            a: "the preacher",
         },
         {
-            q: "When that thought comes to you, the response is not _ but to _",
-            a: "prayer, speak out",
+            q: "Let the _ you see drive you to Jesus for the sake of _",
+            a: "miracles, salvation",
         },
         {
-            q: "Physical instability does not affect your _",
-            a: "faith life",
+            q: "Anywhere we see the law, we see _ and _",
+            a: "angels, a mediator",
+        },
+        {
+            q: "What they called the 10 commandments was _ representation of faith and love",
+            a: "an angelic",
+        },
+        {
+            q: "Learn to _ one another in love",
+            a: "outdo",
+        },
+        {
+            q: "_ is not to obtain justification",
+            a: "10 commandments",
+        },
+        {
+            q: "Angel worship are _ and _ of men",
+            a: "commandments, doctrines",
+        },
+        {
+            q: "_ is to be discerned in things",
+            a: "The law",
+        },
+        {
+            q: "Let no man tell you that things are your _ of faith",
+            a: "actions",
+        },
+        {
+            q: "_ is your action of faith",
+            a: "Your word",
+        },
+        {
+            q: "The only work relevant to your salvation is your _",
+            a: "confession",
+        },
+        {
+            q: "Once you attach your faith in Christ to things, you are into _",
+            a: "angel worship",
+        },
+        {
+            q: "_ worship will find fault with you",
+            a: "Angel",
+        },
+        {
+            q: "You can have in one sermon both _ and _",
+            a: "God's power, devil's power",
+        },
+        {
+            q: "In the journey from Egypt to Canaan, we have God's _ and angel _",
+            a: "power, worshipping",
+        },
+        {
+            q: "Faith is in the _ and not in the script",
+            a: "information",
+        },
+        {
+            q: "Faith in Christ is so much better than _ worship",
+            a: "angel",
+        },
+        {
+            q: "_ and _ are not in the same class",
+            a: "The Son, angels",
+        },
+        {
+            q: "The teaching ministry in the _ is not to teach you a God that you don't know",
+            a: "epistles",
+        },
+        {
+            q: "We don't hide _ from people",
+            a: "God",
+        },
+        {
+            q: "The Israelites were learning from Moses a God that _",
+            a: "they did not know",
         },
     ]
 }

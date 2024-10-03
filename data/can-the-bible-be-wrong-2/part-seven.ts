@@ -8,108 +8,80 @@ export const part_seven = {
     slug: "can_the_bible_be_wrong_series2_seven",
     questions: [
         {
-            q: "_ towards the message of God lands man in death",
-            a: "Indifference",
+            q: "Picking the gospel like _ is a must for it's progress",
+            a: "a career",
         },
         {
-            q: "We have the full _ and we also have just the _",
-            a: "gospel, gospel",
+            q: "In our _ activities is the progress of the gospel",
+            a: "deliberate",
         },
         {
-            q: "You can obtain a token of _ on earth although you don't become a new creature on earth",
-            a: "justification",
+            q: "The proof of _ is continuity",
+            a: "discipleship",
         },
         {
-            q: "Death is in that _ rejection of life",
-            a: "prolonged",
+            q: "The only thing doable in the whole Bible is _",
+            a: "faith",
         },
         {
-            q: "God has always happened to men but they did not want to _ him",
-            a: "retain",
+            q: "The only reason for any _ meeting is cos God is the same",
+            a: "teaching",
         },
         {
-            q: "Man is _ to discover God",
-            a: "alive",
+            q: "If God changes, it will take _ to change",
+            a: "all his power",
         },
         {
-            q: "If you leave a man isolated in the _, he can find out God if he wants to",
-            a: "jungle",
+            q: "If God changes then same action can attract different _ from God",
+            a: "punishments",
         },
         {
-            q: "Man was actually maximising every other thing including his _ but God",
-            a: "wife",
+            q: "Firstly in the rule of BI, there's the law of _",
+            a: "emphatic mention",
         },
         {
-            q: "Sin is to run away from that exact _ of God",
-            a: "provision",
+            q: "Tithe had low _",
+            a: "emphatic mention",
         },
         {
-            q: "That status of Jesus to save is as powerful to save before and after _",
-            a: "redemption",
+            q: "We need _ in the church but we don't need the devil",
+            a: "money",
         },
         {
-            q: "Unbelief before the _ is still unbelief after the _",
-            a: "resurrection, resurrection",
+            q: "_ are not ranked the same in the OT",
+            a: "Prophets",
         },
         {
-            q: "That Jesus came later was not a _ to anyone in terms of justification",
-            a: "disadvantage",
+            q: "God speaks to no man via _",
+            a: "dream",
         },
         {
-            q: "_ can be ministered",
-            a: "Death",
+            q: "your spiritual fervency can be reflected in your _",
+            a: "dreams",
         },
         {
-            q: "Death can be presented as _ to you",
-            a: "icing sugar",
+            q: "No _ in the Bible equates the Lord said",
+            a: "thus saith the Lord",
         },
         {
-            q: "If you are not promoting _ then you are promoting _",
-            a: "life, death",
+            q: "The best the diverse manners could do is to give a _ of salvation",
+            a: "promise",
         },
         {
-            q: "Immediately Adam realised the plan of God perhaps saying yes would have brought down _",
-            a: "the image of God",
+            q: "You cannot trust any thus saith the Lord in the OT as _",
+            a: "God's direct word",
         },
         {
-            q: "No man comes programmed but we have _",
-            a: "influence",
+            q: "God did not carry out what he said he was going to do in _",
+            a: "an angel",
         },
         {
-            q: "Heaven responds to earth hence _ will respond to man",
-            a: "angels",
+            q: "You cannot trust the laws of Moses for _ or to _",
+            a: "salvation, understand God",
         },
         {
-            q: "Innocence of babies is part of the _ of God",
-            a: "longsuffering",
-        },
-        {
-            q: "The same _ that made us saved is the same _ that judged Satan",
-            a: "authority, authority",
-        },
-        {
-            q: "The gospel exposes men to _ and _ for them to now make a choice",
-            a: "light, immortality",
-        },
-        {
-            q: "The sin of Adam now cast a spell of _",
-            a: "darkness",
-        },
-        {
-            q: "Adam educated people with _",
-            a: "death",
-        },
-        {
-            q: "_ is an end in itself",
-            a: "Knowledge",
-        },
-        {
-            q: "_ is the refusal to keep his saying",
-            a: "Death",
-        },
-        {
-            q: "The status of Jesus prevents men from _ and _",
-            a: "hell, death",
+            q: "_ is the saviour of Christianity",
+            a: "Bible interpretation",
         },
     ]
 }

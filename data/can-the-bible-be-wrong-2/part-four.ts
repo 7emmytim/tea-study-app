@@ -8,192 +8,116 @@ export const part_four = {
     slug: "can_the_bible_be_wrong_series2_four",
     questions: [
         {
-            q: "Watch your _",
-            a: "countenance",
+            q: "The one that gave you _, you ought to know about him",
+            a: "life",
         },
         {
-            q: "Reject that mindset that tells you to be stubborn to _",
-            a: "instructions",
+            q: "Revelation should bring _",
+            a: "repentance",
         },
         {
-            q: "Don't develop _ to disobey your pastor or to stay off from fellowship",
-            a: "resistance",
+            q: "We have some things that are commonly _ but yet a lie",
+            a: "believed",
         },
         {
-            q: "Once man can embark on a _ journey to do anything, God cannot stop him",
-            a: "definite",
+            q: "It is _ to charge God falsely",
+            a: "a sin",
         },
         {
-            q: "Don't brainstorm about _, pray",
-            a: "Adam and Eve",
+            q: "_ is to charge God falsely",
+            a: "According evil to God",
         },
         {
-            q: "To be a master of anything in life, it takes _",
-            a: "labour",
+            q: "What we call _ and _ are not the different dealings that God was having with man",
+            a: "the OT, NT",
         },
         {
-            q: "That thing that tells you that church ought to be _ times in a day is evil",
-            a: "one and a half",
+            q: "When the new covenant stands, it will be _ to still be hugging a shadow",
+            a: "insanity",
         },
         {
-            q: "In reading any part of the OT be careful to cut off the things that are written under the influence of _",
-            a: "the law of sin and death",
+            q: "Jesus was not a _ introduction into humanity",
+            a: "new",
         },
         {
-            q: "This type of keeping things secret is the communication pattern of _",
-            a: "the OT",
+            q: "Unbelief of man can _ God's promise",
+            a: "delay",
         },
         {
-            q: "_ which is the communication pattern of the OT need interpretation and understanding",
-            a: "Dark sayings",
+            q: "A _ covenant now started finding fault",
+            a: "faulty",
         },
         {
-            q: "The OT generally needs _",
-            a: "interpretation",
+            q: "The _ of Jesus that saved you is Jesus himself",
+            a: "blood",
         },
         {
-            q: "The perfect work of faith will be your confession and not in _",
-            a: "building ark",
+            q: "Our authority is the _ of Jesus and not the _ of Jesus",
+            a: "name, blood",
         },
         {
-            q: "Abel was not accepted cos of _ but cos of faith",
-            a: "offering",
+            q: "_ was founded to counterfeit Christianity",
+            a: "Islam",
         },
         {
-            q: "_ is to do nothing and to enter into God's rest",
-            a: "Faith",
+            q: "The idol worshipper is already condemned by _",
+            a: "nature",
         },
         {
-            q: "Same way _ is an influence, same way _ can also be an influence",
-            a: "sin and death, righteousness",
+            q: "The _ of every religion in the whole world is how to deal with sin",
+            a: "founder",
         },
         {
-            q: "Burnt offerings are _ works in the Bible",
-            a: "dead",
+            q: "It is not too difficult to yield to the _",
+            a: "devil",
         },
         {
-            q: "_ works are things done by man for justification",
-            a: "dead",
+            q: "There are some _ of man what will make untaught angels collabo with man",
+            a: "confessions",
         },
         {
-            q: "Abraham had _ to find out God's plan",
-            a: "a lifetime",
+            q: "The confessions of a believer can trigger _",
+            a: "demonic operations",
         },
         {
-            q: "God cannot tell you to embark on a _ labour",
-            a: "fruitless",
+            q: "Mount Sinai will most likely have a mixture of _ and _ activities",
+            a: "angelic, demonic",
         },
         {
-            q: "Restitution and confession of sins is _",
-            a: "sin consciousness",
+            q: "Let your boast be in your sonship and not in _",
+            a: "servants",
         },
         {
-            q: "Man was serving _ in offering sacrifices",
-            a: "sin",
+            q: "The minister of the NT is to minister _",
+            a: "boldness",
         },
         {
-            q: "The sacrifice of Jesus was not to _ but for _",
-            a: "God, sin",
+            q: "People must not be _ after your preaching",
+            a: "afraid",
         },
         {
-            q: "The sacrifice of Jesus was not only for _, it was to _",
-            a: "sin, sin",
+            q: "Despite our _, we have confidence",
+            a: "imperfections",
         },
         {
-            q: "Jesus paid the _ owner to redeem us",
-            a: "slave",
+            q: "Even in times of _ always know that you have confidence",
+            a: "repentance",
         },
         {
-            q: "Once your heart is hardened towards God's word, the only thing can do for you is to send you _",
-            a: "teachers",
+            q: "When we _ you in church, it is not for fear",
+            a: "correct",
         },
         {
-            q: "What landed Job in problem was not _ but dead works",
-            a: "works of the flesh",
+            q: "We don't need _ to make men do the right thing",
+            a: "fear",
         },
         {
-            q: "Job avoided works of the flesh but he was servicing _",
-            a: "dead works",
+            q: "There's power in _",
+            a: "righteousness",
         },
         {
-            q: "God's will is for man to _ and not for him to pay for his sin",
-            a: "live",
-        },
-        {
-            q: "Paying for anyone's sin is _",
-            a: "abnormal",
-        },
-        {
-            q: "Once a man believes in the promise even in the OT he stands justified but awaits _",
-            a: "eternal life",
-        },
-        {
-            q: "For your heart to be troubled is for you to exercise your heart in _",
-            a: "unbelief",
-        },
-        {
-            q: "It is not _ that is really in need of construction, it is man that is in need of redemption",
-            a: "the Father's house",
-        },
-        {
-            q: "The Father's house will need _ cos man needs redemption",
-            a: "reconstruction",
-        },
-        {
-            q: "It is not that the Father's house is _ but it is man that needs to be _",
-            a: "dirty, clean",
-        },
-        {
-            q: "The Spirit living with us is as good as _ living with us",
-            a: "Jesus",
-        },
-        {
-            q: "We cannot _ Jesus from eternal life",
-            a: "separate",
-        },
-        {
-            q: "Man has the capacity to search God out without _",
-            a: "a preacher",
-        },
-        {
-            q: "Worshipping God _ is not enough for salvation",
-            a: "ignorantly",
-        },
-        {
-            q: "That _ of God is not far or hidden from man",
-            a: "conclusion",
-        },
-        {
-            q: "Almost without scripture, the natural man should be able to know that _ is not serving God",
-            a: "idol worship",
-        },
-        {
-            q: "What he called the _ is limited knowledge or self knowledge",
-            a: "times of ignorance",
-        },
-        {
-            q: "What the preacher brings to the scene is _ and _",
-            a: "clarity, more knowledge",
-        },
-        {
-            q: "If there's no new birth, there is no _",
-            a: "Father",
-        },
-        {
-            q: "Wrong influence is responsible more for _ around",
-            a: "idolatry",
-        },
-        {
-            q: "God never put _ around man to lead man astray",
-            a: "angels",
-        },
-        {
-            q: "Works of the flesh will be a proof of _",
-            a: "unbelief",
-        },
-        {
-            q: "_ don't make choices for people",
-            a: "Preachers",
+            q: "We don't rely on fear, we rely on the _",
+            a: "Spirit",
         },
     ]
 }

@@ -8,140 +8,100 @@ export const part_six = {
     slug: "can_the_bible_be_wrong_series2_six",
     questions: [
         {
-            q: "Fall down and die is _",
-            a: "naughtiness",
+            q: "You don't need a special _ to give and receive miracles but you will need it if you don't _",
+            a: "school of power, pay attention",
         },
         {
-            q: "_ or _ is not a proof of correctness",
-            a: "Innocence, sincerity",
+            q: "Make _ an attitude",
+            a: "love",
         },
         {
-            q: "Your vision must be _ to the opinion of the word",
-            a: "secondary",
+            q: "Don't have _ mindset, it weakens relationships",
+            a: "an extortion",
         },
         {
-            q: "No opinion of any _ must be allowed to overrule the opinion of the word",
-            a: "vision/dream",
+            q: "One of the duties of the church is to knock off _ from you",
+            a: "selfishness",
         },
         {
-            q: "We must _ things properly before making a conclusion",
-            a: "investigate",
+            q: "Majority saying one thing does not translate to _",
+            a: "correctness",
         },
         {
-            q: "Even in those imperfect utterances there is yet the _",
-            a: "wisdom of God",
+            q: "The _ of rumours does not make it correct",
+            a: "longevity",
         },
         {
-            q: "That something happened and we cannot _ does not mean it is God's making",
-            a: "explain it",
+            q: "Some errors have been believed for thousands of years until _ came",
+            a: "Jesus",
         },
         {
-            q: "We really have to learn the dynamism of _ on earth",
-            a: "answering prayers",
+            q: "There's nothing special about the physical _",
+            a: "Jerusalem",
         },
         {
-            q: "Prayer must not be taught as a _",
-            a: "magical wand",
+            q: "There's no tribe that is _",
+            a: "irredeemable",
         },
         {
-            q: "What we call _ is that self perception of man to God's provision",
-            a: "temptation",
+            q: "The devil being the father of all liars will mean the father of them that _",
+            a: "contradicts the truth",
         },
         {
-            q: "The man that God will make is the man that cannot _",
-            a: "sin",
+            q: "A lot of people are serving the devil in _",
+            a: "ignorance",
         },
         {
-            q: "There was a man created before Adam in _",
-            a: "the mind of God",
+            q: "The person killing will think he is doing _",
+            a: "God service",
         },
         {
-            q: "Adam is to be like the first _",
-            a: "fruit",
+            q: "There's what man calls _ and there's what Bible calls _",
+            a: "death, death",
         },
         {
-            q: "The _ of Adam was created before Adam",
-            a: "destination",
+            q: "We need to reprogram our minds as touching what _ means",
+            a: "death",
         },
         {
-            q: "The lust is not much of a problem as much as being _",
-            a: "drawn away",
+            q: "That _ of people believe one thing does not make it correct",
+            a: "millions",
         },
         {
-            q: "Every man can be _ but individuals can choose not to be _",
-            a: "tempted, drawn away",
+            q: "The victory we have in Christ is outside _",
+            a: "time",
         },
         {
-            q: "We cannot blame any _ for what Adam did",
-            a: "angel",
+            q: "It is the same Jesus that justified you that was also available in _ to justify Abraham",
+            a: "utterances",
         },
         {
-            q: "Adam after doing all he did now blamed it on God's _",
-            a: "provision",
+            q: "Truth must also be found in _",
+            a: "Genesis",
         },
         {
-            q: "That real place called heaven was not inhabited before _",
-            a: "Christ",
+            q: "Truth will be found in the mouth of _",
+            a: "Jesus",
         },
         {
-            q: "_ never started with Satan",
-            a: "Sin",
+            q: "Truth will be consistent throughout the _",
+            a: "epistles",
         },
         {
-            q: "It is in man's rebellion you can find _ rebellion",
-            a: "the devil's",
+            q: "If you study the prophets for _ you will know God",
+            a: "faith",
         },
         {
-            q: "_ too will be illuminated from man",
-            a: "Angels",
+            q: "If you study the prophets for _ you won't know God",
+            a: "works",
         },
         {
-            q: "_ must illuminate _ for _ to illuminate _",
-            a: "Earth, heaven, heaven, earth",
+            q: "When you read the scripture, learn to obey _",
+            a: "faith",
         },
         {
-            q: "When you are dull, when all you know is fall down and die, it is unlikely that the _ around you will know better",
-            a: "heavens",
-        },
-        {
-            q: "Before you blame _ for killing, ask the man around",
-            a: "an angel",
-        },
-        {
-            q: "All God promised in _ could not happen cos there was no man to cause it to happen",
-            a: "Genesis 1",
-        },
-        {
-            q: "Without God, there is no plan or intention so also without man, there is no _",
-            a: "implementation",
-        },
-        {
-            q: "Eden is man's forward _, man's primary _",
-            a: "command post, base of operation",
-        },
-        {
-            q: "The more man depends on himself, the more he sees his _",
-            a: "inadequacies",
-        },
-        {
-            q: "You don't need a prophet to be around to feel _",
-            a: "condemned",
-        },
-        {
-            q: "There's no where in the Bible that the woman is meant to be the _ of the man",
-            a: "help",
-        },
-        {
-            q: "The help of man is God not the _",
-            a: "woman",
-        },
-        {
-            q: "Scriptures was not lying when it said there is a _ to a man",
-            a: "way that seems right",
-        },
-        {
-            q: "_ will always take you a step further",
-            a: "Sin",
-        },
+            q: "We have the mind of Christ therefore we respect the _",
+            a: "epistles",
+        }
     ]
 }

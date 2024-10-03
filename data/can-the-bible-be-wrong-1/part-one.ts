@@ -8,8 +8,8 @@ export const part_one = {
     slug: "can_the_bible_be_wrong_series1_part_one",
     questions: [
         {
-            q: "The core part of ministry is in _ and _",
-            a: "preaching, teaching",
+            q: "Saviour is the one that moves the mountain and not _",
+            a: "your pastor",
         },
         {
             q: "The terms of Genesis is better understood in _",

@@ -8,80 +8,100 @@ export const part_three = {
     slug: "can_the_bible_be_wrong_series2_three",
     questions: [
         {
-            q: "You cannot separate your faith from _",
-            a: "love",
+            q: "Learning is a _ duty",
+            a: "lifetime",
         },
         {
-            q: "_ with your faith will birth more love for one another",
-            a: "fellowshipping",
+            q: "Once you lose track of knowing God, other _ will set in",
+            a: "obsessions",
         },
         {
-            q: "There is no _ attached to disobedience in the 10 commandments",
-            a: "consequence",
+            q: "To learn God is for _",
+            a: "life",
         },
         {
-            q: "What they call ten commandments is simply the _",
-            a: "gospel",
+            q: "The system of the world is not designed for many to _",
+            a: "serve God",
         },
         {
-            q: "_ is a symbol of receiving his Spirit",
-            a: "Circumcision",
+            q: "Once you pursue something at the expense of God, _ will set in",
+            a: "idolatary",
         },
         {
-            q: "The clarity is a function of the _",
-            a: "minister",
+            q: "Every religion in the world is in a way being _",
+            a: "self-centred",
         },
         {
-            q: "The _ cannot be improved upon",
-            a: "epistles",
+            q: "Don't always see _ as hell fire",
+            a: "stripes",
         },
         {
-            q: "we will see less of _ and _ in Genesis cos it was a period before the law was given",
-            a: "condemnation, accusation",
+            q: "The only was things of the world will not be vanity is when you have this _ of the gospel",
+            a: "shock absorber",
         },
         {
-            q: "There must first be an action of sin before any _ called sin",
-            a: "noun",
+            q: "The gospel gives our pursuit/life a _",
+            a: "meaning",
         },
         {
-            q: "By one man's disobedience, a _ pattern of disobedience entered the world",
-            a: "communication",
+            q: "You will have to _ God that God did not happen to you",
+            a: "convince",
         },
         {
-            q: "Nobody will go to hell for _ sin",
-            a: "Adam's",
+            q: "That you can't explain God does not mean God does not _",
+            a: "exist",
         },
         {
-            q: "There's not a common _ to humanity",
-            a: "sin",
+            q: "Your body is _ enough to tell you that there's a _ being before this body",
+            a: "complex, complex",
         },
         {
-            q: "Adam was never a _ for Jesus",
-            a: "replacement/figure/type",
+            q: "Spiritual growth is a _",
+            a: "career",
         },
         {
-            q: "Fellowship via the _ has always been the plan of God",
-            a: "incarnation",
+            q: "_ and _ was invented cos of the Bible",
+            a: "writing, documentation",
         },
         {
-            q: "If it will take _ for Jesus to come, Enoch or Noah would have brought him",
-            a: "one man",
+            q: "_ invented writing",
+            a: "God",
         },
         {
-            q: "_ was not charged upon all men",
-            a: "Adam's sin",
+            q: "_ reading will lead to confusion",
+            a: "half",
         },
         {
-            q: "_ was not an excuse for any man to sin",
-            a: "Adam's sin",
+            q: "The only thing that can make sense is all _",
+            a: "scripture",
         },
         {
-            q: "Individuals will have to _ for them to get death",
-            a: "sin",
+            q: "Don't conclude anything with the _ of one writer",
+            a: "conclusion",
         },
         {
-            q: "Stop saying _ is your problem",
-            a: "Adam",
-        }
+            q: "Don't learn _ from Moses alone, learn from every other writer",
+            a: "righteousness",
+        },
+        {
+            q: "Don't be carried away by some _ utterances in the OT",
+            a: "definite",
+        },
+        {
+            q: "The conclusion of the holy scripture is to be _ eventually",
+            a: "deduced",
+        },
+        {
+            q: "A part of the Bible can be _ does not mean the Bible is _",
+            a: "wrong",
+        },
+        {
+            q: "Job already did a lot of _ and _ that painted God wrongly",
+            a: "series, sermons",
+        },
+        {
+            q: "A fame can be _ or _",
+            a: "positive, negative",
+        },
     ]
 }

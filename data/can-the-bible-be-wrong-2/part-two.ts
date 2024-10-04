@@ -8,104 +8,76 @@ export const part_two = {
     slug: "can_the_bible_be_wrong_series2_two",
     questions: [
         {
-            q: "One of the proofs of _ is not being able to sit down in one place during service",
-            a: "carnality",
+            q: "None of us has more _ to God than the other",
+            a: "access",
         },
         {
-            q: "We having _ is we having the mind of God",
-            a: "the Spirit",
+            q: "Jesus is not just another _ like Moses",
+            a: "mediator",
         },
         {
-            q: "The joker of knowing the things of God is having _",
-            a: "the Spirit of God",
+            q: "Christ stands as a mediator for the _",
+            a: "unsaved",
         },
         {
-            q: "The Spirit is not only given for _ but also for _",
-            a: "redemption, revelation",
+            q: "We _ the congregation in the things that God has said",
+            a: "serve",
         },
         {
-            q: "_ serve as our guide as we look through the OT",
-            a: "The epistles",
+            q: "The message you can preach in Somalia must be preachable in _",
+            a: "white house",
         },
         {
-            q: "No _ of the OT must be contrary to the epistles",
-            a: "interpretation",
+            q: "You cannot water down the message cos of your _",
+            a: "audience",
         },
         {
-            q: "We are going to trust God with _ as we pray",
-            a: "BI",
+            q: "_ does not determine our emphasis",
+            a: "audience",
         },
         {
-            q: "Before you complain that you don't understand, how long have you _",
-            a: "prayed",
+            q: "It is both our love for God and you that makes us this _ and _ on the truth alone",
+            a: "stereotype, particular",
         },
         {
-            q: "You cannot be done praying to _",
-            a: "understand God",
+            q: "New creation reality does not belong to _ era",
+            a: "post resurrection",
         },
         {
-            q: "We pray more than we _",
-            a: "preach",
+            q: "You are not only our ministry, you are also our _ in ministry",
+            a: "joy",
         },
         {
-            q: "_ talks about the influence of the fruit of the Spirit in us",
-            a: "The mind of Christ",
+            q: "We have received and seen his love so we _ better",
+            a: "minister",
         },
         {
-            q: "Even when we see men truly using grace as _, we preach more grace",
-            a: "a license for sin",
+            q: "_ is not a financial investment",
+            a: "church",
         },
         {
-            q: "Our _ now is with the truth and not with their intentions or actions",
-            a: "allegiance",
+            q: "_ in ministry are not those who kill but those who distort/take away priority",
+            a: "wolves",
         },
         {
-            q: "We don't give people what _ but the word",
-            a: "works",
+            q: "In church doctrine, we put into account that _ of man",
+            a: "nature",
         },
         {
-            q: "_ will be to read Moses in Moses",
-            a: "Ministration of death",
+            q: "Doctrine is what is _ acceptable",
+            a: "universally",
         },
         {
-            q: "You can either read _ in Moses or you read _ in Moses",
-            a: "Moses, Christ",
+            q: "_ is what we must uphold",
+            a: "doctrine",
         },
         {
-            q: "We don't change the gospel cos of _",
-            a: "a rebellious audience",
+            q: "In doctrinal matter, the universal thing is that the mog must not have his eyes on your _",
+            a: "pocket",
         },
         {
-            q: "Don't use _ to preach giving money cos your audience is not giving offering",
-            a: "John 3:16",
-        },
-        {
-            q: "What God gave in _ was specific",
-            a: "John 3:16",
-        },
-        {
-            q: "Come what may our best _ is to appeal to men and not to declare _",
-            a: "stake, judgement",
-        },
-        {
-            q: "Faith is a _ and unbelief is also a _",
-            a: "response, response",
-        },
-        {
-            q: "The _ of all murder is hatred for the truth",
-            a: "mother",
-        },
-        {
-            q: "Your _ is not a proof of faith or unbelief",
-            a: "self-condemnation",
-        },
-        {
-            q: "_ puts you in the right frame of mind to pray",
-            a: "Love",
-        },
-        {
-            q: "_ are not the laws of Moses",
-            a: "The ten commandments",
+            q: "_ is to see who God is to us",
+            a: "Liberty",
         },
     ]
 }

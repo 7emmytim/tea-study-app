@@ -8,188 +8,120 @@ export const part_nine = {
     slug: "can_the_bible_be_wrong_series1_part_nine",
     questions: [
         {
-            q: "You can celebrate _ to yourself and not to God",
-            a: "Christmas",
+            q: "There are no _ behind the gift of God",
+            a: "hidden agenda",
         },
         {
-            q: "Mark 16 is you celebrating _",
-            a: "God",
+            q: "There's no _ and _ with God",
+            a: "day, night",
         },
         {
-            q: "The greatest honour you can do to _ and to _ is to preach it",
-            a: "Jesus, his salvation",
+            q: "God does not have different sides as perceived by the _ of the sun",
+            a: "rotation",
         },
         {
-            q: "God sent _ from the beginning and not everyday",
-            a: "angels",
+            q: "The _ is the proof that God is always good",
+            a: "new creature",
         },
         {
-            q: "There's no _ between God and angels that he will be sending them message everyday",
-            a: "SMS service",
+            q: "Only one thing came from God and it is the _",
+            a: "new creature",
         },
         {
-            q: "Deliverance from evil is not based on _",
-            a: "God",
+            q: "Angels were _ but they never came from God",
+            a: "created",
         },
         {
-            q: "Our prayers and decree is not to get God to send _",
-            a: "angels",
+            q: "Angelic activities whether in _ or _ can never proof of the character of God",
+            a: "the old, the new covenant",
         },
         {
-            q: "Angels have _ and not _",
-            a: "power, authority",
+            q: "You cannot _ God by the activities of an angel",
+            a: "judge",
         },
         {
-            q: "The _ for angels to carry out anything belongs to man",
-            a: "authority",
+            q: "No justifiable reason for a believer to be _",
+            a: "angry",
         },
         {
-            q: "Angels were one of the creation and that would mean they are for man to _",
-            a: "dominate",
-        },
-        {
-            q: "Jesus or the apostles never quoted the words of _",
-            a: "angels",
-        },
-        {
-            q: "Jesus and the apostles quoted _",
-            a: "men",
-        },
-        {
-            q: "For any word of angels to be used as _, a man must repeat it",
-            a: "doctrine",
-        },
-        {
-            q: "Errors don't emanate from _",
-            a: "angels",
-        },
-        {
-            q: "Angels ordained Moses and Moses gave _",
-            a: "the law",
-        },
-        {
-            q: "The words of angels were never _",
-            a: "authoritative",
-        },
-        {
-            q: "Man is to dominate the world by _",
-            a: "Christ",
-        },
-        {
-            q: "True dominion is by _",
-            a: "life",
-        },
-        {
-            q: "_ that involves other men are subject to the decisions of men",
-            a: "Prophecies",
-        },
-        {
-            q: "Without the physical presence of _, man could healed himself if he could get rid of _",
-            a: "Jesus, fear",
-        },
-        {
-            q: "No man that operates in authority walks in _",
-            a: "fear",
-        },
-        {
-            q: "When man sinned God did not cut the _ off, _ cut it off",
-            a: "power, fear",
-        },
-        {
-            q: "Faith comes by hearing but the _ of faith does not _ at hearing",
-            a: "journey, stop",
-        },
-        {
-            q: "You call with your mouth and not your _",
-            a: "mind",
-        },
-        {
-            q: "The things Isaish wrote is not just for _ but for _",
-            a: "knowledge, speaking",
-        },
-        {
-            q: "_ does not change situation",
-            a: "Tears",
-        },
-        {
-            q: "_ is your staying power",
-            a: "the word",
-        },
-        {
-            q: "As small as that mustard seed is, it will be seen in your _",
-            a: "words",
-        },
-        {
-            q: "Surely means there's no _",
-            a: "fear here",
-        },
-        {
-            q: "A whole lot of things we do in church today is for us to change what we _",
-            a: "say",
-        },
-        {
-            q: "Christianity is called the great _",
-            a: "confession",
-        },
-        {
-            q: "Even if you see a bad thing manifesting in your health, you don't _ it",
-            a: "acknowledge",
-        },
-        {
-            q: "It is a _ for angels to lord over man",
+            q: "A believer cannot claim that God led him to _",
             a: "sin",
         },
         {
-            q: "Salvation is the taking away of _",
-            a: "fear",
+            q: "Man's action are to mirror the _ new creature",
+            a: "real",
         },
         {
-            q: "To us what we call _ is simply reverence for God",
-            a: "the fear of God",
+            q: "The actions of the new creature should justify God's character but it _",
+            a: "doesn't always",
         },
         {
-            q: "If _ will not fail you, your life cannot fail you",
-            a: "your mouth",
+            q: "There's only one _ and it is Christ",
+            a: "first fruit",
         },
         {
-            q: "Even God cannot reject what you are _",
-            a: "saying",
+            q: "The _ of God in you is clarity",
+            a: "life",
         },
         {
-            q: "Fear is the fruit of unbelief and that made man _ of the will of God",
-            a: "ignorant",
+            q: "A new creature should be of _ character",
+            a: "predictable",
         },
         {
-            q: "Before you pray, first use _ to deal with fear",
-            a: "the word of God",
+            q: "Every tool of John the baptist is not God's _",
+            a: "destination",
         },
         {
-            q: "You can use the _ without calling the _",
-            a: "name of Jesus, name",
+            q: "Water baptism is one of the last _",
+            a: "shadows",
         },
         {
-            q: "The name of Jesus is not a _, it is not _",
-            a: "formula, gymnastics",
+            q: "Those who received his testimony were able to function as _",
+            a: "sons of God",
         },
         {
-            q: "The mightiest things on earth were not crated by _ but by _",
-            a: "bulldozers, words",
+            q: "AB reeceived the report and became _",
+            a: "an intercessor",
         },
         {
-            q: "_ came to change your vocabulary",
-            a: "Salvation",
+            q: "Anything you cannot see in _ you cannot see in _",
+            a: "Jesus, God",
         },
         {
-            q: "When we pray in the Holy Ghost, we speak devoid of _",
-            a: "selfishness",
+            q: "The things we do by _ does not prove God's nature",
+            a: "the power of God",
         },
         {
-            q: "Salvation came so that you can use _ perfectly",
-            a: "authority",
+            q: "The things we do by commanding _ does not authenticate who God is",
+            a: "angels",
         },
         {
-            q: "Nothing in heaven and on earth works against you cos you are the _ in the heart of the Father",
-            a: "real intention",
+            q: "We don't call them _ cos they are wearing black",
+            a: "demons",
+        },
+        {
+            q: "When a man is filled with the Holy Ghost, he won't only _, there will be _",
+            a: "speak, actions",
+        },
+        {
+            q: "The deeds of angels seen in the OT was a result of wrong _",
+            a: "orientation",
+        },
+        {
+            q: "People said no to the word of Jesus and he not make them _",
+            a: "dumb",
+        },
+        {
+            q: "Angels could not do better cos of the men they were _ for",
+            a: "ministering",
+        },
+        {
+            q: "Angels can deliver more than just you from _",
+            a: "an accident",
+        },
+        {
+            q: "In the NT we know what to do to _",
+            a: "unbelief",
         },
     ]
 }

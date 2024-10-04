@@ -8,100 +8,80 @@ export const part_six = {
     slug: "can_the_bible_be_wrong_series1_part_six",
     questions: [
         {
-            q: "For the word of God to come to pass, there must be a man to put the words in _",
-            a: "his mouth",
+            q: "The life of Christ in us attracts _",
+            a: "responsibility",
         },
         {
-            q: "For _ to come to reality, a man must be in the equation",
-            a: "God's word",
+            q: "When you joke with times of prayers and the word, it is a dishonour to _",
+            a: "your pastor",
         },
         {
-            q: "The _ of man won't make the word of God to be of no effect",
-            a: "unbelief",
+            q: "The _ in the book does not mean the _ is the author",
+            a: "character",
         },
         {
-            q: "_ will be what man has said that God did not say",
-            a: "Evil",
+            q: "At times the vision can be scripted in a certain way cos of the _",
+            a: "recipients",
         },
         {
-            q: "If man made the body, the _ of same body should be a small thing for man",
-            a: "healing",
+            q: "The writer does not have to be the _ of the book",
+            a: "subject",
         },
         {
-            q: "What God has said will give you so much boldness in the _ and not in the _",
-            a: "positive, negative",
+            q: "God does not _ about your works",
+            a: "boast",
         },
         {
-            q: "Adam was not _ for him to even be able to work on the body",
-            a: "born again",
+            q: "God does not boast about the _ of his children but the _ he used to justify them",
+            a: "perfectness, blood",
         },
         {
-            q: "One major thing sin brought in was _",
-            a: "ignorance",
+            q: "God corrects man by openening his ear to _",
+            a: "instruction",
         },
         {
-            q: "No _ glorifies God",
-            a: "death",
+            q: "Once you fulfil the judgement of _, God will be powerless in saving you",
+            a: "the wicked",
         },
         {
-            q: "Whether you are _ or not, we all have access to authority",
-            a: "lucky",
+            q: "While Samuel said the ark killed Uzzah, David _",
+            a: "searched further",
         },
         {
-            q: "When speaking about _, ensure you mean it and ensure you don't give up",
-            a: "healings",
+            q: "Achan sinned and nothing happened to him until Joshua _",
+            a: "discerned it",
         },
         {
-            q: "In redemption, we saw heaven as a place that was _ for man",
-            a: "cleansed/prepared",
+            q: "Although there was the law of sin and death at work, it will yet wait for _ prophet to come",
+            a: "an angry",
         },
         {
-            q: "In Christianity, we don't dethrone _, we exalt them",
-            a: "men",
+            q: "Condemnation will make your _ useless before God",
+            a: "ministry",
         },
         {
-            q: "The book of revelation was written to _ and not _",
-            a: "men, celestial beings",
+            q: "The _ of the writer will determine the clarity of the book",
+            a: "revelation",
         },
         {
-            q: "We can see heaven as a _ and as a _",
-            a: "location, state",
+            q: "You don't need to break generational curses, you _ them off",
+            a: "believe",
         },
         {
-            q: "There's no lineage for _ and there's no lineage for _",
-            a: "hell, heaven",
+            q: "_ cannot do for you what God has done for you in Christ",
+            a: "prayers",
         },
         {
-            q: "The _ for heaven is Christ and the _ for hell is those out of Christ",
-            a: "lineage, lineage",
+            q: "Some can intentionally become _  and they will continue to excel in ministry",
+            a: "deceivers",
         },
         {
-            q: "When we say we carry heaven, it means we carry _",
-            a: "the Spirit",
+            q: "Be careful selecting _ but after selecting, follow him",
+            a: "a pastor",
         },
         {
-            q: "When you emphasize your _, you are dominating heaven",
-            a: "righteousness by faith",
-        },
-        {
-            q: "Don't see heaven as a place that is _, it is one of the things in _",
-            a: "mystical, Christ",
-        },
-        {
-            q: "Man is meant to go and come back from the _ called heaven at will",
-            a: "physical location",
-        },
-        {
-            q: "As we preach the gospel, we change the _ of people",
-            a: "destinies",
-        },
-        {
-            q: "There's no better _ changing process than the gospel",
-            a: "destiny",
-        },
-        {
-            q: "_ is deadly",
-            a: "Ignorance",
+            q: "If you can trust a man well in _, you should be able to look at how he presents the _ and copy it too",
+            a: "doctrine, doctrine",
         },
     ]
 }

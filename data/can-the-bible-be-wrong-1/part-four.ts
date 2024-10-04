@@ -8,72 +8,136 @@ export const part_four = {
     slug: "can_the_bible_be_wrong_series1_part_four",
     questions: [
         {
-            q: "Don't underestimate what can happen via _ conversation",
-            a: "one on one/simple",
+            q: "To receive from God is to _ the intention of God",
+            a: "understand",
         },
         {
-            q: "Don't have friends that are _ and you are doing nothing about it",
-            a: "dull",
+            q: "The way the book of Hebrews was written, it is _",
+            a: "argumentative",
         },
         {
-            q: "The scriptures has _ ability to make you wise",
-            a: "an inherent",
+            q: "Scripture confirms _ and not otherwise",
+            a: "prophecy",
         },
         {
-            q: "Proverbs is not the book of _ for the believer",
-            a: "wisdom",
+            q: "The different utterances of the OT cannot be interpreted _,",
+            a: "disjointedly",
         },
         {
-            q: "Adam was lord of _",
-            a: "the garden",
+            q: "There was no constant fixed link between the Spirit and _",
+            a: "the prophets",
         },
         {
-            q: "God's word is self _",
-            a: "confirming",
+            q: "For _, the Spirit of God must be in you",
+            a: "revelation",
         },
         {
-            q: "Man in his _ and angels in their _ can still not recognise God",
-            a: "innocence, unfallen state",
+            q: "God inspired the OT prophets but he is _ to us",
+            a: "revealing",
         },
         {
-            q: "It is not impossible for _ to render activities for Adam",
-            a: "angels",
+            q: "In _, you understand what you are saying",
+            a: "revelation",
         },
         {
-            q: "It was not like Alleluia came from _",
-            a: "heaven",
+            q: "diversity will be a function of the _, _ and the _",
+            a: "speaker, audience, age",
         },
         {
-            q: "_ is not the name of the devil",
-            a: "Lucifer",
+            q: "The judgement of unbelief will be unlike _ to man",
+            a: "anything known",
         },
         {
-            q: "_ was simply descriptive of satan's glory and not satan's name",
-            a: "Morning star",
+            q: "The two times angels were used in the book of Isaiah, it was purely _",
+            a: "historical",
         },
         {
-            q: "Man is designed to eat the _ and not the tree",
-            a: "fruit",
+            q: "A prophet will say with his mouth something that is not in _",
+            a: "his mind",
         },
         {
-            q: "The tree of the knowledge of good and evil will mean ministries that minister _",
-            a: "self dependency",
+            q: "The vision/dream of the prophet is not his _",
+            a: "prophecy",
         },
         {
-            q: "God does not want his children to live in _",
-            a: "ignorance",
+            q: "the writers of the epistles _ and _ by understanding",
+            a: "wrote, spoke",
         },
         {
-            q: "If there is anything like _, it will be to _ everywhere you have said rubbish",
-            a: "restitution, restitute",
+            q: "_ is different from just divinely received words",
+            a: "Prophecy",
         },
         {
-            q: "The implication of deliberately _ is bad",
-            a: "misleading people",
+            q: "Not everything the prophets said are _",
+            a: "prophecy",
         },
         {
-            q: "If there's anything like categories of sin, number one will be _",
-            a: "false doctrine",
+            q: "not all forthtelling are _",
+            a: "prophecy",
+        },
+        {
+            q: "_ defines all our terminologies",
+            a: "Redemption",
+        },
+        {
+            q: "The _ should make your utterance more respected and not _ your speaking",
+            a: "miracles, replace",
+        },
+        {
+            q: "We _ God by speaking, doing then speaking more",
+            a: "serve",
+        },
+        {
+            q: "Prophecy is not just any _",
+            a: "speaking",
+        },
+        {
+            q: "You cannot just shake yourself and start _",
+            a: "speaking",
+        },
+        {
+            q: "None of us can join that league of holy _ and _",
+            a: "apostles, prophets",
+        },
+        {
+            q: "If you will take the whole Bible as _, you will not be confused",
+            a: "one material",
+        },
+        {
+            q: "_ is the good thing that God gives from above",
+            a: "The new creature",
+        },
+        {
+            q: "By taking the OT as _, we see how the OT explains itself",
+            a: "a complete material",
+        },
+        {
+            q: "_ expired long ago",
+            a: "Generational curses",
+        },
+        {
+            q: "We see how the law was so _ and brutal in correcting people same way the NT is _ about forgiveness",
+            a: "crazy, crazy",
+        },
+        {
+            q: "The punishment in hell is more than any man _",
+            a: "deserves",
+        },
+        {
+            q: "We say _ is not fair cos even _ was not fair",
+            a: "grace, the law",
+        },
+        {
+            q: "If we still reap what we sow as touching sin then Jesus _",
+            a: "lied to us",
+        },
+        {
+            q: "A man that will pick the whole Bible as one material will appreciate _",
+            a: "the intelligent being behind the book",
+        },
+        {
+            q: "A man that will pick the whole Bible as one material will not see a _ in the Bible",
+            a: "contradiction",
         },
     ]
 }

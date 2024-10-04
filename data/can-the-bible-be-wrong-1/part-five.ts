@@ -8,84 +8,56 @@ export const part_five = {
     slug: "can_the_bible_be_wrong_series1_part_five",
     questions: [
         {
-            q: "Whatsoever God has created does not _",
-            a: "decay",
+            q: "Joshua 1:8 is not the Christian's _",
+            a: "commission",
         },
         {
-            q: "Spirits can perform activities independent of the _",
-            a: "body",
+            q: "Joshua 1:8 is not about justification but about obeying the law so _ can belong to them",
+            a: "physical Canaan",
         },
         {
-            q: "Your _ will make your body immortal",
-            a: "spirit",
+            q: "Those things we call _ are not acts of God",
+            a: "exploits",
         },
         {
-            q: "We can heal the sick cos we can give _",
-            a: "life",
+            q: "God cannot bring forth the Messaiah without _",
+            a: "man",
         },
         {
-            q: "Spirits create by _",
-            a: "speaking",
+            q: "The deeds of Israel to enter the promised land does not depict _",
+            a: "God's character",
         },
         {
-            q: "You can write a whole novel by _",
-            a: "vision",
+            q: "A perfect _ and perfect _ is coming from an imperfect _",
+            a: "man, message, lineage",
         },
         {
-            q: "Dominion is not only communicated by your _, you have a spirit that is _",
-            a: "IQ, alive",
+            q: "God saw a _ man and God will use his life to prove that with God nothing is impossible",
+            a: "childless",
         },
         {
-            q: "_ started counting when man sinned",
-            a: "Time",
+            q: "In God causing the promise to come through AB, he will also bless AB with _",
+            a: "Isaac",
         },
         {
-            q: "_ was not in the world until Adam _",
-            a: "Sin, sinned",
+            q: "Cos Israel were men with the promise, they had _ authority",
+            a: "angelic",
         },
         {
-            q: "The devil is not much of a problem as the _ of man",
-            a: "choice",
+            q: "It was not like the promise of Jesus was tied to the _ of the tribe of Israel",
+            a: "umblical cord",
         },
         {
-            q: "death had the ticket to travel through cos _ sinned and not cos _ sinned",
-            a: "man, the devil",
+            q: "The prophets were inspired by the _ of redemption",
+            a: "overview",
         },
         {
-            q: "The gospel is not to believe in your own _",
-            a: "intellect",
+            q: "No shadow is meant to be _",
+            a: "forever",
         },
         {
-            q: "it is evil to gather Christians and what you are doing in the name of the church is to be building up their _",
-            a: "intellect",
-        },
-        {
-            q: "Motivational speaking is not bad but it must not replace _",
-            a: "life",
-        },
-        {
-            q: "We are going to give account of the things we do in _",
-            a: "the name of God",
-        },
-        {
-            q: "There are things that are in man for man to know but that is not the duty of the _",
-            a: "church",
-        },
-        {
-            q: "When we come to church, we focus on things in _ and not things in _",
-            a: "Christ, man",
-        },
-        {
-            q: "There are things available in man that we must not _ in church",
-            a: "emphasise",
-        },
-        {
-            q: "We minister _ in the name of God",
-            a: "life",
-        },
-        {
-            q: "Although the church is a _ gathering but it is a gathering to an intent",
-            a: "physical",
+            q: "Only Jesus' _ was foreoradained to be everlasting",
+            a: "priesthood",
         },
     ]
 }

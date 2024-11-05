@@ -8,80 +8,145 @@ export const part_seven = {
     slug: "can_the_bible_be_wrong_series3_seven",
     questions: [
         {
-            q: "Picking the gospel like _ is a must for it's progress",
-            a: "a career",
+            q: "we are called believers cos we value _",
+            a: "words",
         },
         {
-            q: "In our _ activities is the progress of the gospel",
-            a: "deliberate",
+            q: "the church of God moves forward cos men value _",
+            a: "words",
         },
         {
-            q: "The proof of _ is continuity",
-            a: "discipleship",
+            q: "_ are meant to back up the word",
+            a: "miracles",
         },
         {
-            q: "The only thing doable in the whole Bible is _",
+            q: "the word is not meant to back up _",
+            a: "miracles",
+        },
+        {
+            q: "God never _ anyone for not offering enough animals",
+            a: "judged",
+        },
+        {
+            q: "how do you sin against knowledge?",
+            a: "to refuse it",
+        },
+        {
+            q: "over 3 million people were destroyed cos of wrong _",
+            a: "words",
+        },
+        {
+            q: "the only response to God's word that God wants is _",
             a: "faith",
         },
         {
-            q: "The only reason for any _ meeting is cos God is the same",
-            a: "teaching",
+            q: "faith will birth actions but those actions are the _ of faith",
+            a: "works",
         },
         {
-            q: "If God changes, it will take _ to change",
-            a: "all his power",
+            q: "sin was first a _ before a _",
+            a: "verb, noun",
         },
         {
-            q: "If God changes then same action can attract different _ from God",
-            a: "punishments",
+            q: "_ always comes before _ in the Bible",
+            a: "verb, noun",
         },
         {
-            q: "Firstly in the rule of BI, there's the law of _",
-            a: "emphatic mention",
+            q: "the _ action of sin is what makes the Bible call some people sinners",
+            a: "repetitive",
         },
         {
-            q: "Tithe had low _",
-            a: "emphatic mention",
+            q: "if it is sure that man will receive then it won't be called God's _, it will be called God's _",
+            a: "promise, deed",
         },
         {
-            q: "We need _ in the church but we don't need the devil",
-            a: "money",
+            q: "in the Bible, the word promise is as touching _",
+            a: "salvation",
         },
         {
-            q: "_ are not ranked the same in the OT",
-            a: "Prophets",
+            q: "it is wrong Christian _ to say that God promised me a car",
+            a: "theology",
         },
         {
-            q: "God speaks to no man via _",
-            a: "dream",
+            q: "Isaac was the _ of communication. Christ wwas the _ of communication",
+            a: "tool, intention",
         },
         {
-            q: "your spiritual fervency can be reflected in your _",
-            a: "dreams",
+            q: "we don't call things we have in _ plural",
+            a: "Christ",
         },
         {
-            q: "No _ in the Bible equates the Lord said",
-            a: "thus saith the Lord",
+            q: "God is acting alone in _",
+            a: "salvation",
         },
         {
-            q: "The best the diverse manners could do is to give a _ of salvation",
+            q: "promise is simply God's _ to man",
+            a: "committment",
+        },
+        {
+            q: "God's promise to man is the same as his _ for man",
+            a: "intention",
+        },
+        {
+            q: "it looks futuristic cos the will of God equals God's _ plus man's _",
+            a: "faithfulness, acceptance",
+        },
+        {
+            q: "_ may mirror how God saves but utterance and documentation does not call _ a promise of God",
+            a: "healings, healings",
+        },
+        {
+            q: "when I hear _ in the Bible, my mind should go to salvation by default",
             a: "promise",
         },
         {
-            q: "You cannot trust any thus saith the Lord in the OT as _",
-            a: "God's direct word",
+            q: "we use Bible _ the Bible _",
+            a: "words, way",
         },
         {
-            q: "God did not carry out what he said he was going to do in _",
-            a: "an angel",
+            q: "Jesus is righteous cos he _. We are righteous ccos we were _",
+            a: "knew no sin, declared right",
         },
         {
-            q: "You cannot trust the laws of Moses for _ or to _",
-            a: "salvation, understand God",
+            q: "you don't sing without _",
+            a: "explaining",
         },
         {
-            q: "_ is the saviour of Christianity",
-            a: "Bible interpretation",
+            q: "God is holy alone in _",
+            a: "incarnation/saving us",
         },
+        {
+            q: "to make a song _ you must make it thorough",
+            a: "universal",
+        },
+        {
+            q: "as you sing about your righteousness also talk about the _",
+            a: "source",
+        },
+        {
+            q: "_ in the NT is one that puts a higher priority on anything above Christ",
+            a: "an idol worshipper",
+        },
+        {
+            q: "salvation in the Bible is the work of a _",
+            a: "saviour",
+        },
+        {
+            q: "it is more about the _ and less of the rescued/recipient",
+            a: "saviour",
+        },
+        {
+            q: "the _ in God's promise is man",
+            a: "probability/delay factor",
+        },
+        {
+            q: "God is holy alone in _",
+            a: "incarnation/saving us",
+        },
+        {
+            q: "God does not prepare to _ man. God is ready to _ man",
+            a: "save, save",
+        },
+
     ]
 }

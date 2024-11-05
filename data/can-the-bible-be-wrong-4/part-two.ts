@@ -8,232 +8,128 @@ export const part_two = {
     slug: "can_the_bible_be_wrong_series4_part_two",
     questions: [
         {
-            q: "Anywhere we see the law, we see _ and _",
-            a: "angels, a mediator",
+            q: "We are told of the type of _ we should expect",
+            a: "Bible",
         },
         {
-            q: "What they called the 10 commandments was _ representation of faith and love",
-            a: "an angelic",
+            q: "Bible won't tell you everything is _ when it is not",
+            a: "good",
         },
         {
-            q: "Learn to _ one another in love",
-            a: "outdo",
+            q: "A God that his power cannot even keep one _ of the Bible perfect cos man's will is involved",
+            a: "chapter",
         },
         {
-            q: "_ is not to obtain justification",
-            a: "10 commandments",
+            q: "The preachers/prophets in the Bible were not exposed to a possibility of _ without _",
+            a: "light, darkness",
         },
         {
-            q: "Angel worship are _ and _ of men",
-            a: "commandments, doctrines",
+            q: "The only man that has a glimpse of _ without _ is Adam",
+            a: "light, darkness",
         },
         {
-            q: "_ is to be discerned in things",
-            a: "The law",
+            q: "God will employ a man to _ his will and thereafter _ about his will",
+            a: "see, speak",
         },
         {
-            q: "Let no man tell you that things are your _ of faith",
-            a: "actions",
+            q: "Unfortunately, the only man available after Adam will be a _ man",
+            a: "sinful",
         },
         {
-            q: "_ is your action of faith",
-            a: "Your word",
+            q: "The job of the prophets will be to plan a _ point",
+            a: "meeting",
         },
         {
-            q: "The only work relevant to your salvation is your _",
-            a: "confession",
+            q: "Noah will now use reality to to speak about _",
+            a: "Christology",
         },
         {
-            q: "Once you attach your faith in Christ to things, you are into _",
-            a: "angel worship",
+            q: "The prophets were not called to speak about _ but they will use _ to speak about Christology",
+            a: "reality, reality",
         },
         {
-            q: "_ worship will find fault with you",
-            a: "Angel",
+            q: "A lot of speech in the Bible is cos of the _",
+            a: "audience",
         },
         {
-            q: "You can have in one sermon both _ and _",
-            a: "God's power, devil's power",
+            q: "The prophets will see _, see their _ and then plan a meeting path",
+            a: "God's plan, current audience",
         },
         {
-            q: "In the journey from Egypt to Canaan, we have God's _ and angel _",
-            a: "power, worshipping",
+            q: "The job of the prophets will be to _, to _, to make _",
+            a: "reveal, uncover, obvious",
         },
         {
-            q: "Faith is in the _ and not in the script",
-            a: "information",
+            q: "The licence to prophesy is _ and _ happens cos of submission",
+            a: "discovery, discovery",
         },
         {
-            q: "Faith in Christ is so much better than _ worship",
-            a: "angel",
+            q: "Whatever is God's plan cannot be _ cos _ men will have to speak about the plan",
+            a: "perfect, imperfect",
         },
         {
-            q: "_ and _ are not in the same class",
-            a: "The Son, angels",
+            q: "The speaking of God's plan by imperfect men will bring about _ and _",
+            a: "integration, perversion",
         },
         {
-            q: "The teaching ministry in the _ is not to teach you a God that you don't know",
-            a: "epistles",
+            q: "Understanding the gospel makes a _ out of us",
+            a: "preacher",
         },
         {
-            q: "We don't hide _ from people",
-            a: "God",
+            q: "_ and _ will differ from prophet to prophet.",
+            a: "Clarity, precision",
         },
         {
-            q: "The Israelites were learning from Moses a God that _",
-            a: "they did not know",
+            q: "The better you are in _ the better you are in prophecy",
+            a: "searching",
         },
         {
-            q: "Your worship is actually for _",
-            a: "you",
+            q: "Every prophet is like a _",
+            a: "mediator",
         },
         {
-            q: "We _ him to know him more",
-            a: "worship",
+            q: "A mediator bridges the gap between two different _",
+            a: "wills",
         },
         {
-            q: "Worship is not different from a _",
-            a: "sermon",
+            q: "Adam and Eve were not revelation exclusive to _",
+            a: "Moses",
         },
         {
-            q: "When looking at the scriptures, look for what to _",
-            a: "believe",
+            q: "Part of Genesis will be _ knowledge but that _ knowledge will be used to teach the logos of God",
+            a: "general, general",
         },
         {
-            q: "You cannot successfully preach _ from the Bible",
-            a: "salvation by works",
+            q: "The _ may differ cos of differences in history but the lesson that the _ was used to teach cannot be denied",
+            a: "personalities, personality",
         },
         {
-            q: "The men that had the _ perished in the wilderness",
-            a: "book of the law",
+            q: "The culture of the Hebrews is one of the most _ cultures in history",
+            a: "ancient",
         },
         {
-            q: "To meditate on the book of the law is not to focus on the _",
-            a: "book of the law",
+            q: "The job of the preacher is the logos and not _",
+            a: "personalities",
         },
         {
-            q: "_ is to follow God fully",
-            a: "Faith",
+            q: "The real story of the beginning was an intention and a _",
+            a: "deviation",
         },
         {
-            q: "Don't look into the Bible for _, you will hook one day",
-            a: "character modification",
-        },
-        {
-            q: "Historical books are not _",
-            a: "doctrinal",
-        },
-        {
-            q: "We don't _ the writers but that doesn't mean the writers are always _",
-            a: "doubt, correct",
-        },
-        {
-            q: "In categorising a book as revelational, you must be very careful cos we have _",
-            a: "depths of revelation",
-        },
-        {
-            q: "The books are not ranked in _ but with the clarity of the utterance",
-            a: "themselves",
-        },
-        {
-            q: "The _ of the scripture will now be a function of how clearly Jesus can be seen in those books",
-            a: "ranking",
-        },
-        {
-            q: "God does not speak the type, God speaks the _ but man will _ in types",
-            a: "reality, manifest/demonstrate",
-        },
-        {
-            q: "Noah was warned of the consequence of saying no to _",
-            a: "resurrection",
-        },
-        {
-            q: "The ark was Noah's own _",
-            a: "teaching ministry",
-        },
-        {
-            q: "Jesus on the cross was our _ and not our _",
-            a: "sin, righteousness",
-        },
-        {
-            q: "We look out for the books that are louder on _ than on the _",
-            a: "faith, contradictions of faith",
-        },
-        {
-            q: "Whatsoever is not of faith is _",
-            a: "sin",
-        },
-        {
-            q: "In your mind when you see so much law, you rank it lesser cos the law is not _",
-            a: "of faith",
-        },
-        {
-            q: "The entire book is not written to make us feel _",
-            a: "guilty",
-        },
-        {
-            q: "Faith cannot be _",
-            a: "baseless",
-        },
-        {
-            q: "Both Cain and Abel acted on _",
-            a: "an information",
-        },
-        {
-            q: "There was no law in _ yet we have people that were justified by faith",
+            q: "We can say the book of _ will be the sermon note of Moses",
             a: "Genesis",
         },
         {
-            q: "You will find faith more in the book of _ than any other book of _",
-            a: "Genesis, Moses",
+            q: "Whoever did not allow you to serve God is _",
+            a: "immaterial",
         },
         {
-            q: "What Cain presented was like _",
-            a: "works of man",
+            q: "The full gospel needs a _",
+            a: "carrier/speaker",
         },
         {
-            q: "Since you won't find faith easily from _, you must rank that period lesser in your mind in your study",
-            a: "Exodus 20",
-        },
-        {
-            q: "It is _ to say I read the whole Bible once in a year",
-            a: "foolishness",
-        },
-        {
-            q: "Exploits of _ does not mean exploits of _",
-            a: "faith, power",
-        },
-        {
-            q: "It is only _ that spoke about redemtpion that glorifies God",
-            a: "exploit",
-        },
-        {
-            q: "You must focus more on the _ of David more than his _",
-            a: "prophecies, history",
-        },
-        {
-            q: "Any goodness that is following you all the days of your life, it speaks of _",
-            a: "eternal life",
-        },
-        {
-            q: "In the _, slow to anger now becomes no anger at all",
-            a: "epistles",
-        },
-        {
-            q: "Hell was a location for _",
-            a: "sin",
-        },
-        {
-            q: "People go to hell cos they remain _ with sin",
-            a: "identified",
-        },
-        {
-            q: "If God marked iniquity, _ would also not stand",
-            a: "Nathan",
-        },
-        {
-            q: "Bible has _",
-            a: "ranking",
-        },
+            q: "What is the origin of evil?",
+            a: "when good is rejected",
+        }
     ]
 }

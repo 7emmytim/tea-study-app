@@ -8,148 +8,96 @@ export const part_thirteen = {
     slug: "can_the_bible_be_wrong_series3_thirteen",
     questions: [
         {
-            q: "The way to know God is by his _",
-            a: "mercy",
+            q: "Cos Jesus is not ashamed of man we replicate same in our _ with men",
+            a: "identification",
         },
         {
-            q: "Don't be _ to those that have taught you the word",
-            a: "indifferent",
+            q: "_ is like a positive story in Christ while _ will be like a negative story in Christ",
+            a: "Genesis 2, Genesis 3",
         },
         {
-            q: "Look through the Bible for _, that's how to know God",
-            a: "mercy",
+            q: "_ might come but it is still up to man to choose",
+            a: "Influence",
         },
         {
-            q: "You won't really know God by focusing on _",
-            a: "destruction",
+            q: "Every man has the power/right to stop the _ of sin",
+            a: "journey",
         },
         {
-            q: "Any man that rejects that _ of God will end up getting worse",
-            a: "free offer",
+            q: "Closely following sin is death/condemnation and following death is now _",
+            a: "an appeal of God",
         },
         {
-            q: "It is easier to teach someone that is _ than someone that thinks he _",
-            a: "blank, knows",
+            q: "Some series of events will follow sin which will depict _",
+            a: "condemnation",
         },
         {
-            q: "Don't thread the path of _ it is always difficult to come back",
-            a: "rebellion",
+            q: "Condemnation can be _. It will not be _",
+            a: "seen, mystical",
         },
         {
-            q: "Confidence for _ is teaching/learning",
-            a: "stability",
+            q: "Either _ or _, the only way to know God is through Christ",
+            a: "before, after",
         },
         {
-            q: "We have to pitch a tent on who God is before _",
-            a: "Bible study",
+            q: "Even the man in sin, God answers his prayer to show love awaiting _",
+            a: "repentance",
         },
         {
-            q: "The book of Hebrews is a book of _",
-            a: "comparison",
+            q: "God's longsuffering is part of the _ of Christ",
+            a: "sufferings",
         },
         {
-            q: "The diverse times and manners are the prophets _ of what God said in his Son",
-            a: "perception/ramification/deduction",
+            q: "Eden was not a _ place",
+            a: "mystical",
         },
         {
-            q: "_ will now be a measure of the degree of deviation from what God has said in his Son",
-            a: "Ranking",
+            q: "Don't paint a _ God that is not in the Bible",
+            a: "loving",
         },
         {
-            q: "The less the _, the greater the accuracy and the greater the hierarchy",
-            a: "deviation",
+            q: "How do we hear God and pretend that it is a _?",
+            a: "film trick",
         },
         {
-            q: "What we are doing looks _ but in this is power of God",
-            a: "academic",
+            q: "Love will see you _",
+            a: "burn",
         },
         {
-            q: "The _ of God is in man's activity",
-            a: "wrath",
+            q: "_ allows you to have your way",
+            a: "Love",
         },
         {
-            q: "God's own communication is without _",
-            a: "deviation",
+            q: "If love allows _, why will love deny _?",
+            a: "sin, death",
         },
         {
-            q: "All those sundry times and diverse manners are part of the _ we must cast away",
-            a: "imaginations",
+            q: "Not gathering with the saints is a _ of unbelief",
+            a: "symptom",
         },
         {
-            q: "_ comes in reading without interpretation",
-            a: "The veil",
+            q: "Under the topic of the Christ, we can have _ and _",
+            a: "Accepting the Christ, Consequence to rejecting the Christ",
         },
         {
-            q: "It is not every action in the OT that was _ to God that was _ by God",
-            a: "accorded, ordered",
+            q: "In the _ of sin, anyone that rejects the gospel will get _",
+            a: "judgement, judged",
         },
         {
-            q: "At times you do things and you think you have _ but you have actually injured the generation",
-            a: "saved the day",
+            q: "_ has been cursed already, it's not _ that was cursed",
+            a: "Sin, man",
         },
         {
-            q: "The alphabets are the communication not the _",
-            a: "personality",
+            q: "In Christ, believing the gospel has been _. Rejecting him has been _",
+            a: "blessed, cursed",
         },
         {
-            q: "We will rather not have the miracles that has the tendency to counterfeit God's _ and _",
-            a: "word, character",
+            q: "To reject the gospel is to identify with the _ of sin",
+            a: "curse",
         },
         {
-            q: "We must stop equipping _ with weapons of mass destruction",
-            a: "untaught believers",
+            q: "There must be _ with which we preach the gospel",
+            a: "an urgency",
         },
-        {
-            q: "_ is divine",
-            a: "Studying",
-        },
-        {
-            q: "God wants us to _",
-            a: "study",
-        },
-        {
-            q: "Focus on the word, _ will come",
-            a: "miracles",
-        },
-        {
-            q: "Beware of anywhere they are saying come and learn _, you will not learn _",
-            a: "power, God",
-        },
-        {
-            q: "Don't go to the school of _, go to the school of _",
-            a: "healing, salvation",
-        },
-        {
-            q: "If in learning who are in Christ if we will be unable to do the deeds of Christ then who we are in Christ is a _",
-            a: "lie",
-        },
-        {
-            q: "Don't receive a _ that will make you water down the emphasis of the scriptures",
-            a: "knowledge",
-        },
-        {
-            q: "It was not _ that made Jesus come, it was _",
-            a: "power, knowledge",
-        },
-        {
-            q: "We have a _ ministry but we have a priority of the word",
-            a: "powerful",
-        },
-        {
-            q: "We yet have a ministry of power but we don't joke with our _",
-            a: "priority",
-        },
-        {
-            q: "Focus on the word and you will have signs and miracles that won't counterfeit _",
-            a: "the character of God",
-        },
-        {
-            q: "Some of the _ made Israel worse",
-            a: "prophets",
-        },
-        {
-            q: "Elijah did things but he made Israel _",
-            a: "worse",
-        }
     ]
 }

@@ -8,144 +8,104 @@ export const part_three = {
     slug: "can_the_bible_be_wrong_series4_part_three",
     questions: [
         {
-            q: "Although we have clear light in some portions of _ but _ are the light of all lights",
-            a: "the OT, the epistles",
+            q: "What _ attack by default is the characters in the Bible, the precision, the character of the men, the history",
+            a: "the atheists",
         },
         {
-            q: "_ was not the entirety of the book of Revelation",
-            a: "The church age",
+            q: "At times Christians fall into the trap of trying to _ what is not in our portfolio",
+            a: "argue",
         },
         {
-            q: "_ talks about a period after the church age",
-            a: "Revelation 4",
+            q: "You can't argue against death, it is _",
+            a: "real",
         },
         {
-            q: "_ clouds the understanding of God the more",
-            a: "The works of the law",
+            q: "You can't argue against the desire of men for a _",
+            a: "solution",
         },
         {
-            q: "Before _ came, faith can be seen clearer",
-            a: "the law",
+            q: "There will be a _ of God's will and there will be a _ of God's will",
+            a: "conviction, communication",
         },
         {
-            q: "It is _ that must not be rejected and not dos and don'ts",
-            a: "redemption",
+            q: "_ is essential for the will of God",
+            a: "Man",
         },
         {
-            q: "When a man believes in God's report, his _ becomes transformed by the message he has believed",
-            a: "conduct",
+            q: "God may want to bless you and he will call _",
+            a: "someone else",
         },
         {
-            q: "Man tries to deal with the _ of sin instead of trying to address the _",
-            a: "action, root cause",
+            q: "There is no automatic _ before God",
+            a: "prophet",
         },
         {
-            q: "Why people feel the Bible is not consistent in truth is cos of the _ inside",
-            a: "plenty deaths",
+            q: "Any prophet that is called without _ is a false prophet",
+            a: "learning",
         },
         {
-            q: "God's means of _ is his word",
-            a: "correction",
+            q: "The richer you are the more the temptation of _",
+            a: "I don't need God",
         },
         {
-            q: "God cannot help a man that cannot _",
-            a: "open Bible",
+            q: "The life of Christ gives us _",
+            a: "direction",
         },
         {
-            q: "Once you cannot _, you cannot be helped of God",
-            a: "read",
+            q: "The life of Christ gives us a reason to be _",
+            a: "alive",
         },
         {
-            q: "There's a concept of _ that we must understand",
-            a: "judgement",
+            q: "For the man in the flesh, _ appeal to him more than the will of God",
+            a: "physical things",
         },
         {
-            q: "_ must not be confused with the judgement of God",
-            a: "The repercussion of sin",
+            q: "Our true Passover is _",
+            a: "Christ",
         },
         {
-            q: "_ judgment for sin in singular",
-            a: "God's",
+            q: "All we have in the Bible today was like a compromise of _",
+            a: "the prophets",
         },
         {
-            q: "Your punishment in the prison is not you satisfying _ criteria for judgment",
-            a: "God's",
+            q: "Gensis is to use a _ to speak about the _",
+            a: "truth (non-fiction), truth",
         },
         {
-            q: "If God never used physical death to judge the grand finale _",
-            a: "sinner",
+            q: "_ history will not be necessary to communicate Christology, it will be _ history",
+            a: "total, selected",
         },
         {
-            q: "No one has the _ to cast any man to hell",
-            a: "anointing",
+            q: "_ will be used to teach the preconceived idea in the mind of the writer",
+            a: "Selected stories",
         },
         {
-            q: "There was a standing order that man rejected and there's a _ judgment that will fall on the subsequent men that will disobey too",
-            a: "trending",
+            q: "To the _ audience the prophet was using a known story to teach an unknown truth",
+            a: "initial",
         },
         {
-            q: "This God that does not have the power of _ now had spokesman and unfortunately they are men",
-            a: "physical death",
+            q: "to the non-initial audience it will look like an unknown _ to teach an unknown _",
+            a: "story, truth",
         },
         {
-            q: "In the _ of God we have judgment for sin",
-            a: "counsel",
+            q: "What the prophets did to the simple message is what we call _",
+            a: "integration",
         },
         {
-            q: "As _ as your righteousness in Christ is so also the judgment of sin is _",
-            a: "real, real",
+            q: "To bring out that God's story from the entire documentation is what we refer to as _ or _",
+            a: "differentiation, BI",
         },
         {
-            q: "The judgement for sin is the strong _ of your righteousness",
-            a: "negative",
+            q: "God made a provision that was rejected, that rejection was aided by a _ and that rejection led man to a state contrary to the design of God",
+            a: "deceiver",
         },
         {
-            q: "The worst punishment men could think of was that _",
-            a: "physical death",
+            q: "The reality of the new creation and the job of _ are together",
+            a: "reconciliation",
         },
         {
-            q: "In the story of Noah, if there was no _ then there would have been no _",
-            a: "ark, flood",
-        },
-        {
-            q: "Our _ is for edification and not for destruction",
-            a: "authority",
-        },
-        {
-            q: "Foreknowledge is simply _",
-            a: "word of wisdom",
-        },
-        {
-            q: "God does not _ with foreknowledge",
-            a: "interfere",
-        },
-        {
-            q: "Foreknowledge is word of wisdom that pertains to _",
-            a: "salvation",
-        },
-        {
-            q: "Most of the time, foreknowledge has to do with the _ and predestination is always the _",
-            a: "disobedience of men, mercy of God",
-        },
-        {
-            q: "_ character is _ character",
-            a: "God's, Jesus'",
-        },
-        {
-            q: "The judgment of Eli was based on the prophets' _",
-            a: "discretion",
-        },
-        {
-            q: "Angels gave lots of _ under the law and not God",
-            a: "commandments",
-        },
-        {
-            q: "A God that can just wake up today and kill anyone cannot be your _",
-            a: "saviour",
-        },
-        {
-            q: "The Bible is not _ but rather it explains itself to a diligent reader.",
-            a: "confusing",
-        },
+            q: "To fall back from _ is perceived as you never believed",
+            a: "discipleship",
+        }
     ]
 }

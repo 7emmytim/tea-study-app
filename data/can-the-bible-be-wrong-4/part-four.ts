@@ -8,136 +8,80 @@ export const part_four = {
     slug: "can_the_bible_be_wrong_series4_part_four",
     questions: [
         {
-            q: "To receive from God is to _ the intention of God",
-            a: "understand",
+            q: "_ is the how of God",
+            a: "Jesus",
         },
         {
-            q: "The way the book of Hebrews was written, it is _",
-            a: "argumentative",
+            q: "The _ is for you to just have a readable material",
+            a: "story",
         },
         {
-            q: "Scripture confirms _ and not otherwise",
-            a: "prophecy",
+            q: "The _ of the prophets is Christology",
+            a: "employer",
         },
         {
-            q: "The different utterances of the OT cannot be interpreted _,",
-            a: "disjointedly",
+            q: "In the logos of God, we see the _, _ and _",
+            a: "truth, plan, destination",
         },
         {
-            q: "There was no constant fixed link between the Spirit and _",
-            a: "the prophets",
+            q: "_ did not give us the job of spreading the light, it is a job that _ gave us",
+            a: "Sin, God",
         },
         {
-            q: "For _, the Spirit of God must be in you",
-            a: "revelation",
+            q: "In that _ plan of God, we will now have _ plans",
+            a: "grand, sub",
         },
         {
-            q: "God inspired the OT prophets but he is _ to us",
-            a: "revealing",
+            q: "Most of the time, it is the _ plan that gets written down",
+            a: "sub",
         },
         {
-            q: "In _, you understand what you are saying",
-            a: "revelation",
+            q: "The book of Genesis is Moses using the already _ faith story of the fathers to teach faith in Christ to Israel",
+            a: "integrated",
         },
         {
-            q: "diversity will be a function of the _, _ and the _",
-            a: "speaker, audience, age",
+            q: "Same gospel, same story but different _",
+            a: "presentation",
         },
         {
-            q: "The judgement of unbelief will be unlike _ to man",
-            a: "anything known",
+            q: "Different roads but the same _",
+            a: "destination",
         },
         {
-            q: "The two times angels were used in the book of Isaiah, it was purely _",
-            a: "historical",
+            q: "Different _ cos of different audience, age and issues",
+            a: "communication styles",
         },
         {
-            q: "A prophet will say with his mouth something that is not in _",
-            a: "his mind",
+            q: "In _ alone we have different sub plans",
+            a: "Abraham",
         },
         {
-            q: "The vision/dream of the prophet is not his _",
-            a: "prophecy",
+            q: "One can stop _ and yet he is not saved",
+            a: "homosexuality",
         },
         {
-            q: "the writers of the epistles _ and _ by understanding",
-            a: "wrote, spoke",
+            q: "the stories in Genesis have served as a foundation for the ministry of _",
+            a: "Moses",
         },
         {
-            q: "_ is different from just divinely received words",
-            a: "Prophecy",
+            q: "When they went to _, returning to _ translated to returning to God and to receive his life",
+            a: "Babylon, Jerusalem",
         },
         {
-            q: "Not everything the prophets said are _",
-            a: "prophecy",
+            q: "_ after they returned in Malachi will be value for the temple",
+            a: "Pay your tithe",
         },
         {
-            q: "not all forthtelling are _",
-            a: "prophecy",
+            q: "Perversion is trying to use the work of _ to speak about Christ",
+            a: "the flesh",
         },
         {
-            q: "_ defines all our terminologies",
-            a: "Redemption",
+            q: "The true link between God and man should have zero _",
+            a: "material medium",
         },
         {
-            q: "The _ should make your utterance more respected and not _ your speaking",
-            a: "miracles, replace",
-        },
-        {
-            q: "We _ God by speaking, doing then speaking more",
-            a: "serve",
-        },
-        {
-            q: "Prophecy is not just any _",
-            a: "speaking",
-        },
-        {
-            q: "You cannot just shake yourself and start _",
-            a: "speaking",
-        },
-        {
-            q: "None of us can join that league of holy _ and _",
-            a: "apostles, prophets",
-        },
-        {
-            q: "If you will take the whole Bible as _, you will not be confused",
-            a: "one material",
-        },
-        {
-            q: "_ is the good thing that God gives from above",
-            a: "The new creature",
-        },
-        {
-            q: "By taking the OT as _, we see how the OT explains itself",
-            a: "a complete material",
-        },
-        {
-            q: "_ expired long ago",
-            a: "Generational curses",
-        },
-        {
-            q: "We see how the law was so _ and brutal in correcting people same way the NT is _ about forgiveness",
-            a: "crazy, crazy",
-        },
-        {
-            q: "The punishment in hell is more than any man _",
-            a: "deserves",
-        },
-        {
-            q: "We say _ is not fair cos even _ was not fair",
-            a: "grace, the law",
-        },
-        {
-            q: "If we still reap what we sow as touching sin then Jesus _",
-            a: "lied to us",
-        },
-        {
-            q: "A man that will pick the whole Bible as one material will appreciate _",
-            a: "the intelligent being behind the book",
-        },
-        {
-            q: "A man that will pick the whole Bible as one material will not see a _ in the Bible",
-            a: "contradiction",
-        },
+            q: "You don't need a _ to contact God, he is not _",
+            a: "medium, an idol",
+        }
     ]
 }

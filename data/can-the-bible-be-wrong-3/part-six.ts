@@ -8,100 +8,132 @@ export const part_six = {
     slug: "can_the_bible_be_wrong_series3_six",
     questions: [
         {
-            q: "You don't need a special _ to give and receive miracles but you will need it if you don't _",
-            a: "school of power, pay attention",
+            q: "_ must be deliberate",
+            a: "honour",
         },
         {
-            q: "Make _ an attitude",
-            a: "love",
+            q: "don't allow _ to jump on you",
+            a: "honour",
         },
         {
-            q: "Don't have _ mindset, it weakens relationships",
-            a: "an extortion",
+            q: "honour is your _ culture",
+            a: "default",
         },
         {
-            q: "One of the duties of the church is to knock off _ from you",
-            a: "selfishness",
+            q: "that you are a believer does not mean _ won't come",
+            a: "pressures",
         },
         {
-            q: "Majority saying one thing does not translate to _",
-            a: "correctness",
+            q: "God's _ is that you fill your mind with God's word day and night",
+            a: "recommendation",
         },
         {
-            q: "The _ of rumours does not make it correct",
-            a: "longevity",
+            q: "that you are done with training does not mean you are done with _",
+            a: "learning",
         },
         {
-            q: "Some errors have been believed for thousands of years until _ came",
-            a: "Jesus",
+            q: "my _ carries a loud confession/volume",
+            a: "Christian confession",
         },
         {
-            q: "There's nothing special about the physical _",
-            a: "Jerusalem",
+            q: "Abraham did not boast about _ but that he saw Christ",
+            a: "cattles",
         },
         {
-            q: "There's no tribe that is _",
-            a: "irredeemable",
+            q: "Abraham's blessing is not for _ time",
+            a: "offering",
         },
         {
-            q: "The devil being the father of all liars will mean the father of them that _",
-            a: "contradicts the truth",
+            q: "taking offering with Abraham's blessing is bad _",
+            a: "BI",
         },
         {
-            q: "A lot of people are serving the devil in _",
-            a: "ignorance",
+            q: "Abraham was _ before he believed the gospel",
+            a: "rich",
         },
         {
-            q: "The person killing will think he is doing _",
-            a: "God service",
+            q: "_ is to teach you to think differently",
+            a: "the church",
         },
         {
-            q: "There's what man calls _ and there's what Bible calls _",
-            a: "death, death",
+            q: "_ in the Bible is not _ in Nigerian movie",
+            a: "end, end",
         },
         {
-            q: "We need to reprogram our minds as touching what _ means",
-            a: "death",
+            q: "end will mean _ in the Bible",
+            a: "intent",
         },
         {
-            q: "That _ of people believe one thing does not make it correct",
-            a: "millions",
+            q: "the man that must hold fast unto the intent is the _ man",
+            a: "unsaved",
         },
         {
-            q: "The victory we have in Christ is outside _",
-            a: "time",
+            q: "how do I know what God is doing?",
+            a: "look at what he has done",
         },
         {
-            q: "It is the same Jesus that justified you that was also available in _ to justify Abraham",
-            a: "utterances",
+            q: "in maturing up, you will know that every _ belongs to the Lord",
+            a: "day",
         },
         {
-            q: "Truth must also be found in _",
-            a: "Genesis",
+            q: "don't act _ about your reality",
+            a: "matured",
         },
         {
-            q: "Truth will be found in the mouth of _",
-            a: "Jesus",
+            q: "don't have a _ day",
+            a: "quiet",
         },
         {
-            q: "Truth will be consistent throughout the _",
-            a: "epistles",
+            q: "in Bible study, we focus on _ and _",
+            a: "words, it's implication",
         },
         {
-            q: "If you study the prophets for _ you will know God",
-            a: "faith",
+            q: "all the drama in the temples was not _",
+            a: "necessary",
         },
         {
-            q: "If you study the prophets for _ you won't know God",
-            a: "works",
+            q: "If it is faith that saves today, it was also faith that _ in the OT",
+            a: "justified",
         },
         {
-            q: "When you read the scripture, learn to obey _",
-            a: "faith",
+            q: "to eat the TOKOG is to agree with _ against _",
+            a: "the flesh, the spirit",
         },
         {
-            q: "We have the mind of Christ therefore we respect the _",
-            a: "epistles",
+            q: "faith is not in eating and drinking, it is in words _ and words _",
+            a: "heard, spoken",
+        },
+        {
+            q: "_ will agree both with the content of the scriptures and the promptings of God in your heart",
+            a: "Christ hermeneutics",
+        },
+        {
+            q: "revelation belongs to _ men",
+            a: "saved",
+        },
+        {
+            q: "the unveiling of the OT prophecies is called _",
+            a: "salvation",
+        },
+        {
+            q: "salvation is called _ revelation",
+            a: "full",
+        },
+        {
+            q: "to promise a man money for his faith, you gave him _",
+            a: "false hope",
+        },
+        {
+            q: "_ for a believer is sacred",
+            a: "learning",
+        },
+        {
+            q: "_ for the believer is urgent",
+            a: "learning",
+        },
+        {
+            q: "ensure you are not convenient with a _ man in ignorance",
+            a: "saved",
         }
     ]
 }

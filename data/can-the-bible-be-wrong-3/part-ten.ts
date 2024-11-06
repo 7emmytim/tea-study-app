@@ -8,6 +8,22 @@ export const part_ten = {
     slug: "can_the_bible_be_wrong_series3_ten",
     questions: [
         {
+            q: "The same day he _ salvation, he was ready to _ salvation",
+            a: "authored, finish",
+        },
+        {
+            q: "What God played to each generation like a _ is that death, burial and resurrection of Jesus.",
+            a: "movie",
+        },
+        {
+            q: "It took the _ agreement of man for the saviour to come",
+            a: "unanimous",
+        },
+        {
+            q: "What postponed the coming of Jesus?",
+            a: "unbelief",
+        },
+        {
             q: "When a man is in trouble, God is _ to help",
             a: "ready",
         },

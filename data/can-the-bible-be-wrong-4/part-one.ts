@@ -8,7 +8,7 @@ export const part_one = {
     slug: "can_the_bible_be_wrong_series4_part_one",
     questions: [
         {
-            q: "The word _ is not found in the _",
+            q: "The _ of the Bible is Christology",
             a: "Bible",
         },
         {

@@ -85,83 +85,132 @@ export const part_three = {
         },
         {
             q: "anything that was _ or _ before the resurrection of Christ cannot be the gospel of Christ",
-            a: "fulfilled, finalised",//
-        },//
-        {
-            q: "Every religion in the world is in a way being _",
-            a: "self-centred",
+            a: "fulfilled, finalised",
         },
         {
-            q: "Don't always see _ as hell fire",
-            a: "stripes",
+            q: "_ is the day one of God",
+            a: "resurrection",
         },
         {
-            q: "The only was things of the world will not be vanity is when you have this _ of the gospel",
-            a: "shock absorber",
+            q: "what we call _ is when man entered the resurrection",
+            a: "7th day",
         },
         {
-            q: "The gospel gives our pursuit/life a _",
-            a: "meaning",
+            q: "day 7 is not the _ of rest, it is the _ into rest",
+            a: "creation, entrace",
         },
         {
-            q: "You will have to _ God that God did not happen to you",
-            a: "convince",
+            q: "we can typify day 2 to day 6 as the _ of God",
+            a: "appeal",
         },
         {
-            q: "That you can't explain God does not mean God does not _",
-            a: "exist",
+            q: "things invisible can actually make you _",
+            a: "rejoice",
         },
         {
-            q: "Your body is _ enough to tell you that there's a _ being before this body",
-            a: "complex, complex",
+            q: "_ things are tangible",
+            a: "invisible",
         },
         {
-            q: "Spiritual growth is a _",
-            a: "career",
+            q: "what we enjoy today is the _ of Genesis to Malachi",
+            a: "content",
         },
         {
-            q: "_ and _ was invented cos of the Bible",
-            a: "writing, documentation",
+            q: "the gift of the Spirit can only be a _ of saved men",
+            a: "demonstration",
         },
         {
-            q: "_ invented writing",
-            a: "God",
+            q: "cos of what was prevalent in the days of the prophets, they will speak more of _ than _",
+            a: "judgement, blessedness of faith",
         },
         {
-            q: "_ reading will lead to confusion",
-            a: "half",
+            q: "despising is the character of the _ man",
+            a: "hell-bound",
         },
         {
-            q: "The only thing that can make sense is all _",
-            a: "scripture",
+            q: "_ has it's own symptoms. _ also has it's own symptoms",
+            a: "faith, unbelief",
         },
         {
-            q: "Don't conclude anything with the _ of one writer",
-            a: "conclusion",
+            q: "you must not see a man going to heloo and call a _",
+            a: "blessed man",
         },
         {
-            q: "Don't learn _ from Moses alone, learn from every other writer",
-            a: "righteousness",
+            q: "you must also not see a man going to heaven and call him a _",
+            a: "cursed man",
         },
         {
-            q: "Don't be carried away by some _ utterances in the OT",
-            a: "definite",
+            q: "no one is blessed cos of _ in the eyes of God",
+            a: "money",
         },
         {
-            q: "The conclusion of the holy scripture is to be _ eventually",
-            a: "deduced",
+            q: "I must sound like _, _ and _",
+            a: "Paul, Peter, James",
         },
         {
-            q: "A part of the Bible can be _ does not mean the Bible is _",
-            a: "wrong",
+            q: "God gave us _, a man and _ in turn gave us men to explain",
+            a: "Christ, Christ",
         },
         {
-            q: "Job already did a lot of _ and _ that painted God wrongly",
-            a: "series, sermons",
+            q: "the position the apostles occcupy in the _ and _ of our faith can never be replaced",
+            a: "lineage, vitality",
         },
         {
-            q: "A fame can be _ or _",
-            a: "positive, negative",
+            q: "_ is where we honour what has been written",
+            a: "Christianity",
         },
+        {
+            q: "we have _ so we are not tempted tto misinterpret Psalms for example",
+            a: "the epistles",
+        },
+        {
+            q: "to pattern your church after _ and _ is clear rebellion to Jesus",
+            a: "business school, entertainment centres",
+        },
+        {
+            q: "the _ the apostles gave to wealth and material prosperity must be our _",
+            a: "volume, volume",
+        },
+        {
+            q: "you can be very _ on earth without God",
+            a: "fantastic",
+        },
+        {
+            q: "even the _ BI about material prosperity, never be found loud about it",
+            a: "correct",
+        },
+        {
+            q: "we can't serve Jesus and discard _ pattern",
+            a: "the apostolic",
+        },
+        {
+            q: "once it is not the _ of the apostles then it is false",
+            a: "religion",
+        },
+        {
+            q: "it is foolish to be hugging Genesis to Malachi and reject _",
+            a: "the epistles",
+        },
+        {
+            q: "the apostles spoke about the _, _ and _ of God",
+            a: "plans, workings, pleasure",
+        },
+        {
+            q: "to have a ministry devoid of _, face the words of the apostles",
+            a: "eternal regret",
+        },
+        {
+            q: "Christianity is _ religion",
+            a: "an apostolic",
+        },
+        {
+            q: "the heart of men is one part that God cannot control like that but God can _",
+            a: "appeal",
+        },
+        {
+            q: "you cannot build the church on anything apart from _",
+            a: "Christ",
+        },
+
     ]
 }

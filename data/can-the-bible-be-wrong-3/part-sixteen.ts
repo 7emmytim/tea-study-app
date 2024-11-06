@@ -8,208 +8,148 @@ export const part_sixteen = {
     slug: "can_the_bible_be_wrong_series3_sixteen",
     questions: [
         {
-            q: "We will rather not have the miracles that has the tendency to counterfeit God's _ and _",
-            a: "word, character",
+            q: "the church ought to operate like a _ school",
+            a: "discipleship",
         },
         {
-            q: "We must stop equipping _ with weapons of mass destruction",
-            a: "untaught believers",
+            q: "God did not _ destruction for Pharaoh",
+            a: "forsee",
         },
         {
-            q: "_ is divine",
-            a: "Studying",
+            q: "how does God harden a man?",
+            a: "he won't bend his choice to any man's will",
         },
         {
-            q: "God wants us to _",
-            a: "study",
+            q: "whoever does not want his will, the man will become _",
+            a: "hardened",
         },
         {
-            q: "Focus on the word, _ will come",
-            a: "miracles",
+            q: "God _ his own choice",
+            a: "decided",
         },
         {
-            q: "Beware of anywhere they are saying come and learn _, you will not learn _",
-            a: "power, God",
+            q: "if God committed any crime then it is the fact that his will is _ in Christ",
+            a: "fixed",
         },
         {
-            q: "Don't go to the school of _, go to the school of _",
-            a: "healing, salvation",
+            q: "God wanted to show how _ Pharaoh can be and so Moses used 10 plagues",
+            a: "stubborn",
         },
         {
-            q: "If in learning who are in Christ if we will be unable to do the deeds of Christ then who we are in Christ is a _",
-            a: "lie",
+            q: "God's longsuffering shows you the _ and _ in unbelief",
+            a: "danger, stubborness",
         },
         {
-            q: "Don't receive a _ that will make you water down the emphasis of the scriptures",
-            a: "knowledge",
+            q: "when God sees a man in unbelief, he will _ and _ him",
+            a: "postrate, beg",
         },
         {
-            q: "It was not _ that made Jesus come, it was _",
-            a: "power, knowledge",
+            q: "if God kills satan today, the _ in man will create another satan",
+            a: "unbelief",
         },
         {
-            q: "We have a _ ministry but we have a priority of the word",
-            a: "powerful",
+            q: "the election of God is Christ and not _",
+            a: "individuals",
         },
         {
-            q: "We yet have a ministry of power but we don't joke with our _",
-            a: "priority",
+            q: "_ ranks salvation through faith in Christ more important than reality",
+            a: "prophecy",
         },
         {
-            q: "Focus on the word and you will have signs and miracles that won't counterfeit _",
-            a: "the character of God",
+            q: "the Bible is not for _ documentation, it is a documentation of how God will save men",
+            a: "historical",
         },
         {
-            q: "Some of the _ made Israel worse",
-            a: "prophets",
+            q: "the Bible is not for _ argument. it is a story of _",
+            a: "archeological, faith",
         },
         {
-            q: "Elijah did things but he made Israel _",
-            a: "worse",
+            q: "your theology is not _, your theology is _",
+            a: "history, Christology",
         },
         {
-            q: "The way to know God is by his _",
-            a: "mercy",
+            q: "the Spirit of God will help you know God's _",
+            a: "kingdom",
         },
         {
-            q: "Don't be _ to those that have taught you the word",
-            a: "indifferent",
+            q: "the _ is the proclamation",
+            a: "gospel",
         },
         {
-            q: "Look through the Bible for _, that's how to know God",
-            a: "mercy",
+            q: "the _ is how the salvation was preached",
+            a: "gospel",
         },
         {
-            q: "You won't really know God by focusing on _",
-            a: "destruction",
+            q: "it is the gospel that has been changing and getting bettert not the _",
+            a: "salvation",
         },
         {
-            q: "Any man that rejects that _ of God will end up getting worse",
-            a: "free offer",
+            q: "the gospel is what was changing that's why we have what we call _",
+            a: "the full gospel",
         },
         {
-            q: "It is easier to teach someone that is _ than someone that thinks he _",
-            a: "blank, knows",
+            q: "_ will also be a progression from seeing God through nature to seeing God in Christ rasied from the dead",
+            a: "faith to faith",
         },
         {
-            q: "Don't thread the path of _ it is always difficult to come back",
-            a: "rebellion",
+            q: "God already said you should expect varying degrees in _",
+            a: "clarity",
         },
         {
-            q: "Confidence for _ is teaching/learning",
-            a: "stability",
+            q: "God knows what he is looking for and he bent to use the _ men",
+            a: "available",
         },
         {
-            q: "We have to pitch a tent on who God is before _",
-            a: "Bible study",
+            q: "God will have to depend on man's _",
+            a: "frailty",
         },
         {
-            q: "The book of Hebrews is a book of _",
-            a: "comparison",
+            q: "God did not determine their _ but he used their _ to bring about his will",
+            a: "actions, actions",
         },
         {
-            q: "The diverse times and manners are the prophets _ of what God said in his Son",
-            a: "perception/ramification/deduction",
+            q: "The prophets had a duty to make _ the way of the Lord",
+            a: "straight",
         },
         {
-            q: "_ will now be a measure of the degree of deviation from what God has said in his Son",
-            a: "Ranking",
+            q: "God will do what he wants to do but men will _",
+            a: "make the way",
         },
         {
-            q: "The less the _, the greater the accuracy and the greater the hierarchy",
-            a: "deviation",
+            q: "the intention is always greater than the _",
+            a: "plan",
         },
         {
-            q: "What we are doing looks _ but in this is power of God",
-            a: "academic",
+            q: "_ is the real power",
+            a: "love",
         },
         {
-            q: "The _ of God is in man's activity",
-            a: "wrath",
+            q: "he used everything _ and _ about man to bring about his perfect counsel",
+            a: "good, bad",
         },
         {
-            q: "God's own communication is without _",
-            a: "deviation",
+            q: "God's plan is to use _ men",
+            a: "imperfect",
         },
         {
-            q: "All those sundry times and diverse manners are part of the _ we must cast away",
-            a: "imaginations",
+            q: "love is the message not _",
+            a: "power",
         },
         {
-            q: "_ comes in reading without interpretation",
-            a: "The veil",
+            q: "God will use the _ of man to win his own game",
+            a: "plans",
         },
         {
-            q: "It is not every action in the OT that was _ to God that was _ by God",
-            a: "accorded, ordered",
+            q: "power is not to _ but to use what you have done to accomplish my will",
+            a: "make you do something",
         },
         {
-            q: "At times you do things and you think you have _ but you have actually injured the generation",
-            a: "saved the day",
+            q: "the gospel is the real _",
+            a: "wisdom",
         },
         {
-            q: "The alphabets are the communication not the _",
-            a: "personality",
-        },
-        {
-            q: "We will rather not have the miracles that has the tendency to counterfeit God's _ and _",
-            a: "word, character",
-        },
-        {
-            q: "We must stop equipping _ with weapons of mass destruction",
-            a: "untaught believers",
-        },
-        {
-            q: "_ is divine",
-            a: "Studying",
-        },
-        {
-            q: "God wants us to _",
-            a: "study",
-        },
-        {
-            q: "Focus on the word, _ will come",
-            a: "miracles",
-        },
-        {
-            q: "Beware of anywhere they are saying come and learn _, you will not learn _",
-            a: "power, God",
-        },
-        {
-            q: "Don't go to the school of _, go to the school of _",
-            a: "healing, salvation",
-        },
-        {
-            q: "If in learning who are in Christ if we will be unable to do the deeds of Christ then who we are in Christ is a _",
-            a: "lie",
-        },
-        {
-            q: "Don't receive a _ that will make you water down the emphasis of the scriptures",
-            a: "knowledge",
-        },
-        {
-            q: "It was not _ that made Jesus come, it was _",
-            a: "power, knowledge",
-        },
-        {
-            q: "We have a _ ministry but we have a priority of the word",
-            a: "powerful",
-        },
-        {
-            q: "We yet have a ministry of power but we don't joke with our _",
-            a: "priority",
-        },
-        {
-            q: "Focus on the word and you will have signs and miracles that won't counterfeit _",
-            a: "the character of God",
-        },
-        {
-            q: "Some of the _ made Israel worse",
-            a: "prophets",
-        },
-        {
-            q: "Elijah did things but he made Israel _",
-            a: "worse",
+            q: "_ the gospel you have believed",
+            a: "value",
         }
     ]
 }

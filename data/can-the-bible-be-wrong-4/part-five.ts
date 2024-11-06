@@ -8,56 +8,100 @@ export const part_five = {
     slug: "can_the_bible_be_wrong_series4_part_five",
     questions: [
         {
-            q: "Joshua 1:8 is not the Christian's _",
-            a: "commission",
+            q: "Moses gave them _ that will now need interpretation",
+            a: "ceremonies",
         },
         {
-            q: "Joshua 1:8 is not about justification but about obeying the law so _ can belong to them",
-            a: "physical Canaan",
+            q: "the law will be like a _ to lead man to the _",
+            a: "sub plan, grand plan",
         },
         {
-            q: "Those things we call _ are not acts of God",
-            a: "exploits",
+            q: "material medium was used to communicate the _",
+            a: "unseen",
         },
         {
-            q: "God cannot bring forth the Messaiah without _",
-            a: "man",
+            q: "there is no justification in the law or _",
+            a: "the sub plans",
         },
         {
-            q: "The deeds of Israel to enter the promised land does not depict _",
-            a: "God's character",
+            q: "the focus of God has always been right _ plus a right _",
+            a: "words, heart",
         },
         {
-            q: "A perfect _ and perfect _ is coming from an imperfect _",
-            a: "man, message, lineage",
+            q: "When we see Jesus say _ will talk about the law and not about the personality of Moses",
+            a: "'Moses said'",
         },
         {
-            q: "God saw a _ man and God will use his life to prove that with God nothing is impossible",
-            a: "childless",
+            q: "the real sin of Adam and Cain was wrong _ and wrong _",
+            a: "words, heart",
         },
         {
-            q: "In God causing the promise to come through AB, he will also bless AB with _",
-            a: "Isaac",
+            q: "things that are meant to help but are actually not helping must be _",
+            a: "removed",
         },
         {
-            q: "Cos Israel were men with the promise, they had _ authority",
-            a: "angelic",
+            q: "_ should have started and ended with John",
+            a: "water baptism",
         },
         {
-            q: "It was not like the promise of Jesus was tied to the _ of the tribe of Israel",
-            a: "umblical cord",
+            q: "water baptism should have been the _ of every other signs",
+            a: "capitation/final sign",
         },
         {
-            q: "The prophets were inspired by the _ of redemption",
-            a: "overview",
+            q: "the _ coming speaks of the NT ministers",
+            a: "hour",
         },
         {
-            q: "No shadow is meant to be _",
-            a: "forever",
+            q: "a location-based worship is _",
+            a: "an integration",
         },
         {
-            q: "Only Jesus' _ was foreoradained to be everlasting",
-            a: "priesthood",
+            q: "_ based worship is to lead them to _ based worship",
+            a: "location, spirit",
+        },
+        {
+            q: "the prophets saw the truth but designed _ to lead men back to the truth",
+            a: "shadows",
+        },
+        {
+            q: "there's no _ to worship God",
+            a: "posture",
+        },
+        {
+            q: "we don't use _ to teach holiness",
+            a: "white garment",
+        },
+        {
+            q: "we don't use shoes to teach _",
+            a: "consecration",
+        },
+        {
+            q: "we dress fine for _ and not to symbolise _",
+            a: "modesty, Christianity",
+        },
+        {
+            q: "in our hearts we _ what God did in Christ and with our mouth we _ him",
+            a: "value, praise",
+        },
+        {
+            q: "long _ is not a symbol of Christianity",
+            a: "skirt",
+        },
+        {
+            q: "we _ cos we are already worshipping God in the spirit",
+            a: "speak in tongues",
+        },
+        {
+            q: "worshipping God in the spirit is not _ in the context of John 4",
+            a: "tongues",
+        },
+        {
+            q: "_ worship is to agree with what God has done in our hearts",
+            a: "spirit",
+        },
+        {
+            q: "the day you believed the gospel you became a _ forever",
+            a: "God worshipper",
         },
     ]
 }

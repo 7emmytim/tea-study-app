@@ -8,80 +8,52 @@ export const part_six = {
     slug: "can_the_bible_be_wrong_series4_part_six",
     questions: [
         {
-            q: "The life of Christ in us attracts _",
-            a: "responsibility",
-        },
-        {
-            q: "When you joke with times of prayers and the word, it is a dishonour to _",
-            a: "your pastor",
-        },
-        {
-            q: "The _ in the book does not mean the _ is the author",
-            a: "character",
-        },
-        {
-            q: "At times the vision can be scripted in a certain way cos of the _",
-            a: "recipients",
-        },
-        {
-            q: "The writer does not have to be the _ of the book",
-            a: "subject",
-        },
-        {
-            q: "God does not _ about your works",
-            a: "boast",
-        },
-        {
-            q: "God does not boast about the _ of his children but the _ he used to justify them",
-            a: "perfectness, blood",
-        },
-        {
-            q: "God corrects man by openening his ear to _",
-            a: "instruction",
-        },
-        {
-            q: "Once you fulfil the judgement of _, God will be powerless in saving you",
-            a: "the wicked",
-        },
-        {
-            q: "While Samuel said the ark killed Uzzah, David _",
-            a: "searched further",
-        },
-        {
-            q: "Achan sinned and nothing happened to him until Joshua _",
-            a: "discerned it",
-        },
-        {
-            q: "Although there was the law of sin and death at work, it will yet wait for _ prophet to come",
-            a: "an angry",
-        },
-        {
-            q: "Condemnation will make your _ useless before God",
+            q: "the supernatural aids us in _",
             a: "ministry",
         },
         {
-            q: "The _ of the writer will determine the clarity of the book",
-            a: "revelation",
+            q: "in understanding the prophets, we will see God more in their _ than in their _",
+            a: "utterances, actions",
         },
         {
-            q: "You don't need to break generational curses, you _ them off",
-            a: "believe",
+            q: "they were trying to speak about what _ God will do in the _ part of man",
+            a: "an unseen, unseen",
         },
         {
-            q: "_ cannot do for you what God has done for you in Christ",
-            a: "prayers",
+            q: "that attempt to _ what God will do in our spirit and mind will result into integration and perversion",
+            a: "dramatise",
         },
         {
-            q: "Some can intentionally become _  and they will continue to excel in ministry",
-            a: "deceivers",
+            q: "don't use your result to _ what God is doing",
+            a: "rate",
         },
         {
-            q: "Be careful selecting _ but after selecting, follow him",
-            a: "a pastor",
+            q: "God will restore everything back to normal by _",
+            a: "the NT preacher",
         },
         {
-            q: "If you can trust a man well in _, you should be able to look at how he presents the _ and copy it too",
-            a: "doctrine, doctrine",
+            q: "men in ministry are the _ of the preacher",
+            a: "fruits",
         },
+        {
+            q: "the reward for _ is more _",
+            a: "ministry, ministry",
+        },
+        {
+            q: "letter or writing on the stone is a _ sumarry of all the types and shadows",
+            a: "figurative",
+        },
+        {
+            q: "the proof that God has done what he said he will do is _ not your bank account",
+            a: "his word",
+        },
+        {
+            q: "in the place of minsitr you must do your best to focus on _",
+            a: "God's word",
+        },
+        {
+            q: "when the _ comes with little effect, don't disdain it",
+            a: "sacred",
+        }
     ]
 }

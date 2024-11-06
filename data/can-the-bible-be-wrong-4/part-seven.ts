@@ -8,6 +8,54 @@ export const part_seven = {
     slug: "can_the_bible_be_wrong_series4_part_seven",
     questions: [
         {
+            q: "God corrects man by openening his ear to _",
+            a: "instruction",
+        },
+        {
+            q: "Once you fulfil the judgement of _, God will be powerless in saving you",
+            a: "the wicked",
+        },
+        {
+            q: "While Samuel said the ark killed Uzzah, David _",
+            a: "searched further",
+        },
+        {
+            q: "Achan sinned and nothing happened to him until Joshua _",
+            a: "discerned it",
+        },
+        {
+            q: "Although there was the law of sin and death at work, it will yet wait for _ prophet to come",
+            a: "an angry",
+        },
+        {
+            q: "Condemnation will make your _ useless before God",
+            a: "ministry",
+        },
+        {
+            q: "The _ of the writer will determine the clarity of the book",
+            a: "revelation",
+        },
+        {
+            q: "You don't need to break generational curses, you _ them off",
+            a: "believe",
+        },
+        {
+            q: "_ cannot do for you what God has done for you in Christ",
+            a: "prayers",
+        },
+        {
+            q: "Some can intentionally become _  and they will continue to excel in ministry",
+            a: "deceivers",
+        },
+        {
+            q: "Be careful selecting _ but after selecting, follow him",
+            a: "a pastor",
+        },
+        {
+            q: "If you can trust a man well in _, you should be able to look at how he presents the _ and copy it too",
+            a: "doctrine, doctrine",
+        },
+        {
             q: "Logos is the reason behind _",
             a: "rhema",
         },

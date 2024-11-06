@@ -8,128 +8,100 @@ export const part_ten = {
     slug: "can_the_bible_be_wrong_series3_ten",
     questions: [
         {
-            q: "The same day he _ salvation, he was ready to _ salvation",
-            a: "authored, finish",
+            q: "The context of _ will be found in the entire book of Matthew",
+            a: "discipleship",
         },
         {
-            q: "What God played to each generation like a _ is that death, burial and resurrection of Jesus.",
-            a: "movie",
+            q: "there is no commission to go into the world to gather people to _",
+            a: "worship him",
         },
         {
-            q: "It took the _ agreement of man for the saviour to come",
-            a: "unanimous",
+            q: "most of the things we do in _, God did not send us",
+            a: "the name of God",
         },
         {
-            q: "What postponed the coming of Jesus?",
-            a: "unbelief",
+            q: "a _ is defined by the activities that happen there",
+            a: "church",
         },
         {
-            q: "When a man is in trouble, God is _ to help",
-            a: "ready",
+            q: "we must stop giving people a lesser _",
+            a: "alternative",
         },
         {
-            q: "God's word is _ and _, not _",
-            a: "past, present, future",
+            q: "for the sake of _, you are detached from your acquintances to know God",
+            a: "concentration",
         },
         {
-            q: "Past in his _ but present in his ability",
-            a: "intention",
+            q: "the _ ensures that the disciple also disciples ohers",
+            a: "discipler",
         },
         {
-            q: "God does not use _ and _ in relation to sin",
-            a: "sowing, reaping",
+            q: "_ is not personal",
+            a: "Christianity",
         },
         {
-            q: "_ is a statement of preaching",
-            a: "'I will'",
+            q: "in the church of Jesus we must put up the attitude of a _",
+            a: "pupil",
         },
         {
-            q: "_ is used expecting man to receive the promise as his own",
-            a: "'I will'",
+            q: "you are the one that will determine what you will get from  _",
+            a: "God's word",
         },
         {
-            q: "_ received is no longer a _",
-            a: "Promise, promise",
+            q: "in lightly esteeming God's word, satan will help turn your _ to rebellion",
+            a: "indifference",
         },
         {
-            q: "God never brought _ for man to cash later",
-            a: "a postdated check",
+            q: "there is a _ of satan against the believer",
+            a: "battle cry",
         },
         {
-            q: "The word _ is to tell man how prepared God is to bless.",
-            a: "promise",
+            q: "without _ Christianity would have been whatever you see you take",
+            a: "documentation",
         },
         {
-            q: "God is not exercising faith to make Abraham a _",
-            a: "father of many nations",
+            q: "_ is the theology of God",
+            a: "Jesus",
         },
         {
-            q: "Calling the things that be not as though they were is _ for Abraham",
-            a: "an exercise of faith",
+            q: "when we mention Jesus we are also talking about the _ around him",
+            a: "events",
         },
         {
-            q: "We must all be _ of faith",
-            a: "students",
+            q: "Jesus' _ define him as well as his personality",
+            a: "experiences",
         },
         {
-            q: "_ does not make God's word to work",
-            a: "Pity",
+            q: "the first thing we saw God do was to merge _ and _",
+            a: "heaven, earth",
         },
         {
-            q: "Before he was 100 years Abraham was _",
-            a: "weak in faith",
+            q: "God is not describable outside _",
+            a: "Christ",
         },
         {
-            q: "It is called _ to Abraham cos he had not believed",
-            a: "a promise",
+            q: "Prophecy can be redefined as God taking _ over time",
+            a: "mastery",
         },
         {
-            q: "No _ of God is without power",
-            a: "word",
+            q: "if God cannot control _ then people will not be justified by Christ before Christ",
+            a: "time",
         },
         {
-            q: "God does not _ to do good, God is good to us",
-            a: "prepare",
+            q: "God's _ will be spirit, soul and body",
+            a: "image",
         },
         {
-            q: "Till some people die they will keep saying _",
-            a: "God has promised me",
+            q: "All the 'God said' in Genesis 1, Moses was describing the experience of _",
+            a: "Christ",
         },
         {
-            q: "The _ was not with God but with Abraham in the school of faith",
-            a: "endurance",
+            q: "you will have God's _ on the day of resurrection",
+            a: "blessedness",
         },
         {
-            q: "Faith is a _",
-            a: "school",
-        },
-        {
-            q: "Prayers and fasting is not needed to _ but for you to dare to believe God",
-            a: "cast out demons",
-        },
-        {
-            q: "_ is consecration or focus",
-            a: "Prayer and fasting",
-        },
-        {
-            q: "Turning his name from Abram to Abraham is simply _",
-            a: "focus",
-        },
-        {
-            q: "You are not waiting on God to _ but waiting on yourself to _",
-            a: "give, receive",
-        },
-        {
-            q: "_ receives what God has provided",
-            a: "Faith",
-        },
-        {
-            q: "God's word is _, it is not postdated",
-            a: "now",
-        },
-        {
-            q: "The _ is with yourself in the school of faith",
-            a: "patience",
-        },
+            q: "Matthew describes that no go area as _",
+            a: "sin against the Holy Ghost",
+        }
     ]
 }

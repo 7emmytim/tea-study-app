@@ -8,120 +8,84 @@ export const part_eleven = {
     slug: "can_the_bible_be_wrong_series3_eleven",
     questions: [
         {
-            q: "The law is not a _ of God",
-            a: "mouthpiece",
+            q: "it's so serious that we don't see Jesus correcting one person about _",
+            a: "moral sin",
         },
         {
-            q: "The law is a _ of the consequences of man's unbelief which was not God's word",
-            a: "verbalisation",
+            q: "don't worry about the physical deficiency but worry about that _",
+            a: "eternal separation",
         },
         {
-            q: "God is in the business of forgiveness and not in the business of _",
-            a: "all have sinned",
+            q: "_ will make us strengthen one another",
+            a: "fellowship",
         },
         {
-            q: "That every man needs _ does not mean every man is _ a sinner",
-            a: "justification, born",
+            q: "there is no physcial serpent in _ but we have the activity of satan",
+            a: "Genesis 3",
         },
         {
-            q: "The highest _ of man is faith in God's word",
-            a: "moral conduct",
+            q: "satan cannot get a man that has not _ himself",
+            a: "gotten",
         },
         {
-            q: "As important as the _ was, a man had to receive it",
-            a: "incarnation",
+            q: "Jesus stands to judge the one that does not believe that he is _",
+            a: "Jesus",
         },
         {
-            q: "The fact that the word came like a promise does not mean the word needs to be _",
-            a: "delayed",
+            q: "even the man that rejects Jesus will still _",
+            a: "meet him",
         },
         {
-            q: "_ describes man's readiness to believe and not God's willingness to give",
-            a: "Tarrying",
+            q: "_ holds individuals responsible for their actions",
+            a: "God",
         },
         {
-            q: "Man is to _ by mixing faith with the message",
-            a: "come alive",
+            q: "_ can come but the decision is yours",
+            a: "influence",
         },
         {
-            q: "At times in your teaching and preaching don't force _ on people",
-            a: "salvation",
+            q: "I am responsible for every _ that I allow",
+            a: "influence",
         },
         {
-            q: "Lead men on a journey of _ knowing that God is ready to _",
-            a: "faith, save",
+            q: "Moses was using the normal _ around man to describe judgement",
+            a: "agony",
         },
         {
-            q: "_ will be with man till the point of discovery",
-            a: "Patience",
+            q: "The real first _ of the Lord is the death of Christ",
+            a: "day",
         },
         {
-            q: "Select the things you want to _ with",
-            a: "catch fun",
+            q: "the _ of judgement is the day Jesus died",
+            a: "day",
         },
         {
-            q: "That a man comes out for _ does not mean he is truly saved",
-            a: "altar call",
+            q: "the man in sin will need _ to tell him that he is a sinner",
+            a: "the Bible",
         },
         {
-            q: "As you start _ be patient with people",
-            a: "church",
+            q: "man will never be able to explain _",
+            a: "sin",
         },
         {
-            q: "We can call the book of Hebrews _ teaching material",
-            a: "an evangelical",
+            q: "Moses will use the experiences of man to say that after man sinned, things _",
+            a: "never remained the same again",
         },
         {
-            q: "The heart is evil by _ and not by _",
-            a: "influence, creation",
+            q: "God kept showing _ despite man's rebellion",
+            a: "his appeal",
         },
         {
-            q: "There won't be any other way to justification aside what you are _",
-            a: "rejecting",
+            q: "for salvation, there's _ but for the unsaved, there's _",
+            a: "security, an appeal",
         },
         {
-            q: "The destruction of the man in sin is cos of what has happened _",
-            a: "immediately",
+            q: "there's a _ in salvation and _ for the unbeliever",
+            a: "finality, an appeal",
         },
         {
-            q: "The consequence of rejecting salvation is greater than the consequence of rejecting _",
-            a: "the law of Moses",
-        },
-        {
-            q: "The judgement of rejecting _ is to typify the judgement of rejecting salvation",
-            a: "the law of Moses",
-        },
-        {
-            q: "The _ judgement is just unveiling",
-            a: "future",
-        },
-        {
-            q: "The man in unbelief has a _ of wrath",
-            a: "down payment",
-        },
-        {
-            q: "For the man in unbelief, _ sustains him in his state",
-            a: "his choice",
-        },
-        {
-            q: "Don't define hell as _ but as the pangs of separation",
-            a: "demons flogging people",
-        },
-        {
-            q: "The Lord _ his people through the gospel of the Son",
-            a: "judges",
-        },
-        {
-            q: "Judging yourself unworthy of eternal life is what it means to _",
-            a: "fall into the hands of God",
-        },
-        {
-            q: "Christ is the destination of man not _",
-            a: "heaven",
-        },
-        {
-            q: "We only go to _ because we are already in Christ",
-            a: "heaven",
-        },
+            q: "if the man that rejects the gospel is _ already then the man that believes is _ already",
+            a: "judged, saved",
+        }
     ]
 }

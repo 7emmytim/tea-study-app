@@ -8,148 +8,152 @@ export const part_fifteen = {
     slug: "can_the_bible_be_wrong_series3_fifteen",
     questions: [
         {
-            q: "The way to know God is by his _",
+            q: "Moses saw _ and wrote _",
+            a: "beforehand, beforehand",
+        },
+        {
+            q: "the prophets wrote with _ so you can't _ read what they wrote",
+            a: "an intelligence, rush",
+        },
+        {
+            q: "at times the _ will determine how the word is written",
+            a: "audience",
+        },
+        {
+            q: "we don Greek and Hebrew words to minimise error in _",
+            a: "translations",
+        },
+        {
+            q: "God's plan is that all will be _",
+            a: "disciples",
+        },
+        {
+            q: "disciples are men who have submitted their _ and _ to know and do God's will",
+            a: "will, right",
+        },
+        {
+            q: "increase is a function of proper _",
+            a: "hearing",
+        },
+        {
+            q: "_ is a function of poor hearing",
+            a: "decrease",
+        },
+        {
+            q: "poor _ is that you are _ but your heart is not meditating on it",
+            a: "hearing, hearing",
+        },
+        {
+            q: "a _ will force you to think",
+            a: "parable",
+        },
+        {
+            q: "the use of a parable is part of the _ of God",
+            a: "appeal",
+        },
+        {
+            q: "to a man that has a _ heart, to receive God's word, he speaks straight",
+            a: "meek",
+        },
+        {
+            q: "_ is where God will stay and that is our heart",
+            a: "heaven",
+        },
+        {
+            q: "What Jesus did on the cross is _ of what he is doing in our heart",
+            a: "symbolic",
+        },
+        {
+            q: "the _ of the gospel is as important as the sacrifice of Christ",
+            a: "preaching",
+        },
+        {
+            q: "that hanging on the cross is a communication of _",
+            a: "love",
+        },
+        {
+            q: "God's word to the unbeliever can be _ for the believer",
+            a: "rephrased",
+        },
+        {
+            q: "Same word given for faith is also given for _",
+            a: "growth",
+        },
+        {
+            q: "Peter wrote from Exodus but changed _",
+            a: "tenses",
+        },
+        {
+            q: "listening to God's word is both _ and _",
+            a: "academic, supernatural",
+        },
+        {
+            q: "what God has been _ from Genesis is sin",
+            a: "cursing",
+        },
+        {
+            q: "anyone that identifies with sin will inherit a _",
+            a: "curse",
+        },
+        {
+            q: "both everlasting life and damnation are called _",
+            a: "inheritance",
+        },
+        {
+            q: "Moses used _ cos of how Abraham's call was documented",
+            a: "chosen",
+        },
+        {
+            q: "a willing heart is _ action but deemed as _ gift",
+            a: "man's, God's",
+        },
+        {
+            q: "it will be man's action but it will be written in either _ ledger or _ ledger",
+            a: "satan's, God's",
+        },
+        {
+            q: "actions of _ are deemed in God's ledger cos they are actions first done by God",
+            a: "faith",
+        },
+        {
+            q: "God is the _ of faith",
+            a: "originator",
+        },
+        {
+            q: "God was the first to demonstrate _ when he chose to live for man",
+            a: "obedience",
+        },
+        {
+            q: "any _ obedience will then be called God's action",
+            a: "future",
+        },
+        {
+            q: "Christ was ready to _ from Genesis",
+            a: "die",
+        },
+        {
+            q: "even before _ God had been living for man",
+            a: "the death of Christ",
+        },
+        {
+            q: "if you refuse to believe then you won't be called the _ of God",
+            a: "chosen",
+        },
+        {
+            q: "even in Israel there was yet a _",
+            a: "choice",
+        },
+        {
+            q: "_ kept teaching them about his choice",
+            a: "God",
+        },
+        {
+            q: "_ will be found where God says it is",
             a: "mercy",
         },
         {
-            q: "Don't be _ to those that have taught you the word",
-            a: "indifferent",
-        },
-        {
-            q: "Look through the Bible for _, that's how to know God",
-            a: "mercy",
-        },
-        {
-            q: "You won't really know God by focusing on _",
-            a: "destruction",
-        },
-        {
-            q: "Any man that rejects that _ of God will end up getting worse",
-            a: "free offer",
-        },
-        {
-            q: "It is easier to teach someone that is _ than someone that thinks he _",
-            a: "blank, knows",
-        },
-        {
-            q: "Don't thread the path of _ it is always difficult to come back",
-            a: "rebellion",
-        },
-        {
-            q: "Confidence for _ is teaching/learning",
-            a: "stability",
-        },
-        {
-            q: "We have to pitch a tent on who God is before _",
-            a: "Bible study",
-        },
-        {
-            q: "The book of Hebrews is a book of _",
-            a: "comparison",
-        },
-        {
-            q: "The diverse times and manners are the prophets _ of what God said in his Son",
-            a: "perception/ramification/deduction",
-        },
-        {
-            q: "_ will now be a measure of the degree of deviation from what God has said in his Son",
-            a: "Ranking",
-        },
-        {
-            q: "The less the _, the greater the accuracy and the greater the hierarchy",
-            a: "deviation",
-        },
-        {
-            q: "What we are doing looks _ but in this is power of God",
-            a: "academic",
-        },
-        {
-            q: "The _ of God is in man's activity",
-            a: "wrath",
-        },
-        {
-            q: "God's own communication is without _",
-            a: "deviation",
-        },
-        {
-            q: "All those sundry times and diverse manners are part of the _ we must cast away",
-            a: "imaginations",
-        },
-        {
-            q: "_ comes in reading without interpretation",
-            a: "The veil",
-        },
-        {
-            q: "It is not every action in the OT that was _ to God that was _ by God",
-            a: "accorded, ordered",
-        },
-        {
-            q: "At times you do things and you think you have _ but you have actually injured the generation",
-            a: "saved the day",
-        },
-        {
-            q: "The alphabets are the communication not the _",
-            a: "personality",
-        },
-        {
-            q: "We will rather not have the miracles that has the tendency to counterfeit God's _ and _",
-            a: "word, character",
-        },
-        {
-            q: "We must stop equipping _ with weapons of mass destruction",
-            a: "untaught believers",
-        },
-        {
-            q: "_ is divine",
-            a: "Studying",
-        },
-        {
-            q: "God wants us to _",
-            a: "study",
-        },
-        {
-            q: "Focus on the word, _ will come",
-            a: "miracles",
-        },
-        {
-            q: "Beware of anywhere they are saying come and learn _, you will not learn _",
-            a: "power, God",
-        },
-        {
-            q: "Don't go to the school of _, go to the school of _",
-            a: "healing, salvation",
-        },
-        {
-            q: "If in learning who are in Christ if we will be unable to do the deeds of Christ then who we are in Christ is a _",
-            a: "lie",
-        },
-        {
-            q: "Don't receive a _ that will make you water down the emphasis of the scriptures",
-            a: "knowledge",
-        },
-        {
-            q: "It was not _ that made Jesus come, it was _",
-            a: "power, knowledge",
-        },
-        {
-            q: "We have a _ ministry but we have a priority of the word",
-            a: "powerful",
-        },
-        {
-            q: "We yet have a ministry of power but we don't joke with our _",
-            a: "priority",
-        },
-        {
-            q: "Focus on the word and you will have signs and miracles that won't counterfeit _",
-            a: "the character of God",
-        },
-        {
-            q: "Some of the _ made Israel worse",
-            a: "prophets",
-        },
-        {
-            q: "Elijah did things but he made Israel _",
-            a: "worse",
+            q: "you can be the _ man on the wrong lane",
+            a: "fastest",
         }
     ]
 }

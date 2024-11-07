@@ -8,212 +8,116 @@ export const part_seven = {
     slug: "can_the_bible_be_wrong_series4_part_seven",
     questions: [
         {
-            q: "God corrects man by openening his ear to _",
-            a: "instruction",
+            q: "the reason for the diverse manners is the _",
+            a: "sundry times",
         },
         {
-            q: "Once you fulfil the judgement of _, God will be powerless in saving you",
-            a: "the wicked",
+            q: "different ages are the reason for the diversity in _",
+            a: "communication",
         },
         {
-            q: "While Samuel said the ark killed Uzzah, David _",
-            a: "searched further",
+            q: "to us we are in a time called the _ of the age",
+            a: "closure",
         },
         {
-            q: "Achan sinned and nothing happened to him until Joshua _",
-            a: "discerned it",
+            q: "_ and _ by the minister will naturally want to look more effective and potent",
+            a: "killing, destruction",
         },
         {
-            q: "Although there was the law of sin and death at work, it will yet wait for _ prophet to come",
-            a: "an angry",
+            q: "we trust God mightilty working even without _",
+            a: "effect",
         },
         {
-            q: "Condemnation will make your _ useless before God",
-            a: "ministry",
+            q: "you and Moses can have the same information before you and you minsiter _ and he ministers _",
+            a: "life, death",
         },
         {
-            q: "The _ of the writer will determine the clarity of the book",
-            a: "revelation",
+            q: "you might do something that looks so _ but it ends up sending people away",
+            a: "wonderful",
         },
         {
-            q: "You don't need to break generational curses, you _ them off",
-            a: "believe",
+            q: "that something is _ does not mean it will promote the will of God",
+            a: "spectacular",
         },
         {
-            q: "_ cannot do for you what God has done for you in Christ",
-            a: "prayers",
+            q: "at times when all that is presented is the _, _, _, men will find it difficult to see the essence",
+            a: "physical, effect, spectacular",
         },
         {
-            q: "Some can intentionally become _  and they will continue to excel in ministry",
-            a: "deceivers",
+            q: "Moses did more spectacular than _ based on documenation",
+            a: "Jesus",
         },
         {
-            q: "Be careful selecting _ but after selecting, follow him",
-            a: "a pastor",
+            q: "Moses was never celebrated for _ in the NT",
+            a: "the miraculous",
         },
         {
-            q: "If you can trust a man well in _, you should be able to look at how he presents the _ and copy it too",
-            a: "doctrine, doctrine",
+            q: "don't rely on the explot done on Ananias and Saphirra to make saints _",
+            a: "honest",
         },
         {
-            q: "Logos is the reason behind _",
-            a: "rhema",
+            q: "don't rely on multiplication of food for _ or _",
+            a: "spiritual growth, salvation",
         },
         {
-            q: "The speaking of the _ is what we call rhema",
-            a: "logos",
+            q: "The resurrection is enough for the _",
+            a: "simple hearted",
         },
         {
-            q: "The act of _ is also called logos",
-            a: "speaking",
+            q: "of all the miracles that Jesus was doing, the people still had _",
+            a: "preference",
         },
         {
-            q: "It is useless discussing the Bible without discussing the _ of man",
-            a: "salvation plan",
+            q: "answered prayers can be a _ to your Christian life",
+            a: "disadvantage",
         },
         {
-            q: "You cannot command or pray man into _",
-            a: "salvation",
+            q: "be _ of answered prayers",
+            a: "careful",
         },
         {
-            q: "You cannot _ salvation like you _ the power of God",
-            a: "throw, throw",
+            q: "you must celebrate the word above _",
+            a: "miracles/spectacular",
         },
         {
-            q: "God does not determine the _ of man but the _ of the actions of man",
-            a: "actions, consequence",
+            q: "you can be a _ in your spirit but a _ in your ministration",
+            a: "Christian, muslim",
         },
         {
-            q: "The man in _ only needs to become a new creature in the plan of God",
-            a: "Genesis 2",
+            q: "_ actually borrowed from the glory of the ministration of righteousness for them to have a sense of glory",
+            a: "the ministration of death",
         },
         {
-            q: "The Adam in _ now needed forgiveness together with being a new creature",
-            a: "Genesis 3",
+            q: "why that condemnation had glory was cos it was trying to carry out _",
+            a: "the intention",
         },
         {
-            q: "Receiving the Holy Ghost is both _ and also makes you a _",
-            a: "forgiveness, new creature",
+            q: "the glory of Moses type of ministration is not _, it was _",
+            a: "inherent, added",
         },
         {
-            q: "Forgiveness cos of sin and new creature cos of the _",
-            a: "intention",
+            q: "_ is not what brought power and glory",
+            a: "spiritual growth",
         },
         {
-            q: "An unbeliever needs _",
-            a: "information",
+            q: "there's an inherent _ that comes with the new creation, focus on it",
+            a: "glory",
         },
         {
-            q: "Same Holy Ghost is the proof of our salvation and also why we are _",
-            a: "new creatures",
+            q: "it is too late for _ not to work for you",
+            a: "God's word",
         },
         {
-            q: "_ is the result of the foreknowledge that man will sin",
-            a: "Predestination",
+            q: "I am a shearer of _",
+            a: "glory",
         },
         {
-            q: "God predestinated Christ to be both the _ and the _ to be received",
-            a: "sacrifice, image",
+            q: "I occupy an important position in _",
+            a: "the mind of God",
         },
         {
-            q: "Moases wrote both _ and also about Jesus",
-            a: "accusations",
-        },
-        {
-            q: "No doctrine of _ in the epistles",
-            a: "restitution",
-        },
-        {
-            q: "_ mentality affects BI",
-            a: "works",
-        },
-        {
-            q: "With the _ the truth in the Bible is unbeatable",
-            a: "NT",
-        },
-        {
-            q: "In the NT, the utternaces of the men of old were either _, _ or _",
-            a: "corrected, clarified, discarded",
-        },
-        {
-            q: "Asking who is the wife of Cain is not a _ question",
-            a: "necessary",
-        },
-        {
-            q: "Diligence cannot be subtracted from _",
-            a: "Bible study",
-        },
-        {
-            q: "God did not create _ for man to choose from",
-            a: "two things",
-        },
-        {
-            q: "What we saw as a _ was a rejection of what God laid down",
-            a: "second choice",
-        },
-        {
-            q: "The best definition of _ is that you will be on your own forever",
-            a: "hell",
-        },
-        {
-            q: "_ was the one that never wanted the plan of God to come to pass",
-            a: "Satan",
-        },
-        {
-            q: "_ was not on recess",
-            a: "Satan",
-        },
-        {
-            q: "The gospel _ Satan",
-            a: "unveiled",
-        },
-        {
-            q: "The dominion of Satan is _",
-            a: "ignorance",
-        },
-        {
-            q: "Satan is _ when man doesn't know that he is behind the scene",
-            a: "king",
-        },
-        {
-            q: "In the whole Genesis, Satan was not on _",
-            a: "leave",
-        },
-        {
-            q: "That Moses could not _ Satan doesn't mean he wasn't there",
-            a: "discern",
-        },
-        {
-            q: "The _ are the character of God",
-            a: "fruits of the Spirit",
-        },
-        {
-            q: "To pitch a man against his will is _",
-            a: "witchcraft",
-        },
-        {
-            q: "The word of God is God's _",
-            a: "mercy",
-        },
-        {
-            q: "When you depart from the word you take yourself from _",
-            a: "mercy",
-        },
-        {
-            q: "God came to Pharaoh through Moses to _ him",
-            a: "bless",
-        },
-        {
-            q: "Pharaoh enjoyed _ but Satan did not want _",
-            a: "cheap labour, Jesus to come",
-        },
-        {
-            q: "Pharaoh became _ boy",
-            a: "Satan's",
-        },
-        {
-            q: "If Israel did not leave Egypt, they won't focus on _",
-            a: "God's redemption plan",
-        },
+            q: "I am _ in the plan of God",
+            a: "major",
+        }
     ]
 }

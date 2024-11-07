@@ -25,7 +25,7 @@ export const sermons = [
     can_the_bible_be_wrong_series4.part_four,
     can_the_bible_be_wrong_series4.part_five,
     can_the_bible_be_wrong_series4.part_six,
-    // can_the_bible_be_wrong_series4.part_seven,
-    // can_the_bible_be_wrong_series4.part_eight,
+    can_the_bible_be_wrong_series4.part_seven,
+    can_the_bible_be_wrong_series4.part_eight,
 
 ]

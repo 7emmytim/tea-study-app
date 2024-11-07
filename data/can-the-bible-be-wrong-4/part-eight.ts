@@ -8,128 +8,252 @@ export const part_eight = {
     slug: "can_the_bible_be_wrong_series4_part_eight",
     questions: [
         {
-            q: "There's a specific _ of scriptures that can make you wise unto salvation",
-            a: "thought pattern",
+            q: "in Christ we see an intention, _ and _",
+            a: "plan, destination",
         },
         {
-            q: "These things were written cos they were _",
-            a: "spoken",
+            q: "the first men did not follow that _ so sin came in",
+            a: "plan",
         },
         {
-            q: "_ is a written thought pattern",
-            a: "gramma",
+            q: "a _ believer and an unbeliever are alike",
+            a: "carnal",
         },
         {
-            q: "We can say in the Bible we have _ and the gramma",
-            a: "grammas",
+            q: "the consequences of all the _ God will bear on himself",
+            a: "integrations",
         },
         {
-            q: "There's a _ we can derive from Moses",
-            a: "learning",
+            q: "some things have gone wrond already in the _ of the prophets",
+            a: "expressions",
         },
         {
-            q: "Learning won't just be the words written but also the _",
-            a: "application",
+            q: "that _ evidence of God does not bow to the _ attributed to God",
+            a: "overwhelming, misconceptions",
         },
         {
-            q: "There's a learning in the OT that _ and a learning that _",
-            a: "condemns, justifies",
+            q: "the best man should do is to seek to understand what has _ on him",
+            a: "dawned",
         },
         {
-            q: "It is wrong for a believer to think that he can _ everything in the OT",
-            a: "apply",
+            q: "that _ Bible is enoughto teach you who God is",
+            a: "imperfect",
         },
         {
-            q: "Wrong application of those things will make you a _ Christian",
-            a: "bad",
+            q: "don't feel you are _ cos you have a lot to explain",
+            a: "on the losing side",
         },
         {
-            q: "Growing unto salvation will mean to _",
-            a: "get saved",
+            q: "_ is needed cos there is a counter _",
+            a: "evidence, evidence",
         },
         {
-            q: "Growing in salvation will mean _",
-            a: "spiritual growth",
+            q: "we have more of reproof and correction cos of _",
+            a: "sin",
         },
         {
-            q: "The same gramma about Christ can cause you to grow _ salvation and to grow _ salvation",
-            a: "unto, in",
+            q: "doctrine is like a _ word for reproof, correction and intruction",
+            a: "compound",
         },
         {
-            q: "We have prophecy and _ prophecy",
-            a: "the",
+            q: "today the _ of the NT ministry is to preach without the use of multiple _",
+            a: "creed, typologies",
         },
         {
-            q: "We have false doctrine in the _",
-            a: "Bible",
+            q: "we don't use the _ in the service of God",
+            a: "flesh",
         },
         {
-            q: "That a man should die for his sin is _",
-            a: "false doctrine",
+            q: "people should _ in the church and not _",
+            a: "live, die",
         },
         {
-            q: "If you read the OT well you will stop praying _",
-            a: "fall down and die",
+            q: "there are things of more value than _",
+            a: "money",
         },
         {
-            q: "The one that has the right to _ is the one that has not _",
-            a: "condemn, sinned",
+            q: "that it is unseen does not mean it is _",
+            a: "intangible",
         },
         {
-            q: "Wrath of God in the Bible is mostly a _ and not an active doing of God",
-            a: "terminology",
+            q: "communicating better is _ to us",
+            a: "a blessing",
         },
         {
-            q: "Even the _ of God is also seen in the activities of men",
+            q: "a _ church is a church reaching out mightily and getting results",
+            a: "blessed",
+        },
+        {
+            q: "we are _ to preach the blessings better",
+            a: "blessed",
+        },
+        {
+            q: "_ is primarily for the will of God",
+            a: "prayer",
+        },
+        {
+            q: "_ gave us prayers to pray",
+            a: "God",
+        },
+        {
+            q: "the condition for God to do something for you is not to die on _",
+            a: "the mountain",
+        },
+        {
+            q: "some people come to God looking for physical things but you have come _ to do his will",
+            a: "signing up",
+        },
+        {
+            q: "the proof that you are a _ is not that you have your physical needs met",
+            a: "good Christian",
+        },
+        {
+            q: "the _ in the church is not the most spiritual",
+            a: "richest",
+        },
+        {
+            q: "we don't use beards to represent _",
+            a: "spiritual maturity",
+        },
+        {
+            q: "We don't use _ and _ to teach men authority",
+            a: "high stage, long caps",
+        },
+        {
+            q: "we ensure that our message is _",
+            a: "understood",
+        },
+        {
+            q: "it is your duty to ensure that your message is not _",
+            a: "misunderstood",
+        },
+        {
+            q: "nice church building is not the _ that I am preaching",
+            a: "blessing",
+        },
+        {
+            q: "the physicals are naturally _",
+            a: "transient",
+        },
+        {
+            q: "nothing replaces the _ of the word",
+            a: "clarity",
+        },
+        {
+            q: "don't allow anything to veil that _",
+            a: "clarity",
+        },
+        {
+            q: "it is the _ that will make the believer want to act like them in the OT",
+            a: "vail",
+        },
+        {
+            q: "political takeover is not _",
+            a: "Christianity",
+        },
+        {
+            q: "God does not rule from _. he rules the world from _",
+            a: "aso rock, his church",
+        },
+        {
+            q: "what is under God's authority is what we do by _",
+            a: "Spirit of God",
+        },
+        {
+            q: "God's power is what we do by _",
+            a: "the gospel",
+        },
+        {
+            q: "what God has complete control over is what happens when we _",
+            a: "preach the gospel",
+        },
+        {
+            q: "_ alone without teaching will not bring repentance",
+            a: "miracles",
+        },
+        {
+            q: "always have God's _ as your option",
+            a: "power",
+        },
+        {
+            q: "ensure _ is not absent in the place of the miraculous",
+            a: "doctrine",
+        },
+        {
+            q: "don't use _ means for the miraculous",
+            a: "unclean",
+        },
+        {
+            q: "that turning to the Lord is the _",
+            a: "teaching ministry",
+        },
+        {
+            q: "our work is simplification, _ and _",
+            a: "explanation, differentiation",
+        },
+        {
+            q: "even the true _ was not seen under the ministration of death",
+            a: "condemnation",
+        },
+        {
+            q: "if you are looking for God only in _, you will miss God a long while",
+            a: "effects",
+        },
+        {
+            q: "_ is disapproval",
+            a: "correction",
+        },
+        {
+            q: "correction is to bring you back to that _ plan",
+            a: "grand",
+        },
+        {
+            q: "correction does not mean you are _",
+            a: "rejected",
+        },
+        {
+            q: "fight _ all you want, it will prevail, it depends on when",
+            a: "Christianity",
+        },
+        {
+            q: "people deemed _ will be called holy",
+            a: "outcast",
+        },
+        {
+            q: "you can be convincesd of God's _",
             a: "mercy",
         },
         {
-            q: "The judgement that sinners will partake of is not the _ of God",
-            a: "pleasure",
+            q: "that the physical situation does not change does not counterfeit _",
+            a: "the love of God",
         },
         {
-            q: "Looking at the Bible will not just give you what to say but the _",
-            a: "how/pattern",
+            q: "God's love on you is with _",
+            a: "an oath/guarantee/assurance",
         },
         {
-            q: "There's a _ that is demanded of the mog cos he is meant to do _",
-            a: "smartness, good works",
+            q: "we focus on what God did on the _ part of man",
+            a: "unseen",
         },
         {
-            q: "The entire Bible cannot be wrong cos the book _",
-            a: "clarifies itself",
+            q: "once you hype the types and shadows, the Bible will look _ and _",
+            a: "inconsistent, falsified",
         },
         {
-            q: "The accusation is the _ of the prophets",
-            a: "inaccuracy",
+            q: "when you focus on the intention, the Bible will look as _ that it is",
+            a: "one document",
         },
         {
-            q: "_ makes bad experiences stop",
-            a: "teaching",
+            q: "to understand Jeremiah, you won't sit as a man _",
+            a: "born in the 20th century",
         },
         {
-            q: "That in Christ mindset will always put you in a position where _ are far away",
-            a: "demons",
+            q: "we have a duty of _",
+            a: "BI",
         },
         {
-            q: "_ corrects most demonic afflictions",
-            a: "teaching",
-        },
-        {
-            q: "Christ authored faith in _ and finished it in _",
-            a: "Abel, resurrection",
-        },
-        {
-            q: "There's a way the law of Moses must not be read in the _",
-            a: "church",
-        },
-        {
-            q: "You can almost take saints back to _ if you can teach them the law very well",
-            a: "Exodus 21",
-        },
-        {
-            q: "_ happens to those who believe that God loves them",
-            a: "good things",
-        },
+            q: "focus on what happens behind _",
+            a: "the vail/in the hearts of men",
+        }
     ]
 }

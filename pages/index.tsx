@@ -32,9 +32,9 @@ export default function Home() {
   function getStep() {
     switch (step) {
       case "1":
-        return <Questions data={[]} />;
+        return <Questions data={sermons} />;
       default:
-        return <Landing data={[]} />;
+        return <Landing data={sermons} />;
     }
   }
 

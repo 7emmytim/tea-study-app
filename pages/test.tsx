@@ -1,5 +1,5 @@
 import { COLORS, ICONS } from "@/constants";
-import { sermons } from "@/data";
+import { test } from "@/data";
 import {
   Button,
   Card,
@@ -32,9 +32,9 @@ export default function Home() {
   function getStep() {
     switch (step) {
       case "1":
-        return <Questions data={sermons} />;
+        return <Questions data={test} />;
       default:
-        return <Landing data={sermons} />;
+        return <Landing data={test} />;
     }
   }
 

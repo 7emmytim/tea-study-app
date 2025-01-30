@@ -6,8 +6,7 @@ import * as theology_of_selection_series1 from "./theology-of-selection-1"
 import * as theology_of_selection_series2 from "./theology-of-selection-2"
 import * as legalism from "./legalism"
 
-// import * as our_salvation_s03 from "./our-salvation-s03";
-// import * as our_salvation_s04 from "./our-salvation-s04";
+import * as the_path_of_glory from "./the-path-of-glory"
 
 export const sermons = [
     theology_of_selection_series1.part_one,
@@ -82,4 +81,15 @@ export const sermons = [
     // gods_word_gods_action_series3.part_twenty,
 ]
 
-export const test = []
+export const test = [
+    the_path_of_glory.path_of_glory_01,
+    the_path_of_glory.path_of_glory_02,
+    the_path_of_glory.path_of_glory_03,
+    the_path_of_glory.path_of_glory_04,
+    the_path_of_glory.path_of_glory_05,
+    the_path_of_glory.path_of_glory_06,
+    the_path_of_glory.path_of_glory_07,
+    the_path_of_glory.path_of_glory_08,
+    the_path_of_glory.path_of_glory_09,
+    the_path_of_glory.path_of_glory_10,
+]

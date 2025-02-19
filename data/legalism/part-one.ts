@@ -8,80 +8,172 @@ export const part_one = {
     slug: "legalism_one",
     questions: [
         {
-            q: "Jesus doesn't form _ to us",
-            a: "God",
+            q: "Unity talks about _",
+            a: "agreement",
         },
         {
-            q: "A good _ must be Godly wise",
-            a: "preacher",
+            q: "There's an agreement we must all have in the _",
+            a: "faith",
         },
         {
-            q: "Money is money cos there's a _",
-            a: "government",
+            q: "There's a complete knowledge of Christ for all men to attain to whether they are _ or not",
+            a: "believers",
         },
         {
-            q: "It is a man that submitted his _ to God's work that can further submit his _",
-            a: "heart, resources",
+            q: "It is _ that we must all believe the same thing",
+            a: "compulsory",
         },
         {
-            q: "Jesus is not interested in the _ as much as the _",
-            a: "result, pattern",
+            q: "It was a joint _ that birthed Christianity",
+            a: "belief",
         },
         {
-            q: "God's approval is a result of faith in Christ which will be found in the _ of man",
-            a: "words",
+            q: "_ must be handed down",
+            a: "Truth",
         },
         {
-            q: "We have _ and we also have stupidity",
-            a: "unbelief",
+            q: "Clarity brings _",
+            a: "certainty",
         },
         {
-            q: "To be _ about scriptures is to know that scriptures is Christocentric",
-            a: "biased",
+            q: "It is not _ to say we must all believe the same thing",
+            a: "strange",
         },
         {
-            q: "Bible is not about making _. It is about _",
-            a: "heaven, knowing Christ",
+            q: "Scriptures is a documentation of a _ belief",
+            a: "joint",
         },
         {
-            q: "You must know how to use people's _ or _ to teach them Christ",
-            a: "words, questions",
+            q: "Our _ is jointly held",
+            a: "Christianity",
         },
         {
-            q: "_ is what we must always do with the scriptures",
-            a: "doctrine",
+            q: "The pride in Christianity is the fact that you are _",
+            a: "not alone in this",
         },
         {
-            q: "Judgement has been declared on the _ of the world by the prophets",
-            a: "principles",
+            q: "It is clear that in doctrine, there is no _",
+            a: "middle ground",
         },
         {
-            q: "The judgement of God is on _ and not on _",
-            a: "sin, man",
+            q: "_ is not something that is peculiar to a particular sect",
+            a: "Legalism",
         },
         {
-            q: "Man gets judged cos of _ with sin",
-            a: "identification",
+            q: "Don't leave the truth of scriptures and be _ a person",
+            a: "attacking/confronting",
         },
         {
-            q: "Self confidence is not _",
-            a: "Bible",
+            q: "It is not _, it is about what the Bible is saying",
+            a: "I am saying",
         },
         {
-            q: "God can never lead a man into eternal _",
-            a: "irrelevance",
+            q: "_ here is not suggestions",
+            a: "Truth",
         },
         {
-            q: "The _ influence of the Holy Ghost on man is speaking about Christ",
-            a: "primary",
+            q: "Truth in the scriptures are meant to be understood and accepted _ and _",
+            a: "unconditionally, totally",
         },
         {
-            q: "To spite or disdain Gods _ is to reject life",
-            a: "anointed",
+            q: "Even the _ of big men of God must not change that truth that you have believed",
+            a: "experiences",
         },
         {
-            q: "Jesus never called himself _ cos he does not _ about himself",
-            a: "the Christ, testify",
-        }
+            q: "That truth of the scriptures is primary whether you have _ or not",
+            a: "eye witness account",
+        },
+        {
+            q: "The role of the _ is to say that this thing happened as scripture said",
+            a: "eyewitness",
+        },
+        {
+            q: "Eyewitness accounts are not independent of _, they are simply confirming the event as _",
+            a: "the scriptures, fulfilled",
+        },
+        {
+            q: "We must respect that source and that _",
+            a: "inspiration",
+        },
+        {
+            q: "we have a responsibility of _ to the scriptures",
+            a: "taking heed",
+        },
+        {
+            q: "Taking heed connotes _, _",
+            a: "reverence, carefulness",
+        },
+        {
+            q: "_ will not have the God-given effect on you if you don't understand the scriptures",
+            a: "The spectacular",
+        },
+        {
+            q: "There's a _ effect that the supernatural should have",
+            a: "God-given",
+        },
+        {
+            q: "For us to make progress in comprehension, we must honour the _",
+            a: "scriptures",
+        },
+        {
+            q: "The intention of the scripture must be fully _ and _",
+            a: "known, respected",
+        },
+        {
+            q: "There is a _ in the scriptures",
+            a: "wisdom",
+        },
+        {
+            q: "We have the scriptures to one _ alone",
+            a: "intention",
+        },
+        {
+            q: "Salvation which is the intention of scriptures _ the Bible to us",
+            a: "unlocks",
+        },
+        {
+            q: "If you want to understand the Bible you must understand _",
+            a: "salvation",
+        },
+        {
+            q: "_ means simplicity to receive the word",
+            a: "Poor in spirit",
+        },
+        {
+            q: "Meekness talks about _. A _",
+            a: "humility, mild disposition",
+        },
+        {
+            q: "You see the _ declaring his intention, _ making it plain and the _ explaining it in the epistles",
+            a: "Bible, Christ, apostles",
+        },
+        {
+            q: "After receiving the word with humility, _ should follow it",
+            a: "repentance",
+        },
+        {
+            q: "_ triggers repentance",
+            a: "The word",
+        },
+        {
+            q: "_ accompanies a sincere reception of the word",
+            a: "Repentance",
+        },
+        {
+            q: "We must see _ in your delivery",
+            a: "patience",
+        },
+        {
+            q: "You must never get to the point where you feel you have _",
+            a: "attained",
+        },
+        {
+            q: "Your _ will change men watching you",
+            a: "actions",
+        },
+        {
+            q: "_ talks about singleness of focus",
+            a: "Pure in heart",
+        },
     ]
 }

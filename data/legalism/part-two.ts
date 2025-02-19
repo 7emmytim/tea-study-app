@@ -8,108 +8,140 @@ export const part_two = {
     slug: "legalism_two",
     questions: [
         {
-            q: "You are not a stylish _",
-            a: "atheist",
+            q: "The scriptures have a specific purpose and it _ that purpose",
+            a: "tells us",
         },
         {
-            q: "A lot of people _ in church",
-            a: "lie",
+            q: "If you want to understand _, consult the scriptures",
+            a: "salvation",
         },
         {
-            q: "if we read it, we _ it",
-            a: "believe",
+            q: "The scriptures rightly interpreted is a _ to salvation through faith which is in Christ Jesus",
+            a: "guide/roadmap",
         },
         {
-            q: "Jesus is the _ of the prophets",
-            a: "Christ",
+            q: "The salvation is in _ and not in the _",
+            a: "Christ, scriptures",
         },
         {
-            q: "Jesus is the _. Christ is your  _",
-            a: "person, faith",
+            q: "The man who will understand God will see scriptures as over and above his _",
+            a: "G.O",
         },
         {
-            q: "_ is a big deal to God",
-            a: "faith",
+            q: "We are all tremble before the word than before the _",
+            a: "G.O",
         },
         {
-            q: "Being wise unto salvation is to understand the _ of Christ",
-            a: "doctrine",
+            q: "One major thing that triggers legalism is a _ desire to please God",
+            a: "deep-seated",
         },
         {
-            q: "know when not to cross the border line between _ and receiving for yourself",
-            a: "coveteousness",
+            q: "A desire to please God is _ in every man",
+            a: "ingrained",
         },
         {
-            q: "Man's _ being involved in the documentation is part of the message",
-            a: "frailty",
+            q: "Man did not create himself no matter how he much man tries to _ it",
+            a: "deny",
         },
         {
-            q: "God's inspired connotes _ and _",
-            a: "reverance, attention",
+            q: "Every man is created to give God _",
+            a: "pleasure",
         },
         {
-            q: "in our study of the Bible, there will be a _",
-            a: "singularity",
+            q: "Looking at _ alone makes you know that you have to have a purpose more than this",
+            a: "creation",
         },
         {
-            q: "documentation is a further proof of _",
-            a: "faith",
+            q: "The average man that does not want to recognise the _ over him will look or ever other thing to supress that yearning to seek God",
+            a: "lordship of God",
         },
         {
-            q: "an extra documentation is given to you for _ and not for you to _",
-            a: "certainty, disdain",
+            q: "Many persons who say there is no God, they do it cos of too much _",
+            a: "analysis",
         },
         {
-            q: "man's _ is part of God's tool to redeem man",
-            a: "frailty",
+            q: "God has the final say cos he is the _",
+            a: "creator",
         },
         {
-            q: "sin will be a rejection of the _ one",
-            a: "anointed",
+            q: "You can call the book of Ecclesiastes a _ of a man who attempts to _ that intention of God by using other tools of rebellion to fill it",
+            a: "journey, supress",
         },
         {
-            q: "_ is cos a man accepted the work of the saviour",
-            a: "righteousness",
+            q: "Ecclesiastes summarises the pathway of a man who exists _",
+            a: "only for himself",
         },
         {
-            q: "you have 4000 years of the _ of the prophets for you to be _",
-            a: "consistency, consistent",
+            q: "Desiring to please God is not a _",
+            a: "weakness",
         },
         {
-            q: "you are a servant of one that does not _",
-            a: "die",
+            q: "Thinking that pleasing God is a weakness is a _ on its own",
+            a: "deception",
         },
         {
-            q: "you are _ by an eternal being hence your labour will always be _",
-            a: "employed, remembered",
+            q: "Acknowledging a creator of creation is proof that you need to _",
+            a: "seek him",
         },
         {
-            q: "the Bible does not have a _ of those that started and gave up",
-            a: "documentation/reference",
+            q: "It is _ to make a mockery of any man who has a desire to please God",
+            a: "foolish",
         },
         {
-            q: "we must not run after the men and leave the _",
-            a: "pattern",
+            q: "Some people will carry out certain actions and conclude that it please God based on _",
+            a: "assumptions",
         },
         {
-            q: "don't start creating _ experiences from the scriptures",
-            a: "fanciful",
+            q: "Once you assume, the endpoint of that assumption is always _",
+            a: "disappointment",
         },
         {
-            q: "let the ones that submit their mind to the gospel of Christ be _ for you",
-            a: "convenient",
+            q: "God knows what he wants, don't _ for him",
+            a: "assume",
         },
         {
-            q: "let everything about your life show that you value _",
-            a: "sound doctrine",
+            q: "Best _ do not substitute God's desire",
+            a: "intentions",
         },
         {
-            q: "don't sell _ to them. Sell God to them",
-            a: "yourself",
+            q: "God will not endorse your actions cos your heart was _",
+            a: "sincere",
         },
         {
-            q: "don't compromise standard cos of _ or _",
-            a: "crowd, acceptability",
+            q: "If your action was not _ in the first place, it won't be endorsed even if you did it _",
+            a: "sanctioned, sincerely",
+        },
+        {
+            q: "Do what is _ and not what you think is needed",
+            a: "required",
+        },
+        {
+            q: "You can be sincere and still be _. You can be sincere and all your effort will be _",
+            a: "wrong, wasted",
+        },
+        {
+            q: "The man who wants to please God must not be mocked but must be _",
+            a: "pointed in the right direction",
+        },
+        {
+            q: "_ do not perfect what is lacking in the first place",
+            a: "Good intentions",
+        },
+        {
+            q: "Don't be a _ of priority error",
+            a: "victim",
+        },
+        {
+            q: "Sincertiy is still based on things that are _",
+            a: "excellent",
+        },
+        {
+            q: "God's pleasure judges my _",
+            a: "sincerity",
+        },
+        {
+            q: "I don't sacrifice God's pleasure on the altar of _",
+            a: "sincerity",
         }
     ]
 }

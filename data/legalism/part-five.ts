@@ -8,125 +8,185 @@ export const part_five = {
     slug: "legalism_five",
     questions: [
         {
-            q: "Christianity of looking for God for things, that is _",
-            a: "idolatry",
+            q: "It is not a _ to the legalist that his efforts are not accepted",
+            a: "slight",
         },
         {
-            q: "In being called a Christian, in seeking _, the first thing is to make yourself available to learn",
-            a: "first the kingdom of God",
+            q: "God has full _ of his righteousness",
+            a: "confidence",
         },
         {
-            q: "My greatest identity is my _ identity",
-            a: "spiritual",
+            q: "God brought about his righteousness by his _",
+            a: "power",
         },
         {
-            q: "We are not after _ news; we are after the _ news",
-            a: "trending, old rugged",
+            q: "When God does something by himself, the result is _",
+            a: "eternal",
         },
         {
-            q: "Faith is Christ _ and Christ _",
-            a: "believed, spoken",
+            q: "When God does something by himself, man cannot help but _ and _ that it is glorious",
+            a: "marvel, confess",
         },
         {
-            q: "Different _, different _ but same thing believed",
-            a: "ages, expression",
+            q: "It is only the _ that will not acknowledge the wonder in what God has done",
+            a: "rebellious",
         },
         {
-            q: "Your _ note must be a potential _ note",
-            a: "sermon, preaching",
+            q: "It is only the rebellious man that will not arrive at the destination of _",
+            a: "wonder",
         },
         {
-            q: "Faith received or faith rejected is the _ factor",
-            a: "hidden",
+            q: "The righteousness of God also has its _ and _",
+            a: "origin, executor",
         },
         {
-            q: "Faith is not what you develop _",
-            a: "yourself",
+            q: "The righteousness of God will only be _ by Christ and only be _ Christ",
+            a: "brought about, found in",
         },
         {
-            q: "God is responsible for what people _ and not what they _",
-            a: "said, did",
+            q: "Graven images summarise _",
+            a: "man's effort",
         },
         {
-            q: "Man's _ will now follow God's action",
-            a: "expression",
+            q: "Daniel summed up the prophecies and gave it a _",
+            a: "time frame",
         },
         {
-            q: "Faith is God's _",
-            a: "gift",
+            q: "_ did not go behind God's back",
+            a: "Jesus",
         },
         {
-            q: "_ is responsible for faith.",
+            q: "Some person made it seem like Jesus to do his own thing whereas God's own condition is _",
+            a: "still plenty",
+        },
+        {
+            q: "The issue we have is that people give sin a lot of _",
+            a: "power",
+        },
+        {
+            q: "_ cannot override what God has done",
+            a: "Sin",
+        },
+        {
+            q: "In studying Bible's concept, you must always look at it first from _ in _",
+            a: "theology, Christology",
+        },
+        {
+            q: "What we have received is as a result of God's _ and God's _",
+            a: "faithfulness, righteousness",
+        },
+        {
+            q: "We are simply _ of God's righteousness",
+            a: "beneficiaries",
+        },
+        {
+            q: "It is not the legalist's _ that his efforts are rejected",
+            a: "fault",
+        },
+        {
+            q: "The standard of God's righteousness is a righteousness without _",
+            a: "man's works",
+        },
+        {
+            q: "The scripture made it clear that the only righteousness God will accept is the one that is not _ by man's effort",
+            a: "colored",
+        },
+        {
+            q: "Man cannot on his own do anything to _ God",
+            a: "please",
+        },
+        {
+            q: "When it comes to righteousness, man has _ stake",
+            a: "zero",
+        },
+        {
+            q: "It is God's righteousness he will decide how he will _ it",
+            a: "give",
+        },
+        {
+            q: "Grace nullifies _. _ cancels out grace",
+            a: "works, works",
+        },
+        {
+            q: "I am a _ made man",
             a: "God",
         },
         {
-            q: "Many secondary _ are not God's making",
-            a: "expressions",
+            q: "If I can be righteous before God by _ then Christ wasted his time",
+            a: "any other means",
         },
         {
-            q: "The secondary expressions can be _ or _",
-            a: "good, bad",
+            q: "The day you hear that a man can be justified any other way outside Christ, throw away _",
+            a: "your Bible",
         },
         {
-            q: "What defines a secondary action as good or bad?",
-            a: "God's character",
+            q: "God's righteousness is without any of _",
+            a: "man's works",
         },
         {
-            q: "Same Jesus that justifies in the _ also justified in the _",
-            a: "NT, OT",
+            q: "_ summarises all of man's attempt to please God by his effort",
+            a: "Works of the law",
         },
         {
-            q: "God's character became _ and so man's expressions became _",
-            a: "clearer, better",
+            q: "The word _ talks about something evil, something already rejected",
+            a: "curse",
         },
         {
-            q: "We believe, we speak and then we _",
-            a: "walk in love",
+            q: "There is a _ on all of man's effort to please God",
+            a: "rejection",
         },
         {
-            q: "You are not a believer cos of the _ of faith but cos of the _ of faith",
-            a: "exploits, confession",
+            q: "What God has made available in Christ cannot be accessed by _",
+            a: "man's effort",
         },
         {
-            q: "We must exalt the _ of Christ more than the _ by Christ",
-            a: "confession, exploit",
+            q: "There's a _ attached to the works of man's effort to please God",
+            a: "ban",
         },
         {
-            q: "My _ is enough expression",
-            a: "sonship",
+            q: "the righteousness that Christ displayed is _ righteousness",
+            a: "God's",
         },
         {
-            q: "We don't hype our _ more than our Christian confession",
-            a: "experience",
+            q: "Christ came to _ God's righteousness",
+            a: "display",
         },
         {
-            q: "People have been discouraged more by _ in church more than being encouraged",
-            a: "testimonies",
+            q: "When you think trusting in Christ's righteousness is not enough, you are having that mindset that maybe God is _",
+            a: "trying to deceive us",
         },
         {
-            q: "When we exalt our testimonies more, we _ believers and _ against Christ",
-            a: "disdain, sin",
+            q: "No matter how good your _ are, God's standard is Christ",
+            a: "intentions",
         },
         {
-            q: "Sonship has to do with _",
-            a: "inheritance",
+            q: "Every person will be judged by the _ of Christ's righteousness",
+            a: "standard",
         },
         {
-            q: "Faith in Christ is our _ and from that _ we do good things",
-            a: "destination, destination",
+            q: "Anything you hold on to outside Christ, you will discover it is _",
+            a: "sinking sand",
         },
         {
-            q: "We don't _ by death; we _ by life",
-            a: "reign, reign",
+            q: "That _ is God's full assurance to man",
+            a: "resurrection",
         },
         {
-            q: "Primary in the expression of our faith, we _ and _",
-            a: "preach the gospel, get men saved",
+            q: "God has assured you of his _ and _ in the resurrection of Jesus",
+            a: "love, faithfulness",
         },
         {
-            q: "Say it until you _ that you are saying it",
-            a: "understand",
-        }
+            q: "Even the believer does not have the right to expect another form of assurance outside that _",
+            a: "resurrection",
+        },
+        {
+            q: "You cannot say God has not _ you of something",
+            a: "assured",
+        },
+        {
+            q: "Christ and _ is the standard that has been given to you",
+            a: "nothing else",
+        },
     ]
 
 }

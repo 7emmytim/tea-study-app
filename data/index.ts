@@ -9,7 +9,7 @@ import * as legalism from "./legalism"
 import * as the_path_of_glory from "./the-path-of-glory"
 
 export const sermons = [
-    theology_of_selection_series1.part_one,
+    // theology_of_selection_series1.part_one,
     // theology_of_selection_series1.part_two,
     // theology_of_selection_series1.part_three,
     // theology_of_selection_series1.part_four,
@@ -31,12 +31,12 @@ export const sermons = [
     // theology_of_selection_series2.part_six,
     // theology_of_selection_series2.part_seven,
     // theology_of_selection_series2.part_eight,
-    // legalism.part_one,
-    // legalism.part_two,
-    // legalism.part_three,
-    // legalism.part_four,
-    // legalism.part_five,
-    // legalism.part_six,
+    legalism.part_one,
+    legalism.part_two,
+    legalism.part_three,
+    legalism.part_four,
+    legalism.part_five,
+    legalism.part_six,
     // legalism.part_seven,
     // legalism.part_eight,
     // legalism.part_nine

@@ -8,209 +8,108 @@ export const part_three = {
     slug: "legalism_three",
     questions: [
         {
-            q: "God did not make a mistake picking _",
-            a: "you",
+            q: "Some people now see God as a _",
+            a: "dictator",
         },
         {
-            q: "The knowledge of God gives us _",
-            a: "responsibility",
+            q: "when it comes to God's pleasure, God is the first _",
+            a: "actor",
         },
         {
-            q: "we have a word that will end all _",
-            a: "wars",
+            q: "God did not create man to figure how we should _",
+            a: "please him",
         },
         {
-            q: "the word of God is not about to get _ cos you will preach it",
-            a: "victorious",
+            q: "God is not interested in all the thousands of _",
+            a: "sacrifices",
         },
         {
-            q: "the _ of men does not invalidate the truth of God's word",
-            a: "unbelief",
+            q: "Pleasing God is as _ by him",
+            a: "required",
         },
         {
-            q: "pick the _ of the Bible and don't shift ground",
-            a: "Christianity",
+            q: "For the legalistic man, the first question is _",
+            a: "who requested the things you are doing",
         },
         {
-            q: "don't come down to people's level. Let them come up to _ level",
-            a: "Bible's",
+            q: "What God values is man's response to his _ and _",
+            a: "words, instruction",
         },
         {
-            q: "if you compromise cos of the crowd, you will delay _ on the earth",
-            a: "Christ's victory",
+            q: "There are _ things that God requires",
+            a: "specific",
         },
         {
-            q: "we have a duty not to _",
-            a: "shift ground",
-        },
-        {
-            q: "allow _ to happen to you",
-            a: "Christianity",
-        },
-        {
-            q: "that you reject the work of ministry does not mean that the work is _",
-            a: "not valid",
-        },
-        {
-            q: "a saved man that slips into unbelief does not invalidate his _ salvation",
-            a: "eternal",
-        },
-        {
-            q: "for a believer to go to hell will be for God to _ himself",
-            a: "deny",
-        },
-        {
-            q: "actions do not _ scriptures, words do",
-            a: "interpret",
-        },
-        {
-            q: "the focus of BI must be on the _ of the prophets",
-            a: "utterances",
-        },
-        {
-            q: "there's nothing to tabernacle on in the fact that Moses _",
-            a: "put off his shoe",
-        },
-        {
-            q: "God never _ before the resurrection of Christ",
-            a: "entered his glory",
-        },
-        {
-            q: "for Jesus to enter into his glory is for God to _ man",
-            a: "dwell in",
-        },
-        {
-            q: "when you hear of the Spirit of God, it is more like a _",
-            a: "tautology",
-        },
-        {
-            q: "anything that was _ or _ before the resurrection of Christ cannot be the gospel of Christ",
-            a: "fulfilled, finalised",
-        },
-        {
-            q: "_ is the day one of God",
-            a: "resurrection",
-        },
-        {
-            q: "what we call _ is when man entered the resurrection",
-            a: "7th day",
-        },
-        {
-            q: "day 7 is not the _ of rest, it is the _ into rest",
-            a: "creation, entrace",
-        },
-        {
-            q: "we can typify day 2 to day 6 as the _ of God",
-            a: "appeal",
-        },
-        {
-            q: "things invisible can actually make you _",
-            a: "rejoice",
-        },
-        {
-            q: "_ things are tangible",
-            a: "invisible",
-        },
-        {
-            q: "what we enjoy today is the _ of Genesis to Malachi",
-            a: "content",
-        },
-        {
-            q: "the gift of the Spirit can only be a _ of saved men",
+            q: " God will show man what he wants by _",
             a: "demonstration",
         },
         {
-            q: "cos of what was prevalent in the days of the prophets, they will speak more of _ than _",
-            a: "judgement, blessedness of faith",
+            q: "God has a pleasure but he _ it first",
+            a: "pioneered",
         },
         {
-            q: "despising is the character of the _ man",
-            a: "hell-bound",
+            q: "The testimony concerning Christ is that he does _",
+            a: "God's pleasure",
         },
         {
-            q: "_ has it's own symptoms. _ also has it's own symptoms",
-            a: "faith, unbelief",
+            q: "Christ is God in the flesh doing his own _",
+            a: "pleasure",
         },
         {
-            q: "you must not see a man going to heloo and call a _",
-            a: "blessed man",
+            q: "God did his own _ through Christ",
+            a: "pleasure",
         },
         {
-            q: "you must also not see a man going to heaven and call him a _",
-            a: "cursed man",
+            q: "The _ of Christ was seen as fit to do God's pleasure",
+            a: "person",
         },
         {
-            q: "no one is blessed cos of _ in the eyes of God",
-            a: "money",
+            q: "The notion of _ is something that comes at a cost",
+            a: "sacrifice",
         },
         {
-            q: "I must sound like _, _ and _",
-            a: "Paul, Peter, James",
+            q: "The reason why the efforts will crash is cos it was not _",
+            a: "God-required",
         },
         {
-            q: "God gave us _, a man and _ in turn gave us men to explain",
-            a: "Christ, Christ",
+            q: "God put the burden of _ on himself first before telling man to _",
+            a: "pleasing, please him",
         },
         {
-            q: "the position the apostles occcupy in the _ and _ of our faith can never be replaced",
-            a: "lineage, vitality",
+            q: "Pleasing God was not meant to be a weight that _ man. It was meant to be an appreciation of God's _ and _",
+            a: "cripples, mercy, love",
         },
         {
-            q: "_ is where we honour what has been written",
-            a: "Christianity",
+            q: "Attempting to please someone who you are sure about their love for you is always a _. It will always look _",
+            a: "burden, unfair",
         },
         {
-            q: "we have _ so we are not tempted tto misinterpret Psalms for example",
-            a: "the epistles",
+            q: "Jesus gave us a standard of _",
+            a: "love",
         },
         {
-            q: "to pattern your church after _ and _ is clear rebellion to Jesus",
-            a: "business school, entertainment centres",
+            q: "In looking at God, you will see his _ and _",
+            a: "effort, love",
         },
         {
-            q: "the _ the apostles gave to wealth and material prosperity must be our _",
-            a: "volume, volume",
+            q: "This action of Christ's death is a demonstration of _",
+            a: "love",
         },
         {
-            q: "you can be very _ on earth without God",
-            a: "fantastic",
+            q: "The death of Christ is _ to man",
+            a: "an appeal",
         },
         {
-            q: "even the _ BI about material prosperity, never be found loud about it",
-            a: "correct",
+            q: "Except you are a _, this sacrifice of Christ is meant to make you pause and consider that this person loves you",
+            a: "devil",
         },
         {
-            q: "we can't serve Jesus and discard _ pattern",
-            a: "the apostolic",
+            q: "When you don't see the _, pleasing then becomes a burden",
+            a: "love",
         },
         {
-            q: "once it is not the _ of the apostles then it is false",
-            a: "religion",
+            q: "Don't be quick to mock or laugh at a _, it is born from a deep-seated _ desire",
+            a: "legalist, sincere",
         },
-        {
-            q: "it is foolish to be hugging Genesis to Malachi and reject _",
-            a: "the epistles",
-        },
-        {
-            q: "the apostles spoke about the _, _ and _ of God",
-            a: "plans, workings, pleasure",
-        },
-        {
-            q: "to have a ministry devoid of _, face the words of the apostles",
-            a: "eternal regret",
-        },
-        {
-            q: "Christianity is _ religion",
-            a: "an apostolic",
-        },
-        {
-            q: "the heart of men is one part that God cannot control like that but God can _",
-            a: "appeal",
-        },
-        {
-            q: "you cannot build the church on anything apart from _",
-            a: "Christ",
-        },
-
     ]
 }

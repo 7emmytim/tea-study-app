@@ -8,244 +8,108 @@ export const part_four = {
     slug: "legalism_four",
     questions: [
         {
-            q: "Scriptures are to instruct us in God's _",
+            q: "The man doing something so he can be _ has sent himself on his own errand",
+            a: "accepted before God",
+        },
+        {
+            q: "God's pleasure is in _ and also man wants to be _",
+            a: "righteousness, acceptable",
+        },
+        {
+            q: "Even though God wants man _, scriptures make it clear that man's _ does not please God",
+            a: "righteous, righteousness",
+        },
+        {
+            q: "If man is attempting to make his own way perfect or acceptable before God, all those efforts do not _ God",
+            a: "profit",
+        },
+        {
+            q: "God doesn't take any delight in man's _",
+            a: "effort",
+        },
+        {
+            q: "It is not the _ of man's effort that makes him acceptable before God",
+            a: "magnitude",
+        },
+        {
+            q: "No matter how huge or small it is, if the action is done based on a _ basis for acceptance, it has failed",
+            a: "self-generated",
+        },
+        {
+            q: "Cos man is not free from _ so every of his attempt cannot be acceptable",
+            a: "guilt",
+        },
+        {
+            q: "If you yourself are not _ then all of your actions cannot be _",
+            a: "acceptable, acceptable",
+        },
+        {
+            q: "man is temporary so he cannot bring about what is _ or _",
+            a: "permanent, eternal",
+        },
+        {
+            q: "Man as a person cannot be relied upon to birth something _",
+            a: "perfect",
+        },
+        {
+            q: "All of man's _ cannot help him",
+            a: "effort",
+        },
+        {
+            q: "God has judged all of man's effort for justification as _, as _",
+            a: "vain, useless",
+        },
+        {
+            q: "The best of all of man's effort will not _",
+            a: "satisfy",
+        },
+        {
+            q: "We have God's _ and God's _. We have man's _ and man's _",
+            a: "righteousness, effort, righteousness, effort",
+        },
+        {
+            q: "God wants _ for man but it will be any kind of _ but his own _",
+            a: "righteousness, righteousness, righteousness",
+        },
+        {
+            q: "_ refers to the strong willed",
+            a: "Stouthearted",
+        },
+        {
+            q: "The man who is strong willed is far from _",
             a: "righteousness",
         },
         {
-            q: "What you can use scriptures for is _ and it is not open to _",
-            a: "closed, update",
+            q: "_ is embedded in prophecy to be disclosed",
+            a: "God's righteousness",
         },
         {
-            q: "_ is God's hermeneutics",
-            a: "Nature",
+            q: "God's righteousness will _ everything on earth",
+            a: "outlive",
         },
         {
-            q: "_ is God's language",
-            a: "Nature",
+            q: "Once you say you are part of God's people, your status will be _",
+            a: "righteousness",
         },
         {
-            q: "God will not go and invent a new _",
-            a: "language",
+            q: "The beneficiaries of God's righteousness will be referred to as _",
+            a: "God's own",
         },
         {
-            q: "Therefore, God will use things that man can _ to teach man what is in the mind of God",
-            a: "see",
+            q: "One thing we must see accompanying that righteousness will be _ and _",
+            a: "gratitude, joy",
         },
         {
-            q: "_ shapes our understanding of the scripture.",
-            a: "Faith",
+            q: "If you cannot find it in your heart to always be grateful to God for justification and righteousness, it means your efforts are _",
+            a: "overwhelming you",
         },
         {
-            q: "Faith is not only for entering _",
-            a: "heaven",
+            q: "If you are in God's righteousness, we will see joy but if you are in yours, there might be _, _ or _",
+            a: "sorrow, weariness, heaviness",
         },
         {
-            q: "It takes _ to understand the Bible",
-            a: "faith",
-        },
-        {
-            q: "To know God takes _",
-            a: "faith",
-        },
-        {
-            q: "When the unbeliever is reading _ in the Bible, the believer sees _",
-            a: "things, spiritual realities",
-        },
-        {
-            q: "The natural man will see _ and ask for more _",
-            a: "bread, bread",
-        },
-        {
-            q: "_ will read and see the bread as a tool of communication to value God's word",
-            a: "The spiritual man",
-        },
-        {
-            q: "Spiritual realities are _ to me",
-            a: "tangible",
-        },
-        {
-            q: "When you look to the word and see _, you see the union of God and man",
-            a: "marriage",
-        },
-        {
-            q: "We can't say God is the one joining _ together also",
-            a: "the unbelievers",
-        },
-        {
-            q: "Focus on the message and not the _",
-            a: "action",
-        },
-        {
-            q: "The primary result of walking with God is _ and not _",
-            a: "faith, things",
-        },
-        {
-            q: "In the _ of God, faith is primarily revealed in what you say",
-            a: "ordination",
-        },
-        {
-            q: "The first activity of Adam was to _ in Genesis 2",
-            a: "speak",
-        },
-        {
-            q: "Secondarily, there may be victory over issues, deliverances, exploits but the primary is to _",
-            a: "confess correctly",
-        },
-        {
-            q: "_ does not connote faithlessness",
-            a: "Challenges of life",
-        },
-        {
-            q: "Faith may still be present despite physical _ or _",
-            a: "afflictions, persecutions",
-        },
-        {
-            q: "Earthly victory is not the _ proof of faith",
-            a: "only",
-        },
-        {
-            q: "Stop using _ time in church to know the best of believers",
-            a: "testimony",
-        },
-        {
-            q: "Find God in what people say about _",
-            a: "Christ's suffering and his glory",
-        },
-        {
-            q: "Experiences can _ you",
-            a: "deceive",
-        },
-        {
-            q: "As Christians and as preachers, we must be careful of what we call _",
-            a: "results",
-        },
-        {
-            q: "The result of ministry are most times not in _ that we can see but in _",
-            a: "things, people's confessions",
-        },
-        {
-            q: "We witness by _",
-            a: "words",
-        },
-        {
-            q: "Focus on what is _ and not on the things used to describe what is _",
-            a: "said, said",
-        },
-        {
-            q: "All the wars that _ fought is not your focus",
-            a: "David",
-        },
-        {
-            q: "What best can a man do with what he is hoping for?",
-            a: "speak about it",
-        },
-        {
-            q: "BI is a _ business",
-            a: "serious",
-        },
-        {
-            q: "Those _ things are framed cos of God's words in their mouths",
-            a: "vivid",
-        },
-        {
-            q: "The _ things you saw are framed by the _ which is faith",
-            a: "secondary, primary",
-        },
-        {
-            q: "Man frames the _ cos of the _ which is faith",
-            a: "secondary, primary",
-        },
-        {
-            q: "_ comes before pleasing God",
-            a: "Faith",
-        },
-        {
-            q: "_ equals pleasing God",
-            a: "Faith",
-        },
-        {
-            q: "Faith may not be _",
-            a: "obvious",
-        },
-        {
-            q: "If I claim to be a child of _ today then my gaze cannot be on the physical",
-            a: "Abraham",
-        },
-        {
-            q: "The greatest _ is as touching Christ",
-            a: "confession",
-        },
-        {
-            q: "Even when their _ was not yet perfect, faith was present",
-            a: "confession",
-        },
-        {
-            q: "Who tried Abraham?",
-            a: "the expression of his faith",
-        },
-        {
-            q: "The experience of _ in the mind of Abraham came before the experience of _",
-            a: "Christ, Isaac",
-        },
-        {
-            q: "_ was used to demonstrate the experience of _ in the mind of Abraham",
-            a: "Isaac, Christ",
-        },
-        {
-            q: "Christ is not a figure of _",
-            a: "Isaac",
-        },
-        {
-            q: "_ was used to demonstrate what Abraham had believed",
-            a: "Isaac",
-        },
-        {
-            q: "You cannot use _ to judge whether AB is righteous or not",
-            a: "the birth of Isaac",
-        },
-        {
-            q: "AB had Isaac not cos he had faith but cos he was not _ in faith he already received",
-            a: "weak",
-        },
-        {
-            q: "You can have faith and be _ in faith",
-            a: "weak",
-        },
-        {
-            q: "Those who go for _ service are never delivered",
-            a: "deliverance",
-        },
-        {
-            q: "_ is not casting out of demons",
-            a: "Deliverance",
-        },
-        {
-            q: "Prophets get better by _",
-            a: "speaking",
-        },
-        {
-            q: "Once a _, forever a _",
-            a: "believer, believer",
-        },
-        {
-            q: "A _ is one that holds on to the end",
-            a: "believer",
-        },
-        {
-            q: "We have peace with God cos of faith and not cos of _",
-            a: "spiritual growth",
-        },
-        {
-            q: "God is found in right _",
-            a: "speaking",
-        },
-        {
-            q: "A believer is never caught being _",
-            a: "moody",
-        },
-        {
-            q: "Words of _ are easier to sip in when confession of Christ is _",
-            a: "healings, constant",
+            q: "The legalist will be _ in an endless cycle of his own effort for justification and there will no _ or _ cos the God you want to please has his own righteousness",
+            a: "trapped, assurance, satisfaction",
         },
     ]
 }

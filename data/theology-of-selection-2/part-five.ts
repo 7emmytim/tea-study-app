@@ -8,125 +8,105 @@ export const part_five = {
     slug: "theology_of_selection_series2_five",
     questions: [
         {
-            q: "Christianity of looking for God for things, that is _",
-            a: "idolatry",
+            q: "Peter used _ to describe anything man-related",
+            a: "corruptible things",
         },
         {
-            q: "In being called a Christian, in seeking _, the first thing is to make yourself available to learn",
-            a: "first the kingdom of God",
+            q: "Whatever is of man has no eternal value therefore it is _",
+            a: "corruptible",
         },
         {
-            q: "My greatest identity is my _ identity",
-            a: "spiritual",
+            q: "all _ will never be the basis for man to be separate from God",
+            a: "moral sins",
         },
         {
-            q: "We are not after _ news; we are after the _ news",
-            a: "trending, old rugged",
+            q: "_ has made man unable to boast in that he did not contribute anything to his atonement",
+            a: "Faith",
         },
         {
-            q: "Faith is Christ _ and Christ _",
-            a: "believed, spoken",
+            q: "a man cannot _ himself to be a priest or _ himself into that office",
+            a: "ordain, consecrate",
         },
         {
-            q: "Different _, different _ but same thing believed",
-            a: "ages, expression",
+            q: "God was self _ in his desire to reconcile man",
+            a: "motivated",
         },
         {
-            q: "Your _ note must be a potential _ note",
-            a: "sermon, preaching",
+            q: "in God's dealing with man is man's _",
+            a: "choice",
         },
         {
-            q: "Faith received or faith rejected is the _ factor",
-            a: "hidden",
+            q: "The name of Jeus is the authority _ based on the death, burial and resurrection of Jesus",
+            a: "accrued",
         },
         {
-            q: "Faith is not what you develop _",
-            a: "yourself",
+            q: "The death of Christ is _ display of assurance to man",
+            a: "an emphatic",
         },
         {
-            q: "God is responsible for what people _ and not what they _",
-            a: "said, did",
+            q: "Assuming man's choice is not involved, there would not have been a need for _",
+            a: "an appeal",
         },
         {
-            q: "Man's _ will now follow God's action",
-            a: "expression",
+            q: "That appeal is a _ of the will of man",
+            a: "recognition",
         },
         {
-            q: "Faith is God's _",
-            a: "gift",
+            q: "There is _ when a man exercises his choice in the direction of God.",
+            a: "joy",
         },
         {
-            q: "_ is responsible for faith.",
-            a: "God",
+            q: "So when you talk about _ in any way, you have shifted the blame to God",
+            a: "limited atonement",
         },
         {
-            q: "Many secondary _ are not God's making",
-            a: "expressions",
+            q: "Once you have the Spirit of God in you, you are excluded from _",
+            a: "death",
         },
         {
-            q: "The secondary expressions can be _ or _",
-            a: "good, bad",
+            q: "No man has no excuse to _",
+            a: "die",
         },
         {
-            q: "What defines a secondary action as good or bad?",
-            a: "God's character",
+            q: "The problem cannot be _ cos there's strength supplied by the Spirit within",
+            a: "lack of ability",
         },
         {
-            q: "Same Jesus that justifies in the _ also justified in the _",
-            a: "NT, OT",
+            q: "Every excuse man can think about to die, God is _",
+            a: "steps ahead",
         },
         {
-            q: "God's character became _ and so man's expressions became _",
-            a: "clearer, better",
+            q: "God can better provide cos he _ the need of man",
+            a: "preempts",
         },
         {
-            q: "We believe, we speak and then we _",
-            a: "walk in love",
+            q: "When you understand that Christ is that atonement, once you add limited to it, it is a _ to it",
+            a: "disdain",
         },
         {
-            q: "You are not a believer cos of the _ of faith but cos of the _ of faith",
-            a: "exploits, confession",
+            q: "If you ever doubt God's love, see _",
+            a: "Jesus",
         },
         {
-            q: "We must exalt the _ of Christ more than the _ by Christ",
-            a: "confession, exploit",
+            q: "The atonement even covers for your _",
+            a: "misbehaviour",
         },
         {
-            q: "My _ is enough expression",
-            a: "sonship",
+            q: "God has preempted every single thing and he gave a _ solution which is not limited",
+            a: "once and for all",
         },
         {
-            q: "We don't hype our _ more than our Christian confession",
-            a: "experience",
+            q: "The one who has no _ is exalted in us",
+            a: "limitation",
         },
         {
-            q: "People have been discouraged more by _ in church more than being encouraged",
-            a: "testimonies",
+            q: "Your reality must not be _. You are in so much _ to what God has done",
+            a: "farfetched, close proximity",
         },
         {
-            q: "When we exalt our testimonies more, we _ believers and _ against Christ",
-            a: "disdain, sin",
+            q: "God is too big for you to _",
+            a: "ignore",
         },
-        {
-            q: "Sonship has to do with _",
-            a: "inheritance",
-        },
-        {
-            q: "Faith in Christ is our _ and from that _ we do good things",
-            a: "destination, destination",
-        },
-        {
-            q: "We don't _ by death; we _ by life",
-            a: "reign, reign",
-        },
-        {
-            q: "Primary in the expression of our faith, we _ and _",
-            a: "preach the gospel, get men saved",
-        },
-        {
-            q: "Say it until you _ that you are saying it",
-            a: "understand",
-        }
     ]
 
 }

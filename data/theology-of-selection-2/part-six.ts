@@ -8,8 +8,8 @@ export const part_six = {
     slug: "theology_of_selection_series2_six",
     questions: [
         {
-            q: "_ must be deliberate",
-            a: "honour",
+            q: "If it is as touching salvation, what we get is _ cos that is how God has purchased it",
+            a: "full",
         },
         {
             q: "don't allow _ to jump on you",

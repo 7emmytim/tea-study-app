@@ -8,317 +8,128 @@ export const part_seven = {
     slug: "legalism_seven",
     questions: [
         {
-            q: "You are not a believer cos of the _ of faith but cos of the _ of faith",
-            a: "exploits, confession",
-        },
-        {
-            q: "We must exalt the _ of Christ more than the _ by Christ",
-            a: "confession, exploit",
-        },
-        {
-            q: "My _ is enough expression",
-            a: "sonship",
-        },
-        {
-            q: "We don't hype our _ more than our Christian confession",
-            a: "experience",
-        },
-        {
-            q: "People have been discouraged more by _ in church more than being encouraged",
-            a: "testimonies",
-        },
-        {
-            q: "When we exalt our testimonies more, we _ believers and _ against Christ",
-            a: "disdain, sin",
-        },
-        {
-            q: "Sonship has to do with _",
-            a: "inheritance",
-        },
-        {
-            q: "Faith in Christ is our _ and from that _ we do good things",
-            a: "destination, destination",
-        },
-        {
-            q: "We don't _ by death; we _ by life",
-            a: "reign, reign",
-        },
-        {
-            q: "Primary in the expression of our faith, we _ and _",
-            a: "preach the gospel, get men saved",
-        },
-        {
-            q: "Say it until you _ that you are saying it",
-            a: "understand",
-        },
-        {
-            q: "_ must be deliberate",
-            a: "honour",
-        },
-        {
-            q: "don't allow _ to jump on you",
-            a: "honour",
-        },
-        {
-            q: "honour is your _ culture",
-            a: "default",
-        },
-        {
-            q: "that you are a believer does not mean _ won't come",
-            a: "pressures",
-        },
-        {
-            q: "God's _ is that you fill your mind with God's word day and night",
-            a: "recommendation",
-        },
-        {
-            q: "that you are done with training does not mean you are done with _",
-            a: "learning",
-        },
-        {
-            q: "my _ carries a loud confession/volume",
-            a: "Christian confession",
-        },
-        {
-            q: "Abraham did not boast about _ but that he saw Christ",
-            a: "cattles",
-        },
-        {
-            q: "Abraham's blessing is not for _ time",
-            a: "offering",
-        },
-        {
-            q: "taking offering with Abraham's blessing is bad _",
-            a: "BI",
-        },
-        {
-            q: "Abraham was _ before he believed the gospel",
-            a: "rich",
-        },
-        {
-            q: "_ is to teach you to think differently",
-            a: "the church",
-        },
-        {
-            q: "_ in the Bible is not _ in Nigerian movie",
-            a: "end, end",
-        },
-        {
-            q: "end will mean _ in the Bible",
-            a: "intent",
-        },
-        {
-            q: "the man that must hold fast unto the intent is the _ man",
-            a: "unsaved",
-        },
-        {
-            q: "how do I know what God is doing?",
-            a: "look at what he has done",
-        },
-        {
-            q: "in maturing up, you will know that every _ belongs to the Lord",
-            a: "day",
-        },
-        {
-            q: "don't act _ about your reality",
-            a: "matured",
-        },
-        {
-            q: "don't have a _ day",
-            a: "quiet",
-        },
-        {
-            q: "in Bible study, we focus on _ and _",
-            a: "words, it's implication",
-        },
-        {
-            q: "all the drama in the temples was not _",
-            a: "necessary",
-        },
-        {
-            q: "If it is faith that saves today, it was also faith that _ in the OT",
-            a: "justified",
-        },
-        {
-            q: "to eat the TOKOG is to agree with _ against _",
-            a: "the flesh, the spirit",
-        },
-        {
-            q: "faith is not in eating and drinking, it is in words _ and words _",
-            a: "heard, spoken",
-        },
-        {
-            q: "_ will agree both with the content of the scriptures and the promptings of God in your heart",
-            a: "Christ hermeneutics",
-        },
-        {
-            q: "revelation belongs to _ men",
-            a: "saved",
-        },
-        {
-            q: "the unveiling of the OT prophecies is called _",
-            a: "salvation",
-        },
-        {
-            q: "salvation is called _ revelation",
-            a: "full",
-        },
-        {
-            q: "to promise a man money for his faith, you gave him _",
-            a: "false hope",
-        },
-        {
-            q: "_ for a believer is sacred",
-            a: "learning",
-        },
-        {
-            q: "_ for the believer is urgent",
-            a: "learning",
-        },
-        {
-            q: "ensure you are not convenient with a _ man in ignorance",
-            a: "saved",
-        },
-        {
-            q: "we are called believers cos we value _",
-            a: "words",
-        },
-        {
-            q: "the church of God moves forward cos men value _",
-            a: "words",
-        },
-        {
-            q: "_ are meant to back up the word",
-            a: "miracles",
-        },
-        {
-            q: "the word is not meant to back up _",
-            a: "miracles",
-        },
-        {
-            q: "God never _ anyone for not offering enough animals",
-            a: "judged",
-        },
-        {
-            q: "how do you sin against knowledge?",
-            a: "to refuse it",
-        },
-        {
-            q: "over 3 million people were destroyed cos of wrong _",
-            a: "words",
-        },
-        {
-            q: "the only response to God's word that God wants is _",
+            q: "Another thing you need to explain to the man looking for assurance is that _ is required",
             a: "faith",
         },
         {
-            q: "faith will birth actions but those actions are the _ of faith",
-            a: "works",
+            q: "God determined that it will be by _ even before man came on the scene",
+            a: "faith",
         },
         {
-            q: "sin was first a _ before a _",
-            a: "verb, noun",
+            q: "Legalism is a summary of every of _ to be accepted before God",
+            a: "man's effort",
         },
         {
-            q: "_ always comes before _ in the Bible",
-            a: "verb, noun",
+            q: "For the singular _ of believing, a man receives all that Christ has done",
+            a: "price",
         },
         {
-            q: "the _ action of sin is what makes the Bible call some people sinners",
-            a: "repetitive",
+            q: "In the gospel, we see God's righteousness _",
+            a: "explained",
         },
         {
-            q: "if it is sure that man will receive then it won't be called God's _, it will be called God's _",
-            a: "promise, deed",
+            q: "The _ tells us how God's righteousness can be accepted",
+            a: "gospel",
         },
         {
-            q: "in the Bible, the word promise is as touching _",
-            a: "salvation",
+            q: "The righteousness of God does not have a place for _",
+            a: "man's effort",
         },
         {
-            q: "it is wrong Christian _ to say that God promised me a car",
-            a: "theology",
+            q: "In the sight of God, there is _ justification or acceptance by obeying rules",
+            a: "zero",
         },
         {
-            q: "Isaac was the _ of communication. Christ wwas the _ of communication",
-            a: "tool, intention",
+            q: "Once you are trying to come before God by self-effort, there is a stamp on _ that you have come short",
+            a: "your head",
         },
         {
-            q: "we don't call things we have in _ plural",
-            a: "Christ",
+            q: "God's _ for the man in Christ is righteousness",
+            a: "conclusion",
         },
         {
-            q: "God is acting alone in _",
-            a: "salvation",
+            q: "The law's _ is that you have come short",
+            a: "conclusion",
         },
         {
-            q: "promise is simply God's _ to man",
-            a: "committment",
+            q: "AB set a precedence to show that we don't need physical _ for acceptance",
+            a: "circumcision",
         },
         {
-            q: "God's promise to man is the same as his _ for man",
+            q: "It is impossible for any man to gain acceptance by efforts cos faith is _",
+            a: "superior",
+        },
+        {
+            q: "What we find in God is _ and we can only access it by _ in Christ and the result is _",
+            a: "grace, faith, peace",
+        },
+        {
+            q: "Christ is the one who _ all efforts of man to please God",
+            a: "nullifies",
+        },
+        {
+            q: "Christ is the _ for every attempt of man to please God",
+            a: "boundary",
+        },
+        {
+            q: "In the righteousness of _, you will be the one doing",
+            a: "the law",
+        },
+        {
+            q: "The righteousness that is by _ already has things been done",
+            a: "faith",
+        },
+        {
+            q: "One thing we will see in GR is that the basis for acceptance will be _",
+            a: "uniform",
+        },
+        {
+            q: "The promise that was made to AB is the same as the _ of God",
             a: "intention",
         },
         {
-            q: "it looks futuristic cos the will of God equals God's _ plus man's _",
-            a: "faithfulness, acceptance",
+            q: "When faith shows up, everything else becomes _",
+            a: "unnecessary",
         },
         {
-            q: "_ may mirror how God saves but utterance and documentation does not call _ a promise of God",
-            a: "healings, healings",
+            q: "Every of man's effort for justification is called _",
+            a: "rebellion",
         },
         {
-            q: "when I hear _ in the Bible, my mind should go to salvation by default",
-            a: "promise",
+            q: "Faith is what makes the _ of the message yours",
+            a: "benefit",
         },
         {
-            q: "we use Bible _ the Bible _",
-            a: "words, way",
+            q: "We don't take lightly any attempt for persons giving _ to the message",
+            a: "alternative",
         },
         {
-            q: "Jesus is righteous cos he _. We are righteous ccos we were _",
-            a: "knew no sin, declared right",
+            q: "The believer should be in full _ and _ and not agitations",
+            a: "rest, confidence",
         },
         {
-            q: "you don't sing without _",
-            a: "explaining",
+            q: "_ and _ cannot exist together at the same time",
+            a: "Rest, works",
         },
         {
-            q: "God is holy alone in _",
-            a: "incarnation/saving us",
+            q: "_ is a big deal",
+            a: "Faith",
         },
         {
-            q: "to make a song _ you must make it thorough",
-            a: "universal",
+            q: "The believer must never _ faith or believing",
+            a: "ridicule",
         },
         {
-            q: "as you sing about your righteousness also talk about the _",
-            a: "source",
+            q: "Faith in Christ is not _; it is not little",
+            a: "baseless",
         },
         {
-            q: "_ in the NT is one that puts a higher priority on anything above Christ",
-            a: "an idol worshipper",
+            q: "You must never be found speaking _ of faith",
+            a: "little",
         },
         {
-            q: "salvation in the Bible is the work of a _",
-            a: "saviour",
+            q: "If you value _, you must value faith",
+            a: "the gospel",
         },
-        {
-            q: "it is more about the _ and less of the rescued/recipient",
-            a: "saviour",
-        },
-        {
-            q: "the _ in God's promise is man",
-            a: "probability/delay factor",
-        },
-        {
-            q: "God is holy alone in _",
-            a: "incarnation/saving us",
-        },
-        {
-            q: "God does not prepare to _ man. God is ready to _ man",
-            a: "save, save",
-        },
-
     ]
 }

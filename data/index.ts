@@ -37,9 +37,9 @@ export const sermons = [
     legalism.part_four,
     legalism.part_five,
     legalism.part_six,
-    // legalism.part_seven,
-    // legalism.part_eight,
-    // legalism.part_nine
+    legalism.part_seven,
+    legalism.part_eight,
+    legalism.part_nine
 
     //*********** */
 

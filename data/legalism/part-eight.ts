@@ -8,148 +8,112 @@ export const part_eight = {
     slug: "legalism_eight",
     questions: [
         {
-            q: "God will _ men and men will speak words",
-            a: "save",
+            q: "The Bible is a _ document.",
+            a: "sacred",
         },
         {
-            q: "the prophets will _ by speaking",
-            a: "search",
+            q: "The primary reason for the Bible's _ is that it is not a man's cooked up fantasy",
+            a: "sacredness",
         },
         {
-            q: "prophets will learn the truth by preaching all the _ data before them",
-            a: "raw",
+            q: "Cos the Bible is a document of God's _; we must take care to see what God is saying",
+            a: "fixed intentionc",
         },
         {
-            q: "God will judge man for not believing those _ utterances about Christ",
-            a: "imperfect",
+            q: "without proper _, the Bible will lose its sacredness to men",
+            a: "BI",
         },
         {
-            q: "if Jesus came outside the _ of men then we can say he is not our Jesus, we can doubt his _, _ _ and _",
-            a: "utterances, origin, purpose, mission, love",
+            q: "Understanding improves, clarity happens but the _ always remains the same",
+            a: "meaning",
         },
         {
-            q: "God will not train _ in the blues and make them say right things",
-            a: "angels",
+            q: "It is clear that in the _ of Jesus, he utilises the use of parables in teaching",
+            a: "Teaching Ministry",
         },
         {
-            q: "good Christian conduct is impossible without the knowledge of _",
-            a: "God's character",
+            q: "For every sane person, you will know that _ are not things you take literally",
+            a: "figures of speech",
         },
         {
-            q: "Good Christian conduct is not cos you really understand _ but cos you understand _",
-            a: "salvation, God's character",
+            q: "Parables are to be _ and _",
+            a: "explained, understood",
         },
         {
-            q: "knowing God accurately is difficult outside the new _",
-            a: "birth",
+            q: "Speaking in parables is a form of _",
+            a: "mercy",
         },
         {
-            q: "the prophets we have in the OT are like _ believers",
-            a: "carnal",
+            q: "All of man's attempt to find God outside Christ is _",
+            a: "labour",
         },
         {
-            q: "One big thing that was absetn in the prophets was a full conviction of _",
-            a: "God's character",
+            q: "Narrow is the way is actually mercy and not a reason for _ for man",
+            a: "fear",
         },
         {
-            q: "the new birth births in us _",
-            a: "constancy",
+            q: "Drawing back is an attempt to find _ outside faith in Christ",
+            a: "life",
         },
         {
-            q: "if you are fully convinced of God's character, your _ and _ will not negate God's character",
-            a: "words, actions",
+            q: "The sin that easily beset and weight will be the _ to reject faith in Christ",
+            a: "temptation",
         },
         {
-            q: "Sodom and Gomorrah was used by a man as a _ of unbelief",
-            a: "specimen",
+            q: "Don't blame the legalist if you are also showing laziness in not _",
+            a: "reading",
         },
         {
-            q: "God's judgement does not incure any _ action against you",
-            a: "physical",
+            q: "The _ of our faith will be validated by other men cos of what we do",
+            a: "effectiveness",
         },
         {
-            q: "most of the prophets in the OT implied that God is a _ through their actions",
-            a: "sinner",
+            q: "Faith happens in the heart but the _ are seen by men",
+            a: "motions",
         },
         {
-            q: "the Father in heaven has never _ an assasination before",
-            a: "sanctioned",
+            q: "If a man does not draw this distinction that there is darkness outside God, it means he is either a _ or _",
+            a: "universalist, atheist",
         },
         {
-            q: "in the OT, they acted the Father they _ but right now we act the Father that _",
-            a: "heard of, lives in us",
+            q: "the action of the _ has the same consequence as that of the devil",
+            a: "false teacher",
         },
         {
-            q: "At times the prophets spoke about God but their _ were contrary",
-            a: "actions",
+            q: "False teachers are treated as _ in the Bible",
+            a: "the devil",
         },
         {
-            q: "At times a good _ can become the basis for a wrong _",
-            a: "utterance, action",
+            q: "We don't _ anyone who tries to give men an alternative to faith in Christ",
+            a: "pamper",
         },
         {
-            q: "you will find God in their words properly _",
-            a: "interpreted",
+            q: "We don't pamper false doctrine and we don't pamper _",
+            a: "the false teacher",
         },
         {
-            q: "what AB depicted on mount Moriah is _",
-            a: "human sacrifice",
+            q: "Attempting to give men other options outside Christ is to _ God",
+            a: "tempt",
         },
         {
-            q: "a worse action can come from a good _",
-            a: "intention",
+            q: "The preacher is to bring _ and _ cos God doesn't want to leave the sincere man helpless",
+            a: "truth, clarity",
         },
         {
-            q: "you can use the _ to understand what is happening in the _",
-            a: "NT, OT",
+            q: "The NT minister has a responsibility to bring _",
+            a: "clarity",
         },
         {
-            q: "the _ of God shapes our BI",
-            a: "character",
+            q: "There is no _ in putting burden on people",
+            a: "joy",
         },
         {
-            q: "once you are _, you cease serving God",
-            a: "angry",
+            q: "As a NT minister, your hallmark is _",
+            a: "great plainness of speech",
         },
         {
-            q: "_ and _ is what God has sworn to put out from under heaven",
-            a: "sin, death",
-        },
-        {
-            q: "when you hear God's word, think _",
-            a: "spiritual",
-        },
-        {
-            q: "We have a weapon mightier than _",
-            a: "swords",
-        },
-        {
-            q: "the armour of God in _ is the armour of God in _",
-            a: "the NT, the OT",
-        },
-        {
-            q: "the battles of God are to be fought with _",
-            a: "words",
-        },
-        {
-            q: "our major element in the NT ministry is _",
-            a: "patience",
-        },
-        {
-            q: "at times you want to correct people and you are already _",
-            a: "angry",
-        },
-        {
-            q: "I don't have the power to bring _ to my neighbour",
-            a: "disaster",
-        },
-        {
-            q: "learn very well before you make a _ of God's character in your attempt to do God's will",
-            a: "facebook post/false conclusion",
-        },
-        {
-            q: "you don't allow the response of people to lure you to _",
-            a: "anger",
+            q: "Any man who gives men an alternative contrary to faith in Christ is _",
+            a: "false",
         },
     ]
 }

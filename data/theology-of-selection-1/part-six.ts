@@ -8,132 +8,68 @@ export const part_six = {
     slug: "theology_of_selection_series1_six",
     questions: [
         {
-            q: "_ must be deliberate",
-            a: "honour",
+            q: "Salvation is _ testimony in the scriptures",
+            a: "an overwhelming",
         },
         {
-            q: "don't allow _ to jump on you",
-            a: "honour",
-        },
-        {
-            q: "honour is your _ culture",
-            a: "default",
-        },
-        {
-            q: "that you are a believer does not mean _ won't come",
-            a: "pressures",
-        },
-        {
-            q: "God's _ is that you fill your mind with God's word day and night",
-            a: "recommendation",
-        },
-        {
-            q: "that you are done with training does not mean you are done with _",
-            a: "learning",
-        },
-        {
-            q: "my _ carries a loud confession/volume",
-            a: "Christian confession",
-        },
-        {
-            q: "Abraham did not boast about _ but that he saw Christ",
-            a: "cattles",
-        },
-        {
-            q: "Abraham's blessing is not for _ time",
-            a: "offering",
-        },
-        {
-            q: "taking offering with Abraham's blessing is bad _",
-            a: "BI",
-        },
-        {
-            q: "Abraham was _ before he believed the gospel",
-            a: "rich",
-        },
-        {
-            q: "_ is to teach you to think differently",
-            a: "the church",
-        },
-        {
-            q: "_ in the Bible is not _ in Nigerian movie",
-            a: "end, end",
-        },
-        {
-            q: "end will mean _ in the Bible",
-            a: "intent",
-        },
-        {
-            q: "the man that must hold fast unto the intent is the _ man",
-            a: "unsaved",
-        },
-        {
-            q: "how do I know what God is doing?",
-            a: "look at what he has done",
-        },
-        {
-            q: "in maturing up, you will know that every _ belongs to the Lord",
-            a: "day",
-        },
-        {
-            q: "don't act _ about your reality",
-            a: "matured",
-        },
-        {
-            q: "don't have a _ day",
-            a: "quiet",
-        },
-        {
-            q: "in Bible study, we focus on _ and _",
-            a: "words, it's implication",
-        },
-        {
-            q: "all the drama in the temples was not _",
-            a: "necessary",
-        },
-        {
-            q: "If it is faith that saves today, it was also faith that _ in the OT",
-            a: "justified",
-        },
-        {
-            q: "to eat the TOKOG is to agree with _ against _",
-            a: "the flesh, the spirit",
-        },
-        {
-            q: "faith is not in eating and drinking, it is in words _ and words _",
-            a: "heard, spoken",
-        },
-        {
-            q: "_ will agree both with the content of the scriptures and the promptings of God in your heart",
-            a: "Christ hermeneutics",
-        },
-        {
-            q: "revelation belongs to _ men",
-            a: "saved",
-        },
-        {
-            q: "the unveiling of the OT prophecies is called _",
+            q: "Understanding the Bible is that you can thoroughly explain what _ is from the Bible",
             a: "salvation",
         },
         {
-            q: "salvation is called _ revelation",
-            a: "full",
+            q: "_ is a fundamental part of who God is to the extent that a wrong knowledge of _ affects your knowledge of God",
+            a: "Salvation, salvation",
         },
         {
-            q: "to promise a man money for his faith, you gave him _",
-            a: "false hope",
+            q: "Salvation in the Hebrew is _",
+            a: "Yeshua",
         },
         {
-            q: "_ for a believer is sacred",
-            a: "learning",
+            q: "Salvation in the context of the scriptures is _",
+            a: "specific",
         },
         {
-            q: "_ for the believer is urgent",
-            a: "learning",
+            q: "By God's display of strength, _ will be made possible",
+            a: "salvation",
         },
         {
-            q: "ensure you are not convenient with a _ man in ignorance",
-            a: "saved",
-        }
+            q: "God's path is _. Every other thing outside is _ vanity",
+            a: "salvation, lying",
+        },
+        {
+            q: "_ in salvation is tied to who is doing it",
+            a: "Confidence",
+        },
+        {
+            q: "Having God's _ is tied to what he will do in salvation",
+            a: "name",
+        },
+        {
+            q: "What God will do in saving his people is a measure of his _ and _",
+            a: "beauty, goodness",
+        },
+        {
+            q: "What God will do will guarantee the participants _",
+            a: "rejoicing",
+        },
+        {
+            q: "And it was done by God. Because of how _ salvation is, God did not leave it to be done by any man but by himself",
+            a: "delicate",
+        },
+        {
+            q: "Another thing you can call salvation is _",
+            a: "the sufferings and glory that should follow",
+        },
+        {
+            q: "Salvation was too _ for him to leave in the hands of any man",
+            a: "integral",
+        },
+        {
+            q: "The Bible is not a _ of all knowledge",
+            a: "reservoir",
+        },
+        {
+            q: "Since it is God's salvation, if we say we honour him and appreciate what he did then what he said and did in salvation must be _",
+            a: "final authority",
+        },
     ]
 }

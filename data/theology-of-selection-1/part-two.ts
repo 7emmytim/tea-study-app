@@ -8,108 +8,124 @@ export const part_two = {
     slug: "theology_of_selection_series1_two",
     questions: [
         {
-            q: "You are not a stylish _",
-            a: "atheist",
+            q: "The same salvation that the prophets spoke about is the same that _",
+            a: "we have",
         },
         {
-            q: "A lot of people _ in church",
-            a: "lie",
+            q: "The defence of the faith has been committed to every _",
+            a: "believer",
         },
         {
-            q: "if we read it, we _ it",
-            a: "believe",
+            q: "Both _ and _, we all meant to defer to this faith",
+            a: "saved, unsaved",
         },
         {
-            q: "Jesus is the _ of the prophets",
-            a: "Christ",
+            q: "We have _ cos there's only one knowledge of Christ to be received in scriptures",
+            a: "BDW",
         },
         {
-            q: "Jesus is the _. Christ is your  _",
-            a: "person, faith",
+            q: "Persons saved can sometimes adopt the tag of a _ man cos of unwillingness to accept that _ knowledge",
+            a: "rebellious, common",
         },
         {
-            q: "_ is a big deal to God",
-            a: "faith",
+            q: "You have no control over _ getting worse",
+            a: "evil doers",
         },
         {
-            q: "Being wise unto salvation is to understand the _ of Christ",
-            a: "doctrine",
+            q: "Your own duty is to continue in what you have learnt cos that's where your _ is",
+            a: "stability",
         },
         {
-            q: "know when not to cross the border line between _ and receiving for yourself",
-            a: "coveteousness",
+            q: "If you don't focus on learning, you will also become like those getting _",
+            a: "worse",
         },
         {
-            q: "Man's _ being involved in the documentation is part of the message",
-            a: "frailty",
+            q: "Your learning must be traceable to _ and the _",
+            a: "sound teachers, scriptures",
         },
         {
-            q: "God's inspired connotes _ and _",
-            a: "reverance, attention",
+            q: "_ determines how much this salvation will benefit you",
+            a: "Knowledge",
         },
         {
-            q: "in our study of the Bible, there will be a _",
-            a: "singularity",
+            q: "_ is your first responsibility in this faith",
+            a: "Comprehension",
         },
         {
-            q: "documentation is a further proof of _",
-            a: "faith",
+            q: "Persons think when they have _, it sets them apart and makes them look like a shinning star but Paul calls such _ and a _",
+            a: "new revelations, proud, fool",
         },
         {
-            q: "an extra documentation is given to you for _ and not for you to _",
-            a: "certainty, disdain",
+            q: "_ is your first line of defence",
+            a: "Sticking with what you have learnt",
         },
         {
-            q: "man's _ is part of God's tool to redeem man",
-            a: "frailty",
+            q: "People think God's joy is to be _",
+            a: "mysterious",
         },
         {
-            q: "sin will be a rejection of the _ one",
-            a: "anointed",
+            q: "God wants to be known clearly, _ and _",
+            a: "accurately, conclusively",
         },
         {
-            q: "_ is cos a man accepted the work of the saviour",
-            a: "righteousness",
+            q: "The reason persons attribute the knowledge of God to be an impossible task is cos _",
+            a: "God is Spirit",
         },
         {
-            q: "you have 4000 years of the _ of the prophets for you to be _",
-            a: "consistency, consistent",
+            q: "If you don't agree that _, it will affect your progression in the faith",
+            a: "God can be known",
         },
         {
-            q: "you are a servant of one that does not _",
-            a: "die",
+            q: "Theres's _ in predictability",
+            a: "safety",
         },
         {
-            q: "you are _ by an eternal being hence your labour will always be _",
-            a: "employed, remembered",
+            q: "The reason why something is not clear is cos of the absence of _",
+            a: "light",
         },
         {
-            q: "the Bible does not have a _ of those that started and gave up",
-            a: "documentation/reference",
+            q: "It is the absence of light that gives _",
+            a: "shadows",
         },
         {
-            q: "we must not run after the men and leave the _",
-            a: "pattern",
+            q: "If there are shadows, it means the light is not _",
+            a: "enough",
         },
         {
-            q: "don't start creating _ experiences from the scriptures",
-            a: "fanciful",
+            q: "God is and has always been unchanging in his _ and _",
+            a: "intention, actions",
         },
         {
-            q: "let the ones that submit their mind to the gospel of Christ be _ for you",
-            a: "convenient",
+            q: "Man's default is darkness and God's _ is to shine light.",
+            a: "response",
         },
         {
-            q: "let everything about your life show that you value _",
-            a: "sound doctrine",
+            q: "_ is man's fundamental ticket to fully know God",
+            a: "The indwelling of the Spirit",
         },
         {
-            q: "don't sell _ to them. Sell God to them",
-            a: "yourself",
+            q: "Refusal to submit yourself to learn is simply to say you don't care about _",
+            a: "the faith you have received",
         },
         {
-            q: "don't compromise standard cos of _ or _",
-            a: "crowd, acceptability",
-        }
+            q: "Let the body of believers be your own _ and _ that you identify with",
+            a: "association, club",
+        },
+        {
+            q: "Not appreciating your _ comes from not appreciating your own self first of all",
+            a: "brother",
+        },
+        {
+            q: "If you are a saint and you are a participant of this family then the _ of the faith is yours",
+            a: "defence",
+        },
+        {
+            q: "This faith will be _ if your value does not align with that of God",
+            a: "burdensome",
+        },
+        {
+            q: "_ will come from your value system",
+            a: "Confidence",
+        },
     ]
 }

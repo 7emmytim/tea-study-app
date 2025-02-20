@@ -8,125 +8,40 @@ export const part_five = {
     slug: "theology_of_selection_series1_five",
     questions: [
         {
-            q: "Christianity of looking for God for things, that is _",
-            a: "idolatry",
+            q: "First bus stop in understanding is _",
+            a: "reading",
         },
         {
-            q: "In being called a Christian, in seeking _, the first thing is to make yourself available to learn",
-            a: "first the kingdom of God",
+            q: "If God's idea is for you to have a _ that means he has a knowledge for you to receive from that _",
+            a: "book, book",
         },
         {
-            q: "My greatest identity is my _ identity",
-            a: "spiritual",
+            q: "You can be a mighty _ and still be a fool with respect to the scriptures",
+            a: "reader",
         },
         {
-            q: "We are not after _ news; we are after the _ news",
-            a: "trending, old rugged",
+            q: "Scriptures has enough _ for itself",
+            a: "explanation",
         },
         {
-            q: "Faith is Christ _ and Christ _",
-            a: "believed, spoken",
+            q: "We don't break diving walls with _ but with _",
+            a: "logic, scriptures",
         },
         {
-            q: "Different _, different _ but same thing believed",
-            a: "ages, expression",
+            q: "That Paul said it was hidden doesn't mean it was _",
+            a: "absent",
         },
         {
-            q: "Your _ note must be a potential _ note",
-            a: "sermon, preaching",
+            q: "The epistles are the _ to understanding Genesis to Malachi",
+            a: "shortcut",
         },
         {
-            q: "Faith received or faith rejected is the _ factor",
-            a: "hidden",
+            q: "It is your total knowledge that is able to safeguard you from the effect of _",
+            a: "peddlers",
         },
         {
-            q: "Faith is not what you develop _",
-            a: "yourself",
+            q: "Comprehensive knowledge of God is seen fully in the knowledge of Christ, _ and _",
+            a: "scriptures, salvation",
         },
-        {
-            q: "God is responsible for what people _ and not what they _",
-            a: "said, did",
-        },
-        {
-            q: "Man's _ will now follow God's action",
-            a: "expression",
-        },
-        {
-            q: "Faith is God's _",
-            a: "gift",
-        },
-        {
-            q: "_ is responsible for faith.",
-            a: "God",
-        },
-        {
-            q: "Many secondary _ are not God's making",
-            a: "expressions",
-        },
-        {
-            q: "The secondary expressions can be _ or _",
-            a: "good, bad",
-        },
-        {
-            q: "What defines a secondary action as good or bad?",
-            a: "God's character",
-        },
-        {
-            q: "Same Jesus that justifies in the _ also justified in the _",
-            a: "NT, OT",
-        },
-        {
-            q: "God's character became _ and so man's expressions became _",
-            a: "clearer, better",
-        },
-        {
-            q: "We believe, we speak and then we _",
-            a: "walk in love",
-        },
-        {
-            q: "You are not a believer cos of the _ of faith but cos of the _ of faith",
-            a: "exploits, confession",
-        },
-        {
-            q: "We must exalt the _ of Christ more than the _ by Christ",
-            a: "confession, exploit",
-        },
-        {
-            q: "My _ is enough expression",
-            a: "sonship",
-        },
-        {
-            q: "We don't hype our _ more than our Christian confession",
-            a: "experience",
-        },
-        {
-            q: "People have been discouraged more by _ in church more than being encouraged",
-            a: "testimonies",
-        },
-        {
-            q: "When we exalt our testimonies more, we _ believers and _ against Christ",
-            a: "disdain, sin",
-        },
-        {
-            q: "Sonship has to do with _",
-            a: "inheritance",
-        },
-        {
-            q: "Faith in Christ is our _ and from that _ we do good things",
-            a: "destination, destination",
-        },
-        {
-            q: "We don't _ by death; we _ by life",
-            a: "reign, reign",
-        },
-        {
-            q: "Primary in the expression of our faith, we _ and _",
-            a: "preach the gospel, get men saved",
-        },
-        {
-            q: "Say it until you _ that you are saying it",
-            a: "understand",
-        }
     ]
-
 }

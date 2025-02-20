@@ -8,209 +8,84 @@ export const part_three = {
     slug: "theology_of_selection_series1_three",
     questions: [
         {
-            q: "God did not make a mistake picking _",
-            a: "you",
+            q: "We have _ of things to be grateful for",
+            a: "patterns",
         },
         {
-            q: "The knowledge of God gives us _",
-            a: "responsibility",
+            q: "The entire humanity can only be _ by Jesus",
+            a: "illuminated",
         },
         {
-            q: "we have a word that will end all _",
-            a: "wars",
+            q: "Christ is not a _ killer",
+            a: "curiosity",
         },
         {
-            q: "the word of God is not about to get _ cos you will preach it",
-            a: "victorious",
+            q: "Man must now be willing to accept the _ and _ of Jesus as the clear checkmate of God's character",
+            a: "life, teachings",
         },
         {
-            q: "the _ of men does not invalidate the truth of God's word",
-            a: "unbelief",
+            q: "Jesus is not giving man _ in terms of knowledge",
+            a: "appetizer",
         },
         {
-            q: "pick the _ of the Bible and don't shift ground",
-            a: "Christianity",
+            q: "Jesus did not come to _ our appetite about the knowledge of God",
+            a: "wet",
         },
         {
-            q: "don't come down to people's level. Let them come up to _ level",
-            a: "Bible's",
+            q: "If you can't find it in Christ then it is not for you to _ and it is not about _",
+            a: "know, God",
         },
         {
-            q: "if you compromise cos of the crowd, you will delay _ on the earth",
-            a: "Christ's victory",
+            q: "By coming to Christ, you have arrived at _",
+            a: "God",
         },
         {
-            q: "we have a duty not to _",
-            a: "shift ground",
+            q: "To know _ is to know _ and to know Christ is to know _",
+            a: "God, Christ, Christ, God",
         },
         {
-            q: "allow _ to happen to you",
-            a: "Christianity",
+            q: "The _ God is known in Christ",
+            a: "unknown",
         },
         {
-            q: "that you reject the work of ministry does not mean that the work is _",
-            a: "not valid",
+            q: "Jesus was not claiming he was the _ of his own message",
+            a: "originator",
         },
         {
-            q: "a saved man that slips into unbelief does not invalidate his _ salvation",
-            a: "eternal",
+            q: "Jesus is the only begotten cos he is the only _ one",
+            a: "incarnate",
         },
         {
-            q: "for a believer to go to hell will be for God to _ himself",
-            a: "deny",
+            q: "The purpose of him becoming a man is for ease of reception and not for us to _",
+            a: "disdain",
         },
         {
-            q: "actions do not _ scriptures, words do",
-            a: "interpret",
+            q: "Jesus' statement has to be that _ cos man always has the temptation to want to look for an alternative",
+            a: "absolute",
         },
         {
-            q: "the focus of BI must be on the _ of the prophets",
-            a: "utterances",
+            q: "Jesus being this absolute is to _ man",
+            a: "help",
         },
         {
-            q: "there's nothing to tabernacle on in the fact that Moses _",
-            a: "put off his shoe",
+            q: "The intention to seek for alternative to seek other alternatives does not end at _",
+            a: "salvation",
         },
         {
-            q: "God never _ before the resurrection of Christ",
-            a: "entered his glory",
+            q: "Even for the _ man, there's a temptation to say that Christ is not enough",
+            a: "saved",
         },
         {
-            q: "for Jesus to enter into his glory is for God to _ man",
-            a: "dwell in",
+            q: "_ is what makes peddlers have supporters",
+            a: "itching ears",
         },
         {
-            q: "when you hear of the Spirit of God, it is more like a _",
-            a: "tautology",
+            q: "Christ died and resurrected is not just the _ of knowledge, it is the _ of knowledge",
+            a: "starting point, circumference",
         },
         {
-            q: "anything that was _ or _ before the resurrection of Christ cannot be the gospel of Christ",
-            a: "fulfilled, finalised",
+            q: "The honour of God is tied to the _ of Christ",
+            a: "service",
         },
-        {
-            q: "_ is the day one of God",
-            a: "resurrection",
-        },
-        {
-            q: "what we call _ is when man entered the resurrection",
-            a: "7th day",
-        },
-        {
-            q: "day 7 is not the _ of rest, it is the _ into rest",
-            a: "creation, entrace",
-        },
-        {
-            q: "we can typify day 2 to day 6 as the _ of God",
-            a: "appeal",
-        },
-        {
-            q: "things invisible can actually make you _",
-            a: "rejoice",
-        },
-        {
-            q: "_ things are tangible",
-            a: "invisible",
-        },
-        {
-            q: "what we enjoy today is the _ of Genesis to Malachi",
-            a: "content",
-        },
-        {
-            q: "the gift of the Spirit can only be a _ of saved men",
-            a: "demonstration",
-        },
-        {
-            q: "cos of what was prevalent in the days of the prophets, they will speak more of _ than _",
-            a: "judgement, blessedness of faith",
-        },
-        {
-            q: "despising is the character of the _ man",
-            a: "hell-bound",
-        },
-        {
-            q: "_ has it's own symptoms. _ also has it's own symptoms",
-            a: "faith, unbelief",
-        },
-        {
-            q: "you must not see a man going to heloo and call a _",
-            a: "blessed man",
-        },
-        {
-            q: "you must also not see a man going to heaven and call him a _",
-            a: "cursed man",
-        },
-        {
-            q: "no one is blessed cos of _ in the eyes of God",
-            a: "money",
-        },
-        {
-            q: "I must sound like _, _ and _",
-            a: "Paul, Peter, James",
-        },
-        {
-            q: "God gave us _, a man and _ in turn gave us men to explain",
-            a: "Christ, Christ",
-        },
-        {
-            q: "the position the apostles occcupy in the _ and _ of our faith can never be replaced",
-            a: "lineage, vitality",
-        },
-        {
-            q: "_ is where we honour what has been written",
-            a: "Christianity",
-        },
-        {
-            q: "we have _ so we are not tempted tto misinterpret Psalms for example",
-            a: "the epistles",
-        },
-        {
-            q: "to pattern your church after _ and _ is clear rebellion to Jesus",
-            a: "business school, entertainment centres",
-        },
-        {
-            q: "the _ the apostles gave to wealth and material prosperity must be our _",
-            a: "volume, volume",
-        },
-        {
-            q: "you can be very _ on earth without God",
-            a: "fantastic",
-        },
-        {
-            q: "even the _ BI about material prosperity, never be found loud about it",
-            a: "correct",
-        },
-        {
-            q: "we can't serve Jesus and discard _ pattern",
-            a: "the apostolic",
-        },
-        {
-            q: "once it is not the _ of the apostles then it is false",
-            a: "religion",
-        },
-        {
-            q: "it is foolish to be hugging Genesis to Malachi and reject _",
-            a: "the epistles",
-        },
-        {
-            q: "the apostles spoke about the _, _ and _ of God",
-            a: "plans, workings, pleasure",
-        },
-        {
-            q: "to have a ministry devoid of _, face the words of the apostles",
-            a: "eternal regret",
-        },
-        {
-            q: "Christianity is _ religion",
-            a: "an apostolic",
-        },
-        {
-            q: "the heart of men is one part that God cannot control like that but God can _",
-            a: "appeal",
-        },
-        {
-            q: "you cannot build the church on anything apart from _",
-            a: "Christ",
-        },
-
     ]
 }

@@ -8,84 +8,64 @@ export const part_eleven = {
     slug: "theology_of_selection_series1_eleven",
     questions: [
         {
-            q: "it's so serious that we don't see Jesus correcting one person about _",
-            a: "moral sin",
+            q: "What a man does with the information in his _ is what determines what happens to his _",
+            a: "mind, spirit",
         },
         {
-            q: "don't worry about the physical deficiency but worry about that _",
-            a: "eternal separation",
+            q: "The _ is the primary seat of rebellion",
+            a: "mind",
         },
         {
-            q: "_ will make us strengthen one another",
-            a: "fellowship",
+            q: "Since _ is necessary for man to exercise his choice then God's only role will be to supply that _ that is necessary",
+            a: "information, information",
         },
         {
-            q: "there is no physcial serpent in _ but we have the activity of satan",
-            a: "Genesis 3",
+            q: "Physical things were used by _ to explain the consequence of unbelief",
+            a: "the prophets",
         },
         {
-            q: "satan cannot get a man that has not _ himself",
-            a: "gotten",
+            q: "A man's status of acceptance or rejection does not fade even after he is no longer _",
+            a: "around physically",
         },
         {
-            q: "Jesus stands to judge the one that does not believe that he is _",
-            a: "Jesus",
+            q: "God's word transcends man's physical _",
+            a: "lifespan",
         },
         {
-            q: "even the man that rejects Jesus will still _",
-            a: "meet him",
+            q: "The man refusing to listen has _ that he is exploring",
+            a: "an alternative",
         },
         {
-            q: "_ holds individuals responsible for their actions",
-            a: "God",
+            q: "God's _ is seen in consistence, persistence",
+            a: "drawing",
         },
         {
-            q: "_ can come but the decision is yours",
-            a: "influence",
+            q: "It is not a function of who brings it, it is a function of your _",
+            a: "response",
         },
         {
-            q: "I am responsible for every _ that I allow",
-            a: "influence",
+            q: "_ removes hardness of heart",
+            a: "Prompt obedience",
         },
         {
-            q: "Moses was using the normal _ around man to describe judgement",
-            a: "agony",
+            q: "God's word is to ensure that what he is presenting to you is _",
+            a: "appealing",
         },
         {
-            q: "The real first _ of the Lord is the death of Christ",
-            a: "day",
+            q: "God's frequent coming is not to _",
+            a: "harden your heart",
         },
         {
-            q: "the _ of judgement is the day Jesus died",
-            a: "day",
+            q: "God cannot use a man that is not _",
+            a: "willing",
         },
         {
-            q: "the man in sin will need _ to tell him that he is a sinner",
-            a: "the Bible",
+            q: "If God cannot save a man that is _, he also cannot use a man that is _ in service",
+            a: "not willing, not willing",
         },
         {
-            q: "man will never be able to explain _",
-            a: "sin",
+            q: "We see God's persistence as a _ and not to harden you",
+            a: "show of love",
         },
-        {
-            q: "Moses will use the experiences of man to say that after man sinned, things _",
-            a: "never remained the same again",
-        },
-        {
-            q: "God kept showing _ despite man's rebellion",
-            a: "his appeal",
-        },
-        {
-            q: "for salvation, there's _ but for the unsaved, there's _",
-            a: "security, an appeal",
-        },
-        {
-            q: "there's a _ in salvation and _ for the unbeliever",
-            a: "finality, an appeal",
-        },
-        {
-            q: "if the man that rejects the gospel is _ already then the man that believes is _ already",
-            a: "judged, saved",
-        }
     ]
 }

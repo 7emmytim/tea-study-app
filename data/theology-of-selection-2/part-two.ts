@@ -8,108 +8,84 @@ export const part_two = {
     slug: "theology_of_selection_series2_two",
     questions: [
         {
-            q: "You are not a stylish _",
-            a: "atheist",
+            q: "For various reasons, men will just want to create _ of Christianity",
+            a: "version",
         },
         {
-            q: "A lot of people _ in church",
-            a: "lie",
+            q: "The word is simple enough for anyone who wants to hear God's _",
+            a: "heart",
         },
         {
-            q: "if we read it, we _ it",
-            a: "believe",
+            q: "You don't back up your _ from the scriptures, you rather accept what the scriptures say and let it shape your _",
+            a: "thoughts, thoughts",
         },
         {
-            q: "Jesus is the _ of the prophets",
-            a: "Christ",
+            q: "We see the first introduction of Jesus attached with a _",
+            a: "duty",
         },
         {
-            q: "Jesus is the _. Christ is your  _",
-            a: "person, faith",
+            q: "There's no correlation between the baptism of water and _",
+            a: "the washing away of sins",
         },
         {
-            q: "_ is a big deal to God",
-            a: "faith",
+            q: "Jesus did not share his salvation work with _",
+            a: "water",
         },
         {
-            q: "Being wise unto salvation is to understand the _ of Christ",
-            a: "doctrine",
+            q: "The confidence given to men that their sin is cancelled is _",
+            a: "the sacrifice of Christ",
         },
         {
-            q: "know when not to cross the border line between _ and receiving for yourself",
-            a: "coveteousness",
+            q: "Christ purging our sins is not a _ effort",
+            a: "collabo",
         },
         {
-            q: "Man's _ being involved in the documentation is part of the message",
-            a: "frailty",
+            q: "_ does not perfect what Christ has done",
+            a: "Water",
         },
         {
-            q: "God's inspired connotes _ and _",
-            a: "reverance, attention",
+            q: "Christ did what he needed to do for sin once and for all to make the result _ and _",
+            a: "final, perfect",
         },
         {
-            q: "in our study of the Bible, there will be a _",
-            a: "singularity",
+            q: "You can't read Hebrews and think that you have a _ salvation",
+            a: "temporary",
         },
         {
-            q: "documentation is a further proof of _",
-            a: "faith",
+            q: "There is a reason why Jesus is called saviour, _ to that fact",
+            a: "pay homage",
         },
         {
-            q: "an extra documentation is given to you for _ and not for you to _",
-            a: "certainty, disdain",
+            q: "If you know that Christ himself is the atonement, it will almost be _ to put limited in front of it",
+            a: "ridiculous",
         },
         {
-            q: "man's _ is part of God's tool to redeem man",
-            a: "frailty",
+            q: "The reason we can rejoice in the product of which we are is cos of the _ of the work that birthed it",
+            a: "steadfastness",
         },
         {
-            q: "sin will be a rejection of the _ one",
-            a: "anointed",
+            q: "The reason you cannot _ is cos you don't have confidence in the result",
+            a: "rejoice",
         },
         {
-            q: "_ is cos a man accepted the work of the saviour",
-            a: "righteousness",
+            q: "If you are dissatisfied or look down on yourself for any reason as a believer, you are disdaining _",
+            a: "God's work",
         },
         {
-            q: "you have 4000 years of the _ of the prophets for you to be _",
-            a: "consistency, consistent",
+            q: "God responds to man based on what man _",
+            a: "needs",
         },
         {
-            q: "you are a servant of one that does not _",
-            a: "die",
+            q: "_ is not just a cliche",
+            a: "Glory to God",
         },
         {
-            q: "you are _ by an eternal being hence your labour will always be _",
-            a: "employed, remembered",
+            q: "Your value of who you are should be made much better every time you realise the _ it took to get it",
+            a: "process",
         },
         {
-            q: "the Bible does not have a _ of those that started and gave up",
-            a: "documentation/reference",
+            q: "God did not _ in producing you",
+            a: "slack",
         },
-        {
-            q: "we must not run after the men and leave the _",
-            a: "pattern",
-        },
-        {
-            q: "don't start creating _ experiences from the scriptures",
-            a: "fanciful",
-        },
-        {
-            q: "let the ones that submit their mind to the gospel of Christ be _ for you",
-            a: "convenient",
-        },
-        {
-            q: "let everything about your life show that you value _",
-            a: "sound doctrine",
-        },
-        {
-            q: "don't sell _ to them. Sell God to them",
-            a: "yourself",
-        },
-        {
-            q: "don't compromise standard cos of _ or _",
-            a: "crowd, acceptability",
-        }
     ]
 }

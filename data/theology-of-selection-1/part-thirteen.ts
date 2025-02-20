@@ -8,96 +8,64 @@ export const part_thirteen = {
     slug: "theology_of_selection_series1_thirteen",
     questions: [
         {
-            q: "Cos Jesus is not ashamed of man we replicate same in our _ with men",
-            a: "identification",
+            q: "A man can _ that irresistible grace",
+            a: "resist",
         },
         {
-            q: "_ is like a positive story in Christ while _ will be like a negative story in Christ",
-            a: "Genesis 2, Genesis 3",
+            q: "God does not have absolute control over every _ and _ of man",
+            a: "event, action",
         },
         {
-            q: "_ might come but it is still up to man to choose",
-            a: "Influence",
+            q: "What limits man's knowledge is _ and _",
+            a: "time, location",
         },
         {
-            q: "Every man has the power/right to stop the _ of sin",
-            a: "journey",
+            q: "foreknowledge is not _",
+            a: "word of knowledge",
         },
         {
-            q: "Closely following sin is death/condemnation and following death is now _",
-            a: "an appeal of God",
+            q: "This predestination was done by God _ man, _ man but for man",
+            a: "outside, without",
         },
         {
-            q: "Some series of events will follow sin which will depict _",
-            a: "condemnation",
+            q: "Foreknowledge is what _ God's predestination",
+            a: "aids",
         },
         {
-            q: "Condemnation can be _. It will not be _",
-            a: "seen, mystical",
+            q: "If salvation was a _ plan, it will mean that God did not know man meaning God was _",
+            a: "backup, reacting",
         },
         {
-            q: "Either _ or _, the only way to know God is through Christ",
-            a: "before, after",
+            q: "_ is a limitation to God's power",
+            a: "choice",
         },
         {
-            q: "Even the man in sin, God answers his prayer to show love awaiting _",
-            a: "repentance",
+            q: "Displaying of strength is always for man's _",
+            a: "assurance",
         },
         {
-            q: "God's longsuffering is part of the _ of Christ",
-            a: "sufferings",
+            q: "The knowledge of God's _ should never be what causes you fear",
+            a: "sovereignty",
         },
         {
-            q: "Eden was not a _ place",
-            a: "mystical",
+            q: "God never emphasised his strength for man's _ but rather for man's _",
+            a: "weakness, confidence",
         },
         {
-            q: "Don't paint a _ God that is not in the Bible",
-            a: "loving",
+            q: "Same way salvation cannot be on your terms, _ cannot be on your terms",
+            a: "ministry",
         },
         {
-            q: "How do we hear God and pretend that it is a _?",
-            a: "film trick",
+            q: "In _ and in _, you cannot have your way. Choosing to do so is rebellion",
+            a: "salvation, ministry",
         },
         {
-            q: "Love will see you _",
-            a: "burn",
+            q: "A man that recognises that God is sovereign in _ and _ will not seek to be an equal player in the field",
+            a: "salvation, ministry",
         },
         {
-            q: "_ allows you to have your way",
-            a: "Love",
-        },
-        {
-            q: "If love allows _, why will love deny _?",
-            a: "sin, death",
-        },
-        {
-            q: "Not gathering with the saints is a _ of unbelief",
-            a: "symptom",
-        },
-        {
-            q: "Under the topic of the Christ, we can have _ and _",
-            a: "Accepting the Christ, Consequence to rejecting the Christ",
-        },
-        {
-            q: "In the _ of sin, anyone that rejects the gospel will get _",
-            a: "judgement, judged",
-        },
-        {
-            q: "_ has been cursed already, it's not _ that was cursed",
-            a: "Sin, man",
-        },
-        {
-            q: "In Christ, believing the gospel has been _. Rejecting him has been _",
-            a: "blessed, cursed",
-        },
-        {
-            q: "To reject the gospel is to identify with the _ of sin",
-            a: "curse",
-        },
-        {
-            q: "There must be _ with which we preach the gospel",
-            a: "an urgency",
+            q: "Some things are _ you but it is for your good and not to enslave you",
+            a: "beyond",
         },
     ]
 }

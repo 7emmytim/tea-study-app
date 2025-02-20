@@ -8,80 +8,168 @@ export const part_one = {
     slug: "theology_of_selection_series2_one",
     questions: [
         {
-            q: "Jesus doesn't form _ to us",
+            q: "One documented instruction we see in the Bible both in the epistles and the four gospels is the instruction to _",
+            a: "watch",
+        },
+        {
+            q: "_ can be avoided by vigilance",
+            a: "Robbery",
+        },
+        {
+            q: "_ happens when one is not taking heed or when a person is distracted and the solution to that is to watch",
+            a: "Exploitation",
+        },
+        {
+            q: "The truth doesn't _, it is men that _",
+            a: "turn, turn",
+        },
+        {
+            q: "Because of the tendencies of _, watching becomes necessary",
+            a: "perversion",
+        },
+        {
+            q: "There can be only one _",
+            a: "truth",
+        },
+        {
+            q: "you will not only be faced with _ perversions, you will also see _ truth that will almost look like the truth",
+            a: "outright, different shades of the",
+        },
+        {
+            q: "It is _ that actually birthed denominations",
+            a: "subtle variation",
+        },
+        {
+            q: "a _ truth is still a lie",
+            a: "rebranded",
+        },
+        {
+            q: "The hallmark of _ and _ is the consistency in communicating truth",
+            a: "discipleship, faithfulness",
+        },
+        {
+            q: "The reason we have _ today is simply as a result of a departure from the scriptures in doctrine",
+            a: "variations",
+        },
+        {
+            q: "Denominations started from _",
+            a: "the 15th century",
+        },
+        {
+            q: "There would have been _ and _ today if everyone had stuck to the doctrine of Christ as communicated by the apostles",
+            a: "uniformity, conformity",
+        },
+        {
+            q: "In seeing the scripture as superior, we must understand that the Bible is _ on something",
+            a: "authoritative",
+        },
+        {
+            q: "The scripture is not a made-up fantasy of _ men",
+            a: "disillusioned",
+        },
+        {
+            q: "All the distortions and false doctrine comes from _ for the truth",
+            a: "hatred",
+        },
+        {
+            q: "We are _ from pampering distorters of truth",
+            a: "forbidden",
+        },
+        {
+            q: "Never see false teaching as _",
+            a: "harmless",
+        },
+        {
+            q: "The root cause of false doctrine is an expression of _ with the intention of scriptures",
+            a: "discontent",
+        },
+        {
+            q: "False doctrine is _ and we don't suffer it lightly",
+            a: "foolishness",
+        },
+        {
+            q: "Distortion about Christ and what he has done is distortion about _",
             a: "God",
         },
         {
-            q: "A good _ must be Godly wise",
-            a: "preacher",
+            q: "Any distortion towards what Christ has done is _ no matter how much they try to sound familiar",
+            a: "antichrist",
         },
         {
-            q: "Money is money cos there's a _",
-            a: "government",
+            q: "_ is a transmutation of the truth",
+            a: "False gospel",
         },
         {
-            q: "It is a man that submitted his _ to God's work that can further submit his _",
-            a: "heart, resources",
+            q: "Anything that is not after Christ is an attempt to _ the saints",
+            a: "spoil",
         },
         {
-            q: "Jesus is not interested in the _ as much as the _",
-            a: "result, pattern",
-        },
-        {
-            q: "God's approval is a result of faith in Christ which will be found in the _ of man",
-            a: "words",
-        },
-        {
-            q: "We have _ and we also have stupidity",
-            a: "unbelief",
-        },
-        {
-            q: "To be _ about scriptures is to know that scriptures is Christocentric",
-            a: "biased",
-        },
-        {
-            q: "Bible is not about making _. It is about _",
-            a: "heaven, knowing Christ",
-        },
-        {
-            q: "You must know how to use people's _ or _ to teach them Christ",
-            a: "words, questions",
-        },
-        {
-            q: "_ is what we must always do with the scriptures",
+            q: "Once you are not watching, you can be a slave to another man's _",
             a: "doctrine",
         },
         {
-            q: "Judgement has been declared on the _ of the world by the prophets",
-            a: "principles",
+            q: "You are a _ if you don't stick with the doctrine of Christ",
+            a: "transgressor",
         },
         {
-            q: "The judgement of God is on _ and not on _",
-            a: "sin, man",
+            q: "Do not make yourself an associate of evil works under the guise of _",
+            a: "love",
         },
         {
-            q: "Man gets judged cos of _ with sin",
-            a: "identification",
+            q: "_ is to speak the truth and not to shy away",
+            a: "Love",
         },
         {
-            q: "Self confidence is not _",
-            a: "Bible",
+            q: "There's no love where _ is hidden cos love is _",
+            a: "truth, truth",
         },
         {
-            q: "God can never lead a man into eternal _",
-            a: "irrelevance",
+            q: "Love is not to hug falsehood cos of _",
+            a: "sentiment",
         },
         {
-            q: "The _ influence of the Holy Ghost on man is speaking about Christ",
-            a: "primary",
+            q: "The first _ of love is truth",
+            a: "characteristics",
         },
         {
-            q: "To spite or disdain Gods _ is to reject life",
-            a: "anointed",
+            q: "Condoning error is either _ or a lack of _",
+            a: "cowardice, watchfulness",
         },
         {
-            q: "Jesus never called himself _ cos he does not _ about himself",
-            a: "the Christ, testify",
-        }
+            q: "Falsehood does not pamper the _",
+            a: "innocent",
+        },
+        {
+            q: "Don't in an attempt to sound deep and mysterious become _",
+            a: "foolish",
+        },
+        {
+            q: "When we stick with the doctrine of Christ, we are serving _",
+            a: "God",
+        },
+        {
+            q: "The revelation of the Spirit contained in the epistles which is the result of _ even",
+            a: "a specific",
+        },
+        {
+            q: "Jesus did not abbreviate your _",
+            a: "salvation",
+        },
+        {
+            q: "No knowledge is to enter the _ in your mind",
+            a: "backseat",
+        },
+        {
+            q: "Why is the doctrine of Christ fixed?",
+            a: "cos the events of fixed",
+        },
+        {
+            q: "The doctrine of Christ is not a _ on its own, it is _ based on an event that has happened and that event is not a _ one, it happened _",
+            a: "teaching, teaching, continuous, once",
+        },
+        {
+            q: "How do I serve God?",
+            a: "in the doctrine of his Son",
+        },
     ]
 }

@@ -8,148 +8,96 @@ export const part_eight = {
     slug: "theology_of_selection_series1_eight",
     questions: [
         {
-            q: "God will _ men and men will speak words",
-            a: "save",
+            q: "_ was not the one that brought sin. it was the _ of sin",
+            a: "the law, announcer",
         },
         {
-            q: "the prophets will _ by speaking",
-            a: "search",
+            q: "once the knowledge becomes clear to you then you become without _",
+            a: "excuse",
         },
         {
-            q: "prophets will learn the truth by preaching all the _ data before them",
-            a: "raw",
+            q: "for Adam to be the _ of Christ then he will be the intention of Christ",
+            a: "figure",
         },
         {
-            q: "God will judge man for not believing those _ utterances about Christ",
-            a: "imperfect",
+            q: "the choice of _ cannot affect another man's spirit",
+            a: "Adam",
         },
         {
-            q: "if Jesus came outside the _ of men then we can say he is not our Jesus, we can doubt his _, _ _ and _",
-            a: "utterances, origin, purpose, mission, love",
+            q: "God created a nature capapble of _ divinity",
+            a: "housing",
         },
         {
-            q: "God will not train _ in the blues and make them say right things",
-            a: "angels",
+            q: "God has the full authority of man's spirit, not _",
+            a: "Adam",
         },
         {
-            q: "good Christian conduct is impossible without the knowledge of _",
-            a: "God's character",
+            q: "The _ of time came when Christ came",
+            a: "fulness",
         },
         {
-            q: "Good Christian conduct is not cos you really understand _ but cos you understand _",
-            a: "salvation, God's character",
+            q: "someone that has the active expectation of life is not _",
+            a: "dead",
         },
         {
-            q: "knowing God accurately is difficult outside the new _",
-            a: "birth",
+            q: "_ or _ does not an automatic stamp on any man without that man's choice",
+            a: "death, life",
         },
         {
-            q: "the prophets we have in the OT are like _ believers",
-            a: "carnal",
+            q: "sin in the Bible does not only mean _",
+            a: "unbelief",
         },
         {
-            q: "One big thing that was absetn in the prophets was a full conviction of _",
-            a: "God's character",
+            q: "this religion is using the instrumentality of _ to measure God's saving power",
+            a: "hopelessness",
         },
         {
-            q: "the new birth births in us _",
-            a: "constancy",
+            q: "this religion is using _ tool to hype God's grace",
+            a: "unscriptural",
         },
         {
-            q: "if you are fully convinced of God's character, your _ and _ will not negate God's character",
-            a: "words, actions",
+            q: "man is not to focus on _ to understand the enormity of salvation",
+            a: "sin",
         },
         {
-            q: "Sodom and Gomorrah was used by a man as a _ of unbelief",
-            a: "specimen",
+            q: "don't focus on _ to appreciate _",
+            a: "evil, good",
         },
         {
-            q: "God's judgement does not incure any _ action against you",
-            a: "physical",
+            q: "there is enough power in the knowledge of _ for you to appreciate _",
+            a: "good, good",
         },
         {
-            q: "most of the prophets in the OT implied that God is a _ through their actions",
-            a: "sinner",
+            q: "if you are focusing on man's _, you are reducing your appreciation of the gospel and what it can do",
+            a: "depravity",
         },
         {
-            q: "the Father in heaven has never _ an assasination before",
-            a: "sanctioned",
+            q: "we are never to focus on how bad man is but on how mighty _ is",
+            a: "God's salvation",
         },
         {
-            q: "in the OT, they acted the Father they _ but right now we act the Father that _",
-            a: "heard of, lives in us",
+            q: "many cannot live a _ life cos of their focus on sin",
+            a: "victorious",
         },
         {
-            q: "At times the prophets spoke about God but their _ were contrary",
-            a: "actions",
+            q: "when you focus on what you are not meant to focus on, you are taking the _ and _ from what you should focus on",
+            a: "power, appreciation",
         },
         {
-            q: "At times a good _ can become the basis for a wrong _",
-            a: "utterance, action",
+            q: "your strength lies in the right _",
+            a: "focus",
         },
         {
-            q: "you will find God in their words properly _",
-            a: "interpreted",
+            q: "this gospel is stronger than the highest _ of any man",
+            a: "resistance",
         },
         {
-            q: "what AB depicted on mount Moriah is _",
-            a: "human sacrifice",
+            q: "God's action are enough _ not man's action",
+            a: "proof",
         },
         {
-            q: "a worse action can come from a good _",
-            a: "intention",
-        },
-        {
-            q: "you can use the _ to understand what is happening in the _",
-            a: "NT, OT",
-        },
-        {
-            q: "the _ of God shapes our BI",
-            a: "character",
-        },
-        {
-            q: "once you are _, you cease serving God",
-            a: "angry",
-        },
-        {
-            q: "_ and _ is what God has sworn to put out from under heaven",
-            a: "sin, death",
-        },
-        {
-            q: "when you hear God's word, think _",
-            a: "spiritual",
-        },
-        {
-            q: "We have a weapon mightier than _",
-            a: "swords",
-        },
-        {
-            q: "the armour of God in _ is the armour of God in _",
-            a: "the NT, the OT",
-        },
-        {
-            q: "the battles of God are to be fought with _",
-            a: "words",
-        },
-        {
-            q: "our major element in the NT ministry is _",
-            a: "patience",
-        },
-        {
-            q: "at times you want to correct people and you are already _",
-            a: "angry",
-        },
-        {
-            q: "I don't have the power to bring _ to my neighbour",
-            a: "disaster",
-        },
-        {
-            q: "learn very well before you make a _ of God's character in your attempt to do God's will",
-            a: "facebook post/false conclusion",
-        },
-        {
-            q: "you don't allow the response of people to lure you to _",
-            a: "anger",
+            q: "you won't be able to find _ when you understand what God did",
+            a: "fault",
         },
     ]
 }

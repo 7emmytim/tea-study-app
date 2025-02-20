@@ -8,148 +8,68 @@ export const part_eight = {
     slug: "theology_of_selection_series2_eight",
     questions: [
         {
-            q: "God will _ men and men will speak words",
-            a: "save",
+            q: "Once you are a _, you are automatically saying you are at war with Satan",
+            a: "minister of the truth",
         },
         {
-            q: "the prophets will _ by speaking",
-            a: "search",
+            q: "_ transcends the physical _",
+            a: "hearing, hearing",
         },
         {
-            q: "prophets will learn the truth by preaching all the _ data before them",
-            a: "raw",
+            q: "Jesus' problem with general Jews was to get them to _",
+            a: "listen to the word",
         },
         {
-            q: "God will judge man for not believing those _ utterances about Christ",
-            a: "imperfect",
+            q: "A willing heart is man's _ but to God's _",
+            a: "action, glory",
         },
         {
-            q: "if Jesus came outside the _ of men then we can say he is not our Jesus, we can doubt his _, _ _ and _",
-            a: "utterances, origin, purpose, mission, love",
+            q: "_ cannot be shocked",
+            a: "God",
         },
         {
-            q: "God will not train _ in the blues and make them say right things",
-            a: "angels",
+            q: "People either fulfil positive or negative part of prophecy by their _",
+            a: "choice",
         },
         {
-            q: "good Christian conduct is impossible without the knowledge of _",
-            a: "God's character",
+            q: "Sharp _ never establish anyone",
+            a: "answers",
         },
         {
-            q: "Good Christian conduct is not cos you really understand _ but cos you understand _",
-            a: "salvation, God's character",
+            q: "The conclusion of the Bible is gotten from _",
+            a: "the entire Bible",
         },
         {
-            q: "knowing God accurately is difficult outside the new _",
-            a: "birth",
+            q: "_ cannot always have his way",
+            a: "God",
         },
         {
-            q: "the prophets we have in the OT are like _ believers",
-            a: "carnal",
+            q: "It is _ to just give God a title or power that he doesn't have",
+            a: "unfair",
         },
         {
-            q: "One big thing that was absetn in the prophets was a full conviction of _",
-            a: "God's character",
+            q: "God's _ action is that no one should perish",
+            a: "deliberate",
         },
         {
-            q: "the new birth births in us _",
-            a: "constancy",
+            q: "If you want the influence of God, you can't do it outside the _",
+            a: "gospel",
         },
         {
-            q: "if you are fully convinced of God's character, your _ and _ will not negate God's character",
-            a: "words, actions",
+            q: "We don't lose sight of God's true _. God's _ is a world of sons.",
+            a: "solution, solution",
         },
         {
-            q: "Sodom and Gomorrah was used by a man as a _ of unbelief",
-            a: "specimen",
+            q: "God's _ is in the hearts of men",
+            a: "battleground",
         },
         {
-            q: "God's judgement does not incure any _ action against you",
-            a: "physical",
+            q: "A world of sons is God's _ solution",
+            a: "only",
         },
         {
-            q: "most of the prophets in the OT implied that God is a _ through their actions",
-            a: "sinner",
-        },
-        {
-            q: "the Father in heaven has never _ an assasination before",
-            a: "sanctioned",
-        },
-        {
-            q: "in the OT, they acted the Father they _ but right now we act the Father that _",
-            a: "heard of, lives in us",
-        },
-        {
-            q: "At times the prophets spoke about God but their _ were contrary",
-            a: "actions",
-        },
-        {
-            q: "At times a good _ can become the basis for a wrong _",
-            a: "utterance, action",
-        },
-        {
-            q: "you will find God in their words properly _",
-            a: "interpreted",
-        },
-        {
-            q: "what AB depicted on mount Moriah is _",
-            a: "human sacrifice",
-        },
-        {
-            q: "a worse action can come from a good _",
-            a: "intention",
-        },
-        {
-            q: "you can use the _ to understand what is happening in the _",
-            a: "NT, OT",
-        },
-        {
-            q: "the _ of God shapes our BI",
-            a: "character",
-        },
-        {
-            q: "once you are _, you cease serving God",
-            a: "angry",
-        },
-        {
-            q: "_ and _ is what God has sworn to put out from under heaven",
-            a: "sin, death",
-        },
-        {
-            q: "when you hear God's word, think _",
-            a: "spiritual",
-        },
-        {
-            q: "We have a weapon mightier than _",
-            a: "swords",
-        },
-        {
-            q: "the armour of God in _ is the armour of God in _",
-            a: "the NT, the OT",
-        },
-        {
-            q: "the battles of God are to be fought with _",
-            a: "words",
-        },
-        {
-            q: "our major element in the NT ministry is _",
-            a: "patience",
-        },
-        {
-            q: "at times you want to correct people and you are already _",
-            a: "angry",
-        },
-        {
-            q: "I don't have the power to bring _ to my neighbour",
-            a: "disaster",
-        },
-        {
-            q: "learn very well before you make a _ of God's character in your attempt to do God's will",
-            a: "facebook post/false conclusion",
-        },
-        {
-            q: "you don't allow the response of people to lure you to _",
-            a: "anger",
+            q: "Our eyes must see something beyond _",
+            a: "bloodshed",
         },
     ]
 }

@@ -2,11 +2,12 @@
 // import * as gods_word_gods_action_series2 from "./gods-word-gods-actions-2"
 // import * as gods_word_gods_action_series3 from "./gods-word-gods-actions-3"
 
-import * as theology_of_selection_series1 from "./theology-of-selection-1"
-import * as theology_of_selection_series2 from "./theology-of-selection-2"
-import * as legalism from "./legalism"
+// import * as theology_of_selection_series1 from "./theology-of-selection-1"
+// import * as theology_of_selection_series2 from "./theology-of-selection-2"
+// import * as legalism from "./legalism"
 
-import * as the_path_of_glory from "./the-path-of-glory"
+import * as apostasy from "./apostasy"
+import * as tbaii from "./the-bible-and-its-inteterpretation"
 
 export const sermons = [
     // theology_of_selection_series1.part_one,
@@ -31,15 +32,15 @@ export const sermons = [
     // theology_of_selection_series2.part_six,
     // theology_of_selection_series2.part_seven,
     // theology_of_selection_series2.part_eight,
-    legalism.part_one,
-    legalism.part_two,
-    legalism.part_three,
-    legalism.part_four,
-    legalism.part_five,
-    legalism.part_six,
-    legalism.part_seven,
-    legalism.part_eight,
-    legalism.part_nine
+    // legalism.part_one,
+    // legalism.part_two,
+    // legalism.part_three,
+    // legalism.part_four,
+    // legalism.part_five,
+    // legalism.part_six,
+    // legalism.part_seven,
+    // legalism.part_eight,
+    // legalism.part_nine
 
     //*********** */
 
@@ -82,14 +83,17 @@ export const sermons = [
 ]
 
 export const test = [
-    the_path_of_glory.path_of_glory_01,
-    the_path_of_glory.path_of_glory_02,
-    the_path_of_glory.path_of_glory_03,
-    the_path_of_glory.path_of_glory_04,
-    the_path_of_glory.path_of_glory_05,
-    the_path_of_glory.path_of_glory_06,
-    the_path_of_glory.path_of_glory_07,
-    the_path_of_glory.path_of_glory_08,
-    the_path_of_glory.path_of_glory_09,
-    the_path_of_glory.path_of_glory_10,
+    apostasy.part_one,
+    apostasy.part_two,
+    apostasy.part_three,
+    apostasy.part_four,
+    apostasy.part_five,
+    apostasy.part_six,
+    apostasy.part_seven,
+    tbaii.part_one,
+    tbaii.part_two,
+    tbaii.part_three,
+    tbaii.part_four,
+    tbaii.part_five,
+    tbaii.part_six
 ]

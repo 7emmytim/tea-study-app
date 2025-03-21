@@ -6,7 +6,7 @@
 // import * as theology_of_selection_series2 from "./theology-of-selection-2"
 // import * as legalism from "./legalism"
 
-import * as apostasy from "./apostasy"
+import * as trinity from "./trinity"
 import * as tbaii from "./the-bible-and-its-inteterpretation"
 
 export const sermons = [
@@ -83,17 +83,17 @@ export const sermons = [
 ]
 
 export const test = [
-    apostasy.part_one,
-    apostasy.part_two,
-    apostasy.part_three,
-    apostasy.part_four,
-    apostasy.part_five,
-    apostasy.part_six,
-    apostasy.part_seven,
-    tbaii.part_one,
-    tbaii.part_two,
-    tbaii.part_three,
-    tbaii.part_four,
-    tbaii.part_five,
-    tbaii.part_six
+    trinity.part_one,
+    trinity.part_two,
+    trinity.part_three,
+    trinity.part_four,
+    trinity.part_five,
+    trinity.part_six,
+    trinity.part_seven,
+    // tbaii.part_one,
+    // tbaii.part_two,
+    // tbaii.part_three,
+    // tbaii.part_four,
+    // tbaii.part_five,
+    // tbaii.part_six
 ]

@@ -88,8 +88,6 @@ export const test = [
     trinity.part_three,
     trinity.part_four,
     trinity.part_five,
-    trinity.part_six,
-    trinity.part_seven,
     // tbaii.part_one,
     // tbaii.part_two,
     // tbaii.part_three,

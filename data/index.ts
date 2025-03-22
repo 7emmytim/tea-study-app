@@ -2,45 +2,49 @@
 // import * as gods_word_gods_action_series2 from "./gods-word-gods-actions-2"
 // import * as gods_word_gods_action_series3 from "./gods-word-gods-actions-3"
 
-// import * as theology_of_selection_series1 from "./theology-of-selection-1"
-// import * as theology_of_selection_series2 from "./theology-of-selection-2"
-// import * as legalism from "./legalism"
+import * as materialism from "./materialism"
+import * as divinity_discovery from "./divinity-discovery"
+import * as orthodoxy from "./orthodoxy"
 
 import * as trinity from "./trinity"
-import * as tbaii from "./the-bible-and-its-inteterpretation"
+// import * as tbaii from "./the-bible-and-its-inteterpretation"
 
 export const sermons = [
-    // theology_of_selection_series1.part_one,
-    // theology_of_selection_series1.part_two,
-    // theology_of_selection_series1.part_three,
-    // theology_of_selection_series1.part_four,
-    // theology_of_selection_series1.part_five,
-    // theology_of_selection_series1.part_six,
-    // theology_of_selection_series1.part_seven,
-    // theology_of_selection_series1.part_eight,
-    // theology_of_selection_series1.part_nine,
-    // theology_of_selection_series1.part_ten,
-    // theology_of_selection_series1.part_eleven,
-    // theology_of_selection_series1.part_twelve,
-    // theology_of_selection_series1.part_thirteen,
-    // theology_of_selection_series1.part_fourteen,
-    // theology_of_selection_series2.part_one,
-    // theology_of_selection_series2.part_two,
-    // theology_of_selection_series2.part_three,
-    // theology_of_selection_series2.part_four,
-    // theology_of_selection_series2.part_five,
-    // theology_of_selection_series2.part_six,
-    // theology_of_selection_series2.part_seven,
-    // theology_of_selection_series2.part_eight,
-    // legalism.part_one,
-    // legalism.part_two,
-    // legalism.part_three,
-    // legalism.part_four,
-    // legalism.part_five,
-    // legalism.part_six,
-    // legalism.part_seven,
-    // legalism.part_eight,
-    // legalism.part_nine
+    // materialism.part_one,
+    // materialism.part_two,
+    // materialism.part_three,
+    // materialism.part_four,
+    // materialism.part_five,
+    // materialism.part_six,
+    // materialism.part_seven,
+    // materialism.part_eight,
+    // materialism.part_nine,
+    // materialism.part_ten,
+    // materialism.part_eleven,
+    // materialism.part_twelve,
+    // materialism.part_thirteen,
+    // materialism.part_fourteen,
+    // divinity_discovery.part_one,
+    // divinity_discovery.part_two,
+    // divinity_discovery.part_three,
+    // divinity_discovery.part_four,
+    // divinity_discovery.part_five,
+    // divinity_discovery.part_six,
+    // divinity_discovery.part_seven,
+    // divinity_discovery.part_eight,
+    // divinity_discovery.part_nine,
+    // orthodoxy.part_one,
+    // orthodoxy.part_two,
+    // orthodoxy.part_three,
+    // orthodoxy.part_four,
+    // orthodoxy.part_five,
+    // orthodoxy.part_six,
+    // orthodoxy.part_seven,
+    // orthodoxy.part_eight,
+    // orthodoxy.part_nine,
+    // orthodoxy.part_ten,
+    // orthodoxy.part_eleven,
+    // orthodoxy.part_twelve
 
     //*********** */
 

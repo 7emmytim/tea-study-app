@@ -8,64 +8,100 @@ export const part_nine = {
     slug: "materialism_nine",
     questions: [
         {
-            q: "_ reveals what God's righteousness truly is",
-            a: "The gospel",
+            q: "What Paul is writing is not profitable for _",
+            a: "doctrine",
         },
         {
-            q: "_ is what will make men alive",
-            a: "Faith",
+            q: "The epistle already contain _ from the holy scriptures",
+            a: "profit",
         },
         {
-            q: "All that is required is _ irrespective of nationality",
-            a: "faith",
+            q: "You are not trying to labour on the _ to get profit",
+            a: "epistles",
         },
         {
-            q: "God has put pointers _ and _ man to show that intention to man",
-            a: "in, around",
+            q: "The indwelling confers upon the man full _ and _",
+            a: "revelation, comprehension",
         },
         {
-            q: "no man can have as a _ that he doesn't know",
-            a: "defence",
+            q: "The epistles are written for you to understand and not for you to _",
+            a: "rightly divide",
         },
         {
-            q: "Since God wants faith from man, he must make available a _",
-            a: "message",
+            q: "if you don't have the same priority as the men that wrote the epistles, you will be _",
+            a: "offended",
         },
         {
-            q: "Once a man has known, he can no longer claim _",
-            a: "innocence",
+            q: "The epistles are the _ on all things that pertains to the Christian faith",
+            a: "final authority",
         },
         {
-            q: "Until the mind takes a decision that makes the spirit come alive, _ cannot be the determinant factor",
-            a: "the spirit",
+            q: "What comes from God is in line with his _ and _",
+            a: "will, character",
         },
         {
-            q: "Once your mind is _ it means the knowledge of God is absent",
-            a: "darkened",
+            q: "God gives _. He does not give _",
+            a: "richly, sparingly",
         },
         {
-            q: "God is steadfast in his patience despite man's _",
-            a: "exploration",
+            q: "_ is the nature of God's giving",
+            a: "abundance",
         },
         {
-            q: "The requirement for receiving this righteousness is what takes away _ from man",
-            a: "boasting",
+            q: "God is a God of _",
+            a: "abundance",
         },
         {
-            q: "_ is all God has ever required from man",
-            a: "Faith",
+            q: "_ are uncertain",
+            a: "physical riches",
         },
         {
-            q: "Being in the _ and newness of the spirit cannot happen at the same time",
-            a: "flesh",
+            q: "What God is giving cannot be the same _ riches",
+            a: "uncertain",
         },
         {
-            q: "the _ man that cannot please God",
-            a: "carnally minded",
+            q: "The expression of the Spirit is called _ to the believer",
+            a: "riches",
         },
         {
-            q: "_ explanation will stop many from rebelling and going their own way",
-            a: "detailed",
+            q: "It is not a function of money but the dangers associated in the _ pursuit to have it",
+            a: "die-hard",
+        },
+        {
+            q: "The first time physical riches is mentioned, it is a _",
+            a: "caution",
+        },
+        {
+            q: "Rich in _ refers to being abundant in giving and not trusting in the riches",
+            a: "good works",
+        },
+        {
+            q: "The man in Christ who has physical resources should be ready to _",
+            a: "give",
+        },
+        {
+            q: "God has his own _",
+            a: "riches",
+        },
+        {
+            q: "It is the job of the believer to value the _ in Christ as greater",
+            a: "riches",
+        },
+        {
+            q: "There is nothing _ that can bring joy",
+            a: "uncertain",
+        },
+        {
+            q: "The blessing emanating from God is _ to man",
+            a: "enriching",
+        },
+        {
+            q: "I am God's riches cos I have _",
+            a: "God's riches",
+        },
+        {
+            q: "What are God's riches in glory?",
+            a: "the believer",
         },
     ]
 }

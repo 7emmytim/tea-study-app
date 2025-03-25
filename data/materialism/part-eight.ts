@@ -8,96 +8,124 @@ export const part_eight = {
     slug: "materialism_eight",
     questions: [
         {
-            q: "_ was not the one that brought sin. it was the _ of sin",
-            a: "the law, announcer",
+            q: "In _, we don't have any specific instructions on how to make wealth",
+            a: "the epistles",
         },
         {
-            q: "once the knowledge becomes clear to you then you become without _",
-            a: "excuse",
+            q: "You cannot permanently choose to _ when you can work",
+            a: "live off others",
         },
         {
-            q: "for Adam to be the _ of Christ then he will be the intention of Christ",
-            a: "figure",
+            q: "_ is not a curse",
+            a: "Working",
         },
         {
-            q: "the choice of _ cannot affect another man's spirit",
-            a: "Adam",
+            q: "If you can _ then you can work",
+            a: "eat",
         },
         {
-            q: "God created a nature capapble of _ divinity",
-            a: "housing",
+            q: "_ will reduce when people have something they are doing",
+            a: "Gossips",
         },
         {
-            q: "God has the full authority of man's spirit, not _",
-            a: "Adam",
+            q: "Taking care of your elderly ones is _",
+            a: "scriptural",
         },
         {
-            q: "The _ of time came when Christ came",
-            a: "fulness",
+            q: "There is a reason attached to the instructions to _",
+            a: "work",
         },
         {
-            q: "someone that has the active expectation of life is not _",
-            a: "dead",
+            q: "There is none that should be _ when he is able",
+            a: "idle",
         },
         {
-            q: "_ or _ does not an automatic stamp on any man without that man's choice",
-            a: "death, life",
+            q: "We cannot live on _ or as a _",
+            a: "charity, busybody",
         },
         {
-            q: "sin in the Bible does not only mean _",
-            a: "unbelief",
+            q: "Anything against God's character cannot be _ work",
+            a: "honest",
         },
         {
-            q: "this religion is using the instrumentality of _ to measure God's saving power",
-            a: "hopelessness",
+            q: "You are not free to go outside _ even in your thoughts",
+            a: "the character of God",
         },
         {
-            q: "this religion is using _ tool to hype God's grace",
-            a: "unscriptural",
+            q: "The man chasing immortality cannot find it in _",
+            a: "wealth",
         },
         {
-            q: "man is not to focus on _ to understand the enormity of salvation",
-            a: "sin",
+            q: "No point being _ when another person is having so much money",
+            a: "agitated",
         },
         {
-            q: "don't focus on _ to appreciate _",
-            a: "evil, good",
+            q: "Know what is _ and know what is _",
+            a: "permanent, temporary",
         },
         {
-            q: "there is enough power in the knowledge of _ for you to appreciate _",
-            a: "good, good",
+            q: "Do not _ yourself to become rich",
+            a: "weary",
         },
         {
-            q: "if you are focusing on man's _, you are reducing your appreciation of the gospel and what it can do",
-            a: "depravity",
+            q: "Don't _ or _ yourself because you want to be rich",
+            a: "lose, kill",
         },
         {
-            q: "we are never to focus on how bad man is but on how mighty _ is",
-            a: "God's salvation",
+            q: "Wealth should not form the basis of your _ or _ or _",
+            a: "pride, satisfaction, value",
         },
         {
-            q: "many cannot live a _ life cos of their focus on sin",
-            a: "victorious",
+            q: "Your satisfaction should be that you _",
+            a: "know God",
         },
         {
-            q: "when you focus on what you are not meant to focus on, you are taking the _ and _ from what you should focus on",
-            a: "power, appreciation",
+            q: "The believer's attitude should always be about _",
+            a: "priority",
         },
         {
-            q: "your strength lies in the right _",
-            a: "focus",
+            q: "Money is neither good nor evil, money is just _",
+            a: "money",
         },
         {
-            q: "this gospel is stronger than the highest _ of any man",
-            a: "resistance",
+            q: "Money and other material things are only good or evil based on your actions either in _ or _",
+            a: "getting it, while you have it",
         },
         {
-            q: "God's action are enough _ not man's action",
-            a: "proof",
+            q: "God has no _ for man's physical status",
+            a: "preference",
         },
         {
-            q: "you won't be able to find _ when you understand what God did",
-            a: "fault",
+            q: "Both the _ and the _ are to look beyond they have to God's _",
+            a: "rich, poor, valuation",
+        },
+        {
+            q: "The _ that God gives is different from what man spend his life chasing",
+            a: "beauty",
+        },
+        {
+            q: "God's wisdom is found in God's _",
+            a: "will",
+        },
+        {
+            q: "God's value is not based on anything _",
+            a: "physical",
+        },
+        {
+            q: "_ is to stay glued to that will of God",
+            a: "Wisdom",
+        },
+        {
+            q: "Anything physical that fills up a man's mind more than God's will is a _",
+            a: "misplacement of priority",
+        },
+        {
+            q: "Don't go _ in search of things",
+            a: "crazy",
+        },
+        {
+            q: "A _ heart is that which is fixed on God's will",
+            a: "simple",
         },
     ]
 }

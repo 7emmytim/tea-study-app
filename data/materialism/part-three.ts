@@ -8,84 +8,60 @@ export const part_three = {
     slug: "materialism_three",
     questions: [
         {
-            q: "We have _ of things to be grateful for",
-            a: "patterns",
+            q: "Materialism is not primarily a _ problem but a _ problem.",
+            a: "money, value",
         },
         {
-            q: "The entire humanity can only be _ by Jesus",
-            a: "illuminated",
+            q: "Because we have one God then we don't have the luxury of _",
+            a: "options",
         },
         {
-            q: "Christ is not a _ killer",
-            a: "curiosity",
+            q: "God is _, man is the _",
+            a: "constant, variable",
         },
         {
-            q: "Man must now be willing to accept the _ and _ of Jesus as the clear checkmate of God's character",
-            a: "life, teachings",
+            q: "The speaker is _ by saying that God is _",
+            a: "confused, confused",
         },
         {
-            q: "Jesus is not giving man _ in terms of knowledge",
-            a: "appetizer",
+            q: "Knowing fully well that man must adjust to _ then man must know _",
+            a: "God's will, God's will",
         },
         {
-            q: "Jesus did not come to _ our appetite about the knowledge of God",
-            a: "wet",
+            q: "We have one God, one will, one _ and one _",
+            a: "action, solution",
         },
         {
-            q: "If you can't find it in Christ then it is not for you to _ and it is not about _",
-            a: "know, God",
+            q: "What you have in Christ is tied to _",
+            a: "the will of God",
         },
         {
-            q: "By coming to Christ, you have arrived at _",
-            a: "God",
+            q: "It is clear that God does not have an alternative _, it is always man that creates _ in refusing that constant will of God",
+            a: "will, options",
         },
         {
-            q: "To know _ is to know _ and to know Christ is to know _",
-            a: "God, Christ, Christ, God",
+            q: "Unbelief is a definite _ that you are not in God's will",
+            a: "proof",
         },
         {
-            q: "The _ God is known in Christ",
-            a: "unknown",
+            q: "The will of God is the _",
+            a: "will of God",
         },
         {
-            q: "Jesus was not claiming he was the _ of his own message",
-            a: "originator",
+            q: "The only determinant of whether you are in the will of God is the _",
+            a: "will of God",
         },
         {
-            q: "Jesus is the only begotten cos he is the only _ one",
-            a: "incarnate",
+            q: "If you focus on other things apart from the will of God to determine whether you are in the will of God, you will arrive at _",
+            a: "confusion",
         },
         {
-            q: "The purpose of him becoming a man is for ease of reception and not for us to _",
-            a: "disdain",
+            q: "Before _, the will of God has been there",
+            a: "wealth",
         },
         {
-            q: "Jesus' statement has to be that _ cos man always has the temptation to want to look for an alternative",
-            a: "absolute",
-        },
-        {
-            q: "Jesus being this absolute is to _ man",
-            a: "help",
-        },
-        {
-            q: "The intention to seek for alternative to seek other alternatives does not end at _",
-            a: "salvation",
-        },
-        {
-            q: "Even for the _ man, there's a temptation to say that Christ is not enough",
-            a: "saved",
-        },
-        {
-            q: "_ is what makes peddlers have supporters",
-            a: "itching ears",
-        },
-        {
-            q: "Christ died and resurrected is not just the _ of knowledge, it is the _ of knowledge",
-            a: "starting point, circumference",
-        },
-        {
-            q: "The honour of God is tied to the _ of Christ",
-            a: "service",
+            q: "Only the will of God is _, every other thing has a _ value",
+            a: "forever, temporary",
         },
     ]
 }

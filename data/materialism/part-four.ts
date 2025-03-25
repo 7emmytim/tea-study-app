@@ -8,68 +8,84 @@ export const part_four = {
     slug: "materialism_four",
     questions: [
         {
-            q: "Having a document in hand is _ idea and not _ idea",
-            a: "God's, man's",
+            q: "Knowledge must lead to the correct _",
+            a: "valuation",
         },
         {
-            q: "It was God that decided that man has a document of _",
-            a: "reference",
+            q: "What man is about is not just _. But you must be able to recognise what is more important",
+            a: "one thing",
         },
         {
-            q: "God's intention has never been for _ but for _",
-            a: "himself, man",
+            q: "You must be able to discern what deserves your uttermost _, _ and _",
+            a: "strength, attention, diligence",
         },
         {
-            q: "God's intention has always been for that intention to be _",
-            a: "handed down",
+            q: "One deception man gets caught up in is that he can do everything together at the same _ and _",
+            a: "pace, intensity",
         },
         {
-            q: "There's no man that is outside the _ of God",
-            a: "thought",
+            q: "Deception is called deception cos the consequences of your action is _",
+            a: "veiled from you",
         },
         {
-            q: "The _ man is not the one who needs to learn from his experiences",
-            a: "wise",
+            q: "_ changes but something must be seen through everything else",
+            a: "Physical circumstances",
         },
         {
-            q: "The advantage the Jews had was that they had the _ and they had the _",
-            a: "documentation, prophets",
+            q: "Jesus had to depend on the _ of people",
+            a: "generosity",
         },
         {
-            q: "The _ is not just tied to the documentation but to the essence of the documentation",
-            a: "reward",
+            q: "The will of God and _ are on two separate lines",
+            a: "physical circumstance",
         },
         {
-            q: "God is unchanging, fixed and _ in his intention",
-            a: "eternal",
+            q: "The duty of the believer is _",
+            a: "God's will",
         },
         {
-            q: "If there's any _ at all, you will see a man as the author of that _",
-            a: "deviation, deviation",
+            q: "It is not only Jesus that should have God's will as his _",
+            a: "business",
         },
         {
-            q: "The witness of the Father is _",
-            a: "the scriptures",
+            q: "Jesus was ready to honour _ in his ministry no matter who the person was",
+            a: "faith",
         },
         {
-            q: "_ were to give man awareness the intention of God and how it will play out",
-            a: "Scriptures",
+            q: "If it is from God then all can benefit no matter the _ they have in the physical",
+            a: "disadvantage",
         },
         {
-            q: "Giving of Spirit is not a responsibility of _ but of _",
-            a: "man, God",
+            q: "It is not a function of physical circumstances but _",
+            a: "God's will",
         },
         {
-            q: "When you cannot see or stick with this intention, it is called _",
-            a: "foolishness",
+            q: "The _ and _ need same thing",
+            a: "rich, poor",
         },
         {
-            q: "_ is to understand the intention of God in the scriptures",
-            a: "Wisdom",
+            q: "One thing that unites man is _",
+            a: "God's intention",
         },
         {
-            q: "it takes a full understanding of the entire scriptures for you to able to see the implication of a _",
-            a: "misinterpretation",
+            q: "To break the hold of _, you must know what truly matters",
+            a: "materialism",
+        },
+        {
+            q: "It is _ to choose what to be concerned about",
+            a: "your duty",
+        },
+        {
+            q: "It is your choice to _ and _ that one thing that is needfu",
+            a: "recognise, value",
+        },
+        {
+            q: "Life does not just happen, you _",
+            a: "choose",
+        },
+        {
+            q: "It is your choice to _ what to value",
+            a: "recognise",
         },
     ]
 }

@@ -8,116 +8,96 @@ export const part_seven = {
     slug: "materialism_seven",
     questions: [
         {
-            q: "_ is easy to understand cos you can see it",
-            a: "The body",
+            q: "Even the epistles _ and _ God invisible",
+            a: "recognise, calls",
         },
         {
-            q: "To try to distinguish spirit and soul by _, you will fall into error",
-            a: "mental analysis",
+            q: "Attempting to know God simply as a _ is not what the scriptures ask us to do",
+            a: "Spirit",
         },
         {
-            q: "Death does not mean it is not _",
-            a: "in existence",
+            q: "What you can know of the God who is _ is Christ",
+            a: "invisible",
         },
         {
-            q: "_ of life does not mean eternal life",
-            a: "Breathe",
+            q: "Jesus used _ to mirror that nature of God",
+            a: "the physical creation",
         },
         {
-            q: "The spirit of man relies on the body of man for expression or functionality, not for _",
-            a: "existence",
+            q: "God cannot be cursing men cos they cursed _",
+            a: "Abraham",
         },
         {
-            q: "The body relies on the spirit for its _",
-            a: "vitality",
+            q: "Jesus revealed God's character in _ and _",
+            a: "words, actions",
         },
         {
-            q: "_ is capacity to live and develop",
-            a: "vitality",
+            q: "God's nature is not in repayment of _ by _ but in _",
+            a: "evil, evil, mercy",
         },
         {
-            q: "Spiritual death will not be that man's spirit is _",
-            a: "deformed",
+            q: "It is man that is to change his action to _ God's character",
+            a: "mirror",
         },
         {
-            q: "if _ was the default setting of every man then it will be that it was so from the beginning",
-            a: "spiritual death",
+            q: "You must change your _ and _ from what you have been hearing if you are to _ God's character",
+            a: "thinking, action, reflect",
         },
         {
-            q: "death is not a _ agent or a self existing reality",
-            a: "solo",
+            q: "The fruits of the Spirit are the always _",
+            a: "character of God",
         },
         {
-            q: "man's response to temptation is _",
-            a: "endurance",
+            q: "When we see something contrary to _, we can reject it as the action of God",
+            a: "the fruit of the Spirit",
         },
         {
-            q: "God is _ that is why he cannot be tempted",
-            a: "fixed",
+            q: "_ is not the junction where we now make an exception to God's character",
+            a: "Money",
         },
         {
-            q: "God does not put obstacles on man's path for him to be _",
-            a: "swayed",
+            q: "There is no junction where _ stops being a way to judge God's character",
+            a: "the fruit of the Spirit",
         },
         {
-            q: "choice is why temptation is _ to man",
-            a: "common",
+            q: "You cannot make it an action of God if it does not _ God",
+            a: "glorify",
         },
         {
-            q: "the will of man makes him vulnerable to several _ and _",
-            a: "alternatives, possibilities",
+            q: "Your nature of the _ controls the action of the _",
+            a: "spirit, physical",
         },
         {
-            q: "your ability to choose creates _ for you",
-            a: "options",
+            q: "The actions that _ will bring out is different from the actions that _ will bring out",
+            a: "the spirit, the flesh",
         },
         {
-            q: "sin means _ options acted on by man as an alternative to God's fixed intention",
-            a: "appealing",
+            q: "If you are going to accredit any _ to give God the glory, it must not contradict the fruits of the spirit",
+            a: "increase of money",
         },
         {
-            q: "from Genesis, sin has always been in reference to that _",
-            a: "intention of God",
+            q: "Solomon was doing international _",
+            a: "trade by bater",
         },
         {
-            q: "we cannot say God is _ for giving man free will",
-            a: "wrong",
+            q: "_ cannot be God's hand",
+            a: "Oppression",
         },
         {
-            q: "you don't blame the presence of _ but rather the drawing away",
-            a: "choice",
+            q: "We cannot stamp every means of _ as God's work",
+            a: "increase",
         },
         {
-            q: "sin can only be sin when it is in _ with God's intention",
-            a: "variance",
+            q: "That _ that has happened to you will define your actions",
+            a: "salvation",
         },
         {
-            q: "once choice cannot be exercised then you cannot say a man has _",
-            a: "sinned",
+            q: "The character of God sets a _ to the actions of God",
+            a: "boundary",
         },
         {
-            q: "you cannot say a man is automatically dead at _",
-            a: "birth",
-        },
-        {
-            q: "you cannot say a baby in the womb has _",
-            a: "sin nature",
-        },
-        {
-            q: "death cannot consume the _",
-            a: "innocent",
-        },
-        {
-            q: "no man comes to earth with a preconceived knowlegde of _ and _",
-            a: "good, evil",
-        },
-        {
-            q: "unbelief does not affect the _",
-            a: "innocent",
-        },
-        {
-            q: "no man tthat comes into this world with the knowledge of _",
-            a: "life",
+            q: "If the character of God sets the boundary for _, then it should also set the boundary for _",
+            a: "God's action, you too",
         },
     ]
 }

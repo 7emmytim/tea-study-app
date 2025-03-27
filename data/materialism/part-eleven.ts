@@ -8,64 +8,156 @@ export const part_eleven = {
     slug: "materialism_eleven",
     questions: [
         {
-            q: "What a man does with the information in his _ is what determines what happens to his _",
-            a: "mind, spirit",
+            q: "The _ cause of materialism is a wrong value system",
+            a: "root",
         },
         {
-            q: "The _ is the primary seat of rebellion",
-            a: "mind",
+            q: "If you can get your value system to align with the word, you have cured _",
+            a: "materialism",
         },
         {
-            q: "Since _ is necessary for man to exercise his choice then God's only role will be to supply that _ that is necessary",
-            a: "information, information",
+            q: "God has created man's _ even before man came on the scene",
+            a: "role",
         },
         {
-            q: "Physical things were used by _ to explain the consequence of unbelief",
-            a: "the prophets",
+            q: "God's people are zealous for _",
+            a: "good works",
         },
         {
-            q: "A man's status of acceptance or rejection does not fade even after he is no longer _",
-            a: "around physically",
+            q: "God's intention for man's creation has already determined man's _ and it also defines _ about man",
+            a: "value, everything",
         },
         {
-            q: "God's word transcends man's physical _",
-            a: "lifespan",
+            q: "God's intention affects everything about man both _ and _",
+            a: "physically, spiritually",
         },
         {
-            q: "The man refusing to listen has _ that he is exploring",
-            a: "an alternative",
+            q: "Once your actions are not proceeding from that will of God, you have stepped into _",
+            a: "carnality",
         },
         {
-            q: "God's _ is seen in consistence, persistence",
-            a: "drawing",
+            q: "Prayer becomes _ based on the parties involved",
+            a: "spiritual",
         },
         {
-            q: "It is not a function of who brings it, it is a function of your _",
-            a: "response",
+            q: "_ is for the furtherance of the gospel and not cos you don't want stress",
+            a: "Quiet and peaceable life",
         },
         {
-            q: "_ removes hardness of heart",
-            a: "Prompt obedience",
+            q: "_ are the first beneficiary of your prayer",
+            a: "You",
         },
         {
-            q: "God's word is to ensure that what he is presenting to you is _",
-            a: "appealing",
+            q: "Your prayer will work _ and _ in you first",
+            a: "patience, tolerance",
         },
         {
-            q: "God's frequent coming is not to _",
-            a: "harden your heart",
+            q: "What is predominantly on your mind, that is what will determine what you _ about",
+            a: "are praying",
         },
         {
-            q: "God cannot use a man that is not _",
-            a: "willing",
+            q: "What you pray about by default mirrors your _",
+            a: "value",
         },
         {
-            q: "If God cannot save a man that is _, he also cannot use a man that is _ in service",
-            a: "not willing, not willing",
+            q: "If you don't expect that prayer can _ then you won't bother praying",
+            a: "make changes",
         },
         {
-            q: "We see God's persistence as a _ and not to harden you",
-            a: "show of love",
+            q: "Don't let circumstances push you to a corner of _",
+            a: "despair",
+        },
+        {
+            q: "Prayer must be without _ and it must not be cos of _",
+            a: "anxiety, anxiety",
+        },
+        {
+            q: "that state of being anxious can prevent you from receiving solution and that solution mostly comes as _ and _",
+            a: "instruction, direction",
+        },
+        {
+            q: "The first answer to the prayer is _",
+            a: "peace",
+        },
+        {
+            q: "A _ response to prayer is that your trust for God is strengthened",
+            a: "perfect",
+        },
+        {
+            q: "As a believer, when you are _, know that you are not trying to explore the boundaries of _",
+            a: "praying for needs, possibilities",
+        },
+        {
+            q: "You don't lose the boundaries of scriptures cos it is now about _",
+            a: "physical things",
+        },
+        {
+            q: "You must esteem higher the _ of the scriptures",
+            a: "expectation",
+        },
+        {
+            q: "In praying for physical things, you won't pray outside your _",
+            a: "value system",
+        },
+        {
+            q: "Don't use prayer and the supernatural to pancake _",
+            a: "selfishness",
+        },
+        {
+            q: "God does not have a _ in power or miracles",
+            a: "monopoly",
+        },
+        {
+            q: "The kind of job is not what is important, it is _ that is important",
+            a: "God's will",
+        },
+        {
+            q: "When you go outside this boundary of the scriptures, that is when _ and _ come in",
+            a: "greed, covetousness",
+        },
+        {
+            q: "God is not blinded to the _ of man",
+            a: "physical needs",
+        },
+        {
+            q: "The supernatural is one way God shows man that he has not _ man",
+            a: "abandoned",
+        },
+        {
+            q: "It is _ to God's will to turn prayer to a needs meeting machine",
+            a: "an insult",
+        },
+        {
+            q: "There is a _ that we attach to prayers and we can't switch it to physical needs",
+            a: "doggedness",
+        },
+        {
+            q: "We are serving God and not _ God",
+            a: "using",
+        },
+        {
+            q: "Your _ is seen in your relevance in God's will",
+            a: "value",
+        },
+        {
+            q: "God does not have any plan to waste any _",
+            a: "man's life",
+        },
+        {
+            q: "_ is not just a cliche",
+            a: '"I trust God"',
+        },
+        {
+            q: "You know when you trust God when a true test of _ is placed before you",
+            a: "value",
+        },
+        {
+            q: "Trusting God fully and going after God's value does not mean you will _",
+            a: "lose out in life",
+        },
+        {
+            q: "That confidence of answered prayers becomes a _ for the believer who doesn't understand the value of the will of God",
+            a: "curse",
         },
     ]
 }

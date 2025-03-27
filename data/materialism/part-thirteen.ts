@@ -8,64 +8,80 @@ export const part_thirteen = {
     slug: "materialism_thirteen",
     questions: [
         {
-            q: "A man can _ that irresistible grace",
-            a: "resist",
+            q: "Bible is not a _ material",
+            a: "complicated",
         },
         {
-            q: "God does not have absolute control over every _ and _ of man",
-            a: "event, action",
+            q: "First step in Bible comprehension is to first _ the material",
+            a: "read",
         },
         {
-            q: "What limits man's knowledge is _ and _",
-            a: "time, location",
+            q: "Parables are _ used to convey a meaning more than the words",
+            a: "illustrations",
         },
         {
-            q: "foreknowledge is not _",
-            a: "word of knowledge",
+            q: "Most times, it is the speaker of the parable that knows _",
+            a: "why he is giving you that parable",
         },
         {
-            q: "This predestination was done by God _ man, _ man but for man",
-            a: "outside, without",
+            q: "Use the _ intention to interpret the parable",
+            a: "speaker's",
         },
         {
-            q: "Foreknowledge is what _ God's predestination",
-            a: "aids",
+            q: "Every man has something to use in _",
+            a: "service",
         },
         {
-            q: "If salvation was a _ plan, it will mean that God did not know man meaning God was _",
-            a: "backup, reacting",
+            q: "Don't allow people's _ shift you from your duty as a minister",
+            a: "problem",
         },
         {
-            q: "_ is a limitation to God's power",
-            a: "choice",
+            q: "Jesus does not have an issue with men's _",
+            a: "wealth",
         },
         {
-            q: "Displaying of strength is always for man's _",
-            a: "assurance",
+            q: "when Jesus said we should be focused, it is not cos he is being _",
+            a: "insensitive",
         },
         {
-            q: "The knowledge of God's _ should never be what causes you fear",
-            a: "sovereignty",
+            q: "No one is too _ to be able to choose for God",
+            a: "poor",
         },
         {
-            q: "God never emphasised his strength for man's _ but rather for man's _",
-            a: "weakness, confidence",
+            q: "When you see an unsaved man that is wealthy and all you are seeing is his money, know that _",
+            a: "you have a problem",
         },
         {
-            q: "Same way salvation cannot be on your terms, _ cannot be on your terms",
-            a: "ministry",
+            q: "God does not live man helpless but you cannot use that as an anchor for _",
+            a: "prosperity",
         },
         {
-            q: "In _ and in _, you cannot have your way. Choosing to do so is rebellion",
-            a: "salvation, ministry",
+            q: "Your _ should not be your reason for chasing Christ",
+            a: "sustenance",
         },
         {
-            q: "A man that recognises that God is sovereign in _ and _ will not seek to be an equal player in the field",
-            a: "salvation, ministry",
+            q: "We should have the proper response to _",
+            a: "a miracle",
         },
         {
-            q: "Some things are _ you but it is for your good and not to enslave you",
-            a: "beyond",
+            q: "Don't focus on a miracle but on _",
+            a: "Christ",
+        },
+        {
+            q: "Attention given to one thing takes away _ from another",
+            a: "mastery",
+        },
+        {
+            q: "_ is to tempt God",
+            a: "Wrong BI",
+        },
+        {
+            q: "_ is not as powerful as the choice of man",
+            a: "The devil",
+        },
+        {
+            q: "You have a tool to _ the devil and that is your choice",
+            a: "outsmart",
         },
     ]
 }

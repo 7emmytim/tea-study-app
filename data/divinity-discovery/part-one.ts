@@ -8,6 +8,18 @@ export const part_one = {
     slug: "divinity_discovery_one",
     questions: [
         {
+            q: "If ever it gets to a point where the power at work in you gets powerless, know that _ caused it",
+            a: "you",
+        },
+        {
+            q: "If ever it gets to a point where the power at work in you gets powerless, know that _ caused it",
+            a: "you",
+        },
+        {
+            q: "If ever it gets to a point where the power at work in you gets powerless, know that _ caused it",
+            a: "you",
+        },
+        {
             q: "Unity talks about _",
             a: "agreement",
         },

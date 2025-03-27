@@ -8,184 +8,112 @@ export const part_one = {
     slug: "divinity_discovery_one",
     questions: [
         {
-            q: "If ever it gets to a point where the power at work in you gets powerless, know that _ caused it",
-            a: "you",
+            q: "As men often times, we face the temptation of rejecting _ as sufficient",
+            a: "simplicity",
         },
         {
-            q: "If ever it gets to a point where the power at work in you gets powerless, know that _ caused it",
-            a: "you",
+            q: "that something is simple, does not mean _ or _",
+            a: "degrading, ordinary",
         },
         {
-            q: "If ever it gets to a point where the power at work in you gets powerless, know that _ caused it",
-            a: "you",
+            q: "That something is _ does not mean it is powerful",
+            a: "complicated",
         },
         {
-            q: "Unity talks about _",
-            a: "agreement",
+            q: "Complicated does not equal _",
+            a: "power",
         },
         {
-            q: "There's an agreement we must all have in the _",
-            a: "faith",
+            q: "One of the greatest attributes of God for a universal man is that God is _",
+            a: "mysterious",
         },
         {
-            q: "There's a complete knowledge of Christ for all men to attain to whether they are _ or not",
-            a: "believers",
+            q: "If you discard _, knowing God will be impossible for you",
+            a: "simplicity",
         },
         {
-            q: "It is _ that we must all believe the same thing",
-            a: "compulsory",
+            q: "If you are seeking complication, most times you will _",
+            a: "miss God",
         },
         {
-            q: "It was a joint _ that birthed Christianity",
-            a: "belief",
+            q: "God actually has one _",
+            a: "covenant",
         },
         {
-            q: "_ must be handed down",
-            a: "Truth",
+            q: "If you are on a lookout for God's word, you will not be carried away by _ manifestations",
+            a: "spectacular",
         },
         {
-            q: "Clarity brings _",
-            a: "certainty",
+            q: "The word is what dictates the _ of God",
+            a: "presence",
         },
         {
-            q: "It is not _ to say we must all believe the same thing",
-            a: "strange",
+            q: "You cannot always know God in the midst of _",
+            a: "complications",
         },
         {
-            q: "Scriptures is a documentation of a _ belief",
-            a: "joint",
+            q: "God has designed how the knowledge of divinity will be _ or _",
+            a: "comprehended, discovered",
         },
         {
-            q: "Our _ is jointly held",
-            a: "Christianity",
+            q: "God's terms are that the path of _ will be simplicity",
+            a: "divinity discovery",
         },
         {
-            q: "The pride in Christianity is the fact that you are _",
-            a: "not alone in this",
+            q: "God does not design _ action",
+            a: "man's",
         },
         {
-            q: "It is clear that in doctrine, there is no _",
-            a: "middle ground",
+            q: "Your own _ will determine whether discovering God will be possible or not",
+            a: "choice",
         },
         {
-            q: "_ is not something that is peculiar to a particular sect",
-            a: "Divinity Discovery",
+            q: "Saying God chooses those that will _ him is to say that God chooses those who will _",
+            a: "understand, believe",
         },
         {
-            q: "Don't leave the truth of scriptures and be _ a person",
-            a: "attacking/confronting",
+            q: "Every man will get to the point where he will need to decide whether he will be in the category of _ or the category of _",
+            a: "wise and prudent, babes",
         },
         {
-            q: "It is not _, it is about what the Bible is saying",
-            a: "I am saying",
+            q: "One attribute of the wise and prudent is _",
+            a: "pride",
         },
         {
-            q: "_ here is not suggestions",
-            a: "Truth",
+            q: "The word _ and _ most times talks about that simplicity",
+            a: "babes, suckling",
         },
         {
-            q: "Truth in the scriptures are meant to be understood and accepted _ and _",
-            a: "unconditionally, totally",
+            q: "Let it be your reception of what God said that made you _",
+            a: "wise",
         },
         {
-            q: "Even the _ of big men of God must not change that truth that you have believed",
-            a: "experiences",
+            q: "Don't be _ before you have received but after you have received",
+            a: "wise",
         },
         {
-            q: "That truth of the scriptures is primary whether you have _ or not",
-            a: "eye witness account",
+            q: "The scripture does not have an issue with _ but it is saying that _ comes from the knowledge of God",
+            a: "wisdom, wisdom",
         },
         {
-            q: "The role of the _ is to say that this thing happened as scripture said",
-            a: "eyewitness",
+            q: "Before God, accept the title of a _ man",
+            a: "simple",
         },
         {
-            q: "Eyewitness accounts are not independent of _, they are simply confirming the event as _",
-            a: "the scriptures, fulfilled",
+            q: "The result of rejecting this simplicity is what the Bible calls _",
+            a: "labour",
         },
         {
-            q: "We must respect that source and that _",
-            a: "inspiration",
+            q: "As a believer, you have already chosen the path of _",
+            a: "foolishness",
         },
         {
-            q: "we have a responsibility of _ to the scriptures",
-            a: "taking heed",
+            q: "Don't be the one who cannot see God working in _ situations and _ undertakings",
+            a: "simple, quiet",
         },
         {
-            q: "Taking heed connotes _, _",
-            a: "reverence, carefulness",
-        },
-        {
-            q: "_ will not have the God-given effect on you if you don't understand the scriptures",
-            a: "The spectacular",
-        },
-        {
-            q: "There's a _ effect that the supernatural should have",
-            a: "God-given",
-        },
-        {
-            q: "For us to make progress in comprehension, we must honour the _",
-            a: "scriptures",
-        },
-        {
-            q: "The intention of the scripture must be fully _ and _",
-            a: "known, respected",
-        },
-        {
-            q: "There is a _ in the scriptures",
-            a: "wisdom",
-        },
-        {
-            q: "We have the scriptures to one _ alone",
-            a: "intention",
-        },
-        {
-            q: "Salvation which is the intention of scriptures _ the Bible to us",
-            a: "unlocks",
-        },
-        {
-            q: "If you want to understand the Bible you must understand _",
-            a: "salvation",
-        },
-        {
-            q: "_ means simplicity to receive the word",
-            a: "Poor in spirit",
-        },
-        {
-            q: "Meekness talks about _. A _",
-            a: "humility, mild disposition",
-        },
-        {
-            q: "You see the _ declaring his intention, _ making it plain and the _ explaining it in the epistles",
-            a: "Bible, Christ, apostles",
-        },
-        {
-            q: "After receiving the word with humility, _ should follow it",
-            a: "repentance",
-        },
-        {
-            q: "_ triggers repentance",
-            a: "The word",
-        },
-        {
-            q: "_ accompanies a sincere reception of the word",
-            a: "Repentance",
-        },
-        {
-            q: "We must see _ in your delivery",
-            a: "patience",
-        },
-        {
-            q: "You must never get to the point where you feel you have _",
-            a: "attained",
-        },
-        {
-            q: "Your _ will change men watching you",
-            a: "actions",
-        },
-        {
-            q: "_ talks about singleness of focus",
-            a: "Pure in heart",
-        },
+            q: "Don't lose out on things that will _ you cos it doesn't meet your standard of the _",
+            a: "bless, spectacular",
+        }
     ]
 }

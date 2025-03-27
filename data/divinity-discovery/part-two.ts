@@ -8,140 +8,84 @@ export const part_two = {
     slug: "divinity_discovery_two",
     questions: [
         {
-            q: "The scriptures have a specific purpose and it _ that purpose",
-            a: "tells us",
+            q: "The _ we have today is an offshoot of man's search to find God",
+            a: "diverse religions",
         },
         {
-            q: "If you want to understand _, consult the scriptures",
-            a: "salvation",
+            q: "The desire to search out God is not a _ undertaking",
+            a: "wrong",
         },
         {
-            q: "The scriptures rightly interpreted is a _ to salvation through faith which is in Christ Jesus",
-            a: "guide/roadmap",
+            q: "You cannot _ a man who embarks on a search for God",
+            a: "blame",
         },
         {
-            q: "The salvation is in _ and not in the _",
-            a: "Christ, scriptures",
+            q: "When we talk about divinity discovery, it is what every man should _",
+            a: "do",
         },
         {
-            q: "The man who will understand God will see scriptures as over and above his _",
-            a: "G.O",
+            q: "The _ and _ of man in his search for God is fundamental to the answer he will receive",
+            a: "sincerity, simplicity",
         },
         {
-            q: "We are all tremble before the word than before the _",
-            a: "G.O",
+            q: "Once you are _ for the wrong thing, you will _ the wrong conclusion",
+            a: "searching, arrive at",
         },
         {
-            q: "One major thing that triggers legalism is a _ desire to please God",
-            a: "deep-seated",
+            q: "You cannot have your own _ parameters",
+            a: "search",
         },
         {
-            q: "A desire to please God is _ in every man",
-            a: "ingrained",
+            q: "The use of the word mystery is usually a shield people use when they don't want to _",
+            a: "explain things",
         },
         {
-            q: "Man did not create himself no matter how he much man tries to _ it",
-            a: "deny",
+            q: "Today, you cannot tag God's counsel as a _",
+            a: "mystery",
         },
         {
-            q: "Every man is created to give God _",
-            a: "pleasure",
+            q: "The mystery is found in what Paul as writing and we will get it by _",
+            a: "reading",
         },
         {
-            q: "Looking at _ alone makes you know that you have to have a purpose more than this",
-            a: "creation",
+            q: "When we read Paul, we are reading _ uncovered, _ explained",
+            a: "mysteries, mysteries",
         },
         {
-            q: "The average man that does not want to recognise the _ over him will look or ever other thing to supress that yearning to seek God",
-            a: "lordship of God",
+            q: "What was kept secret was the revelation and not the _",
+            a: "mystery",
         },
         {
-            q: "Many persons who say there is no God, they do it cos of too much _",
-            a: "analysis",
+            q: "Genesis to Malachi is a documentation of the search of the prophets but not a documentation of _",
+            a: "comprehension",
         },
         {
-            q: "God has the final say cos he is the _",
-            a: "creator",
+            q: "You can't go to Genesis to Malachi to search for the _ of the prophets",
+            a: "understanding",
         },
         {
-            q: "You can call the book of Ecclesiastes a _ of a man who attempts to _ that intention of God by using other tools of rebellion to fill it",
-            a: "journey, supress",
+            q: "All the prophets had was a _ but we now have the revelation",
+            a: "search",
         },
         {
-            q: "Ecclesiastes summarises the pathway of a man who exists _",
-            a: "only for himself",
+            q: "It is not a sign of _ to say something is a mystery.",
+            a: "depth",
         },
         {
-            q: "Desiring to please God is not a _",
-            a: "weakness",
+            q: "How can a man be a steward of the mysteries of God?",
+            a: "being able to explain what has been written",
         },
         {
-            q: "Thinking that pleasing God is a weakness is a _ on its own",
-            a: "deception",
+            q: "Every minister is a steward of God's _",
+            a: "mystery",
         },
         {
-            q: "Acknowledging a creator of creation is proof that you need to _",
-            a: "seek him",
+            q: "There is no special _ to claim",
+            a: "mystery",
         },
         {
-            q: "It is _ to make a mockery of any man who has a desire to please God",
-            a: "foolish",
-        },
-        {
-            q: "Some people will carry out certain actions and conclude that it please God based on _",
-            a: "assumptions",
-        },
-        {
-            q: "Once you assume, the endpoint of that assumption is always _",
-            a: "disappointment",
-        },
-        {
-            q: "God knows what he wants, don't _ for him",
-            a: "assume",
-        },
-        {
-            q: "Best _ do not substitute God's desire",
-            a: "intentions",
-        },
-        {
-            q: "God will not endorse your actions cos your heart was _",
-            a: "sincere",
-        },
-        {
-            q: "If your action was not _ in the first place, it won't be endorsed even if you did it _",
-            a: "sanctioned, sincerely",
-        },
-        {
-            q: "Do what is _ and not what you think is needed",
-            a: "required",
-        },
-        {
-            q: "You can be sincere and still be _. You can be sincere and all your effort will be _",
-            a: "wrong, wasted",
-        },
-        {
-            q: "The man who wants to please God must not be mocked but must be _",
-            a: "pointed in the right direction",
-        },
-        {
-            q: "_ do not perfect what is lacking in the first place",
-            a: "Good intentions",
-        },
-        {
-            q: "Don't be a _ of priority error",
-            a: "victim",
-        },
-        {
-            q: "Sincertiy is still based on things that are _",
-            a: "excellent",
-        },
-        {
-            q: "God's pleasure judges my _",
-            a: "sincerity",
-        },
-        {
-            q: "I don't sacrifice God's pleasure on the altar of _",
-            a: "sincerity",
+            q: "God is _ and the path to know God is _",
+            a: "simple",
         }
     ]
 }

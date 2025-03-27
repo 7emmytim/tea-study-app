@@ -8,108 +8,88 @@ export const part_three = {
     slug: "divinity_discovery_three",
     questions: [
         {
-            q: "Some people now see God as a _",
-            a: "dictator",
+            q: "DD (Divinity discovery) is a path of _",
+            a: "simplicity",
         },
         {
-            q: "when it comes to God's pleasure, God is the first _",
-            a: "actor",
+            q: "You cannot get to the limit of God's _",
+            a: "omnipotence",
         },
         {
-            q: "God did not create man to figure how we should _",
-            a: "please him",
+            q: "God's counsel does not follow man's own _",
+            a: "progression",
         },
         {
-            q: "God is not interested in all the thousands of _",
-            a: "sacrifices",
+            q: "To receive what God will give, you need to come _",
+            a: "empty",
         },
         {
-            q: "Pleasing God is as _ by him",
-            a: "required",
+            q: "If you analyse _, you will not get to the end of it",
+            a: "creation",
         },
         {
-            q: "For the legalistic man, the first question is _",
-            a: "who requested the things you are doing",
+            q: "Those display in _ is a minute part of God",
+            a: "creation",
         },
         {
-            q: "What God values is man's response to his _ and _",
-            a: "words, instruction",
+            q: "_ is a minute part of who God is",
+            a: "The physical",
         },
         {
-            q: "There are _ things that God requires",
-            a: "specific",
+            q: "In Christ, we are sure of partaking in this _ nature of God",
+            a: "never-ending",
         },
         {
-            q: " God will show man what he wants by _",
-            a: "demonstration",
+            q: "What cannot be searched out is God's _",
+            a: "age",
         },
         {
-            q: "God has a pleasure but he _ it first",
-            a: "pioneered",
+            q: "God's capability to understand is not _",
+            a: "limited",
         },
         {
-            q: "The testimony concerning Christ is that he does _",
-            a: "God's pleasure",
+            q: "We don't see God placing a disclaimer on himself that _",
+            a: "he cannot be known",
         },
         {
-            q: "Christ is God in the flesh doing his own _",
-            a: "pleasure",
+            q: "even in the first books of the Bible, _ was a possibility",
+            a: "knowing God",
         },
         {
-            q: "God did his own _ through Christ",
-            a: "pleasure",
+            q: "He always ties the knowledge of himself to _",
+            a: "actions",
         },
         {
-            q: "The _ of Christ was seen as fit to do God's pleasure",
-            a: "person",
+            q: "man's duty is to analyse the _ and in doing that, he will _",
+            a: "actions, know God",
         },
         {
-            q: "The notion of _ is something that comes at a cost",
-            a: "sacrifice",
+            q: "You will find the knowledge of God in his _",
+            a: "actions",
         },
         {
-            q: "The reason why the efforts will crash is cos it was not _",
-            a: "God-required",
+            q: "The knowledge of God's ways is part of the _ that follows",
+            a: "glory",
         },
         {
-            q: "God put the burden of _ on himself first before telling man to _",
-            a: "pleasing, please him",
+            q: "What we have based on the _ and _ is an eruption of the accurate knowledge of God's ways",
+            a: "incarnation, resurrection",
         },
         {
-            q: "Pleasing God was not meant to be a weight that _ man. It was meant to be an appreciation of God's _ and _",
-            a: "cripples, mercy, love",
+            q: "The new creation can know God _ and _",
+            a: "fully, accurately",
         },
         {
-            q: "Attempting to please someone who you are sure about their love for you is always a _. It will always look _",
-            a: "burden, unfair",
+            q: "When you hear 'know God', that points you to his _",
+            a: "ways",
         },
         {
-            q: "Jesus gave us a standard of _",
-            a: "love",
+            q: "The person who insists on knowing God outside the boundary God has set as touching what we should know about God a _",
+            a: "fool",
         },
         {
-            q: "In looking at God, you will see his _ and _",
-            a: "effort, love",
-        },
-        {
-            q: "This action of Christ's death is a demonstration of _",
-            a: "love",
-        },
-        {
-            q: "The death of Christ is _ to man",
-            a: "an appeal",
-        },
-        {
-            q: "Except you are a _, this sacrifice of Christ is meant to make you pause and consider that this person loves you",
-            a: "devil",
-        },
-        {
-            q: "When you don't see the _, pleasing then becomes a burden",
-            a: "love",
-        },
-        {
-            q: "Don't be quick to mock or laugh at a _, it is born from a deep-seated _ desire",
-            a: "legalist, sincere",
+            q: "The scriptures do not say God is unsearchable or can't be known, rather scriptures is telling you _",
+            a: "what to know about God",
         },
     ]
 }

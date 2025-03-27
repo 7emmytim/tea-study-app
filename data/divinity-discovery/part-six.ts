@@ -8,136 +8,136 @@ export const part_six = {
     slug: "divinity_discovery_six",
     questions: [
         {
-            q: "All of us come to bow before scriptures, we don't bow to _ or _",
-            a: "emotions, tales",
+            q: "One major reason for the different religions in the world is that _",
+            a: "search for God",
         },
         {
-            q: "Everyone submits to the scriptures including _",
+            q: "The reason we now have different sects in Christianity is men's attempt to understand God _",
+            a: "outside Christ",
+        },
+        {
+            q: "The Holy Spirit is not a bringer of _",
+            a: "new revelation",
+        },
+        {
+            q: "If it is in _ then it is in _",
+            a: "God, Christ",
+        },
+        {
+            q: "You can talk about salvation and not teach about salvation as _",
+            a: "an in Christ reality",
+        },
+        {
+            q: "You can teach something in the scripture and yet teach it outside _",
             a: "Christ",
         },
         {
-            q: "God did not show that he was above _",
-            a: "the scriptures",
+            q: "_ or _ is not what God did in Christ so to say the Spirit revealed it is a lie",
+            a: "Temporary salvation, generational curse",
         },
         {
-            q: "Christ submitted to the scriptures to show that it is _",
-            a: "binding",
+            q: "God did not give us _ or _ in Christ",
+            a: "bondage, generational curses",
         },
         {
-            q: "The _ and _ of Jesus were the fulfilment of scriptures",
-            a: "words, actions",
+            q: "We do not see _ as part of our heavenly realities",
+            a: "generational curses",
         },
         {
-            q: "Jesus _ all the prophets said about God",
-            a: "inherited",
+            q: "What the Spirit still reveals today is _ and _",
+            a: "the suffering, the glory that follows",
         },
         {
-            q: "The prophecy that does not have Christ as the focus is not a _",
-            a: "prophecy",
+            q: "The revelation of God that we _ is as touching Christ",
+            a: "honour",
         },
         {
-            q: "Jesus might not have met your expectations but he _",
-            a: "fulfilled the scriptures",
+            q: "If your revelation does not point us to God's will revealed in Christ, you are calling yourself a _",
+            a: "false prophet",
         },
         {
-            q: "The _ were the yardstick to measure Christ's performance",
-            a: "scriptures",
+            q: "A prophet is not just one that can do _",
+            a: "signs and wonders",
         },
         {
-            q: "As a believer you must be mindful of what the prophets _ concerning Christ and also what the apostles _",
-            a: "said, explained",
+            q: "If his vision is to lead you away from God then he is _",
+            a: "false",
         },
         {
-            q: "Scriptures are not a _ of a man that is why you can trust it",
-            a: "fabrication",
+            q: "How do you point men away from God?",
+            a: "when you disdain all that God has done in Christ",
         },
         {
-            q: "_ is to say accept my person",
-            a: "Forgive me",
+            q: "The test of _ is that he speaks concerning Christ",
+            a: "a prophet",
         },
         {
-            q: "You cannot say you believe the _ and reject the _ that is to be found in Christ alone",
-            a: "Bible, acceptance",
+            q: "Failure to uphold the boundary of God in Christ is to _",
+            a: "disdain Christ",
         },
         {
-            q: "The scriptures that spoke about what Christ _ also spoke about the _ of what he has done",
-            a: "will do, certainty",
+            q: "The revelation of God is also termed _",
+            a: "eternal life",
         },
         {
-            q: "The only _ that had a covenant that God established is Christ",
-            a: "priest",
+            q: "Anyone who attempts to find anything else outside Christ is calling God a _",
+            a: "liar",
         },
         {
-            q: "God made Jesus a _ by an oath",
-            a: "high priest",
+            q: "To believe God's _, you must believe all he has said concerning the Son",
+            a: "record",
         },
         {
-            q: "_ made Aaron a high priest",
-            a: "The law",
+            q: "You can believe the _ and still speak against the Christ",
+            a: "incarnation",
         },
         {
-            q: "No _ of man can bring perfection",
-            a: "establishment",
+            q: "Denying the _ is not all to say concerning the Christ",
+            a: "incarnation",
         },
         {
-            q: "_ was an establishment of man",
-            a: "The Levitical priesthood",
+            q: "A denial of anything Jesus represent is _",
+            a: "evil",
         },
         {
-            q: "Those who believe in Christ will receive _ inheritance",
-            a: "an eternal",
+            q: "What does Jesus represent as touching DD?",
+            a: "he is the limit of the knowledge of God",
         },
         {
-            q: "_ is required for man's accetance",
-            a: "nothing else",
+            q: "Many have pitched a tent against Christ without _",
+            a: "knowing",
         },
         {
-            q: "The book of Hebrews is a defence to show that the work of Christ is _ and _",
-            a: "perfect, lacking nothing",
+            q: "The indwelling is what will make revelation _",
+            a: "complete",
         },
         {
-            q: "You _ God when you see all Christ has done as insufficient to grant you full acceptance",
-            a: "demean",
-        },
-        {
-            q: "David called the new creature _",
-            a: "blessed",
-        },
-        {
-            q: "The believer today enjoys freely that _ which the prophets lacked",
-            a: "perfection",
-        },
-        {
-            q: "Righteousness is described as a _",
-            a: "gift",
-        },
-        {
-            q: "_ is described as something that God dashed man",
-            a: "righteousness",
-        },
-        {
-            q: "God dashed man _",
-            a: "righteousness",
-        },
-        {
-            q: "There's nothing you do not currently have as a man in _",
+            q: "The glory of Christ is still attached to _",
             a: "Christ",
         },
         {
-            q: "In the new creation, God displayed his _",
-            a: "perfection",
+            q: "You cannot have any revelation today that ridicules _",
+            a: "the church",
         },
         {
-            q: "Comprehend the _ and all your questions will be answered",
-            a: "new creation",
+            q: "The glory that follows is the business of _ today",
+            a: "the HG",
         },
         {
-            q: "The new creation is God's _ personified",
-            a: "perfection",
+            q: '_ is another rendition of "the sufferings of Christ and glory that should follow"',
+            a: '"Salvation through faith in Christ Jesus"',
         },
         {
-            q: "You are sharing the same nature with God, that is the level of _",
-            a: "acceptance",
+            q: "The only relevance of _ today is to reveal Christ",
+            a: "revelation knowledge",
+        },
+        {
+            q: "That race to sound deep and mysterious is a _",
+            a: "fantasy",
+        },
+        {
+            q: "I don't become _ without knowing in attempt to sound revy",
+            a: "an antichrist",
         },
     ]
 }

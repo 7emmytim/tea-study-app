@@ -8,108 +8,152 @@ export const part_four = {
     slug: "divinity_discovery_four",
     questions: [
         {
-            q: "The man doing something so he can be _ has sent himself on his own errand",
-            a: "accepted before God",
+            q: "_ is the limit for the believer",
+            a: "Christ",
         },
         {
-            q: "God's pleasure is in _ and also man wants to be _",
-            a: "righteousness, acceptable",
+            q: "Why people attack the grace message is cos they feel it is not _",
+            a: "balanced",
         },
         {
-            q: "Even though God wants man _, scriptures make it clear that man's _ does not please God",
-            a: "righteous, righteousness",
+            q: 'instead of saying "I am looking for a part of God", pick _',
+            a: "Christ",
         },
         {
-            q: "If man is attempting to make his own way perfect or acceptable before God, all those efforts do not _ God",
-            a: "profit",
+            q: "Once you are in Christ, know you have been saved from _",
+            a: "self",
         },
         {
-            q: "God doesn't take any delight in man's _",
-            a: "effort",
+            q: "I am in Christ _, I am in Christ _",
+            a: "satisfied, fulfilled",
         },
         {
-            q: "It is not the _ of man's effort that makes him acceptable before God",
-            a: "magnitude",
+            q: "You don't need to know _ about someone before you can say you know someone",
+            a: "every detail",
         },
         {
-            q: "No matter how huge or small it is, if the action is done based on a _ basis for acceptance, it has failed",
-            a: "self-generated",
+            q: "Most times the information people chase after in trying to know someone is _",
+            a: "unnecessary",
         },
         {
-            q: "Cos man is not free from _ so every of his attempt cannot be acceptable",
-            a: "guilt",
+            q: "The ministry of Jesus births the most intimate of _",
+            a: "relationships",
         },
         {
-            q: "If you yourself are not _ then all of your actions cannot be _",
-            a: "acceptable, acceptable",
+            q: "To know God is to understand his _",
+            a: "thoughts",
         },
         {
-            q: "man is temporary so he cannot bring about what is _ or _",
-            a: "permanent, eternal",
+            q: "All of God's action is a function of his _",
+            a: "will",
         },
         {
-            q: "Man as a person cannot be relied upon to birth something _",
-            a: "perfect",
+            q: "If I know God's will then I can trace his _. His _ point men to his will",
+            a: "actions, actions",
         },
         {
-            q: "All of man's _ cannot help him",
-            a: "effort",
+            q: "If we want to look at the infinite nature of God, he cannot be _",
+            a: "known",
         },
         {
-            q: "God has judged all of man's effort for justification as _, as _",
-            a: "vain, useless",
+            q: "The understanding of Christ is the _ with which we can see God",
+            a: "lens",
         },
         {
-            q: "The best of all of man's effort will not _",
-            a: "satisfy",
+            q: "Trying to look for the knowledge of God outside Christ is to be like _",
+            a: "Philip",
         },
         {
-            q: "We have God's _ and God's _. We have man's _ and man's _",
-            a: "righteousness, effort, righteousness, effort",
+            q: "If you can _ then Christianity is a fluke",
+            a: "know God outside Christ",
         },
         {
-            q: "God wants _ for man but it will be any kind of _ but his own _",
-            a: "righteousness, righteousness, righteousness",
+            q: "The word of God that Christ is bringing is not _ comprehension",
+            a: "limited",
         },
         {
-            q: "_ refers to the strong willed",
-            a: "Stouthearted",
+            q: "All those parts that the prophets had set forth only _ in Christ",
+            a: "comes together",
         },
         {
-            q: "The man who is strong willed is far from _",
-            a: "righteousness",
+            q: "If it is not _ revealed then it is not _ unveiled",
+            a: "Christ, God",
         },
         {
-            q: "_ is embedded in prophecy to be disclosed",
-            a: "God's righteousness",
+            q: "When a man tries to navigate the knowledge of God outside Christ is _",
+            a: "labour",
         },
         {
-            q: "God's righteousness will _ everything on earth",
-            a: "outlive",
+            q: "The learning of Christ is easy compared to the _",
+            a: "alternatives",
         },
         {
-            q: "Once you say you are part of God's people, your status will be _",
-            a: "righteousness",
+            q: "If you have arrived in Christ then there is nothing to _ to",
+            a: "progress",
         },
         {
-            q: "The beneficiaries of God's righteousness will be referred to as _",
-            a: "God's own",
+            q: "Every glory you will get is based on that _ that you have received",
+            a: "Christ",
         },
         {
-            q: "One thing we must see accompanying that righteousness will be _ and _",
-            a: "gratitude, joy",
+            q: "Trying to see beyond Christ for something else is a _ gratification",
+            a: "carnal",
         },
         {
-            q: "If you cannot find it in your heart to always be grateful to God for justification and righteousness, it means your efforts are _",
-            a: "overwhelming you",
+            q: "There is a God-given _",
+            a: "curiosity",
         },
         {
-            q: "If you are in God's righteousness, we will see joy but if you are in yours, there might be _, _ or _",
-            a: "sorrow, weariness, heaviness",
+            q: "If you have submitted to Christ for salvation then you must also submit to Christ for _",
+            a: "the revelation of God",
         },
         {
-            q: "The legalist will be _ in an endless cycle of his own effort for justification and there will no _ or _ cos the God you want to please has his own righteousness",
-            a: "trapped, assurance, satisfaction",
+            q: "Once you say there is something beyond Christ it means you are saying there is a _ in Christ",
+            a: "deficiency",
+        },
+        {
+            q: "If you are alluding to a _ in Christ then you are on your own",
+            a: "deficiency",
+        },
+        {
+            q: "Man likes to add his own _ to things",
+            a: "tweak",
+        },
+        {
+            q: "We are saved to stay/serve in the _",
+            a: "boundary of Christ",
+        },
+        {
+            q: "We limit all of _ endeavours to Christ cos God already _ it",
+            a: "divinity, limited",
+        },
+        {
+            q: "When you don't stick with Christ, who are you trying to please?",
+            a: "definitely not God",
+        },
+        {
+            q: "God's way is _",
+            a: "Christ",
+        },
+        {
+            q: "You don't do God any service by trying to _ God",
+            a: "complicate",
+        },
+        {
+            q: "You are not helping God when you are trying to make him sound _",
+            a: "complicated",
+        },
+        {
+            q: "To know God is not in having _ but in knowing Christ",
+            a: "all the details",
+        },
+        {
+            q: "The things that Jesus gave God _ for should also be enough for you to give _",
+            a: "gratitude, thanks for",
+        },
+        {
+            q: "The knowledge of divinity is God's highest _ for man",
+            a: "privilege",
         },
     ]
 }

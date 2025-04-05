@@ -8,244 +8,144 @@ export const part_eight = {
     slug: "divinity_discovery_eight",
     questions: [
         {
-            q: "The new creation is God's _ personified",
-            a: "perfection",
+            q: "Angels are usually credited with _",
+            a: "the mysterious",
         },
         {
-            q: "You are sharing the same nature with God, that is the level of _",
-            a: "acceptance",
+            q: "Most times, we see persona hailing angels as the source of _",
+            a: "deep things",
         },
         {
-            q: "Another thing you need to explain to the man looking for assurance is that _ is required",
-            a: "faith",
+            q: "Many have also used _ manifestation as a form of ministry validation",
+            a: "angelic",
         },
         {
-            q: "God determined that it will be by _ even before man came on the scene",
-            a: "faith",
+            q: "Some also see the communication with angels as superior in _",
+            a: "knowing God/in revealing divinity",
         },
         {
-            q: "divinity_discovery is a summary of every of _ to be accepted before God",
-            a: "man's effort",
+            q: "_ is not an angel",
+            a: "God",
         },
         {
-            q: "For the singular _ of believing, a man receives all that Christ has done",
-            a: "price",
+            q: "What angels do is that they echo the understanding of men about that message across the ages to aid _ and the _ of the message",
+            a: "continuity, realisation",
         },
         {
-            q: "In the gospel, we see God's righteousness _",
-            a: "explained",
+            q: "An angel is only worthy of being called an angel if he speaks in line with _",
+            a: "the message of Christ",
         },
         {
-            q: "The _ tells us how God's righteousness can be accepted",
-            a: "gospel",
+            q: "The _ of an angel should not make anyone feel superior",
+            a: "visitation",
         },
         {
-            q: "The righteousness of God does not have a place for _",
-            a: "man's effort",
+            q: "An angel will not _, _ the authority and supremacy of that revelation of Christ",
+            a: "usurp, ridicule",
         },
         {
-            q: "In the sight of God, there is _ justification or acceptance by obeying rules",
-            a: "zero",
+            q: "An angel is the _ of the testimony of Christ",
+            a: "servant",
         },
         {
-            q: "Once you are trying to come before God by self-effort, there is a stamp on _ that you have come short",
-            a: "your head",
+            q: "Every godly _ influence as it relates to the revelation of God still circles around Christ",
+            a: "supernatural",
         },
         {
-            q: "God's _ for the man in Christ is righteousness",
-            a: "conclusion",
+            q: "Once you can be _, that is superior to any depth of revelation",
+            a: "clear",
         },
         {
-            q: "The law's _ is that you have come short",
-            a: "conclusion",
+            q: "The revelation of Christ is the _ of DD",
+            a: "peak",
         },
         {
-            q: "AB set a precedence to show that we don't need physical _ for acceptance",
-            a: "circumcision",
+            q: "It is _ for believers to read their Bible",
+            a: "normal",
         },
         {
-            q: "It is impossible for any man to gain acceptance by efforts cos faith is _",
-            a: "superior",
+            q: "What is paramount in _ cannot be something that is not accessible to all men",
+            a: "discovering God",
         },
         {
-            q: "What we find in God is _ and we can only access it by _ in Christ and the result is _",
-            a: "grace, faith, peace",
+            q: "Jesus himself authenticated _ as valid in knowing him",
+            a: "the scriptures",
         },
         {
-            q: "Christ is the one who _ all efforts of man to please God",
-            a: "nullifies",
+            q: "_ is not the issue but the issue is when you arrive a conclusion different from Christ",
+            a: "Searching the scriptures",
         },
         {
-            q: "Christ is the _ for every attempt of man to please God",
-            a: "boundary",
+            q: "For me to understand the Bible is to arrive at the conclusion of _",
+            a: "Christ",
         },
         {
-            q: "In the righteousness of _, you will be the one doing",
-            a: "the law",
+            q: "Anyone who does not witness Christ does not deserve the title of a _",
+            a: "prophet",
         },
         {
-            q: "The righteousness that is by _ already has things been done",
-            a: "faith",
+            q: "Peter did not say we should take heed to _ or _ but to that documentation and utterance about Christ",
+            a: "angels, visions",
         },
         {
-            q: "One thing we will see in GR is that the basis for acceptance will be _",
-            a: "uniform",
+            q: "Focusing on visions and angelic manifestations on their own cannot birth _",
+            a: "light",
         },
         {
-            q: "The promise that was made to AB is the same as the _ of God",
-            a: "intention",
+            q: "The revelation of God and light that men need is in _",
+            a: "the documentation",
         },
         {
-            q: "When faith shows up, everything else becomes _",
-            a: "unnecessary",
+            q: "It will be unwise to close your Bible and be expecting to _",
+            a: "see an angel",
         },
         {
-            q: "Every of man's effort for justification is called _",
-            a: "rebellion",
+            q: "The _ minister and believer must exalt this Bible above every revelation",
+            a: "sincere",
         },
         {
-            q: "Faith is what makes the _ of the message yours",
-            a: "benefit",
+            q: "You exalt the documentation above every form of _",
+            a: "manifestation",
         },
         {
-            q: "We don't take lightly any attempt for persons giving _ to the message",
-            a: "alternative",
+            q: "The standard to _ is not visions but in the Bible",
+            a: "teach",
         },
         {
-            q: "The believer should be in full _ and _ and not agitations",
-            a: "rest, confidence",
+            q: "Understanding the scripture in the light of Christ is very _ and _ to any other revelation",
+            a: "reimportantst, superior",
         },
         {
-            q: "_ and _ cannot exist together at the same time",
-            a: "Rest, works",
+            q: "The written word is what we use in _, _, _, or _ all revelation no matter how spectacular",
+            a: "judging, interpreting, accepting, rejecting",
         },
         {
-            q: "_ is a big deal",
-            a: "Faith",
+            q: "Nothing in _ is superior to man",
+            a: "creation",
         },
         {
-            q: "The believer must never _ faith or believing",
-            a: "ridicule",
+            q: "Man is the _ and _ of God's creation",
+            a: "crown, peak",
         },
         {
-            q: "Faith in Christ is not _; it is not little",
-            a: "baseless",
+            q: "God does not value man less than _",
+            a: "angels",
         },
         {
-            q: "You must never be found speaking _ of faith",
-            a: "little",
+            q: "Solomon spent seven years and several resources that was not necessary cos of _",
+            a: "wrong interpretation",
         },
         {
-            q: "If you value _, you must value faith",
-            a: "the gospel",
+            q: "Jesus did not come to describe any physical _",
+            a: "heaven",
         },
         {
-            q: "The Bible is a _ document.",
-            a: "sacred",
+            q: "Jesus did not describe to us any physique of _",
+            a: "angels",
         },
         {
-            q: "The primary reason for the Bible's _ is that it is not a man's cooked up fantasy",
-            a: "sacredness",
-        },
-        {
-            q: "Cos the Bible is a document of God's _; we must take care to see what God is saying",
-            a: "fixed intentionc",
-        },
-        {
-            q: "without proper _, the Bible will lose its sacredness to men",
-            a: "BI",
-        },
-        {
-            q: "Understanding improves, clarity happens but the _ always remains the same",
-            a: "meaning",
-        },
-        {
-            q: "It is clear that in the _ of Jesus, he utilises the use of parables in teaching",
-            a: "Teaching Ministry",
-        },
-        {
-            q: "For every sane person, you will know that _ are not things you take literally",
-            a: "figures of speech",
-        },
-        {
-            q: "Parables are to be _ and _",
-            a: "explained, understood",
-        },
-        {
-            q: "Speaking in parables is a form of _",
-            a: "mercy",
-        },
-        {
-            q: "All of man's attempt to find God outside Christ is _",
-            a: "labour",
-        },
-        {
-            q: "Narrow is the way is actually mercy and not a reason for _ for man",
-            a: "fear",
-        },
-        {
-            q: "Drawing back is an attempt to find _ outside faith in Christ",
-            a: "life",
-        },
-        {
-            q: "The sin that easily beset and weight will be the _ to reject faith in Christ",
-            a: "temptation",
-        },
-        {
-            q: "Don't blame the legalist if you are also showing laziness in not _",
-            a: "reading",
-        },
-        {
-            q: "The _ of our faith will be validated by other men cos of what we do",
-            a: "effectiveness",
-        },
-        {
-            q: "Faith happens in the heart but the _ are seen by men",
-            a: "motions",
-        },
-        {
-            q: "If a man does not draw this distinction that there is darkness outside God, it means he is either a _ or _",
-            a: "universalist, atheist",
-        },
-        {
-            q: "the action of the _ has the same consequence as that of the devil",
-            a: "false teacher",
-        },
-        {
-            q: "False teachers are treated as _ in the Bible",
-            a: "the devil",
-        },
-        {
-            q: "We don't _ anyone who tries to give men an alternative to faith in Christ",
-            a: "pamper",
-        },
-        {
-            q: "We don't pamper false doctrine and we don't pamper _",
-            a: "the false teacher",
-        },
-        {
-            q: "Attempting to give men other options outside Christ is to _ God",
-            a: "tempt",
-        },
-        {
-            q: "The preacher is to bring _ and _ cos God doesn't want to leave the sincere man helpless",
-            a: "truth, clarity",
-        },
-        {
-            q: "The NT minister has a responsibility to bring _",
-            a: "clarity",
-        },
-        {
-            q: "There is no _ in putting burden on people",
-            a: "joy",
-        },
-        {
-            q: "As a NT minister, your hallmark is _",
-            a: "great plainness of speech",
-        },
-        {
-            q: "Any man who gives men an alternative contrary to faith in Christ is _",
-            a: "false",
+            q: "When a man _, _, and _ the scriptures then he can understand and know Christ",
+            a: "reads, understands, believes",
         },
     ]
 }

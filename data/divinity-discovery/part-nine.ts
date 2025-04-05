@@ -8,172 +8,132 @@ export const part_nine = {
     slug: "divinity_discovery_nine",
     questions: [
         {
-            q: "It is _ in every man to please God",
-            a: "ingrained",
+            q: "Every man must desire and take steps to _ his creator and to _ him acceptable",
+            a: "know, serve",
         },
         {
-            q: "The _ behind man's action is driven by this desire to please God",
-            a: "driver",
+            q: "You cannot _ any sincere man on his journey to discover God",
+            a: "mock",
         },
         {
-            q: "The rest is from the struggle to _",
-            a: "please God",
+            q: "God has done all he can to make sure that man is not derailed in that _",
+            a: "search",
         },
         {
-            q: "There is yet a _ of Christ that the man who has come into rest will bear",
-            a: "yoke",
+            q: "There is only one _ in DD and that is the revelation of God in Christ",
+            a: "destination",
         },
         {
-            q: "A man who has not _ should not work",
-            a: "rested",
+            q: "_ is used to refer to an open heaven",
+            a: "portals",
         },
         {
-            q: "You cannot accept trust or accept the story of a man who doesn't have it in his _",
-            a: "experience",
+            q: "Portals are also tied to _",
+            a: "locations",
         },
         {
-            q: "First responsibility of the saved man is to first _",
-            a: "understand",
-        },
-        {
-            q: "A man not taught won't be able to convey the _ in the message",
-            a: "assurance",
-        },
-        {
-            q: "One way we show our acceptance before God is by _",
-            a: "right study of the Bible",
-        },
-        {
-            q: "We see Bible study as _ and _ for what God has done in Christ",
-            a: "devotion, honour",
-        },
-        {
-            q: "A saint that is wrongly taught will attempt to use _ to please God or to promote God's will",
-            a: "the works of the flesh",
-        },
-        {
-            q: "The teaching of God's word takes away _ gradually",
-            a: "stupidity",
-        },
-        {
-            q: "The saved man is not meant to be _. He has a _ hanging on his neck",
-            a: "idle, work",
-        },
-        {
-            q: "God has no expectation from the _ man",
-            a: "unsaved",
-        },
-        {
-            q: "It is God's _ that can work the work of God",
-            a: "workmanship",
-        },
-        {
-            q: "The life of grace is not a _",
-            a: "funfair",
-        },
-        {
-            q: "The legalist should not think that teaching the grace of God is an opportunity for _",
-            a: "lasciviousness",
-        },
-        {
-            q: "God actually demands man's life but not to _ it trying to please him",
-            a: "waste",
-        },
-        {
-            q: "Man will stand and give account but not account of what he has done trying to _",
-            a: "please God",
-        },
-        {
-            q: "Those who have received God's life are not _ agents",
-            a: "free",
-        },
-        {
-            q: "Serving as a free man is actually _",
-            a: "harder",
-        },
-        {
-            q: "The believer is not to lose sight of the _ that accompanies salvation",
-            a: "confidence",
-        },
-        {
-            q: "Our _ is not what that troubles us",
-            a: "salvation",
-        },
-        {
-            q: "God does not need your _ for justification",
-            a: "exam",
-        },
-        {
-            q: "_ is not an aspiration of the believer",
-            a: "Heaven",
-        },
-        {
-            q: "The only place to exercise care is not _ but in _",
-            a: "salvation, ministry",
-        },
-        {
-            q: "The only time we tread with caution is when _ is involved",
-            a: "ministry",
-        },
-        {
-            q: "The burden on the minister is irrespective of that physical _",
-            a: "sustenance",
-        },
-        {
-            q: "Insisting on preaching the gospel with _ is an abuse of your power in the gospel",
-            a: "charge",
-        },
-        {
-            q: "Self-control is not to make _",
+            q: "If you understand where God dwells according to the scripture then it will be easy for you to understand what _ is",
             a: "heaven",
         },
         {
-            q: "All our self-control and _ are for men's salvation",
-            a: "moderation",
+            q: "God's dwelling place does not refer to any _ location",
+            a: "physical",
         },
         {
-            q: "The reward for doing ministry well is _",
-            a: "more ministry",
+            q: "The _ of the Spirit is God residing in man",
+            a: "sealing",
         },
         {
-            q: "There's a new world we are expecting which is a totality of _ on earth",
-            a: "righteousness",
+            q: "Heaven as a _ is your guarantee for heaven as a _",
+            a: "state, place",
         },
         {
-            q: "Service is the believer's _",
-            a: "nature",
+            q: "Where _ meets _ is in the spirit of the believer",
+            a: "heaven, earth",
         },
         {
-            q: "That freedom is for him to _ well",
-            a: "serve",
+            q: "Heaven meeting earth happens at the point of _ for each man but made possible by _",
+            a: "salvation, resurrection",
         },
         {
-            q: "Service to God is a _ reality that only saved men are capable of",
-            a: "spiritual",
+            q: "It is refusal to believe or value that the spirit of the believer is God's final destination that makes people chase _",
+            a: "portal",
         },
         {
-            q: "The essence of worship is a spiritual reality and not based on _",
-            a: "instrument",
+            q: "There is no realm except a _ realm that is not opened to you",
+            a: "demonic",
         },
         {
-            q: "As a NT minister of the gospel, don't use that desire of men to want to please God as a yardstick to keep them in  _",
-            a: "bondage",
+            q: "One of the reasons persons reference _ and _ is cos of that quest to want to know more about God",
+            a: "portals, realms",
         },
         {
-            q: "What God demands is the new _",
-            a: "creature",
+            q: "The believer has a _ journey to now understand who he is based on that indwelling however we have a _ in that journey",
+            a: "lifelong, boundary",
         },
         {
-            q: "Nothing must shake your _ as a believer",
-            a: "confidence",
+            q: "The process of understanding more of your realities in Christ is through _",
+            a: "study",
         },
         {
-            q: "The believer is a _ of joy",
-            a: "well",
+            q: "The full knowledge of God is accessible to every _",
+            a: "believer",
         },
         {
-            q: "There is a reality that is more than your _",
-            a: "age",
+            q: "There's the possibility for every believer to _",
+            a: "comprehend",
+        },
+        {
+            q: "The believer can comprehend all there is to know about Christ, that is the _ of every believer",
+            a: "birthright",
+        },
+        {
+            q: "_ and _, we are that habitation of God cos of the HG indwelling",
+            a: "Collectively, individually",
+        },
+        {
+            q: "Full comprehension of divinity is tied to the _",
+            a: "new birth",
+        },
+        {
+            q: "For a man that wants to discover God, the most important information that the man must know is?",
+            a: "the gospel",
+        },
+        {
+            q: "The only thing that can alter the eternal make up of a man is _",
+            a: "the gospel",
+        },
+        {
+            q: "_ is not far from God",
+            a: "The believer",
+        },
+        {
+            q: "The most important knowledge we can give to men is that _",
+            a: "gospel",
+        },
+        {
+            q: "Nothing is superior to this gospel of Christ no matter _ it is coming from",
+            a: "who",
+        },
+        {
+            q: "The job of the preacher is _",
+            a: "simple",
+        },
+        {
+            q: "Men who don't present Christ are coming in their own _",
+            a: "name",
+        },
+        {
+            q: "_ is the discovery of God",
+            a: "Christ",
+        },
+        {
+            q: "What should burn in your heart as a minister is not a quest to _ but that _",
+            a: "see angels, gospel",
+        },
+        {
+            q: "Your highest _ is to that gospel of Christ",
+            a: "devotion",
         },
     ]
 }

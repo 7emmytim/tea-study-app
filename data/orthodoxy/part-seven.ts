@@ -8,64 +8,96 @@ export const part_seven = {
     slug: "orthodoxy_seven",
     questions: [
         {
-            q: "You must not be _ in your opinion of who God is",
-            a: "doubleminded",
+            q: "It was via Christ's actions that God delivered us from _, _ and _",
+            a: "wrath, death, sin",
         },
         {
-            q: "Every man in his dealing with God must be confident about God's _",
-            a: "character",
+            q: "The believer that is not in _ is not safe in his mind",
+            a: "a local church",
         },
         {
-            q: "There cannot be a _ process as it relates to salvation",
-            a: "selection",
+            q: "All the offences were paid for _ and it was for _ and _",
+            a: "at once, every age, dispensation",
         },
         {
-            q: "it was a few chosen to bless a whole and not a few chosen with the _ of others",
-            a: "exclusion",
+            q: "God wants to bring out believing in his name from every generation and for this to happen, there must be a _",
+            a: "remembrance",
         },
         {
-            q: "Since God's intention predates man, those in this intention are both _ physically and not bound by _",
-            a: "in time, time",
+            q: "Subsequent participation was not to commemorate the deliverance that happened in _ to remember _",
+            a: "Egypt, the sacrifice of Christ",
         },
         {
-            q: "Any man in that God's intention has God's _",
-            a: "love",
+            q: "Jesus put his _ and _ on the Passover",
+            a: "seal, stamp",
         },
         {
-            q: "When you have access to much teaching, your response to it should be _",
-            a: "gratitude",
+            q: "There was a sacrifice done by Christ and the result was not bread but _",
+            a: "people",
         },
         {
-            q: "See the much teaching here as a _",
-            a: "blessing",
+            q: "Eating unleavened bread will refer to _",
+            a: "fellowship",
         },
         {
-            q: "The greatest thing you can get on the first day you meet someone you want to get saved is a _",
-            a: "return ticket",
+            q: "Your state of unleaveness is a _ state",
+            a: "permanent",
         },
         {
-            q: "Once you see peradventure or probability thrown into the mix, it means you should watch out for _",
-            a: "man",
+            q: "When there is fellowship, there is _",
+            a: "strength",
         },
         {
-            q: "When we do breaking dividing walls, it is not because _, it is never a _ issue",
-            a: "we don't like persons, personality",
+            q: "We are to have more fellowship and fellowship with _",
+            a: "a purpose",
         },
         {
-            q: "Some false teachers can physically be very nice even than _",
-            a: "your pastors",
+            q: "A constant _ and constant _ are what is expected of you as a believer based on what Christ has done",
+            a: "consciousness, activity",
         },
         {
-            q: "It is never about personalities; it is about _",
-            a: "the truth",
+            q: "A lot of emphasis was done in the epistles to remove the believer's focus from _ element of worship",
+            a: "physical",
         },
         {
-            q: "There are so many _ of Christ out there but the believer must be smart by God to maintain his priority",
-            a: "presentations",
+            q: "There is truly a _ in heaven and a _ on earth",
+            a: "family, family",
         },
         {
-            q: "You honour what Christ honours so you are not _",
-            a: "deceived",
+            q: "When God claims ownership over a man, it is _",
+            a: "eternal",
+        },
+        {
+            q: "What makes you in heaven is that you are in _",
+            a: "Christ",
+        },
+        {
+            q: "God unifies all men in _",
+            a: "Christ",
+        },
+        {
+            q: "Whether you are _ or _ physically, all that matters is that you are in Christ",
+            a: "alive, dead",
+        },
+        {
+            q: "God can never have us focusing on _ things",
+            a: "physical",
+        },
+        {
+            q: "You cannot say you want to focus on Christ through _ things",
+            a: "physical",
+        },
+        {
+            q: "God cannot tell us to divide that our attention on the _ and on the _",
+            a: "physical, spiritual",
+        },
+        {
+            q: "As you show the Lord's death through your _, you will never forget what he has done",
+            a: "speaking about it",
+        },
+        {
+            q: "When you have a desire to replicate heaven on earth, it is seen in your zeal to _",
+            a: "spread the gospel",
         },
     ]
 }

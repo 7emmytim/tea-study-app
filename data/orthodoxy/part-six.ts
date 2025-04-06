@@ -8,152 +8,80 @@ export const part_six = {
     slug: "orthodoxy_six",
     questions: [
         {
-            q: "If it is as touching salvation, what we get is _ cos that is how God has purchased it",
-            a: "full",
+            q: "When a man has not learnt accurately, there is almost no limit to the _ he can say and think he is _",
+            a: "foolishness, sensible",
         },
         {
-            q: "Faith is always a function of _",
-            a: "choice",
+            q: "Without learning, what will come out will be _",
+            a: "foolishness",
         },
         {
-            q: "It was possible to have _ even before the death of Christ",
-            a: "faith",
+            q: "Learning and correction will come from the accurate learning of the scriptures and this is what will drive away _",
+            a: "foolishness",
         },
         {
-            q: "What makes faith available is _",
-            a: "the word of God",
+            q: "There must be a constant _ to the believer as he learns.",
+            a: "adjustment",
         },
         {
-            q: "The Bible opens up with _ being made available",
-            a: "the gospel",
+            q: "There is always an adjustment process that is excepted based on _",
+            a: "comprehension",
         },
         {
-            q: "If there was no message then we can't say Adam _",
-            a: "sinned",
+            q: "When a man is not _ then he is not learning",
+            a: "adjusting",
         },
         {
-            q: "If the word was available then faith was _",
-            a: "possible",
+            q: "A deliberate rejection of what is clear in the scriptures is _",
+            a: "rebellion",
         },
         {
-            q: "You cannot say that Jesus' death purchased _",
-            a: "faith",
+            q: "Every believer must recognise that they do not have an excuse to be _",
+            a: "ignorant",
         },
         {
-            q: "There is no special _ that the sacrifice of Christ purchased",
-            a: "faith",
+            q: "No one can claim they are not able to understand the truth when they have _",
+            a: "the HG",
         },
         {
-            q: "The sacrifice of Christ only brought _, _ and _ to that intention of God",
-            a: "clarity, availability, tangibility",
+            q: "The Spirit of truth also revealed the interpretation of Genesis to Malachi whom Paul described as _",
+            a: "apostles and prophets",
         },
         {
-            q: "There is salvation and there is _ in salvation",
-            a: "work",
+            q: "We have the _, the _ and _. So, no one can claim ignorance",
+            a: "Spirit within, epistles, teaching",
         },
         {
-            q: "The role we are to play in men's life is to ensure the gospel is available for them for _ and for _",
-            a: "salvation, growth",
+            q: "There is no _ when you abide with sound doctrine",
+            a: "shame",
         },
         {
-            q: "God does not need a _ effort to maintain salvation",
-            a: "community",
+            q: "It is deviation from sound doctrine that brings _",
+            a: "shame",
         },
         {
-            q: "There is no special _ needed to preserve a man's salvation",
-            a: "addition",
+            q: "It is easy to arrive at the truth of the scriptures, if you follow the guidance of the Spirit _ and _",
+            a: "within, without",
         },
         {
-            q: "The _ itself contains our assurance. It shows us our guarantee",
-            a: "gospel",
+            q: "The scriptures are the _ of the believer's mind",
+            a: "purifier",
         },
         {
-            q: "You cannot preach a full gospel message without that _",
-            a: "resurrection",
+            q: "Christology comes with a _ that nothing can shake",
+            a: "confidence",
         },
         {
-            q: "Christ is not _; he can take care of his own",
-            a: "irresponsible",
+            q: "There's a stability that comes with right _",
+            a: "learning",
         },
         {
-            q: "How Christ sanctifies the church is by putting _",
-            a: "his Spirit in us",
+            q: "As you learn, every form of false doctrine comes _",
+            a: "too late",
         },
         {
-            q: "Don't worry about your mind, _ will take care of it",
-            a: "the teaching ministry",
+            q: "False doctrine thrives when people are lazy to _",
+            a: "read their Bible",
         },
-        {
-            q: "Men like _",
-            a: "assurance",
-        },
-        {
-            q: "Don't worry about your _, he is at work",
-            a: "eternity",
-        },
-        {
-            q: "God did not give his intention in vain. He gave _",
-            a: "an assurance",
-        },
-        {
-            q: "All that Jesus did was God's _ and _ assurance to man",
-            a: "final, concrete",
-        },
-        {
-            q: "No believer can be threatened with _ life",
-            a: "temporary",
-        },
-        {
-            q: "The way we don't have temporary _; we also don't have temporary _",
-            a: "believing, result",
-        },
-        {
-            q: "At salvation you accepted _ and _ accepted you",
-            a: "the life of God, the life of God",
-        },
-        {
-            q: "In the _ of the saints, you must first agree that God preserves the saint's salvation",
-            a: "perseverance",
-        },
-        {
-            q: "Once you as a teacher has lost it, the people you are leading are also unsafe in the _ of doctrine",
-            a: "sanctity",
-        },
-        {
-            q: "Taking heed to doctrine has its own _",
-            a: "safety",
-        },
-        {
-            q: "The truth is that there is a _ of preservation around the believer",
-            a: "circumference",
-        },
-        {
-            q: "Your _ and _ in ministry are not what guarantees your salvation",
-            a: "steadfastness, faithfulness",
-        },
-        {
-            q: "In ministry, you are contending with _",
-            a: "spiritual forces",
-        },
-        {
-            q: "That devil's hatred for the truth extends to _",
-            a: "the truth bearers",
-        },
-        {
-            q: "Cos of the things that will come our way in this journey to promote truth, that is why the saints must _",
-            a: "persevere",
-        },
-        {
-            q: "If you say you want to live a life independent of the gospel, your _ might be fewer",
-            a: "challenges",
-        },
-        {
-            q: "The perseverance of the saints is for the _",
-            a: "work of ministry",
-        },
-        {
-            q: "So long as you keep doing what you ought to do, that is _",
-            a: "perseverance",
-        }
     ]
 }

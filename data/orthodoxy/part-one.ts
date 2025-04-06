@@ -8,308 +8,144 @@ export const part_one = {
     slug: "orthodoxy_one",
     questions: [
         {
-            q: "A man not taught won't be able to convey the _ in the message",
-            a: "assurance",
+            q: "There is first a learning then comprehension and then _",
+            a: "continuance",
         },
         {
-            q: "One way we show our acceptance before God is by _",
-            a: "right study of the Bible",
+            q: "Part of learning entails that you are taught and you _",
+            a: "understand",
         },
         {
-            q: "We see Bible study as _ and _ for what God has done in Christ",
-            a: "devotion, honour",
+            q: "Learning is beyond _",
+            a: "head knowledge",
         },
         {
-            q: "A saint that is wrongly taught will attempt to use _ to please God or to promote God's will",
-            a: "the works of the flesh",
+            q: "The understanding of the _ of the Bible is tied to the understanding of the _ of the Bible",
+            a: "content, purpose",
         },
         {
-            q: "The teaching of God's word takes away _ gradually",
-            a: "stupidity",
+            q: "You cannot truly understand what the Bible is about if you don't know what the Bible is _",
+            a: "for",
         },
         {
-            q: "The saved man is not meant to be _. He has a _ hanging on his neck",
-            a: "idle, work",
+            q: "As a believer, you must know the reason why you have _ in your hand",
+            a: "a Bible",
         },
         {
-            q: "God has no expectation from the _ man",
-            a: "unsaved",
+            q: "How God witnessed his actions to them was to ensure it was _",
+            a: "written down",
         },
         {
-            q: "It is God's _ that can work the work of God",
-            a: "workmanship",
+            q: "God has the _ on earth in mind",
+            a: "last man who will born",
         },
         {
-            q: "The life of grace is not a _",
-            a: "funfair",
+            q: "The Bible is a declaration of God's _ and God's _",
+            a: "will, knowledge",
         },
         {
-            q: "The legalist should not think that teaching the grace of God is an opportunity for _",
-            a: "lasciviousness",
+            q: "Fundamental to the content of the scriptures is _",
+            a: "understanding",
         },
         {
-            q: "God actually demands man's life but not to _ it trying to please him",
-            a: "waste",
+            q: "Knowledge is important so we don't _ the Bible",
+            a: "abuse",
         },
         {
-            q: "Man will stand and give account but not account of what he has done trying to _",
-            a: "please God",
+            q: "The understanding we need is yet in _",
+            a: "this Bible",
         },
         {
-            q: "Those who have received God's life are not _ agents",
-            a: "free",
+            q: "Jesus made it clear that it is lack of _ that opens the doorway for devils to exploit",
+            a: "understanding",
         },
         {
-            q: "Serving as a free man is actually _",
-            a: "harder",
+            q: "When you don't understand, you will take _ actions which you will justify in your _",
+            a: "unreasonable, ignorance",
         },
         {
-            q: "The believer is not to lose sight of the _ that accompanies salvation",
-            a: "confidence",
+            q: "There is nothing like harmless _",
+            a: "ignorance",
         },
         {
-            q: "Our _ is not what that troubles us",
-            a: "salvation",
+            q: "Ignorance will birth actions and those actions are _",
+            a: "disastrous",
         },
         {
-            q: "God does not need your _ for justification",
-            a: "exam",
+            q: "_ is not oppressive; it is to build up",
+            a: "Knowledge",
         },
         {
-            q: "_ is not an aspiration of the believer",
-            a: "Heaven",
+            q: "Any anti scriptural knowledge is _ on its own",
+            a: "destructive",
         },
         {
-            q: "The only place to exercise care is not _ but in _",
-            a: "salvation, ministry",
+            q: "nobody has the luxury to hug his own _",
+            a: "ignorance",
         },
         {
-            q: "The only time we tread with caution is when _ is involved",
-            a: "ministry",
+            q: "We give no man the luxury of using _ as his tool of rebellion",
+            a: "ignorance",
         },
         {
-            q: "The burden on the minister is irrespective of that physical _",
-            a: "sustenance",
+            q: "Understanding is _ and _ therefore ignorance cannot be excused",
+            a: "easy, possible",
         },
         {
-            q: "Insisting on preaching the gospel with _ is an abuse of your power in the gospel",
-            a: "charge",
+            q: "You have the _ and _ so it is possible not to be led astray",
+            a: "HG, ministry gifts",
         },
         {
-            q: "Self-control is not to make _",
-            a: "heaven",
+            q: "Most persons who stick to undoctrinal practices is cos they do not accept the _ of the epistles",
+            a: "simplicity",
         },
         {
-            q: "All our self-control and _ are for men's salvation",
-            a: "moderation",
+            q: "If you stick with Genesis to Malachi alone without the epistles, what you will have is _",
+            a: "mystery",
         },
         {
-            q: "The reward for doing ministry well is _",
-            a: "more ministry",
+            q: "Since there are no _ but rather clarifications and explanations, it means the Bible must be taken as one in understanding",
+            a: "contradictions",
         },
         {
-            q: "There's a new world we are expecting which is a totality of _ on earth",
-            a: "righteousness",
+            q: "If Paul had discarded Gensis to Malachi, then we will not be able to claim a _ documentation",
+            a: "uniform",
         },
         {
-            q: "Service is the believer's _",
-            a: "nature",
+            q: "anyone who tries to explain the Bible today and does not enthrone the explanation in the epistles, is bringing _ to this documentation",
+            a: "disunity",
         },
         {
-            q: "That freedom is for him to _ well",
-            a: "serve",
+            q: "It is not enough to say that what you are doing is in _",
+            a: "the Bible",
         },
         {
-            q: "Service to God is a _ reality that only saved men are capable of",
-            a: "spiritual",
+            q: "That practice must not negate anything stated clearly in _ otherwise such a practice becomes unscriptural",
+            a: "the epistles",
         },
         {
-            q: "The essence of worship is a spiritual reality and not based on _",
-            a: "instrument",
+            q: "The Bible either stands as _ or it does not stand at all",
+            a: "one",
         },
         {
-            q: "As a NT minister of the gospel, don't use that desire of men to want to please God as a yardstick to keep them in  _",
-            a: "bondage",
+            q: "If you don't understand or you twist _ then you are twisting the entire scriptures and the implication is destruction",
+            a: "Paul's epistles",
         },
         {
-            q: "What God demands is the new _",
-            a: "creature",
+            q: "One danger we see in orthodoxy is that sidelining of the _",
+            a: "epistles",
         },
         {
-            q: "Nothing must shake your _ as a believer",
-            a: "confidence",
+            q: "If you hold on to Genesis to Malachi alone, you are holding on to just _",
+            a: "mystery",
         },
         {
-            q: "The believer is a _ of joy",
-            a: "well",
+            q: "Whatever you do as practice from Genesis to Malachi that you cannot _ or _ from the epistles is a wrong scriptural practice",
+            a: "emphasize, justify",
         },
         {
-            q: "There is a reality that is more than your _",
-            a: "age",
-        },
-        {
-            q: "One documented instruction we see in the Bible both in the epistles and the four gospels is the instruction to _",
-            a: "watch",
-        },
-        {
-            q: "_ can be avoided by vigilance",
-            a: "Robbery",
-        },
-        {
-            q: "_ happens when one is not taking heed or when a person is distracted and the solution to that is to watch",
-            a: "Exploitation",
-        },
-        {
-            q: "The truth doesn't _, it is men that _",
-            a: "turn, turn",
-        },
-        {
-            q: "Because of the tendencies of _, watching becomes necessary",
-            a: "perversion",
-        },
-        {
-            q: "There can be only one _",
-            a: "truth",
-        },
-        {
-            q: "you will not only be faced with _ perversions, you will also see _ truth that will almost look like the truth",
-            a: "outright, different shades of the",
-        },
-        {
-            q: "It is _ that actually birthed denominations",
-            a: "subtle variation",
-        },
-        {
-            q: "a _ truth is still a lie",
-            a: "rebranded",
-        },
-        {
-            q: "The hallmark of _ and _ is the consistency in communicating truth",
-            a: "discipleship, faithfulness",
-        },
-        {
-            q: "The reason we have _ today is simply as a result of a departure from the scriptures in doctrine",
-            a: "variations",
-        },
-        {
-            q: "Denominations started from _",
-            a: "the 15th century",
-        },
-        {
-            q: "There would have been _ and _ today if everyone had stuck to the doctrine of Christ as communicated by the apostles",
-            a: "uniformity, conformity",
-        },
-        {
-            q: "In seeing the scripture as superior, we must understand that the Bible is _ on something",
-            a: "authoritative",
-        },
-        {
-            q: "The scripture is not a made-up fantasy of _ men",
-            a: "disillusioned",
-        },
-        {
-            q: "All the distortions and false doctrine comes from _ for the truth",
-            a: "hatred",
-        },
-        {
-            q: "We are _ from pampering distorters of truth",
-            a: "forbidden",
-        },
-        {
-            q: "Never see false teaching as _",
-            a: "harmless",
-        },
-        {
-            q: "The root cause of false doctrine is an expression of _ with the intention of scriptures",
-            a: "discontent",
-        },
-        {
-            q: "False doctrine is _ and we don't suffer it lightly",
-            a: "foolishness",
-        },
-        {
-            q: "Distortion about Christ and what he has done is distortion about _",
-            a: "God",
-        },
-        {
-            q: "Any distortion towards what Christ has done is _ no matter how much they try to sound familiar",
-            a: "antichrist",
-        },
-        {
-            q: "_ is a transmutation of the truth",
-            a: "False gospel",
-        },
-        {
-            q: "Anything that is not after Christ is an attempt to _ the saints",
-            a: "spoil",
-        },
-        {
-            q: "Once you are not watching, you can be a slave to another man's _",
-            a: "doctrine",
-        },
-        {
-            q: "You are a _ if you don't stick with the doctrine of Christ",
-            a: "transgressor",
-        },
-        {
-            q: "Do not make yourself an associate of evil works under the guise of _",
-            a: "love",
-        },
-        {
-            q: "_ is to speak the truth and not to shy away",
-            a: "Love",
-        },
-        {
-            q: "There's no love where _ is hidden cos love is _",
-            a: "truth, truth",
-        },
-        {
-            q: "Love is not to hug falsehood cos of _",
-            a: "sentiment",
-        },
-        {
-            q: "The first _ of love is truth",
-            a: "characteristics",
-        },
-        {
-            q: "Condoning error is either _ or a lack of _",
-            a: "cowardice, watchfulness",
-        },
-        {
-            q: "Falsehood does not pamper the _",
-            a: "innocent",
-        },
-        {
-            q: "Don't in an attempt to sound deep and mysterious become _",
-            a: "foolish",
-        },
-        {
-            q: "When we stick with the doctrine of Christ, we are serving _",
-            a: "God",
-        },
-        {
-            q: "The revelation of the Spirit contained in the epistles which is the result of _ even",
-            a: "a specific",
-        },
-        {
-            q: "Jesus did not abbreviate your _",
-            a: "salvation",
-        },
-        {
-            q: "No knowledge is to enter the _ in your mind",
-            a: "backseat",
-        },
-        {
-            q: "Why is the doctrine of Christ fixed?",
-            a: "cos the events of fixed",
-        },
-        {
-            q: "The doctrine of Christ is not a _ on its own, it is _ based on an event that has happened and that event is not a _ one, it happened _",
-            a: "teaching, teaching, continuous, once",
-        },
-        {
-            q: "How do I serve God?",
-            a: "in the doctrine of his Son",
+            q: "Understanding is _ and understanding is _. So, ignorance will not be _",
+            a: "easy, possible, excused",
         },
     ]
 }

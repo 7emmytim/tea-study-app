@@ -153,7 +153,7 @@ export const part_one = {
         },
         {
             q: "_ has always been the problem of man",
-            a: "Divinity Discovery",
+            a: "Our Jesus - Series 1",
         },
         {
             q: "Adam erred by trying to do _",
@@ -165,7 +165,7 @@ export const part_one = {
         },
         {
             q: "Moses only legalised the _ in their hearts",
-            a: "Divinity Discovery",
+            a: "Our Jesus - Series 1",
         },
         {
             q: "Keep my covenant is not to _ my covenant",

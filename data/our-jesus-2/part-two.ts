@@ -8,6 +8,82 @@ export const part_two = {
     slug: "our_jesus_series_2_two",
     questions: [
         {
+            q: "If you want to find out what God is saying, you cannot do it through _",
+            a: "experience",
+        },
+        {
+            q: "The writer of Hebrews summarised all their different experiences as their _ in Christ",
+            a: "journey of faith",
+        },
+        {
+            q: "We are not to be caught up in _",
+            a: "experiences",
+        },
+        {
+            q: "Your experiences are useless when they don't point to Christ, it is just _",
+            a: "tales by moonlight/super story",
+        },
+        {
+            q: "Those experiences are a _ of doctrine",
+            a: "witness",
+        },
+        {
+            q: "Experiences are useless without _ in the mix",
+            a: "Christ",
+        },
+        {
+            q: "We don't need to be expecting weird experiences to understand _",
+            a: "doctrine",
+        },
+        {
+            q: "Don't be looking for _ to teach you doctrine",
+            a: "experiences",
+        },
+        {
+            q: "It is not a function of how spectacular the vision is, it is a function of _ and _",
+            a: "willingness, understanding",
+        },
+        {
+            q: "No matter how diverse the _ of those in the OT, it was still one message",
+            a: "experiences",
+        },
+        {
+            q: "If you follow experiences and neglect the doctrine in them, you will be caught up in _",
+            a: "diversities",
+        },
+        {
+            q: "Experiences _ but doctrine is _",
+            a: "vary, constant",
+        },
+        {
+            q: "Always look for that _ and that _ is Christ",
+            a: "constant, constant",
+        },
+        {
+            q: "Continuing in what you have been taught is _",
+            a: "orderliness",
+        },
+        {
+            q: "Once you don't continue as you have received, that is _ and _",
+            a: "disorderliness, instability",
+        },
+        {
+            q: "That testimony of Christ is everything there is about the _",
+            a: "faith",
+        },
+        {
+            q: "The epistles branded anyone not following this doctrine as a _",
+            a: "heretic",
+        },
+        {
+            q: "Their _ to doctrine is how they shine as light",
+            a: "steadfastness",
+        },
+        {
+            q: "The _ of a generation and _ of others is not an excuse not to hold on to doctrine",
+            a: "perverseness, laxity",
+        },
+        {
             q: "When it comes to _, we don't leave the doctrine of Christ",
             a: "miracles",
         },

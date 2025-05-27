@@ -8,68 +8,96 @@ export const part_nine = {
     slug: "our_jesus_series_3_nine",
     questions: [
         {
-            q: "Once you are a _, you are automatically saying you are at war with Satan",
-            a: "minister of the truth",
+            q: "The Bible explains both God and Christ both as _ and _",
+            a: "separate, together",
         },
         {
-            q: "_ transcends the physical _",
-            a: "hearing, hearing",
+            q: "All God's relationship with man is _ based",
+            a: "Christ",
         },
         {
-            q: "Jesus' problem with general Jews was to get them to _",
-            a: "listen to the word",
+            q: "Don't see a _ between Jesus and God",
+            a: "separation",
         },
         {
-            q: "A willing heart is man's _ but to God's _",
-            a: "action, glory",
+            q: "Jesus is not just one that came to _ God. Jesus was not _",
+            a: "act, an actor",
         },
         {
-            q: "_ cannot be shocked",
+            q: "Jesus did not call himself _ but he emphasised _",
+            a: "the Father, their unity",
+        },
+        {
+            q: "_ is an agreement between Father and Son",
+            a: "Eternal security",
+        },
+        {
+            q: "Jesus as _ did not originate the plan of God",
+            a: "a person",
+        },
+        {
+            q: "All the goodness that God revealed from the scriptures is what _ stood for",
+            a: "Christ",
+        },
+        {
+            q: "Abraham rejoiced to see God's dealings with man become _",
+            a: "flesh",
+        },
+        {
+            q: "Take out the word of God from God then there is no _ again",
             a: "God",
         },
         {
-            q: "People either fulfil positive or negative part of prophecy by their _",
-            a: "choice",
+            q: "To serve Christ is to _ yourself and that is how you receive God's _",
+            a: "deny, honour",
         },
         {
-            q: "Sharp _ never establish anyone",
-            a: "answers",
+            q: "Christ the way, truth and life is God's _",
+            a: "sovereignty",
         },
         {
-            q: "The conclusion of the Bible is gotten from _",
-            a: "the entire Bible",
+            q: "Christ will return to the believer as the _ of God which is further cultivated by the _",
+            a: "mindset, Teaching ministry",
         },
         {
-            q: "_ cannot always have his way",
-            a: "God",
+            q: "What we receive upon believing is the indwelling plus _",
+            a: "revelational knowledge",
         },
         {
-            q: "It is _ to just give God a title or power that he doesn't have",
-            a: "unfair",
+            q: "Jesus is _ destiny",
+            a: "God's",
         },
         {
-            q: "God's _ action is that no one should perish",
-            a: "deliberate",
+            q: "We will reduce the rejection of the message with our _ and _",
+            a: "precision, accuracy",
         },
         {
-            q: "If you want the influence of God, you can't do it outside the _",
-            a: "gospel",
+            q: "God did not become a man just for the sake of _",
+            a: "forgiveness",
         },
         {
-            q: "We don't lose sight of God's true _. God's _ is a world of sons.",
-            a: "solution, solution",
+            q: "God became a man to demonstrate his _, to show his _, to _ himself",
+            a: "love, character, explain",
         },
         {
-            q: "God's _ is in the hearts of men",
-            a: "battleground",
+            q: "Even if Adam never sinned, _ should still happen",
+            a: "the incarnation",
         },
         {
-            q: "A world of sons is God's _ solution",
-            a: "only",
+            q: "The _ would still have been necessary for the revelation of God",
+            a: "incarnation",
         },
         {
-            q: "Our eyes must see something beyond _",
-            a: "bloodshed",
+            q: "Cos man sinned; it is in _ that man will now find forgiveness",
+            a: "the revelation of God",
+        },
+        {
+            q: "God requires no one's _ for forgiveness",
+            a: "blood",
+        },
+        {
+            q: "Christ came for the purpose of _. It is in _ we find forgiveness",
+            a: "revelation, revelation",
         },
     ]
 }

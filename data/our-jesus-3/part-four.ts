@@ -8,80 +8,100 @@ export const part_four = {
     slug: "our_jesus_series_3_four",
     questions: [
         {
-            q: "The church is a _ school",
-            a: "Bible",
+            q: "We must not give relevance to any _ more than Jesus",
+            a: "prophet",
         },
         {
-            q: "For every _, God never asked for it.",
-            a: "sacrifice of animals",
+            q: "The _ and _ of explaining Christ out of the words of the prophets is doctrine",
+            a: "art, end",
         },
         {
-            q: "It was more necessary for men to believe what was written than what _",
-            a: "people were saying",
+            q: "People must see _ as the most important part of your ministry",
+            a: "teaching",
         },
         {
-            q: "Don't attach _ in God's name to anything you can think about",
-            a: "provision",
+            q: "Doctrine is a system of _",
+            a: "explanation",
         },
         {
-            q: "Since sin has brought a _, to balance it there must be a _",
-            a: "deficit, reconciliation",
+            q: "The doctrine of the Bible is _",
+            a: "salvation through faith in Christ",
         },
         {
-            q: "_ is man leaving, _ is the destination of that journey",
-            a: "Sin, death",
+            q: "The message of the HG is the _ Christ",
+            a: "glorified",
         },
         {
-            q: "_ talks about an entitlement",
-            a: "Wages",
+            q: "God's ultimate help to man is the _",
+            a: "scriptures",
         },
         {
-            q: "Sin has an entitlement which is _",
-            a: "death",
+            q: "Things ought not to be _ before you do God's will",
+            a: "difficult",
         },
         {
-            q: "God was not trying to create a need for him to become _",
-            a: "relevant",
+            q: "Learn to serve God in the day of _",
+            a: "peace/bliss",
         },
         {
-            q: "It was man that created the need. It is not like God wanted to become a _",
-            a: "superstar",
+            q: "Jesus' miracles were _",
+            a: "TM",
         },
         {
-            q: "The enemy of man is _ based on _, fuelled and strengthen by _",
-            a: "death, sin, the law",
+            q: "Your _ should teach men the character of God",
+            a: "miracles",
         },
         {
-            q: "Before _ became an option, the intention of God was available",
-            a: "choice",
-        },
-        {
-            q: "God has already _ the requirement of putting away man's sin",
-            a: "undertaken",
-        },
-        {
-            q: "Understanding is not difficult; just have _",
-            a: "a Bible",
-        },
-        {
-            q: "When you come to church without a Bible, it gives an impression that you are not interested in _",
+            q: "Miracles is to lead men to _",
             a: "learning",
         },
         {
-            q: "Even if man is to search for a solution, he will spend _ and still not find it",
-            a: "his lifetime",
+            q: "Miracles can lead man to the path of _",
+            a: "faith",
         },
         {
-            q: "Whatever solution comes from man will only be _ and _",
-            a: "temporary, ineffective",
+            q: "Sin becomes really _ after man has encountered the message and reject",
+            a: "sinful",
         },
         {
-            q: "None of man's attempt can make anything _",
-            a: "perfect",
+            q: "The goodness of God is irrespective of _ but disdaining that good God will lead to _",
+            a: "salvation, damnation",
         },
         {
-            q: "God is both the offering and the _",
-            a: "fit man",
+            q: "_ is intelligent, it is self-defensive",
+            a: "Scripture",
+        },
+        {
+            q: "Don't see the pulpit as _",
+            a: "an idol",
+        },
+        {
+            q: "to be fixated on the result of the miracle will be _",
+            a: "idolatry",
+        },
+        {
+            q: "Man is not allowed to _ man. A sinner is not allowed to _ another sinner.",
+            a: "judge, judge",
+        },
+        {
+            q: "_ is not salvation but _ can lead you to the saving Jesus",
+            a: "healing, healing",
+        },
+        {
+            q: "If we have a miracle center then we should also have a heavy _ center",
+            a: "knowledge",
+        },
+        {
+            q: "Jesus raising the dead had _ that someday believers will be raised",
+            a: "an undertone",
+        },
+        {
+            q: "The most expensive possession of man should not be spent on _ but on the ministry of Christ",
+            a: "humanitarian services",
+        },
+        {
+            q: "God prefers you to live for him, not to _",
+            a: "die for him",
         },
     ]
 }

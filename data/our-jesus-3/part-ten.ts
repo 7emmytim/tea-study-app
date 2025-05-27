@@ -8,68 +8,108 @@ export const part_ten = {
     slug: "our_jesus_series_3_ten",
     questions: [
         {
-            q: "Once you are a _, you are automatically saying you are at war with Satan",
-            a: "minister of the truth",
+            q: "The marriage of _ and _ has happened already",
+            a: "Jesus, the church",
         },
         {
-            q: "_ transcends the physical _",
-            a: "hearing, hearing",
+            q: "Without _, a fulfilled promise will still look like it is not fulfilled",
+            a: "explanation",
         },
         {
-            q: "Jesus' problem with general Jews was to get them to _",
-            a: "listen to the word",
+            q: "All God has done for man in Christ must be _",
+            a: "explained",
         },
         {
-            q: "A willing heart is man's _ but to God's _",
-            a: "action, glory",
+            q: "We have been removed from the _ eternally",
+            a: "valley",
         },
         {
-            q: "_ cannot be shocked",
-            a: "God",
+            q: "Without explanation, people already in eternal life will still be fellowshipping with _ in their song",
+            a: "eternal death",
         },
         {
-            q: "People either fulfil positive or negative part of prophecy by their _",
-            a: "choice",
+            q: "What God has done in Christ must be explained so we can receive new _",
+            a: "experiences",
         },
         {
-            q: "Sharp _ never establish anyone",
-            a: "answers",
+            q: "Your vision is a _ representation of what you know",
+            a: "dramatized",
         },
         {
-            q: "The conclusion of the Bible is gotten from _",
-            a: "the entire Bible",
+            q: "We don't look at the OT with the eyes of _ but with the eyes of _",
+            a: "promise, promise fulfilled",
         },
         {
-            q: "_ cannot always have his way",
-            a: "God",
+            q: "Not everything in the book of revelation is in _",
+            a: "the future",
         },
         {
-            q: "It is _ to just give God a title or power that he doesn't have",
-            a: "unfair",
+            q: "Suspect any pattern of ministry that negates _",
+            a: "labour",
         },
         {
-            q: "God's _ action is that no one should perish",
-            a: "deliberate",
+            q: "Jesus never called a _ man into ministry",
+            a: "lazy",
         },
         {
-            q: "If you want the influence of God, you can't do it outside the _",
-            a: "gospel",
+            q: "That _ and _ mindset of man is for the gospel",
+            a: "tenaciousness, hardworking",
         },
         {
-            q: "We don't lose sight of God's true _. God's _ is a world of sons.",
-            a: "solution, solution",
+            q: "_ is never of God",
+            a: "Laziness",
         },
         {
-            q: "God's _ is in the hearts of men",
-            a: "battleground",
+            q: "It is the _ of some persons that might not allow you to know God",
+            a: "testimony",
         },
         {
-            q: "A world of sons is God's _ solution",
-            a: "only",
+            q: "You cannot despise what you don't _",
+            a: "know",
         },
         {
-            q: "Our eyes must see something beyond _",
-            a: "bloodshed",
+            q: "Part of the duty of the Son is the _ duty of the prophet",
+            a: "previous",
+        },
+        {
+            q: "In the activities of Jesus, we are going to see _ and _",
+            a: "salvation, the repentance of men",
+        },
+        {
+            q: "Reconciliation in the Bible is to bring a rebellious man back to a _ God",
+            a: "waiting",
+        },
+        {
+            q: "The _ and _ of Christ represent the sufferings of Christ",
+            a: "blood, cross",
+        },
+        {
+            q: "God will save mankind and he will say _",
+            a: "'tell them that Jesus died'",
+        },
+        {
+            q: "It is normal for your message to look like it is not _",
+            a: "powerful",
+        },
+        {
+            q: "Don't see the appeal of God as _",
+            a: "powerless",
+        },
+        {
+            q: "The death of Christ is not God giving man _",
+            a: "last chance",
+        },
+        {
+            q: "God is not warning us in his _",
+            a: "appeal",
+        },
+        {
+            q: "God never sent any man to declare _ judgement on the sinful man",
+            a: "extra",
+        },
+        {
+            q: "It is lack of _ to be judging a witch",
+            a: "insight",
         },
     ]
 }

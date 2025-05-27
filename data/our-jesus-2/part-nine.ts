@@ -8,100 +8,100 @@ export const part_nine = {
     slug: "our_jesus_series_2_nine",
     questions: [
         {
-            q: "What Paul is writing is not profitable for _",
-            a: "doctrine",
+            q: "Faith in Christ is not in _ but love for men is in _",
+            a: "things, things",
         },
         {
-            q: "The epistle already contain _ from the holy scriptures",
-            a: "profit",
+            q: "Practicing _ is practicing Christianity",
+            a: "love",
         },
         {
-            q: "You are not trying to labour on the _ to get profit",
-            a: "epistles",
+            q: "Practicing love is part of the _ of your faith",
+            a: "expressions",
         },
         {
-            q: "The indwelling confers upon the man full _ and _",
+            q: "Practicing _ is to express your faith correctly",
+            a: "selflessness",
+        },
+        {
+            q: "What saves in _ is the same that saves in _",
+            a: "the OT, the NT",
+        },
+        {
+            q: "There is no _ in types and shadows",
+            a: "salvation",
+        },
+        {
+            q: "The fullness of _ is the resurrection of Christ",
+            a: "revelation",
+        },
+        {
+            q: "The _ will make them _; the _ will make them ready",
+            a: "event, information",
+        },
+        {
+            q: "The _ of all men is in the resurrection of Christ",
+            a: "perfection",
+        },
+        {
+            q: "It is the event of the resurrection of Christ that _ the ages",
+            a: "divided",
+        },
+        {
+            q: "Man must keep labouring in _ and _ until the day dawn and day star arises",
+            a: "faith, revelation",
+        },
+        {
+            q: "Salvation is not a _ but there is a _ of revelation that leads to salvation",
+            a: "journey, journey",
+        },
+        {
+            q: "Eternal security is not in _; eternal security is in receiving the Spirit",
+            a: "dim light",
+        },
+        {
+            q: "A man on the journey of faith that pulls back from understanding is not secured _",
+            a: "eternally",
+        },
+        {
+            q: "There is no faith without _",
+            a: "information",
+        },
+        {
+            q: "The race ends the day you believe the _ gospel",
+            a: "full",
+        },
+        {
+            q: "The preacher is to make the journey of faith _",
+            a: "faster",
+        },
+        {
+            q: "The real demonic thing in the Bible is _",
+            a: "false doctrine",
+        },
+        {
+            q: "Depending on _ of the message, the light will vary in intensity",
+            a: "clarity",
+        },
+        {
+            q: "The OT is of progressive _ and men will have progressive _",
             a: "revelation, comprehension",
         },
         {
-            q: "The epistles are written for you to understand and not for you to _",
-            a: "rightly divide",
+            q: "The indwelling is the destination of man but the same Spirit is also the _ of the gospel",
+            a: "convener",
         },
         {
-            q: "if you don't have the same priority as the men that wrote the epistles, you will be _",
-            a: "offended",
+            q: "Looks like some people will make their final _ under the earth",
+            a: "confession",
         },
         {
-            q: "The epistles are the _ on all things that pertains to the Christian faith",
-            a: "final authority",
+            q: "a man that dies on the journey of faith will still have to attain the end of _",
+            a: "revelation",
         },
         {
-            q: "What comes from God is in line with his _ and _",
-            a: "will, character",
-        },
-        {
-            q: "God gives _. He does not give _",
-            a: "richly, sparingly",
-        },
-        {
-            q: "_ is the nature of God's giving",
-            a: "abundance",
-        },
-        {
-            q: "God is a God of _",
-            a: "abundance",
-        },
-        {
-            q: "_ are uncertain",
-            a: "physical riches",
-        },
-        {
-            q: "What God is giving cannot be the same _ riches",
-            a: "uncertain",
-        },
-        {
-            q: "The expression of the Spirit is called _ to the believer",
-            a: "riches",
-        },
-        {
-            q: "It is not a function of money but the dangers associated in the _ pursuit to have it",
-            a: "die-hard",
-        },
-        {
-            q: "The first time physical riches is mentioned, it is a _",
-            a: "caution",
-        },
-        {
-            q: "Rich in _ refers to being abundant in giving and not trusting in the riches",
-            a: "good works",
-        },
-        {
-            q: "The man in Christ who has physical resources should be ready to _",
-            a: "give",
-        },
-        {
-            q: "God has his own _",
-            a: "riches",
-        },
-        {
-            q: "It is the job of the believer to value the _ in Christ as greater",
-            a: "riches",
-        },
-        {
-            q: "There is nothing _ that can bring joy",
-            a: "uncertain",
-        },
-        {
-            q: "The blessing emanating from God is _ to man",
-            a: "enriching",
-        },
-        {
-            q: "I am God's riches cos I have _",
-            a: "God's riches",
-        },
-        {
-            q: "What are God's riches in glory?",
-            a: "the believer",
+            q: "No man in Christ will be by _",
+            a: "chance",
         },
     ]
 }

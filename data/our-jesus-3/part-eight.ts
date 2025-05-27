@@ -8,68 +8,64 @@ export const part_eight = {
     slug: "our_jesus_series_3_eight",
     questions: [
         {
-            q: "Once you are a _, you are automatically saying you are at war with Satan",
-            a: "minister of the truth",
+            q: "The _ of the preacher does not invalidate the power of God",
+            a: "physical state",
         },
         {
-            q: "_ transcends the physical _",
-            a: "hearing, hearing",
+            q: "Issues with Christology equals issues with _",
+            a: "theology",
         },
         {
-            q: "Jesus' problem with general Jews was to get them to _",
-            a: "listen to the word",
+            q: "We must be clear on who he is before investigating _",
+            a: "what he did",
         },
         {
-            q: "A willing heart is man's _ but to God's _",
-            a: "action, glory",
-        },
-        {
-            q: "_ cannot be shocked",
+            q: "God was not trying to introduce _",
             a: "God",
         },
         {
-            q: "People either fulfil positive or negative part of prophecy by their _",
+            q: "There cannot be rhema without _",
+            a: "logos",
+        },
+        {
+            q: "There was no _ of Jesus at the beginning",
+            a: "person",
+        },
+        {
+            q: "Adam/Noah need not call the word of God _. All they need knew was that God had an intention",
+            a: "Christ",
+        },
+        {
+            q: "Before man came in, we see Jesus as the intention of God but after man was created, we see Jesus as the _ of God and the _ of men",
+            a: "message, life",
+        },
+        {
+            q: "There is no darkness if there is no _",
+            a: "rejection",
+        },
+        {
+            q: "The unbelief of man cannot invalidate God's _",
+            a: "plan",
+        },
+        {
+            q: "The message became full in the _ and _",
+            a: "incarnation, resurrection",
+        },
+        {
+            q: "Inside God's sovereignty is man's _",
             a: "choice",
         },
         {
-            q: "Sharp _ never establish anyone",
-            a: "answers",
+            q: "Man needs _ to see Christ as all of God's plan and meditation",
+            a: "prayer",
         },
         {
-            q: "The conclusion of the Bible is gotten from _",
-            a: "the entire Bible",
+            q: "Don't explain Jesus as a man from the view of the _ around him",
+            a: "men",
         },
         {
-            q: "_ cannot always have his way",
-            a: "God",
-        },
-        {
-            q: "It is _ to just give God a title or power that he doesn't have",
-            a: "unfair",
-        },
-        {
-            q: "God's _ action is that no one should perish",
-            a: "deliberate",
-        },
-        {
-            q: "If you want the influence of God, you can't do it outside the _",
-            a: "gospel",
-        },
-        {
-            q: "We don't lose sight of God's true _. God's _ is a world of sons.",
-            a: "solution, solution",
-        },
-        {
-            q: "God's _ is in the hearts of men",
-            a: "battleground",
-        },
-        {
-            q: "A world of sons is God's _ solution",
-            a: "only",
-        },
-        {
-            q: "Our eyes must see something beyond _",
-            a: "bloodshed",
+            q: "All God _ and all God _ is what Christ came to do",
+            a: "thinks, wants",
         },
     ]
 }

@@ -8,48 +8,76 @@ export const part_three = {
     slug: "our_jesus_series_3_three",
     questions: [
         {
-            q: "Christianity takes its pride of place in _, _, _",
-            a: "simplicity, clarity, understanding",
+            q: "God's _ is exclusively for God's _",
+            a: "word, work",
         },
         {
-            q: "For Moses not to stand in accusation against any man, the man must see _ from _",
-            a: "Christ, Moses",
+            q: "Regardless of the _ document, our singular interpretation must be salvation through faith in Christ",
+            a: "historical",
         },
         {
-            q: "We see in the scriptures that _ or _ is usually typified as something new",
-            a: "salvation, deliverance",
+            q: "It is not fair when people dig into scriptures to teach _",
+            a: "emotions",
         },
         {
-            q: "That Aaron will have to sacrifice for himself first means he is actually not the _",
-            a: "high priest",
+            q: "To have another focus greater than Jesus in the Bible is to be _",
+            a: "an idol worshipper",
         },
         {
-            q: "You don't have to be _ in your own redemptive process",
-            a: "an active player",
+            q: "The Bible is not written for you to focus on _",
+            a: "heaven",
         },
         {
-            q: "Atonement was necessary cos of sin and not cos God was _",
-            a: "angry",
+            q: "Don't start your search of the scripture looking for _",
+            a: "holiness",
         },
         {
-            q: "The presence of sin necessitates the action of _",
-            a: "atonement",
+            q: "We must respect that _ of the scriptures",
+            a: "sanctity",
         },
         {
-            q: "God only takes responsibility for _ and not actions done",
-            a: "words spoken",
+            q: "The quickening of God is by _",
+            a: "the word",
         },
         {
-            q: "In the amplifications of the _, one must not get los",
-            a: "prophets",
+            q: "Don't have a wordless _",
+            a: "Christianity",
         },
         {
-            q: "Your knowledge of what has happened will _ your confidence and assurance of all God has done",
-            a: "heighten",
+            q: "Don't have a 'rhema'/key point _",
+            a: "Christianity",
         },
         {
-            q: "God put man before himself and the product was _",
-            a: "the salvation of the world",
+            q: "Christianity must be Christ-focused by _",
+            a: "the word",
+        },
+        {
+            q: "In Christianity is where we train ourselves to be _ when the revelation of Christ dawns on us",
+            a: "happier",
+        },
+        {
+            q: "We don't have to wait till _ to study God's word",
+            a: "hard times",
+        },
+        {
+            q: "Christian _ is to the revelation of Christ in the scripture",
+            a: "devotion",
+        },
+        {
+            q: "Have a _ devoted Christianity",
+            a: "word",
+        },
+        {
+            q: "Don't know _ things, know _ thing",
+            a: "too much, the real",
+        },
+        {
+            q: "With the _, we are to exhibit the realities of our _",
+            a: "mind, spirit",
+        },
+        {
+            q: "Don't believe your _ stance than the gospel",
+            a: "cultural",
         },
     ]
 }

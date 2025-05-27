@@ -8,104 +8,60 @@ export const part_five = {
     slug: "our_jesus_series_3_five",
     questions: [
         {
-            q: "Peter used _ to describe anything man-related",
-            a: "corruptible things",
+            q: "I must not be lazy minded or _ in my approach to God's word",
+            a: "casual",
         },
         {
-            q: "Whatever is of man has no eternal value therefore it is _",
-            a: "corruptible",
+            q: "The gospel message does not place any other demand on people except to _ and enjoy _",
+            a: "listen, God's goodness",
         },
         {
-            q: "all _ will never be the basis for man to be separate from God",
-            a: "moral sins",
+            q: "Any gospel that places demand on man is a _",
+            a: "false doctrine",
         },
         {
-            q: "_ has made man unable to boast in that he did not contribute anything to his atonement",
-            a: "Faith",
+            q: "The word plus tithing never equals the gospel. What saves man is that _ message",
+            a: "pure",
         },
         {
-            q: "a man cannot _ himself to be a priest or _ himself into that office",
-            a: "ordain, consecrate",
+            q: "The demand God places on man is not to _ but to _",
+            a: "believe, give attention",
         },
         {
-            q: "God was self _ in his desire to reconcile man",
-            a: "motivated",
+            q: "What God brought to the sinner is to _ him",
+            a: "woo",
         },
         {
-            q: "in God's dealing with man is man's _",
-            a: "choice",
+            q: "God woes man with his _",
+            a: "goodness",
         },
         {
-            q: "The name of Jeus is the authority _ based on the death, burial and resurrection of Jesus",
-            a: "accrued",
+            q: "The _ and _ of sin is lack of attention to God's word",
+            a: "origin, sustainer",
         },
         {
-            q: "The death of Christ is _ display of assurance to man",
-            a: "an emphatic",
+            q: "Man is made to _. We don't ask the unbeliever to pray for _",
+            a: "believe, faith",
         },
         {
-            q: "Assuming man's choice is not involved, there would not have been a need for _",
-            a: "an appeal",
+            q: "Faith is not _ but to simply agree with what was spoken",
+            a: "mystical",
         },
         {
-            q: "That appeal is a _ of the will of man",
-            a: "recognition",
+            q: "The gospel is called the _ of faith",
+            a: "hearing",
         },
         {
-            q: "There is _ when a man exercises his choice in the direction of God.",
-            a: "joy",
+            q: "_ sets the pace for faith",
+            a: "The goodness of God",
         },
         {
-            q: "So when you talk about _ in any way, you have shifted the blame to God",
-            a: "limited atonement",
+            q: "Man's duty is to _ God's word",
+            a: "romance",
         },
         {
-            q: "Once you have the Spirit of God in you, you are excluded from _",
-            a: "death",
-        },
-        {
-            q: "No man has no excuse to _",
-            a: "die",
-        },
-        {
-            q: "The problem cannot be _ cos there's strength supplied by the Spirit within",
-            a: "lack of ability",
-        },
-        {
-            q: "Every excuse man can think about to die, God is _",
-            a: "steps ahead",
-        },
-        {
-            q: "God can better provide cos he _ the need of man",
-            a: "preempts",
-        },
-        {
-            q: "When you understand that Christ is that atonement, once you add limited to it, it is a _ to it",
-            a: "disdain",
-        },
-        {
-            q: "If you ever doubt God's love, see _",
-            a: "Jesus",
-        },
-        {
-            q: "The atonement even covers for your _",
-            a: "misbehaviour",
-        },
-        {
-            q: "God has preempted every single thing and he gave a _ solution which is not limited",
-            a: "once and for all",
-        },
-        {
-            q: "The one who has no _ is exalted in us",
-            a: "limitation",
-        },
-        {
-            q: "Your reality must not be _. You are in so much _ to what God has done",
-            a: "farfetched, close proximity",
-        },
-        {
-            q: "God is too big for you to _",
-            a: "ignore",
+            q: "To identify who a believer is, first identify _",
+            a: "what he listens to",
         },
     ]
 

@@ -8,96 +8,60 @@ export const part_seven = {
     slug: "our_jesus_series_3_seven",
     questions: [
         {
-            q: "It was via Christ's actions that God delivered us from _, _ and _",
-            a: "wrath, death, sin",
+            q: "I must not be looking for quick results in _",
+            a: "evangelism",
         },
         {
-            q: "The believer that is not in _ is not safe in his mind",
-            a: "a local church",
+            q: "The way we present the gospel message must both be _ and _",
+            a: "apologetic, authoritative",
         },
         {
-            q: "All the offences were paid for _ and it was for _ and _",
-            a: "at once, every age, dispensation",
+            q: "Salvation is God's will for man's _",
+            a: "safety",
         },
         {
-            q: "God wants to bring out believing in his name from every generation and for this to happen, there must be a _",
-            a: "remembrance",
+            q: "See man as a _ being that is trying to take off",
+            a: "half-baked",
         },
         {
-            q: "Subsequent participation was not to commemorate the deliverance that happened in _ to remember _",
-            a: "Egypt, the sacrifice of Christ",
+            q: "Salvation is not a _ venture; it is not a _",
+            a: "joint, partnership",
         },
         {
-            q: "Jesus put his _ and _ on the Passover",
-            a: "seal, stamp",
+            q: "The preacher that knows the gospel is _ in salvation",
+            a: "an authority",
         },
         {
-            q: "There was a sacrifice done by Christ and the result was not bread but _",
-            a: "people",
+            q: "In your appeal, don't lie and don't say _",
+            a: "half-truth",
         },
         {
-            q: "Eating unleavened bread will refer to _",
-            a: "fellowship",
+            q: "The gospel takes into account God's _",
+            a: "nature",
         },
         {
-            q: "Your state of unleaveness is a _ state",
-            a: "permanent",
+            q: "What God love before the foundation of the world is not _ but the _ of man",
+            a: "himself, salvation",
         },
         {
-            q: "When there is fellowship, there is _",
-            a: "strength",
+            q: "What was from the foundation of the world is a _ and not _",
+            a: "criterion, persons",
         },
         {
-            q: "We are to have more fellowship and fellowship with _",
-            a: "a purpose",
+            q: "Jesus entering _ is the HG entering us",
+            a: "heaven",
         },
         {
-            q: "A constant _ and constant _ are what is expected of you as a believer based on what Christ has done",
-            a: "consciousness, activity",
+            q: "Man must disengage from some degree of _ for Christ to come",
+            a: "legalism",
         },
         {
-            q: "A lot of emphasis was done in the epistles to remove the believer's focus from _ element of worship",
-            a: "physical",
+            q: "Christ cannot come after that pattern of _ sacrifice",
+            a: "repetitive",
         },
         {
-            q: "There is truly a _ in heaven and a _ on earth",
-            a: "family, family",
-        },
-        {
-            q: "When God claims ownership over a man, it is _",
-            a: "eternal",
-        },
-        {
-            q: "What makes you in heaven is that you are in _",
-            a: "Christ",
-        },
-        {
-            q: "God unifies all men in _",
-            a: "Christ",
-        },
-        {
-            q: "Whether you are _ or _ physically, all that matters is that you are in Christ",
-            a: "alive, dead",
-        },
-        {
-            q: "God can never have us focusing on _ things",
-            a: "physical",
-        },
-        {
-            q: "You cannot say you want to focus on Christ through _ things",
-            a: "physical",
-        },
-        {
-            q: "God cannot tell us to divide that our attention on the _ and on the _",
-            a: "physical, spiritual",
-        },
-        {
-            q: "As you show the Lord's death through your _, you will never forget what he has done",
-            a: "speaking about it",
-        },
-        {
-            q: "When you have a desire to replicate heaven on earth, it is seen in your zeal to _",
-            a: "spread the gospel",
+            q: "God did not promise us _ from the foundation of the world",
+            a: "things",
         },
     ]
 }

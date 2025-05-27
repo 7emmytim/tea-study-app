@@ -8,80 +8,56 @@ export const part_six = {
     slug: "our_jesus_series_3_six",
     questions: [
         {
-            q: "When a man has not learnt accurately, there is almost no limit to the _ he can say and think he is _",
-            a: "foolishness, sensible",
+            q: "From the way God deals with us in salvation, we can as well understand how he deals with us as touching _",
+            a: "general life issues",
         },
         {
-            q: "Without learning, what will come out will be _",
-            a: "foolishness",
+            q: "Both Jew and non-Jew were both justified by faith. They were justified not by what they _ right but by what they _ right",
+            a: "did, heard",
         },
         {
-            q: "Learning and correction will come from the accurate learning of the scriptures and this is what will drive away _",
-            a: "foolishness",
+            q: "Right _ of the gospel leads to justification",
+            a: "hearing",
         },
         {
-            q: "There must be a constant _ to the believer as he learns.",
-            a: "adjustment",
+            q: "Grace is a function of God's _",
+            a: "love",
         },
         {
-            q: "There is always an adjustment process that is excepted based on _",
-            a: "comprehension",
+            q: "Until man pays attention, God's power will _",
+            a: "seem unavailable",
         },
         {
-            q: "When a man is not _ then he is not learning",
-            a: "adjusting",
+            q: "In looking for mastery in the things of the Spirit, take so much in _",
+            a: "a short while",
         },
         {
-            q: "A deliberate rejection of what is clear in the scriptures is _",
-            a: "rebellion",
+            q: "Man must on his accord _ and _ into God's will",
+            a: "discover, evolve",
         },
         {
-            q: "Every believer must recognise that they do not have an excuse to be _",
-            a: "ignorant",
+            q: "Man will discover God's will by the _ supplied",
+            a: "information",
         },
         {
-            q: "No one can claim they are not able to understand the truth when they have _",
-            a: "the HG",
+            q: "Attention is not about _ alacrity in a day.",
+            a: "30 minutes",
         },
         {
-            q: "The Spirit of truth also revealed the interpretation of Genesis to Malachi whom Paul described as _",
-            a: "apostles and prophets",
+            q: "Faith in Christ is faith in the _",
+            a: "resurrection",
         },
         {
-            q: "We have the _, the _ and _. So, no one can claim ignorance",
-            a: "Spirit within, epistles, teaching",
+            q: "For the OT patriarchs, faith for them started from _ to _",
+            a: "things, Christ",
         },
         {
-            q: "There is no _ when you abide with sound doctrine",
-            a: "shame",
+            q: "Your duty now is not to have faith but for you to _",
+            a: "doubt not",
         },
         {
-            q: "It is deviation from sound doctrine that brings _",
-            a: "shame",
-        },
-        {
-            q: "It is easy to arrive at the truth of the scriptures, if you follow the guidance of the Spirit _ and _",
-            a: "within, without",
-        },
-        {
-            q: "The scriptures are the _ of the believer's mind",
-            a: "purifier",
-        },
-        {
-            q: "Christology comes with a _ that nothing can shake",
-            a: "confidence",
-        },
-        {
-            q: "There's a stability that comes with right _",
-            a: "learning",
-        },
-        {
-            q: "As you learn, every form of false doctrine comes _",
-            a: "too late",
-        },
-        {
-            q: "False doctrine thrives when people are lazy to _",
-            a: "read their Bible",
+            q: "What you do now is to _ your attention on the gospel",
+            a: "consolidate",
         },
     ]
 }

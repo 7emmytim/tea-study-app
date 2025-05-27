@@ -8,152 +8,100 @@ export const part_four = {
     slug: "our_jesus_series_1_four",
     questions: [
         {
-            q: "_ is the limit for the believer",
+            q: "The church is not a _ gathering. The church is a _",
+            a: "social, school",
+        },
+        {
+            q: "Any church that is offering entertainment deserves to be _",
+            a: "stoned",
+        },
+        {
+            q: "If you are offering _ in church, you are doing a great injustice to the gospel",
+            a: "entertainment",
+        },
+        {
+            q: "_ must not stop working in the church",
+            a: "The truth",
+        },
+        {
+            q: "_ does not mean you are right",
+            a: "conviction",
+        },
+        {
+            q: "You can be convinced about _",
+            a: "the wrong thing",
+        },
+        {
+            q: "_ does not work together for good",
+            a: "Evil",
+        },
+        {
+            q: "Examples abound in the scriptures of how God specialises in blessing the _",
+            a: "unqualified",
+        },
+        {
+            q: "You must not preach _ in the name of Christ",
+            a: "motivation",
+        },
+        {
+            q: "God wants to _ the man that is emptyhanded",
+            a: "bless",
+        },
+        {
+            q: "Jesus is your _; you don't need your own _",
+            a: "wisdom, wisdom",
+        },
+        {
+            q: "You can investigate the kind of persons God has chosen to _",
+            a: "have mercy upon",
+        },
+        {
+            q: "If you are in Jesus, you are an object of _ and if you are not in him then you are an object of _",
+            a: "mercy, wrath",
+        },
+        {
+            q: "God's food is _",
             a: "Christ",
         },
         {
-            q: "Why people attack the grace message is cos they feel it is not _",
-            a: "balanced",
+            q: "_ is not the way to forgiveness",
+            a: "Sorry",
         },
         {
-            q: 'instead of saying "I am looking for a part of God", pick _',
-            a: "Christ",
+            q: "Satan _ the truth, _ against the truth and _ against the truth",
+            a: "hated, rebelled, preached",
         },
         {
-            q: "Once you are in Christ, know you have been saved from _",
-            a: "self",
+            q: "In the activities of men, we saw some _, _, _ of men that were built on rebellion",
+            a: "empires, tribes, lineage",
         },
         {
-            q: "I am in Christ _, I am in Christ _",
-            a: "satisfied, fulfilled",
+            q: "To hate _ in the OT is synonymous to hating the truth",
+            a: "the Israelites",
         },
         {
-            q: "You don't need to know _ about someone before you can say you know someone",
-            a: "every detail",
+            q: "To be an able minister of the NT, the first thing is _",
+            a: "teaching",
         },
         {
-            q: "Most times the information people chase after in trying to know someone is _",
-            a: "unnecessary",
+            q: "Pharaoh became an object of _ cos of his hatred for the truth",
+            a: "wrath",
         },
         {
-            q: "The ministry of Jesus births the most intimate of _",
-            a: "relationships",
+            q: "The same _ that killed Pharaoh also killed some Israelites in the wilderness",
+            a: "unbelief",
         },
         {
-            q: "To know God is to understand his _",
-            a: "thoughts",
+            q: "_ has never determined justification",
+            a: "works",
         },
         {
-            q: "All of God's action is a function of his _",
-            a: "will",
+            q: "The reason we can cast out devils today is cos _",
+            a: "Satan has been judged",
         },
         {
-            q: "If I know God's will then I can trace his _. His _ point men to his will",
-            a: "actions, actions",
-        },
-        {
-            q: "If we want to look at the infinite nature of God, he cannot be _",
-            a: "known",
-        },
-        {
-            q: "The understanding of Christ is the _ with which we can see God",
-            a: "lens",
-        },
-        {
-            q: "Trying to look for the knowledge of God outside Christ is to be like _",
-            a: "Philip",
-        },
-        {
-            q: "If you can _ then Christianity is a fluke",
-            a: "know God outside Christ",
-        },
-        {
-            q: "The word of God that Christ is bringing is not _ comprehension",
-            a: "limited",
-        },
-        {
-            q: "All those parts that the prophets had set forth only _ in Christ",
-            a: "comes together",
-        },
-        {
-            q: "If it is not _ revealed then it is not _ unveiled",
-            a: "Christ, God",
-        },
-        {
-            q: "When a man tries to navigate the knowledge of God outside Christ is _",
-            a: "labour",
-        },
-        {
-            q: "The learning of Christ is easy compared to the _",
-            a: "alternatives",
-        },
-        {
-            q: "If you have arrived in Christ then there is nothing to _ to",
-            a: "progress",
-        },
-        {
-            q: "Every glory you will get is based on that _ that you have received",
-            a: "Christ",
-        },
-        {
-            q: "Trying to see beyond Christ for something else is a _ gratification",
-            a: "carnal",
-        },
-        {
-            q: "There is a God-given _",
-            a: "curiosity",
-        },
-        {
-            q: "If you have submitted to Christ for salvation then you must also submit to Christ for _",
-            a: "the revelation of God",
-        },
-        {
-            q: "Once you say there is something beyond Christ it means you are saying there is a _ in Christ",
-            a: "deficiency",
-        },
-        {
-            q: "If you are alluding to a _ in Christ then you are on your own",
-            a: "deficiency",
-        },
-        {
-            q: "Man likes to add his own _ to things",
-            a: "tweak",
-        },
-        {
-            q: "We are saved to stay/serve in the _",
-            a: "boundary of Christ",
-        },
-        {
-            q: "We limit all of _ endeavours to Christ cos God already _ it",
-            a: "divinity, limited",
-        },
-        {
-            q: "When you don't stick with Christ, who are you trying to please?",
-            a: "definitely not God",
-        },
-        {
-            q: "God's way is _",
-            a: "Christ",
-        },
-        {
-            q: "You don't do God any service by trying to _ God",
-            a: "complicate",
-        },
-        {
-            q: "You are not helping God when you are trying to make him sound _",
-            a: "complicated",
-        },
-        {
-            q: "To know God is not in having _ but in knowing Christ",
-            a: "all the details",
-        },
-        {
-            q: "The things that Jesus gave God _ for should also be enough for you to give _",
-            a: "gratitude, thanks for",
-        },
-        {
-            q: "The knowledge of divinity is God's highest _ for man",
-            a: "privilege",
+            q: "We don't give microphone to _ to talk",
+            a: "demons",
         },
     ]
 }

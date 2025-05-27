@@ -8,208 +8,92 @@ export const part_two = {
     slug: "our_jesus_series_2_two",
     questions: [
         {
-            q: "If you want to find out what God is saying, you cannot do it through _",
-            a: "experience",
+            q: "A man can receive healing and everything good and he is still in rebellion against God's _ and _",
+            a: "salvation, ministry",
         },
         {
-            q: "The writer of Hebrews summarised all their different experiences as their _ in Christ",
-            a: "journey of faith",
+            q: "Don't speak against the tool that brings _",
+            a: "understanding",
         },
         {
-            q: "We are not to be caught up in _",
-            a: "experiences",
+            q: "Church is established upon _",
+            a: "BI",
         },
         {
-            q: "Your experiences are useless when they don't point to Christ, it is just _",
-            a: "tales by moonlight/super story",
+            q: "What people think about you is not enough reason for you to _",
+            a: "give up on life",
         },
         {
-            q: "Those experiences are a _ of doctrine",
-            a: "witness",
+            q: "My faith in Christ is enough to give me _",
+            a: "joy",
         },
         {
-            q: "Experiences are useless without _ in the mix",
-            a: "Christ",
+            q: "When things go wrong, _ it and don't _ it",
+            a: "fix, think",
         },
         {
-            q: "We don't need to be expecting weird experiences to understand _",
-            a: "doctrine",
+            q: "I am more important than my _",
+            a: "pursuits",
         },
         {
-            q: "Don't be looking for _ to teach you doctrine",
-            a: "experiences",
+            q: "_ is the only package man will find in God",
+            a: "forgiveness",
         },
         {
-            q: "It is not a function of how spectacular the vision is, it is a function of _ and _",
-            a: "willingness, understanding",
+            q: "God's _ is that if a man does not want forgiveness, he will let the man be",
+            a: "justice",
         },
         {
-            q: "No matter how diverse the _ of those in the OT, it was still one message",
-            a: "experiences",
+            q: "God does not have the character of _",
+            a: "unforgiveness",
         },
         {
-            q: "If you follow experiences and neglect the doctrine in them, you will be caught up in _",
-            a: "diversities",
+            q: "Salvation is only applicable if you arrive at the end of _",
+            a: "revelation",
         },
         {
-            q: "Experiences _ but doctrine is _",
-            a: "vary, constant",
+            q: "The summary of the book of Hebrews is to depart from _ to _",
+            a: "works, faith",
         },
         {
-            q: "Always look for that _ and that _ is Christ",
-            a: "constant, constant",
+            q: "Labour is to search till you find the truth, labour is not _",
+            a: "works",
         },
         {
-            q: "Continuing in what you have been taught is _",
-            a: "orderliness",
+            q: "Forgiveness is God's _ and not _ of God",
+            a: "character, an action",
         },
         {
-            q: "Once you don't continue as you have received, that is _ and _",
-            a: "disorderliness, instability",
+            q: "Who God is to man is _. It is only in _ that we know God more",
+            a: "forgiveness, forgiveness",
         },
         {
-            q: "That testimony of Christ is everything there is about the _",
-            a: "faith",
+            q: "Cos we know God in mercy, it means the believer must be a ready _",
+            a: "forgiver",
         },
         {
-            q: "The epistles branded anyone not following this doctrine as a _",
-            a: "heretic",
+            q: "it is stupidity to the nature of a believer to say he doesn't _",
+            a: "forgive",
         },
         {
-            q: "Their _ to doctrine is how they shine as light",
-            a: "steadfastness",
+            q: "The gift of discerning of the Spirit is not to discern a _ man",
+            a: "saved",
         },
         {
-            q: "The _ of a generation and _ of others is not an excuse not to hold on to doctrine",
-            a: "perverseness, laxity",
+            q: "Jesus did not judge any man to _ so you also don't",
+            a: "hell",
         },
         {
-            q: "When it comes to _, we don't leave the doctrine of Christ",
-            a: "miracles",
+            q: "Doctrine teaches us how to _",
+            a: "relate",
         },
         {
-            q: "_ is an impression that enters your mind that is not real",
-            a: "A mirage",
+            q: "To ask for _ is to ask to know God",
+            a: "forgiveness",
         },
         {
-            q: "_ are things that widely acknowledged but that is not true",
-            a: "Myths",
-        },
-        {
-            q: "In teaching, the teacher must make it clear that he has not lost sight of God's _",
-            a: "rule",
-        },
-        {
-            q: "The war of God is fought with _. God does not fight his wars with _",
-            a: "words, guns",
-        },
-        {
-            q: "Even if their response to Jeremiah is violence, he doesn't have the luxury to _",
-            a: "change the message",
-        },
-        {
-            q: "God did not promise you that their response will be _",
-            a: "conducive",
-        },
-        {
-            q: "Jesus taught with _",
-            a: "authority",
-        },
-        {
-            q: "The _ of every preacher is God",
-            a: "confidence",
-        },
-        {
-            q: "The _ is above all men",
-            a: "message",
-        },
-        {
-            q: "That confidence of the message must be seen in your _ no matter who you are speaking to",
-            a: "delivery",
-        },
-        {
-            q: "_ is not multifaceted",
-            a: "The doctrine of Christ",
-        },
-        {
-            q: "There are corresponding _ we see that communicate sound doctrine",
-            a: "actions",
-        },
-        {
-            q: "No believer has the right to be _",
-            a: "angry",
-        },
-        {
-            q: "There are some _ that befits sound doctrine",
-            a: "conducts",
-        },
-        {
-            q: "The doctrine of Christ does not accommodate every _ of man",
-            a: "excess",
-        },
-        {
-            q: "The doctrine of Christ will trim _",
-            a: "excesses",
-        },
-        {
-            q: "The ministry of Jesus is a _ of God",
-            a: "commandment",
-        },
-        {
-            q: "When it comes to doctrine, there are no _",
-            a: "options",
-        },
-        {
-            q: "When it comes to _, the stand of the scriptures is final authority",
-            a: "doctrine",
-        },
-        {
-            q: "If there is any iota of uncertainty in the outcome, look for the _",
-            a: "variable",
-        },
-        {
-            q: "Don't _ God with every man speaking for God",
-            a: "stamp",
-        },
-        {
-            q: "God has given his own _ which is the doctrine of Christ",
-            a: "stamp",
-        },
-        {
-            q: "The day you see your relationship with God as doing him a favour so that he owes you, you need to be _",
-            a: "born again",
-        },
-        {
-            q: "God does not exist for your _",
-            a: "pleasure",
-        },
-        {
-            q: "If you want God to do as you like, you have to _",
-            a: "create God in your image",
-        },
-        {
-            q: "The only person who cannot recognise this doctrine of Christ is _",
-            a: "an unbeliever",
-        },
-        {
-            q: "When you are not content with this _, you are portraying the characteristic of an unbeliever",
-            a: "doctrine of Christ",
-        },
-        {
-            q: "I have given myself a cage and that is _",
-            a: "the doctrine of Christ",
-        },
-        {
-            q: "The message of Christ on your lips is a proof that you are _",
-            a: "called",
-        },
-        {
-            q: "The only _ that you accept is the one the gospel gives us",
-            a: "pressure",
-        },
-        {
-            q: "The doctrine of Christ has admin right in my _",
-            a: "ministry",
+            q: "Forgiveness of sins to man can be seen as _ and _",
+            a: "restoration of confidence, receiving sonship",
         },
     ]
 }

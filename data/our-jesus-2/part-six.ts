@@ -8,80 +8,88 @@ export const part_six = {
     slug: "our_jesus_series_2_six",
     questions: [
         {
-            q: "God's guarantee is tied to the _ he gives",
-            a: "expectation",
+            q: "The ministry of Jesus to the whole world started from _",
+            a: "resurrection",
         },
         {
-            q: "One major theory in materialism is the expectation towards God for _",
-            a: "physical increase",
+            q: "What matters to the world is that _ Jesus",
+            a: "resurrected",
         },
         {
-            q: "We must first understand that Jesus is the _ revealer of God",
-            a: "sole",
+            q: "There are things that Jesus did cos of _",
+            a: "integration",
         },
         {
-            q: "Jesus is the authority on the _ of God",
-            a: "character",
+            q: "The Gentiles did not have his full package in the _",
+            a: "incarnation",
         },
         {
-            q: "There is no _ of man that God needs for himself",
-            a: "physical resource",
+            q: "The man in God's image is not the _ Jesus but the _ Jesus",
+            a: "incarnated, resurrected",
         },
         {
-            q: "The dominion man needs Christ to exercise is _ and not _",
-            a: "spiritual, physical",
+            q: "The four gospels are not anti the _",
+            a: "epistles",
         },
         {
-            q: "Man did not have dominion over _ and that was what Jesus brought for man",
-            a: "death",
+            q: "Even in the OT, anywhere _ shows up, man can declare his liberty from the law of sin and death",
+            a: "faith",
         },
         {
-            q: "You don't need Christ to exercise _ dominion",
-            a: "physical",
+            q: "Although man can declare his liberty but _ will not",
+            a: "Jesus",
         },
         {
-            q: "Men are responsible for the _, _ and _ of wealth",
-            a: "allocation, distribution, increase",
+            q: "You can _ the law when faith shows up",
+            a: "retire",
         },
         {
-            q: "If you say it was God that made Abraham rich then you are saying God made him _",
-            a: "lie",
+            q: "The sufferings of Christ is an appeal to mankind and not a _ for God to save_",
+            a: "requirement",
         },
         {
-            q: "Don't see every God _ or God _ in the OT as God's actual action",
-            a: "said, did",
+            q: "When a man believes the gospel even in the OT, he is _ to the law",
+            a: "superior",
         },
         {
-            q: "God is not behind any form of _ or _",
-            a: "cheating, exploitation",
+            q: "The sacrifice of Jesus is called _",
+            a: "submission",
         },
         {
-            q: "When a man maximises the resources on the earth _, we give glory to God for the man's wealth",
-            a: "legitimately",
+            q: "Jesus was not just to come and declare his _ from the law, he came to _",
+            a: "freedom, submit",
         },
         {
-            q: "_ is only stamped when the actions are in line with his character",
-            a: "God's glory",
+            q: "10 commandment is the revelation of the _. Same as instructions in the _",
+            a: "new creation, epistles",
         },
         {
-            q: "Kings got wealthy by _, by taking _, by _",
-            a: "war, tributes, conquest",
+            q: "Anyone suffering _ today is cos he has agreed with certain information",
+            a: "condemnation",
         },
         {
-            q: "_ life was an example of what the Christian life should not be",
-            a: "Solomon's",
+            q: "It is only the saviour that should _ the law. All others are to _ from the law",
+            a: "fulfil, break free",
         },
         {
-            q: "Part of Solomon's wealth was from serious _",
-            a: "taxation",
+            q: "Pick the Christ and leave the _",
+            a: "shadow",
         },
         {
-            q: "We do not _ God by going outside the boundary of scriptures",
-            a: "dishonour",
+            q: "_ did not start when Jesus rose from the dead",
+            a: "Christianity",
         },
         {
-            q: "We do not give a title that God has not given himself so that we can satisfy our _",
-            a: "cravings",
+            q: "What started when Jesus rose form the dead was _",
+            a: "the new creation",
+        },
+        {
+            q: "_ is the light that brings life",
+            a: "The gospel",
+        },
+        {
+            q: "Light is the _ of the life",
+            a: "communication",
         },
     ]
 }

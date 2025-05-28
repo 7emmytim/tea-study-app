@@ -8,296 +8,192 @@ export const part_one = {
     slug: "our_jesus_series_1_one",
     questions: [
         {
-            q: "There is no _ of man that God needs for himself",
-            a: "physical resource",
+            q: "The focus of the church is _ and the focus of _ must be on Jesus",
+            a: "BS, BS",
         },
         {
-            q: "The dominion man needs Christ to exercise is _ and not _",
-            a: "spiritual, physical",
+            q: "It is bad approach to BS when you are focusing on _ or on _",
+            a: "sins, individuals",
         },
         {
-            q: "Man did not have dominion over _ and that was what Jesus brought for man",
-            a: "death",
+            q: "It is _ that measures spiritual growth",
+            a: "God",
         },
         {
-            q: "You don't need Christ to exercise _ dominion",
-            a: "physical",
+            q: "Spiritual growth is measured _. you cannot measure spiritual growth _",
+            a: "spiritually, carnally",
         },
         {
-            q: "Men are responsible for the _, _ and _ of wealth",
-            a: "allocation, distribution, increase",
+            q: "In church we focus on Jesus and to focus on Jesus is to focus on the _ of God",
+            a: "grace",
         },
         {
-            q: "If you say it was God that made Abraham rich then you are saying God made him _",
-            a: "lie",
+            q: "When you focus on _, you are wrong at point one",
+            a: "sin",
         },
         {
-            q: "Don't see every God _ or God _ in the OT as God's actual action",
-            a: "said, did",
+            q: "It is _ to try to understand the Christian faith by focusing on moral sins",
+            a: "myopic",
         },
         {
-            q: "God is not behind any form of _ or _",
-            a: "cheating, exploitation",
+            q: "In Church, we study the _ strictly and not dos and donts",
+            a: "saviour",
         },
         {
-            q: "When a man maximises the resources on the earth _, we give glory to God for the man's wealth",
-            a: "legitimately",
+            q: "_ is the study of Jesus",
+            a: "BS",
         },
         {
-            q: "_ is only stamped when the actions are in line with his character",
-            a: "God's glory",
+            q: "The study of the believer is _",
+            a: "Christ",
         },
         {
-            q: "Kings got wealthy by _, by taking _, by _",
-            a: "war, tributes, conquest",
+            q: "Christianity is the same as _",
+            a: "Christology",
         },
         {
-            q: "_ life was an example of what the Christian life should not be",
-            a: "Solomon's",
+            q: "in studying how to give and receive healing, you focus on _",
+            a: "Christ",
         },
         {
-            q: "Part of Solomon's wealth was from serious _",
-            a: "taxation",
+            q: "A God that is interested in saving man from hell will not be indifferent in _",
+            a: "healing their sickness",
         },
         {
-            q: "We do not _ God by going outside the boundary of scriptures",
-            a: "dishonour",
+            q: "as you study Jesus, you become a _ practitioner yourself",
+            a: "healing",
         },
         {
-            q: "We do not give a title that God has not given himself so that we can satisfy our _",
-            a: "cravings",
+            q: "Christology is not just a must for _; Christology is a must for _",
+            a: "Christians, man",
         },
         {
-            q: "_ is one of my options in life circumstances",
-            a: "Joy",
+            q: "If we are not seeing anything under his feet, it is a function of you not _",
+            a: "going",
         },
         {
-            q: "I refuse to act like joy is not part of my _",
-            a: "options",
+            q: "We are in Christ and we understand real power. We disgrace _",
+            a: "counterfeit",
         },
         {
-            q: "Knowing God's will clearly shape your _",
-            a: "expectation",
+            q: "If you try to focus on angelic operations too much, you will get _",
+            a: "derailed",
         },
         {
-            q: "If you don't have a correct value system based on the scriptures, your _ will be different from what the scripture guarantees",
-            a: "expectation",
+            q: "Our Bible college should just have one topic which is _",
+            a: "Christology",
         },
         {
-            q: "It is always easy to accept the truth when your mind is devoid of _",
-            a: "strongholds",
+            q: "Studying Jesus is for all _ and for all _",
+            a: "people, purpose",
         },
         {
-            q: "A sincere man will recognise _ when he meets it",
-            a: "the truth",
+            q: "The OT is Jesus _. The NT is Jesus _",
+            a: "concealed, revealed",
         },
         {
-            q: "Prior _ can form a stronghold in your mind when it is not consistent with scriptures",
-            a: "expectations",
+            q: "The book of revelation is not about _; it is about the Christ",
+            a: "the antichrist",
         },
         {
-            q: "It is the scriptures above sense and _",
-            a: "sentiment",
+            q: "Any topic that you can successfully preach without any reference to the sufferings and glory that should follow is _",
+            a: "an error",
         },
         {
-            q: "If man wanted God to exist for his pleasure, then man should have _",
-            a: "existed first and create God",
+            q: "it is the understanding of the _ of the name that does wonders",
+            a: "intention",
         },
         {
-            q: "God is not _ chef",
-            a: "an all-service provider",
+            q: "It is vital to focus on the meaning of the name than to be addicted to the name _",
+            a: "JESUS",
         },
         {
-            q: "Having the right _ matters",
-            a: "expectation",
+            q: "There is only one way you can exist before _ and that is if you are God",
+            a: "beginning",
         },
         {
-            q: "When you have an expectation different from that of the scripture, it will lead to _",
-            a: "offence",
+            q: "There is no _ or _ man before beginning",
+            a: "angel, pre-adamic",
         },
         {
-            q: "John's baptism was simply to bring the _ of the Messiah",
-            a: "consciousness",
+            q: "The Father is God in his _, God at his permanent site",
+            a: "rest",
         },
         {
-            q: "It was obvious that John's expectation changed cos of _",
-            a: "physical circumstances",
+            q: "Before the incarnation of Jesus, we don't have the _ of Jesus anywhere.",
+            a: "person",
         },
         {
-            q: "It is not wrong to have _ but take your _ from the scriptures",
-            a: "expectations, expectations",
+            q: "The only way God entered humanity is by _",
+            a: "incarnation",
         },
         {
-            q: "One thing _ does is that it disappoints the will of the flesh",
-            a: "the gospel",
+            q: "The summary of the whole OT is _",
+            a: "that Jesus is coming",
         },
         {
-            q: "The gospel does not bow to our _ expectations",
-            a: "preconceived",
+            q: "If your message today is that Jesus is coming, then you are in the _ age",
+            a: "wrong",
         },
         {
-            q: "The gospel did not come to fulfil your desire. The gospel is a _ of God's desire",
-            a: "proclamation",
+            q: "The _ coming of Jesus is the business of Christianity",
+            a: "first",
         },
         {
-            q: "God is not bound to man's _",
-            a: "standard",
+            q: "God's Justification is not found with _ but with _",
+            a: "God, Jesus",
         },
         {
-            q: "We are not to believe God on our _ but on his own _",
-            a: "terms, terms",
+            q: "_ himself cannot justify AB",
+            a: "God",
         },
         {
-            q: "It is not your circumstances that proves _, it is the scriptures",
-            a: "God's power",
+            q: "If you approach God outside Christ, you will come back _",
+            a: "condemned",
         },
         {
-            q: "God is not interested in meeting man's own expectation outside _",
-            a: "his will",
+            q: "If any man was justified before Christ came, he was justified cos of something about _",
+            a: "Jesus",
         },
         {
-            q: "It is _ for God's word to go against your expectation",
-            a: "normal",
+            q: "some people saw Jesus physically but refused to see _",
+            a: "his day",
         },
         {
-            q: "God takes away your _ and gives you his own _",
-            a: "desires, desire",
+            q: "Anywhere in the world that the word is preached, Jesus is _",
+            a: "there",
         },
         {
-            q: "God will not sacrifice his will to bring about _",
-            a: "your desire",
+            q: "It is about his _ and not about his person",
+            a: "day",
         },
         {
-            q: "_ gospel does not put the believer's hope or expectation in physical things",
-            a: "The true",
+            q: "God's correction is seen in _",
+            a: "words",
         },
         {
-            q: "Men wanting their own expectation is not a _",
-            a: "new thing",
+            q: "Everything we call natural today started a _. A _ backed up with a law of continuity",
+            a: "miracle, miracle",
         },
         {
-            q: "TUnfulfilled expectation is a major _ killer. It has robbed many of the _ of service",
-            a: "joy, joy",
+            q: "The power of the spoken words was available in _",
+            a: "Genesis",
         },
         {
-            q: "Expectations outside the scriptures does not have _",
-            a: "God's guarantee",
+            q: "The power of the _ word can turn things around",
+            a: "spoken",
         },
         {
-            q: "God's _ comes with his product",
-            a: "guarantee",
+            q: "That Adam did not enter into God's destination did not mean he did not use the power of _",
+            a: "spoken words",
         },
         {
-            q: "Let the word of God frame your expectations and not the _",
-            a: "world",
+            q: "Anywhere they cannot shut your mouth, don't say they _ you",
+            a: "overcame",
         },
         {
-            q: "As men often times, we face the temptation of rejecting _ as sufficient",
-            a: "simplicity",
+            q: "God expected Adam to enter into his _ day so he could set a pattern of _ for generations to come but he set a pattern of _ instead",
+            a: "7th, faith, unbelief",
         },
-        {
-            q: "that something is simple, does not mean _ or _",
-            a: "degrading, ordinary",
-        },
-        {
-            q: "That something is _ does not mean it is powerful",
-            a: "complicated",
-        },
-        {
-            q: "Complicated does not equal _",
-            a: "power",
-        },
-        {
-            q: "One of the greatest attributes of God for a universal man is that God is _",
-            a: "mysterious",
-        },
-        {
-            q: "If you discard _, knowing God will be impossible for you",
-            a: "simplicity",
-        },
-        {
-            q: "If you are seeking complication, most times you will _",
-            a: "miss God",
-        },
-        {
-            q: "God actually has one _",
-            a: "covenant",
-        },
-        {
-            q: "If you are on a lookout for God's word, you will not be carried away by _ manifestations",
-            a: "spectacular",
-        },
-        {
-            q: "The word is what dictates the _ of God",
-            a: "presence",
-        },
-        {
-            q: "You cannot always know God in the midst of _",
-            a: "complications",
-        },
-        {
-            q: "God has designed how the knowledge of divinity will be _ or _",
-            a: "comprehended, discovered",
-        },
-        {
-            q: "God's terms are that the path of _ will be simplicity",
-            a: "Our Jesus - Series 1",
-        },
-        {
-            q: "God does not design _ action",
-            a: "man's",
-        },
-        {
-            q: "Your own _ will determine whether discovering God will be possible or not",
-            a: "choice",
-        },
-        {
-            q: "Saying God chooses those that will _ him is to say that God chooses those who will _",
-            a: "understand, believe",
-        },
-        {
-            q: "Every man will get to the point where he will need to decide whether he will be in the category of _ or the category of _",
-            a: "wise and prudent, babes",
-        },
-        {
-            q: "One attribute of the wise and prudent is _",
-            a: "pride",
-        },
-        {
-            q: "The word _ and _ most times talks about that simplicity",
-            a: "babes, suckling",
-        },
-        {
-            q: "Let it be your reception of what God said that made you _",
-            a: "wise",
-        },
-        {
-            q: "Don't be _ before you have received but after you have received",
-            a: "wise",
-        },
-        {
-            q: "The scripture does not have an issue with _ but it is saying that _ comes from the knowledge of God",
-            a: "wisdom, wisdom",
-        },
-        {
-            q: "Before God, accept the title of a _ man",
-            a: "simple",
-        },
-        {
-            q: "The result of rejecting this simplicity is what the Bible calls _",
-            a: "labour",
-        },
-        {
-            q: "As a believer, you have already chosen the path of _",
-            a: "foolishness",
-        },
-        {
-            q: "Don't be the one who cannot see God working in _ situations and _ undertakings",
-            a: "simple, quiet",
-        },
-        {
-            q: "Don't lose out on things that will _ you cos it doesn't meet your standard of the _",
-            a: "bless, spectacular",
-        }
     ]
 }

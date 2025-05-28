@@ -10,7 +10,7 @@ import * as sda from "./sda"
 // import * as tbaii from "./the-bible-and-its-inteterpretation"
 
 export const sermons = [
-    // our_jesus_1.part_one,
+    our_jesus_1.part_one,
     our_jesus_1.part_two,
     our_jesus_1.part_three,
     our_jesus_1.part_four,

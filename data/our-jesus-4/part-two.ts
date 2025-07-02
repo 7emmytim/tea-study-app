@@ -1,11 +1,11 @@
 import { Timer1 } from "iconsax-react";
 
 export const part_two = {
-    title: "Our Jesus - Series 3",
+    title: "Our Jesus - Series 4",
     description: "Part 2",
     icon: Timer1,
     color: "#F7D060",
-    slug: "our_jesus_series_3_two",
+    slug: "our_jesus_series_4_two",
     questions: [
         {
             q: "Scriptures are not meant for _",

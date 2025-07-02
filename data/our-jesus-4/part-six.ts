@@ -1,11 +1,11 @@
 import { Timer1 } from "iconsax-react";
 
 export const part_six = {
-    title: "Our Jesus - Series 3",
+    title: "Our Jesus - Series 4",
     description: "Part 6",
     icon: Timer1,
     color: "#F7D060",
-    slug: "our_jesus_series_3_six",
+    slug: "our_jesus_series_4_six",
     questions: [
         {
             q: "From the way God deals with us in salvation, we can as well understand how he deals with us as touching _",

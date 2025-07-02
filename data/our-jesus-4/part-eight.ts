@@ -1,11 +1,11 @@
 import { Timer1 } from "iconsax-react";
 
 export const part_eight = {
-    title: "Our Jesus - Series 3",
+    title: "Our Jesus - Series 4",
     description: "Part 8",
     icon: Timer1,
     color: "#F7D060",
-    slug: "our_jesus_series_3_eight",
+    slug: "our_jesus_series_4_eight",
     questions: [
         {
             q: "The _ of the preacher does not invalidate the power of God",

@@ -63,8 +63,8 @@ export function Landing({ data }: { data: Array<Questions> }) {
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 2xl:grid-cols-4 gap-8">
           {data.map((item, index) => {
             const newItem = {
-              component: ICONS[index],
-              color: COLORS[index],
+              component: [...ICONS, ...ICONS][index],
+              color: [...COLORS, ...COLORS][index],
             };
             return (
               <Card

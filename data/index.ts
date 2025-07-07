@@ -4,7 +4,10 @@
 
 import * as our_jesus_4 from "./our-jesus-4"
 
-import * as sda from "./sda"
+import * as understanding_genesis_1 from "./understanding-genesis-1"
+import * as understanding_genesis_2 from "./understanding-genesis-2"
+import * as understanding_genesis_3 from "./understanding-genesis-3"
+import * as understanding_genesis_4 from "./understanding-genesis-4"
 // import * as tbaii from "./the-bible-and-its-inteterpretation"
 
 export const sermons = [
@@ -60,21 +63,43 @@ export const sermons = [
 ]
 
 export const test = [
-    sda.part_one,
-    sda.part_two,
-    sda.part_three,
-    sda.part_four,
-    sda.part_five,
-    sda.part_six,
-    sda.part_seven,
-    sda.part_eight,
-    sda.series_two_part_one,
-    sda.series_two_part_two,
-    sda.series_two_part_three,
-    sda.series_two_part_four,
-    sda.series_two_part_five,
-    sda.series_two_part_six,
-    sda.series_two_part_seven,
-    sda.series_two_part_eight,
-    sda.series_two_part_nine,
+    understanding_genesis_1.part_one,
+    understanding_genesis_1.part_two,
+    understanding_genesis_1.part_three,
+    understanding_genesis_1.part_four,
+    understanding_genesis_1.part_five,
+    understanding_genesis_1.part_six,
+    understanding_genesis_1.part_seven,
+    understanding_genesis_1.part_eight,
+    understanding_genesis_2.part_one,
+    understanding_genesis_2.part_two,
+    understanding_genesis_2.part_three,
+    understanding_genesis_2.part_four,
+    understanding_genesis_2.part_five,
+    understanding_genesis_2.part_six,
+    understanding_genesis_2.part_seven,
+    understanding_genesis_2.part_eight,
+    understanding_genesis_2.part_nine,
+    understanding_genesis_2.part_ten,
+    understanding_genesis_2.part_eleven,
+    understanding_genesis_2.part_twelve,
+    understanding_genesis_2.part_thirteen,
+    understanding_genesis_2.part_fourteen,
+    understanding_genesis_2.part_fifteen,
+    understanding_genesis_3.part_one,
+    understanding_genesis_3.part_two,
+    understanding_genesis_3.part_three,
+    understanding_genesis_3.part_four,
+    understanding_genesis_3.part_five,
+    understanding_genesis_3.part_six,
+    understanding_genesis_3.part_seven,
+    understanding_genesis_4.part_one,
+    understanding_genesis_4.part_two,
+    understanding_genesis_4.part_three,
+    understanding_genesis_4.part_four,
+    understanding_genesis_4.part_five,
+    understanding_genesis_4.part_six,
+    understanding_genesis_4.part_seven,
+    understanding_genesis_4.part_eight,
+    understanding_genesis_4.part_nine,
 ]

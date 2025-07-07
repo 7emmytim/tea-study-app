@@ -20,7 +20,27 @@ export const sermons = [
     // our_jesus_4.part_seven,
     // our_jesus_4.part_eight,
     // our_jesus_4.part_nine,
-    // our_jesus_4.part_ten
+    // our_jesus_4.part_ten,
+    // our_jesus_4.part_eleven,
+    // our_jesus_4.part_twelve,
+    // our_jesus_4.part_thirteen,
+    // our_jesus_4.part_fourteen,
+    // our_jesus_4.part_fifteen,
+    // our_jesus_4.part_sixteen,
+    // our_jesus_4.part_seventeen,
+    // our_jesus_4.part_eighteen,
+    // our_jesus_4.part_nineteen,
+    // our_jesus_4.part_twenty,
+    // our_jesus_4.part_twenty_one,
+    // our_jesus_4.part_twenty_two,
+    // our_jesus_4.part_twenty_three,
+    // our_jesus_4.part_twenty_four,
+    // our_jesus_4.part_twenty_five,
+    // our_jesus_4.part_twenty_six,
+    // our_jesus_4.part_twenty_seven,
+    // our_jesus_4.part_twenty_eight,
+    // our_jesus_4.part_twenty_nine,
+    // our_jesus_4.part_thirty,
 
     //*********** */
 

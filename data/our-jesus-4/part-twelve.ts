@@ -8,72 +8,60 @@ export const part_twelve = {
     slug: "our_jesus_series_4_twelve",
     questions: [
         {
-            q: "from the Bible, at times some _ can be treated as _",
-            a: "believers, unbelievers",
+            q: "Jesus was not the _ of God in heaven before incarnation",
+            a: "errand boy",
         },
         {
-            q: "Man is not neutral, he either gets _ or _",
-            a: "better, worse",
+            q: "God became a man but when he became a man, his knowledge was _ cos that's how a man is",
+            a: "blank",
         },
         {
-            q: "It is easy to progress in _ once you take the first step",
-            a: "rebellion",
+            q: "Church must be in _",
+            a: "classes",
         },
         {
-            q: "Productivity is a function of _ and not _",
-            a: "man, God",
+            q: "When we call God the Father of spirits, it talks of a _",
+            a: "unification",
         },
         {
-            q: "God supplies the _ and you pay attention",
-            a: "information",
+            q: "We have different physical attributes but deep down spiritually, we share the same _",
+            a: "Father",
         },
         {
-            q: "Some people will go to hell cos of _ to study",
-            a: "laziness",
+            q: "Jesus should not be called the Father because of his _",
+            a: "flesh",
         },
         {
-            q: "In _, Moses showed us a template of the journey of sin",
-            a: "Adam",
+            q: "Our new birth will be in the _ and not the _",
+            a: "spirit, flesh",
         },
         {
-            q: "Moses used trees to communicate to _ and not to _",
-            a: "us, Adam",
+            q: "If the Father is flesh and blood, he cannot _",
+            a: "father those that have died",
         },
         {
-            q: "Moses used _ to explain what happened to Adam to us and not to Adam",
-            a: "figurative things",
+            q: "Even right now, you can claim God as your Father no matter your _",
+            a: "tribe",
         },
         {
-            q: "The tools of rebellion may be _ but what happened is _",
-            a: "unclear, clear",
+            q: "man came in time to be like a God that _; therefore, God too will come in time to show man who he must be like",
+            a: "has always been",
         },
         {
-            q: "There is so much given in Christ but there's also something not to _",
-            a: "reject",
+            q: "Why do we call the Father' spirit the spirit of Christ?",
+            a: "cos he was the only begotten",
         },
         {
-            q: "_ is to say I don't want it. _ is that you don't have it. _ is that you will not get it",
-            a: "Sin, Death, Judgement",
+            q: "Outside his activity with man, he is the Father _",
+            a: "planning his entry into man",
         },
         {
-            q: "Jesus is not made a _ so you can have Dangote's money but for the reconciliation of sin",
-            a: "high priest",
+            q: "We call him the Father cos he _ us. We call him the Spirit cos he _ us.",
+            a: "births, sustains",
         },
         {
-            q: "Jesus bears my name in front of the _",
-            a: "accuser/Father",
-        },
-        {
-            q: "Jesus to _ is defending himself",
-            a: "the saint",
-        },
-        {
-            q: "That sense of _ must be strong in all your confessions",
-            a: "family",
-        },
-        {
-            q: "Your heart must beat for your _",
-            a: "brethren",
+            q: "The Spirit is God at his _",
+            a: "resting place",
         },
     ]
 }

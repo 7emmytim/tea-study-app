@@ -8,96 +8,120 @@ export const part_thirteen = {
     slug: "our_jesus_series_4_thirteen",
     questions: [
         {
-            q: "Cos Jesus is not ashamed of man we replicate same in our _ with men",
-            a: "identification",
+            q: "You must know how to partake of _",
+            a: "a Christian meeting",
         },
         {
-            q: "_ is like a positive story in Christ while _ will be like a negative story in Christ",
-            a: "Genesis 2, Genesis 3",
+            q: "The plan started with God _ and ended with God _",
+            a: "invisible, invisible",
         },
         {
-            q: "_ might come but it is still up to man to choose",
-            a: "Influence",
+            q: "The plan in Genesis 1:26 is being fulfilled by the commission in _",
+            a: "Matthew 28:18",
         },
         {
-            q: "Every man has the power/right to stop the _ of sin",
-            a: "journey",
+            q: "The home of God will not be in the physical, it will not be in anything that can be _",
+            a: "measured by man",
         },
         {
-            q: "Closely following sin is death/condemnation and following death is now _",
-            a: "an appeal of God",
+            q: "We call him Spirit cos he aids us for _",
+            a: "effective ministry",
         },
         {
-            q: "Some series of events will follow sin which will depict _",
-            a: "condemnation",
+            q: "Calling him the _ is the highest expression of praise",
+            a: "Father",
         },
         {
-            q: "Condemnation can be _. It will not be _",
-            a: "seen, mystical",
+            q: "God was a Father _ before the resurrection",
+            a: "without children",
         },
         {
-            q: "Either _ or _, the only way to know God is through Christ",
-            a: "before, after",
+            q: "When we sing about salvation, we call him _",
+            a: "Father",
         },
         {
-            q: "Even the man in sin, God answers his prayer to show love awaiting _",
-            a: "repentance",
+            q: "When we sing about _ or _, we call him Spirit",
+            a: "ministry, power",
         },
         {
-            q: "God's longsuffering is part of the _ of Christ",
-            a: "sufferings",
+            q: "The Spirit is the product of the agreement between the _ and the _",
+            a: "Father, Son",
         },
         {
-            q: "Eden was not a _ place",
-            a: "mystical",
+            q: "You cannot explain the trinity outside the _",
+            a: "miraculous",
         },
         {
-            q: "Don't paint a _ God that is not in the Bible",
-            a: "loving",
+            q: "If you don't believe miracles, then you cannot believe _",
+            a: "trinity",
         },
         {
-            q: "How do we hear God and pretend that it is a _?",
-            a: "film trick",
+            q: "How is Jesus praying to the Father?",
+            a: "a miracle",
         },
         {
-            q: "Love will see you _",
-            a: "burn",
+            q: "The comfort of God is the product of his _ in our spirit and his _ in our mind",
+            a: "assurance, understanding",
         },
         {
-            q: "_ allows you to have your way",
-            a: "Love",
+            q: "The word another was used cos of the difference in _",
+            a: "location",
         },
         {
-            q: "If love allows _, why will love deny _?",
-            a: "sin, death",
+            q: "The _ will carry out the ministry of Christ",
+            a: "Comforter",
         },
         {
-            q: "Not gathering with the saints is a _ of unbelief",
-            a: "symptom",
+            q: "He will not only continue the ministry of Christ; he will also _",
+            a: "expand the territory of Christ",
         },
         {
-            q: "Under the topic of the Christ, we can have _ and _",
-            a: "Accepting the Christ, Consequence to rejecting the Christ",
+            q: "We are going to have the understanding of Jesus and the Spirit in different _",
+            a: "locations",
         },
         {
-            q: "In the _ of sin, anyone that rejects the gospel will get _",
-            a: "judgement, judged",
+            q: "Another comforter is more than that _ nature of the indwelling",
+            a: "quiet",
         },
         {
-            q: "_ has been cursed already, it's not _ that was cursed",
-            a: "Sin, man",
+            q: "This is the effect of the indwelling on the earth; there will be an eruption of _",
+            a: "ministry gifts",
         },
         {
-            q: "In Christ, believing the gospel has been _. Rejecting him has been _",
-            a: "blessed, cursed",
+            q: "At times God works in you to receive _ and he also works in you to _ others",
+            a: "comfort, comfort",
         },
         {
-            q: "To reject the gospel is to identify with the _ of sin",
-            a: "curse",
+            q: "That benefit of John 14:16 cannot be best seen in _ believers but in a _",
+            a: "isolated individual, gathering",
         },
         {
-            q: "There must be _ with which we preach the gospel",
-            a: "an urgency",
+            q: "In the church, comfort happens _",
+            a: "much more",
+        },
+        {
+            q: "The comfort is not what happens _ but what happens _",
+            a: "personally, collectively",
+        },
+        {
+            q: "The Comforter works through the _",
+            a: "ministry gifts",
+        },
+        {
+            q: "We are not saying that preachers are the _",
+            a: "Comforter",
+        },
+        {
+            q: "But same way God redeem us via the earthly ministry of Jesus, same way God comforts us via the _",
+            a: "ministry gifts",
+        },
+        {
+            q: "If you disdain men sent to you, you will miss out of the _ of God",
+            a: "comfort",
+        },
+        {
+            q: "_ you will receive when you don't neglect the comfort of God",
+            a: "Miracles without stress",
         },
     ]
 }

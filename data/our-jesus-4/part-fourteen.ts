@@ -8,6 +8,26 @@ export const part_fourteen = {
     slug: "our_jesus_series_4_fourteen",
     questions: [
         {
+            q: "In the _ of sin, anyone that rejects the gospel will get _",
+            a: "judgement, judged",
+        },
+        {
+            q: "_ has been cursed already, it's not _ that was cursed",
+            a: "Sin, man",
+        },
+        {
+            q: "In Christ, believing the gospel has been _. Rejecting him has been _",
+            a: "blessed, cursed",
+        },
+        {
+            q: "To reject the gospel is to identify with the _ of sin",
+            a: "curse",
+        },
+        {
+            q: "There must be _ with which we preach the gospel",
+            a: "an urgency",
+        },
+        {
             q: "judgement is part of the _",
             a: "message",
         },

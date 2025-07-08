@@ -8,60 +8,68 @@ export const part_five = {
     slug: "our_jesus_series_4_five",
     questions: [
         {
-            q: "I must not be lazy minded or _ in my approach to God's word",
-            a: "casual",
+            q: "The explanation of the _ is found in the _",
+            a: "new, old",
         },
         {
-            q: "The gospel message does not place any other demand on people except to _ and enjoy _",
-            a: "listen, God's goodness",
+            q: "The _ or _ of God is that the Son should inherit all the utterances of the prophets",
+            a: "ordination, sovereignty",
         },
         {
-            q: "Any gospel that places demand on man is a _",
-            a: "false doctrine",
+            q: "God's will is for both _ and _ to be together",
+            a: "heaven, earth",
         },
         {
-            q: "The word plus tithing never equals the gospel. What saves man is that _ message",
-            a: "pure",
+            q: "The earth without the heavens was without _",
+            a: "form",
         },
         {
-            q: "The demand God places on man is not to _ but to _",
-            a: "believe, give attention",
+            q: "_ is what separated the earth from the heavens",
+            a: "Darkness",
         },
         {
-            q: "What God brought to the sinner is to _ him",
-            a: "woo",
+            q: "Heaven came to _ to earth",
+            a: "appeal",
         },
         {
-            q: "God woes man with his _",
-            a: "goodness",
+            q: "When there is _, earth can see the heavens",
+            a: "light",
         },
         {
-            q: "The _ and _ of sin is lack of attention to God's word",
-            a: "origin, sustainer",
+            q: "Moses was writing a story of the _ using the physical creation as a template",
+            a: "new creation",
         },
         {
-            q: "Man is made to _. We don't ask the unbeliever to pray for _",
-            a: "believe, faith",
+            q: "The word _ will be from the idol worship of Egyptian background",
+            a: "image",
         },
         {
-            q: "Faith is not _ but to simply agree with what was spoken",
-            a: "mystical",
+            q: "The _ of a deity is always worshipped as the deity",
+            a: "image",
         },
         {
-            q: "The gospel is called the _ of faith",
-            a: "hearing",
+            q: "You don't look for the _ outside its image",
+            a: "deity",
         },
         {
-            q: "_ sets the pace for faith",
-            a: "The goodness of God",
+            q: "If God will have mankind in his image and man is _ then the image too will be _",
+            a: "flesh and blood, flesh and blood",
         },
         {
-            q: "Man's duty is to _ God's word",
-            a: "romance",
+            q: "The business of man will not be with _ but the business of man will be with the _ of God",
+            a: "God, image",
         },
         {
-            q: "To identify who a believer is, first identify _",
-            a: "what he listens to",
+            q: "Man will also be formed to ascend to that _",
+            a: "image",
+        },
+        {
+            q: "The _ of a deity is his image",
+            a: "location/address",
+        },
+        {
+            q: "God has declared that his own image will be just like _",
+            a: "man; flesh and blood",
         },
     ]
 

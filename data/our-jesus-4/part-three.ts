@@ -8,76 +8,88 @@ export const part_three = {
     slug: "our_jesus_series_4_three",
     questions: [
         {
-            q: "God's _ is exclusively for God's _",
-            a: "word, work",
+            q: "To say that you are a Christian cos you are born into a Christian home, you are a _",
+            a: "mistake",
         },
         {
-            q: "Regardless of the _ document, our singular interpretation must be salvation through faith in Christ",
-            a: "historical",
+            q: "If you don't follow Jesus then you are in _",
+            a: "darkness",
         },
         {
-            q: "It is not fair when people dig into scriptures to teach _",
-            a: "emotions",
+            q: "We call him Holy Ghost cos his mission is _",
+            a: "sacred",
         },
         {
-            q: "To have another focus greater than Jesus in the Bible is to be _",
-            a: "an idol worshipper",
+            q: "_ is not a suggestion",
+            a: "Jesus",
         },
         {
-            q: "The Bible is not written for you to focus on _",
-            a: "heaven",
+            q: "Once you deny Jesus, you don't have _",
+            a: "God",
         },
         {
-            q: "Don't start your search of the scripture looking for _",
-            a: "holiness",
+            q: "There are no two _ in heaven",
+            a: "thrones",
         },
         {
-            q: "We must respect that _ of the scriptures",
-            a: "sanctity",
+            q: "_ is a figure of speech to symbolise all authority",
+            a: "Right hand",
         },
         {
-            q: "The quickening of God is by _",
-            a: "the word",
+            q: "_ is the address of God",
+            a: "Jesus",
         },
         {
-            q: "Don't have a wordless _",
-            a: "Christianity",
+            q: "You please God by _",
+            a: "pleasing his Christ",
         },
         {
-            q: "Don't have a 'rhema'/key point _",
-            a: "Christianity",
+            q: "We go round preaching not for people to believe in God but in that _ and _",
+            a: "incarnation, resurrection",
         },
         {
-            q: "Christianity must be Christ-focused by _",
-            a: "the word",
+            q: "The evil deed is _ and the good deed is _",
+            a: "unbelief, faith",
         },
         {
-            q: "In Christianity is where we train ourselves to be _ when the revelation of Christ dawns on us",
-            a: "happier",
+            q: "Without faith in Christ, the _ of God is impossible",
+            a: "knowledge",
         },
         {
-            q: "We don't have to wait till _ to study God's word",
-            a: "hard times",
+            q: "Every worship of angel is a _",
+            a: "fallacy",
         },
         {
-            q: "Christian _ is to the revelation of Christ in the scripture",
-            a: "devotion",
+            q: "Before you become a _, you must know who you are looking for",
+            a: "theologian",
         },
         {
-            q: "Have a _ devoted Christianity",
-            a: "word",
+            q: "The essence of theology/Bible study is to see _",
+            a: "Jesus",
         },
         {
-            q: "Don't know _ things, know _ thing",
-            a: "too much, the real",
+            q: "The life events of Jesus explain all _",
+            a: "the will of God",
         },
         {
-            q: "With the _, we are to exhibit the realities of our _",
-            a: "mind, spirit",
+            q: "If Jesus was never faithful to the will of God, then we are all _",
+            a: "hell bound",
         },
         {
-            q: "Don't believe your _ stance than the gospel",
-            a: "cultural",
+            q: "Our valuation of Jesus is not _",
+            a: "silent",
+        },
+        {
+            q: "It is not by mistake that we chant _ every day",
+            a: "Jesus",
+        },
+        {
+            q: "To _ God, we do it in the name of Jesus",
+            a: "bless/praise",
+        },
+        {
+            q: "His _ is seen in that he came to do what he promised.",
+            a: "faithfulness",
         },
     ]
 }

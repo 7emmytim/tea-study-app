@@ -8,6 +8,70 @@ export const part_eleven = {
     slug: "our_jesus_series_4_eleven",
     questions: [
         {
+            q: "Jesus never called a _ man into ministry",
+            a: "lazy",
+        },
+        {
+            q: "That _ and _ mindset of man is for the gospel",
+            a: "tenaciousness, hardworking",
+        },
+        {
+            q: "_ is never of God",
+            a: "Laziness",
+        },
+        {
+            q: "It is the _ of some persons that might not allow you to know God",
+            a: "testimony",
+        },
+        {
+            q: "You cannot despise what you don't _",
+            a: "know",
+        },
+        {
+            q: "Part of the duty of the Son is the _ duty of the prophet",
+            a: "previous",
+        },
+        {
+            q: "In the activities of Jesus, we are going to see _ and _",
+            a: "salvation, the repentance of men",
+        },
+        {
+            q: "Reconciliation in the Bible is to bring a rebellious man back to a _ God",
+            a: "waiting",
+        },
+        {
+            q: "The _ and _ of Christ represent the sufferings of Christ",
+            a: "blood, cross",
+        },
+        {
+            q: "God will save mankind and he will say _",
+            a: "'tell them that Jesus died'",
+        },
+        {
+            q: "It is normal for your message to look like it is not _",
+            a: "powerful",
+        },
+        {
+            q: "Don't see the appeal of God as _",
+            a: "powerless",
+        },
+        {
+            q: "The death of Christ is not God giving man _",
+            a: "last chance",
+        },
+        {
+            q: "God is not warning us in his _",
+            a: "appeal",
+        },
+        {
+            q: "God never sent any man to declare _ judgement on the sinful man",
+            a: "extra",
+        },
+        {
+            q: "It is lack of _ to be judging a witch",
+            a: "insight",
+        },
+        {
             q: "it's so serious that we don't see Jesus correcting one person about _",
             a: "moral sin",
         },

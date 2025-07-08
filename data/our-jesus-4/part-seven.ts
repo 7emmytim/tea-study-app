@@ -8,60 +8,68 @@ export const part_seven = {
     slug: "our_jesus_series_4_seven",
     questions: [
         {
-            q: "I must not be looking for quick results in _",
-            a: "evangelism",
+            q: "The difficult part for them to grasp was that the _ person was God",
+            a: "coming",
         },
         {
-            q: "The way we present the gospel message must both be _ and _",
-            a: "apologetic, authoritative",
+            q: "When we use the word seed, seed refers to _",
+            a: "life started/the beginning of a life",
         },
         {
-            q: "Salvation is God's will for man's _",
-            a: "safety",
+            q: "Grace is not what we find in Christ, grace is _",
+            a: "Christ himself",
         },
         {
-            q: "See man as a _ being that is trying to take off",
-            a: "half-baked",
+            q: "We receive Christ to obey God or we receive _ to obey God",
+            a: "obedience",
         },
         {
-            q: "Salvation is not a _ venture; it is not a _",
-            a: "joint, partnership",
+            q: "It will be normal for disobedience to contend with him cos his name is _",
+            a: "obedience",
         },
         {
-            q: "The preacher that knows the gospel is _ in salvation",
-            a: "an authority",
+            q: "You cannot _ disobedience",
+            a: "bribe",
         },
         {
-            q: "In your appeal, don't lie and don't say _",
-            a: "half-truth",
+            q: "Whenever we have obedience and disobedience in the same physical location, there will be _",
+            a: "chaos",
         },
         {
-            q: "The gospel takes into account God's _",
-            a: "nature",
+            q: "There is a loud _ between obedience and disobedience",
+            a: "war",
         },
         {
-            q: "What God love before the foundation of the world is not _ but the _ of man",
-            a: "himself, salvation",
+            q: "Fight to keep your _",
+            a: "devotion",
         },
         {
-            q: "What was from the foundation of the world is a _ and not _",
-            a: "criterion, persons",
+            q: "Before you get offended or discouraged, remember it is disobedience that _",
+            a: "hanged your Jesus on the Christ",
         },
         {
-            q: "Jesus entering _ is the HG entering us",
-            a: "heaven",
+            q: "God's name will be _ and he wants to wage a war against _",
+            a: "obedience, disobedience",
         },
         {
-            q: "Man must disengage from some degree of _ for Christ to come",
-            a: "legalism",
+            q: "God will have to obey God as _",
+            a: "a man",
         },
         {
-            q: "Christ cannot come after that pattern of _ sacrifice",
-            a: "repetitive",
+            q: "God will _ same way AB left his father's house",
+            a: "leave his glory",
         },
         {
-            q: "God did not promise us _ from the foundation of the world",
-            a: "things",
+            q: "AB was copying God in _ and God will one day come and copy AB in time",
+            a: "the predestination (before time)",
+        },
+        {
+            q: "The Son will inherit _",
+            a: "the words of the prophet",
+        },
+        {
+            q: "God will be speaking to _ and men will come and _ what God will do all by himself",
+            a: "himself, dramatize",
         },
     ]
 }

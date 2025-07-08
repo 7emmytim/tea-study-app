@@ -8,60 +8,92 @@ export const part_two = {
     slug: "our_jesus_series_4_two",
     questions: [
         {
-            q: "Scriptures are not meant for _",
-            a: "coercion",
+            q: "Salvation is found in one place and not _",
+            a: "everywhere",
         },
         {
-            q: "Under preaching we must have a _, a _",
-            a: "preacher, listener",
+            q: "The prophets prophesied salvation to be in _ place",
+            a: "one",
         },
         {
-            q: "The _ part of salvation is what saves, the information. Every other thing is _",
-            a: "supernatural, physical",
+            q: "Christianity is not _ about who Jesus is to the world. We are _. It is a _ claim",
+            a: "suggestive, emphatic, serious",
         },
         {
-            q: "Confession must not be _",
-            a: "forced",
+            q: "Religion is different from _",
+            a: "politics",
         },
         {
-            q: "You must give him much information till he _",
-            a: "confesses",
+            q: "You must believe he has an origin as divinity and a _ as humanity",
+            a: "present",
         },
         {
-            q: "That you are serving in church is not a ticket to _",
-            a: "salvation",
+            q: "To deny the deity or humanity of Jesus is to receive a _",
+            a: "spirit of error",
         },
         {
-            q: "_ will be a refusal to reason along with what you have heard",
-            a: "Hardening of heart",
+            q: "If one of the hundred religions in the world succeed in finding God outside Jesus then your whole Bible is _",
+            a: "a lie",
         },
         {
-            q: "A _ man will definitely confess",
-            a: "convinced",
+            q: "The claim of the Bible is _; it is not _",
+            a: "final, suggestive",
         },
         {
-            q: "The only thing you have control over is the _ and the _ of the dissemination of the message",
-            a: "accuracy, frequency",
+            q: 'Always remember, God is a Spirit. Once you remember that, _ will not be strange',
+            a: '"God is me..."',
         },
         {
-            q: "Being sent is being _",
-            a: "certified",
+            q: "Don't focus on the _ knowledge of the Father, focus on the _ knowledge of the Father",
+            a: "universal, Christ-centred",
         },
         {
-            q: "Anything you are placing as a condition to salvation is _",
-            a: "the wisdom of men",
+            q: "Don't focus on the omnipotence, or the omniscience or the God that is all knowing, focus on the God that is _",
+            a: "all saving",
         },
         {
-            q: "Any man you see outside that can _, that can _, he is your candidate for salvation",
-            a: "listen, think",
+            q: "It is cos you are focused on the God that is _ that is why you want him to kill all the witches in your village",
+            a: "all powerful",
         },
         {
-            q: "The _ of man is already step one accomplished on the road to salvation",
-            a: "natural make up",
+            q: "if you focus on the God is all saving, you will see a God of _",
+            a: "mercy",
         },
         {
-            q: "Keep _ and start explaining the gospel",
-            a: "the law",
+            q: "Everything that the Father has that is _ to you and to your salvation is in Jesus",
+            a: "relevant",
+        },
+        {
+            q: "The yoke of God is made clear in _",
+            a: "Christ",
+        },
+        {
+            q: "Take the _ identified by Christ. No every _ is yours to solve.",
+            a: "problem, problem",
+        },
+        {
+            q: "Pick God's _ as your _",
+            a: "problem, problem",
+        },
+        {
+            q: "The _ is neither male nor female",
+            a: "new creation",
+        },
+        {
+            q: "All the _ end in Christ",
+            a: "wars",
+        },
+        {
+            q: "Don't carry _ that God did not give you",
+            a: "wahala/crusade",
+        },
+        {
+            q: "In Christ is the _ of all men",
+            a: "unification",
+        },
+        {
+            q: "You must be ready to _ people. Value a man cos he is in Christ and not cos of physical _ or _",
+            a: "accommodate, beauty, complexion",
         },
     ]
 }

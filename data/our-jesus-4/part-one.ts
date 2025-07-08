@@ -8,132 +8,84 @@ export const part_one = {
     slug: "our_jesus_series_4_one",
     questions: [
         {
-            q: "You don't come to church to _ how your day was",
-            a: "evaluate",
+            q: "We look at this topic cos of the peculiarity of _",
+            a: "our terrain",
         },
         {
-            q: "The church is not a _ center but a _ center",
-            a: "gist, Christ",
+            q: "The Jesus you believe must be _",
+            a: "well explained",
         },
         {
-            q: "The _ of man is first in the spirit",
-            a: "essentiality",
+            q: "There were lots of books in circulation but this one is _",
+            a: "sacred",
         },
         {
-            q: "The spirit should be the _ of every other part of man",
-            a: "driver",
+            q: "We have Christian _ and we have the Christian _",
+            a: "books, book",
         },
         {
-            q: "When the mind is the one running ahead of the spirit, that is the origin of _",
-            a: "false doctrine",
+            q: "John was rewriting the _ story with the story of _",
+            a: "creation, Jesus",
         },
         {
-            q: "When they body is running ahead then we have _, _ and _",
-            a: "lust of the flesh, lust of the eyes, pride of life",
+            q: "Why it was easy for the writers of the quran to come up with their fallacy is cos the NT was still _",
+            a: "an oral material",
         },
         {
-            q: "_ relate with the mind of man",
-            a: "Demons",
+            q: "God was so sure that this book should not confuse man cos there is a _",
+            a: "central theme",
         },
         {
-            q: "Living soul means a man capable of _",
-            a: "discovery",
+            q: "If you don't allow the word to reach it's destination, you will say the word is _",
+            a: "confusing",
         },
         {
-            q: "Man is _ in his mind to discover the will of God for him",
-            a: "alive",
+            q: "Every man that finds God will see God. But you must _",
+            a: "take heed",
         },
         {
-            q: "A _ that is not united with God can be deemed as no _",
-            a: "spirit, spirit",
+            q: "In that your _ search, God will show up",
+            a: "academic",
         },
         {
-            q: "Even Jesus made a choice to be able to be the _ spirit",
-            a: "life-giving",
+            q: "He can give you a spiritual ambience, healing, answered prayers outside _",
+            a: "Christ",
         },
         {
-            q: "Men bow by _ and not by _",
-            a: "choice, command",
+            q: "The knowledge of God is _ in the hearrts of men",
+            a: "illumination",
         },
         {
-            q: "A _ soul plus a _ God is all it takes for a man to become a _ spirit",
-            a: "willing, willing, quickened",
+            q: "Salvation is the grace that you only find in his _ and _",
+            a: "incarnation, resurrection",
         },
         {
-            q: "In the life of Jesus, he came to show us that God is ever _",
-            a: "willing",
+            q: "The content/reason behind all prophecy is that _ of Christ",
+            a: "advent",
         },
         {
-            q: "There are things in _ that can bring man to God's destination",
-            a: "man",
+            q: "There is no _ to scriptures",
+            a: "update",
         },
         {
-            q: "A spirit that is yearning and a mind that is _",
-            a: "searching",
+            q: "What we get in Christ is very _",
+            a: "specific",
         },
         {
-            q: "What is the greatest proof that God is real?",
-            a: "scriptures",
+            q: "God's effect is _",
+            a: "quiet",
         },
         {
-            q: "Some people will go to hell cos they did not _ or _",
-            a: "read, think",
+            q: "You don't prove a point; you _",
+            a: "live the life",
         },
         {
-            q: "Ability to _, _ and _ is what makes man a living soul",
-            a: "read, listen, think",
+            q: "_ is the Father's will in action",
+            a: "Jesus",
         },
         {
-            q: "Biblical sense organ is ability to _, _ and _",
-            a: "reason/listen, read, comprehend",
-        },
-        {
-            q: "In church is where we give ourselves to much _",
-            a: "reading",
-        },
-        {
-            q: "The knowledge of Christ is the end to man's _ and _",
-            a: "pursuit, aspiration",
-        },
-        {
-            q: "From the ordinary comes the _",
-            a: "extraordinary",
-        },
-        {
-            q: "Man has been filled with _ and _ but Jesus drove them out and gave us the spirit of grace and supplication",
-            a: "emptiness, idolatry",
-        },
-        {
-            q: "To know God is a function of the _ and same _ is your salvation",
-            a: "indwelling, indwelling",
-        },
-        {
-            q: "Some preach Jesus so they can do more _ and some do _ so they can preach more Jesus",
-            a: "miracles, miracles",
-        },
-        {
-            q: "What Moses did in the wilderness is more than a healing ministry, it was also a _ of salvation",
-            a: "teaching ministry",
-        },
-        {
-            q: "God wants man to be skilled in _",
-            a: "salvation",
-        },
-        {
-            q: "The greatest false religions in the world are cos of their _ stand and not _",
-            a: "academic, supernatural",
-        },
-        {
-            q: "What some do is that they use the right means to bring out the wrong _",
-            a: "information",
-        },
-        {
-            q: "Let your prayer life know that you value _",
-            a: "knowledge",
-        },
-        {
-            q: "We _ Christ so we can _ Christ. We don't _ Christ so we can _ Christ",
-            a: "demonstrate, teach, teach, demonstrate",
+            q: "No _ comes after the message",
+            a: "messenger",
         },
     ]
 }

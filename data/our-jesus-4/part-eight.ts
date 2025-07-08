@@ -8,64 +8,84 @@ export const part_eight = {
     slug: "our_jesus_series_4_eight",
     questions: [
         {
-            q: "The _ of the preacher does not invalidate the power of God",
-            a: "physical state",
+            q: "The only one that can _ God is God",
+            a: "serve",
         },
         {
-            q: "Issues with Christology equals issues with _",
-            a: "theology",
+            q: "It won't be a _ if he brings another",
+            a: "sacrifice",
         },
         {
-            q: "We must be clear on who he is before investigating _",
-            a: "what he did",
+            q: "He promised AB that he is going to make a journey into _",
+            a: "humanity",
         },
         {
-            q: "God was not trying to introduce _",
-            a: "God",
+            q: "no _ can call man his people",
+            a: "angel",
         },
         {
-            q: "There cannot be rhema without _",
-            a: "logos",
+            q: "The visitation of God is called the _",
+            a: "Son of God",
         },
         {
-            q: "There was no _ of Jesus at the beginning",
-            a: "person",
+            q: "Call him _ or _, it doesn't matter, but know he is the heir of all things and you will have him to answer to",
+            a: "prophet, servant",
         },
         {
-            q: "Adam/Noah need not call the word of God _. All they need knew was that God had an intention",
-            a: "Christ",
+            q: "The Abrahamic covenant is _; it is _ covenant.",
+            a: "Christology, Christ",
         },
         {
-            q: "Before man came in, we see Jesus as the intention of God but after man was created, we see Jesus as the _ of God and the _ of men",
-            a: "message, life",
+            q: "The _ covenant is man jamming God making a covenant with himself",
+            a: "Davidic",
         },
         {
-            q: "There is no darkness if there is no _",
-            a: "rejection",
+            q: "His name is _ cos he will carry out all he said",
+            a: "obedience",
         },
         {
-            q: "The unbelief of man cannot invalidate God's _",
-            a: "plan",
+            q: "If the image is a _, then the man in Christ will also be a _",
+            a: "servant, servant",
         },
         {
-            q: "The message became full in the _ and _",
-            a: "incarnation, resurrection",
+            q: "The image must show himself for us to _",
+            a: "know what we must be like",
         },
         {
-            q: "Inside God's sovereignty is man's _",
-            a: "choice",
+            q: "The image cannot be a _",
+            a: "spirit",
         },
         {
-            q: "Man needs _ to see Christ as all of God's plan and meditation",
-            a: "prayer",
+            q: "An image that is _ cannot be copied",
+            a: "unreachable",
         },
         {
-            q: "Don't explain Jesus as a man from the view of the _ around him",
-            a: "men",
+            q: "He is the servant God. We will learn _ from him",
+            a: "service",
         },
         {
-            q: "All God _ and all God _ is what Christ came to do",
-            a: "thinks, wants",
+            q: "A _ will serve on behalf of another",
+            a: "high priest",
+        },
+        {
+            q: "The Son of God will be without _, _ and _. Meaning the Son of God will be _",
+            a: "father, mother, descent, God",
+        },
+        {
+            q: "The journey of God in Genesis 12 is to end in _",
+            a: "man's heart",
+        },
+        {
+            q: "The _ should not be a disadvantage to us appreciating him",
+            a: "incarnation",
+        },
+        {
+            q: "The _ that was for our favour should not end for our damnation",
+            a: "journey",
+        },
+        {
+            q: "God cannot bless us as _ but in _",
+            a: "God, Christ",
         },
     ]
 }

@@ -8,108 +8,60 @@ export const part_ten = {
     slug: "our_jesus_series_4_ten",
     questions: [
         {
-            q: "The marriage of _ and _ has happened already",
-            a: "Jesus, the church",
+            q: "_ is anti-prayer",
+            a: "worry",
         },
         {
-            q: "Without _, a fulfilled promise will still look like it is not fulfilled",
-            a: "explanation",
+            q: "Until Jesus, God was not _",
+            a: "fruitful",
         },
         {
-            q: "All God has done for man in Christ must be _",
-            a: "explained",
+            q: "The covenant is between God and the _. We are only _",
+            a: "seed, beneficiaries",
         },
         {
-            q: "We have been removed from the _ eternally",
-            a: "valley",
+            q: "Abraham will foreshadow God as the _, as the _",
+            a: "planner, initiator",
         },
         {
-            q: "Without explanation, people already in eternal life will still be fellowshipping with _ in their song",
-            a: "eternal death",
+            q: "_ will foreshadow God as a servant, God obeying himself, God serving man, God under subject",
+            a: "Isaac",
         },
         {
-            q: "What God has done in Christ must be explained so we can receive new _",
-            a: "experiences",
+            q: "There has never been an instruction in the Bible for _",
+            a: "human sacrifice",
         },
         {
-            q: "Your vision is a _ representation of what you know",
-            a: "dramatized",
+            q: "Christianity is not something you can describe with anything _",
+            a: "physical",
         },
         {
-            q: "We don't look at the OT with the eyes of _ but with the eyes of _",
-            a: "promise, promise fulfilled",
+            q: "There is no _ for Christianity",
+            a: "symbol",
         },
         {
-            q: "Not everything in the book of revelation is in _",
-            a: "the future",
+            q: "Precious blood of Christ refers to _",
+            a: "the life of Christ",
         },
         {
-            q: "Suspect any pattern of ministry that negates _",
-            a: "labour",
+            q: "When you see blood in the NT, you must interpret it the way it is seen in _. It is a symbol of _",
+            a: "Leviticus, life",
         },
         {
-            q: "Jesus never called a _ man into ministry",
-            a: "lazy",
+            q: "That blood is a symbol of the _ life of Jesus",
+            a: "resurrection",
         },
         {
-            q: "That _ and _ mindset of man is for the gospel",
-            a: "tenaciousness, hardworking",
+            q: "From the foundation of the world, there was a _. But in these last times, there is a _",
+            a: "plan, manifestation",
         },
         {
-            q: "_ is never of God",
-            a: "Laziness",
+            q: "I can't show you _ or _ but I can show you the result of _ or _",
+            a: "redemption, sanctification, redemption, sanctification",
         },
         {
-            q: "It is the _ of some persons that might not allow you to know God",
-            a: "testimony",
-        },
-        {
-            q: "You cannot despise what you don't _",
-            a: "know",
-        },
-        {
-            q: "Part of the duty of the Son is the _ duty of the prophet",
-            a: "previous",
-        },
-        {
-            q: "In the activities of Jesus, we are going to see _ and _",
-            a: "salvation, the repentance of men",
-        },
-        {
-            q: "Reconciliation in the Bible is to bring a rebellious man back to a _ God",
-            a: "waiting",
-        },
-        {
-            q: "The _ and _ of Christ represent the sufferings of Christ",
-            a: "blood, cross",
-        },
-        {
-            q: "God will save mankind and he will say _",
-            a: "'tell them that Jesus died'",
-        },
-        {
-            q: "It is normal for your message to look like it is not _",
-            a: "powerful",
-        },
-        {
-            q: "Don't see the appeal of God as _",
-            a: "powerless",
-        },
-        {
-            q: "The death of Christ is not God giving man _",
-            a: "last chance",
-        },
-        {
-            q: "God is not warning us in his _",
-            a: "appeal",
-        },
-        {
-            q: "God never sent any man to declare _ judgement on the sinful man",
-            a: "extra",
-        },
-        {
-            q: "It is lack of _ to be judging a witch",
-            a: "insight",
+            q: "Some things that some people are still expecting, they are expecting cos of _",
+            a: "unbelief",
         },
     ]
 }

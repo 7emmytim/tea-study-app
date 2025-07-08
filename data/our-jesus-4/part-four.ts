@@ -8,100 +8,64 @@ export const part_four = {
     slug: "our_jesus_series_4_four",
     questions: [
         {
-            q: "We must not give relevance to any _ more than Jesus",
-            a: "prophet",
+            q: "Don't be part of those arguing that Jesus is black or white, that is not _, it is not a strong point",
+            a: "the doctrine of Christ",
         },
         {
-            q: "The _ and _ of explaining Christ out of the words of the prophets is doctrine",
-            a: "art, end",
+            q: "_ is the sole business of man",
+            a: "Christology",
         },
         {
-            q: "People must see _ as the most important part of your ministry",
-            a: "teaching",
+            q: "There is a _ from the Father to the Son",
+            a: "giving",
         },
         {
-            q: "Doctrine is a system of _",
-            a: "explanation",
+            q: "The Father raising the dead refers to _",
+            a: "physical resurrection",
         },
         {
-            q: "The doctrine of the Bible is _",
-            a: "salvation through faith in Christ",
+            q: "The Son raising the dead refers to _",
+            a: "spiritual/the new birth",
         },
         {
-            q: "The message of the HG is the _ Christ",
-            a: "glorified",
+            q: "The giving of physical life is described as _ work",
+            a: "the Father's",
         },
         {
-            q: "God's ultimate help to man is the _",
-            a: "scriptures",
+            q: "Why was the raising of Lazarus documented for us?",
+            a: "To prove that Jesus is the one that will raise man from the dead.",
         },
         {
-            q: "Things ought not to be _ before you do God's will",
-            a: "difficult",
+            q: "The miracles described by John are _, they point to the work of the Son",
+            a: "symbolic",
         },
         {
-            q: "Learn to serve God in the day of _",
-            a: "peace/bliss",
+            q: "The work of the _ points to the work of the _",
+            a: "Father, Son",
         },
         {
-            q: "Jesus' miracles were _",
-            a: "TM",
+            q: "If the work of the _ is good then the work of the _ must be good",
+            a: "Son, Father",
         },
         {
-            q: "Your _ should teach men the character of God",
-            a: "miracles",
+            q: "The church is not for _. _ are a means to an end",
+            a: "miracles, Miracles",
         },
         {
-            q: "Miracles is to lead men to _",
-            a: "learning",
+            q: "What are the greater works?",
+            a: "Salvation and ministry",
         },
         {
-            q: "Miracles can lead man to the path of _",
-            a: "faith",
+            q: "When God gives you a book and you don't search it out then you are assuming it is a _",
+            a: "fable",
         },
         {
-            q: "Sin becomes really _ after man has encountered the message and reject",
-            a: "sinful",
+            q: "Jesus is the house _ of God",
+            a: "address",
         },
         {
-            q: "The goodness of God is irrespective of _ but disdaining that good God will lead to _",
-            a: "salvation, damnation",
-        },
-        {
-            q: "_ is intelligent, it is self-defensive",
-            a: "Scripture",
-        },
-        {
-            q: "Don't see the pulpit as _",
-            a: "an idol",
-        },
-        {
-            q: "to be fixated on the result of the miracle will be _",
-            a: "idolatry",
-        },
-        {
-            q: "Man is not allowed to _ man. A sinner is not allowed to _ another sinner.",
-            a: "judge, judge",
-        },
-        {
-            q: "_ is not salvation but _ can lead you to the saving Jesus",
-            a: "healing, healing",
-        },
-        {
-            q: "If we have a miracle center then we should also have a heavy _ center",
-            a: "knowledge",
-        },
-        {
-            q: "Jesus raising the dead had _ that someday believers will be raised",
-            a: "an undertone",
-        },
-        {
-            q: "The most expensive possession of man should not be spent on _ but on the ministry of Christ",
-            a: "humanitarian services",
-        },
-        {
-            q: "God prefers you to live for him, not to _",
-            a: "die for him",
+            q: "That salvation is only made available in Christ, that is a _",
+            a: "strong point",
         },
     ]
 }

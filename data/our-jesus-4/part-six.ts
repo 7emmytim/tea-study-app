@@ -8,56 +8,104 @@ export const part_six = {
     slug: "our_jesus_series_4_six",
     questions: [
         {
-            q: "From the way God deals with us in salvation, we can as well understand how he deals with us as touching _",
-            a: "general life issues",
+            q: "We saw God coming down to the _ of man",
+            a: "level",
         },
         {
-            q: "Both Jew and non-Jew were both justified by faith. They were justified not by what they _ right but by what they _ right",
-            a: "did, heard",
+            q: "The image of a deity is always the focus of _",
+            a: "worship",
         },
         {
-            q: "Right _ of the gospel leads to justification",
-            a: "hearing",
+            q: "Men will be called to _ before the image",
+            a: "assemble",
         },
         {
-            q: "Grace is a function of God's _",
-            a: "love",
+            q: "The assembly of the _ will be before the image",
+            a: "worshippers",
         },
         {
-            q: "Until man pays attention, God's power will _",
-            a: "seem unavailable",
+            q: "_ is not God so all the actions of _ cannot be the actions of God",
+            a: "Moses, Moses",
         },
         {
-            q: "In looking for mastery in the things of the Spirit, take so much in _",
-            a: "a short while",
+            q: "The image of a deity is the _ of the deity",
+            a: "authority",
         },
         {
-            q: "Man must on his accord _ and _ into God's will",
-            a: "discover, evolve",
+            q: "If God see his enemy, rather than killing the enemy, God _",
+            a: "walks away",
         },
         {
-            q: "Man will discover God's will by the _ supplied",
-            a: "information",
+            q: "That walking away of God is _",
+            a: "damnation",
         },
         {
-            q: "Attention is not about _ alacrity in a day.",
-            a: "30 minutes",
+            q: "No _, _ is an 100% authentication of who God is until Christ came",
+            a: "voice, dream",
         },
         {
-            q: "Faith in Christ is faith in the _",
-            a: "resurrection",
+            q: "Majority of the problems of man was not even caused by _",
+            a: "satan",
         },
         {
-            q: "For the OT patriarchs, faith for them started from _ to _",
-            a: "things, Christ",
+            q: "They were just being pursued by _. They created _ in their minds",
+            a: "paper tigers, demons",
         },
         {
-            q: "Your duty now is not to have faith but for you to _",
-            a: "doubt not",
+            q: "Our knowledge creates our _",
+            a: "experiences",
         },
         {
-            q: "What you do now is to _ your attention on the gospel",
-            a: "consolidate",
+            q: "As I read the book of the prophets, I search for the _ of the Son",
+            a: "accuracy",
+        },
+        {
+            q: "Man's _ is for him to be in Christ",
+            a: "completeness",
+        },
+        {
+            q: "The _ man is the man in Christ",
+            a: "complete",
+        },
+        {
+            q: "Man coming to God will be obedience and not _",
+            a: "manipulation",
+        },
+        {
+            q: "A demon will take advantage of something _ to pepper you",
+            a: "natural",
+        },
+        {
+            q: "He did not hold on to that _, he reduced himself to become a man.",
+            a: "omnipotence",
+        },
+        {
+            q: "we learn humility from the _ story",
+            a: "redemption",
+        },
+        {
+            q: "_ point to the miracle",
+            a: "Miracles",
+        },
+        {
+            q: "You can't remove Christ and you still find _ with God",
+            a: "harmony",
+        },
+        {
+            q: "All that Christ did is also the tool for _. Don't _ people to Jesus",
+            a: "reconciliation, bribe",
+        },
+        {
+            q: "Our message is not the God that _ but the God that came down",
+            a: "sat in heaven",
+        },
+        {
+            q: "We are looking forward to see Christ. He is the _ God",
+            a: "great",
+        },
+        {
+            q: "This is not a _ or _ God. He is the great and true God",
+            a: "small, assistant",
         },
     ]
 }

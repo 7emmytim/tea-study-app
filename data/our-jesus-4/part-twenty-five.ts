@@ -8,124 +8,84 @@ export const part_twenty_five = {
     slug: "our_jesus_series_4_twenty_five",
     questions: [
         {
-            q: "God supplies the _ and you pay attention",
-            a: "information",
+            q: "The chief priest and the roman empire only dramatized what mankind _",
+            a: "has been doing to the will of God from creation till date",
         },
         {
-            q: "Some people will go to hell cos of _ to study",
-            a: "laziness",
+            q: "If you see Jessus as the will of God then your attitude towards _, towards _ will change",
+            a: "Christianity meetings, discipleship",
         },
         {
-            q: "In _, Moses showed us a template of the journey of sin",
-            a: "Adam",
+            q: "You will know that whatsoever you are doing against God's will today is actively _",
+            a: "against Jesus",
         },
         {
-            q: "Moses used trees to communicate to _ and not to _",
-            a: "us, Adam",
+            q: "To kill God's will is to attempt to _",
+            a: "kill God himself",
         },
         {
-            q: "Moses used _ to explain what happened to Adam to us and not to Adam",
-            a: "figurative things",
+            q: "We don't have a documentation of _",
+            a: "light reigning without darkness",
         },
         {
-            q: "The tools of rebellion may be _ but what happened is _",
-            a: "unclear, clear",
+            q: "Jesus did not die for _. He died cos of _",
+            a: "unbelief, unbelief",
         },
         {
-            q: "There is so much given in Christ but there's also something not to _",
-            a: "reject",
+            q: "_ wipes away the effect of unbelief",
+            a: "Nothing",
         },
         {
-            q: "_ is to say I don't want it. _ is that you don't have it. _ is that you will not get it",
-            a: "Sin, Death, Judgement",
+            q: "To tempt God will mean to _ God. To force one outside _",
+            a: "pressure, his normal duties",
         },
         {
-            q: "Jesus is not made a _ so you can have Dangote's money but for the reconciliation of sin",
-            a: "high priest",
+            q: "You don't come to church to make _",
+            a: "your life work",
         },
         {
-            q: "Jesus bears my name in front of the _",
-            a: "accuser/Father",
+            q: "The Christian is not the one that is _ about the things of the world",
+            a: "overly ambitious",
         },
         {
-            q: "Jesus to _ is defending himself",
-            a: "the saint",
+            q: "_ or _ is recrucifying Jesus",
+            a: "Legalism, false doctrine",
         },
         {
-            q: "That sense of _ must be strong in all your confessions",
-            a: "family",
+            q: "God saw all the actions of men against his will outside time and stepped into time to show us _",
+            a: "what we did or what we are doing to him",
         },
         {
-            q: "Your heart must beat for your _",
-            a: "brethren",
+            q: "What God did on the cross was _. He allowed man to do his worst",
+            a: "nothing",
         },
         {
-            q: "from the Bible, at times some _ can be treated as _",
-            a: "believers, unbelievers",
+            q: "God's part is _. It was men that killed",
+            a: "obedience",
         },
         {
-            q: "Man is not neutral, he either gets _ or _",
-            a: "better, worse",
+            q: "_ is an assassination of God's will",
+            a: "rejection to God's will",
         },
         {
-            q: "It is easy to progress in _ once you take the first step",
-            a: "rebellion",
+            q: "Man was not under God's _; he was under sin's _",
+            a: "payroll, payroll",
         },
         {
-            q: "Productivity is a function of _ and not _",
-            a: "man, God",
+            q: "The grand promise that God made was that _",
+            a: "Jesus will be raised",
         },
         {
-            q: "God supplies the _ and you pay attention",
-            a: "information",
+            q: "The _ of David is not cars",
+            a: "sure mercies",
         },
         {
-            q: "Some people will go to hell cos of _ to study",
-            a: "laziness",
+            q: "God's part is the _; man's part is the death",
+            a: "resurrection",
         },
         {
-            q: "In _, Moses showed us a template of the journey of sin",
-            a: "Adam",
-        },
-        {
-            q: "Moses used trees to communicate to _ and not to _",
-            a: "us, Adam",
-        },
-        {
-            q: "Moses used _ to explain what happened to Adam to us and not to Adam",
-            a: "figurative things",
-        },
-        {
-            q: "The tools of rebellion may be _ but what happened is _",
-            a: "unclear, clear",
-        },
-        {
-            q: "There is so much given in Christ but there's also something not to _",
-            a: "reject",
-        },
-        {
-            q: "_ is to say I don't want it. _ is that you don't have it. _ is that you will not get it",
-            a: "Sin, Death, Judgement",
-        },
-        {
-            q: "Jesus is not made a _ so you can have Dangote's money but for the reconciliation of sin",
-            a: "high priest",
-        },
-        {
-            q: "Jesus bears my name in front of the _",
-            a: "accuser/Father",
-        },
-        {
-            q: "Jesus to _ is defending himself",
-            a: "the saint",
-        },
-        {
-            q: "That sense of _ must be strong in all your confessions",
-            a: "family",
-        },
-        {
-            q: "Your heart must beat for your _",
-            a: "brethren",
+            q: "The power of Satan stopped at _",
+            a: "death",
         },
     ]
 }

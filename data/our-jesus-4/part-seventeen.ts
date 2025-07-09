@@ -8,136 +8,108 @@ export const part_seventeen = {
     slug: "our_jesus_series_4_seventeen",
     questions: [
         {
-            q: "the book of Moses is like the _ of the Bible/Christology",
-            a: "foundation",
+            q: "God will not _ man for ministry not well done",
+            a: "guilt",
         },
         {
-            q: "you must honour Bible more than _",
-            a: "reality/dictionary definition",
+            q: "Ministry not done itself will judge every _ in ministry",
+            a: "backslider",
         },
         {
-            q: "the way it is _ teaches us the real truth",
-            a: "reported",
+            q: "What you have not done will _ either sooner or later",
+            a: "dawn on you",
         },
         {
-            q: "a _ refusal of God's appeal leads to judgement",
-            a: "consistent",
+            q: "What you are doing now is an appreciation of a God that is _",
+            a: "already pleased with you",
         },
         {
-            q: "one of the ways to define God's anger is when your agreement is _",
-            a: "given to another/when you are replaced",
+            q: "It will not make you more of a son of God by _",
+            a: "studying scriptures",
         },
         {
-            q: "since _ was not allowing the Israelites listen then Moses will not get them out of _",
-            a: "bondage, bondage",
+            q: "_ will appreciate you which is God appreciating you",
+            a: "ministry well done",
         },
         {
-            q: "the Pentatuch is Moses' _",
-            a: "teaching ministry",
+            q: "_ is not God punishing you for not serving well",
+            a: "Bad things happening",
         },
         {
-            q: "faith is God's _ and to reject God's word is the sin that cannot be atoned for across all _",
-            a: "acceptance, generations",
+            q: "God is pleased with me so I _",
+            a: "give my all in ministry",
         },
         {
-            q: "Don't borrow the _ of those going to hell",
-            a: "character",
+            q: "Don't be _ in your mind",
+            a: "demonic",
         },
         {
-            q: "the tools of rebellion that prevents a man from _ are also things you must avoid now that you are in faith",
-            a: "believing the gospel",
+            q: "There is a God and he has a _; the Son",
+            a: "location",
         },
         {
-            q: "_ from pleasing yourself",
-            a: "flee",
+            q: "_ will make the world a better place",
+            a: "Christology",
         },
         {
-            q: "answered prayers is not a proof of God's _",
-            a: "validation",
+            q: "_ will know that there will be a delegation of authority from God as divine to God as a man",
+            a: "a careful reader of the OT",
         },
         {
-            q: "flee idolatry for the believer is to _",
-            a: "walk in love",
+            q: "God fought with _ and _ and delivered us",
+            a: "sin, death",
         },
         {
-            q: "you must not rate your own _ above the common good",
-            a: "appetite",
+            q: "Mankind is to present himself before the _ lord",
+            a: "risen",
         },
         {
-            q: "the preacher must not have his eyes on the _ of men",
-            a: "pockets",
+            q: "Seeking the Lord in Jerusalem will mean to seek the Lord in _",
+            a: "spirit and in truth",
         },
         {
-            q: "a _ can be an idol worshipper",
-            a: "preacher",
+            q: "To praise God as _ is to praise God for what he did in Christ",
+            a: "divinity",
         },
         {
-            q: "that die hard determination to get to the top of a _ can never be by the _ of God",
-            a: "worldly career, inspiration",
+            q: "Christology does not accommodate _",
+            a: "wrong ideologies",
         },
         {
-            q: "you can go into _ but don't call it God's mandate",
-            a: "politics",
+            q: "Jesus ate with sinners but he never pampered _",
+            a: "false teachings",
         },
         {
-            q: "you don't determine how to serve God, you determine with _",
-            a: "the people you are serving with",
+            q: "Mankind will be _ and _ before the Son",
+            a: "gathered, separated",
         },
         {
-            q: "Jesus did some things intentionally to show that God is different from what _ did at times",
-            a: "Moses",
+            q: "Upon _, it will be men before the Son",
+            a: "judgement",
         },
         {
-            q: "learn to de emphasize the _",
-            a: "physical",
+            q: "For the unbeliever, the question will be did you accept _ as _",
+            a: "Christology, theology",
         },
         {
-            q: "in your status as a believer, you can't envy _",
-            a: "Linda Ikeji",
+            q: "Men will be judged based on _",
+            a: "Christology",
         },
         {
-            q: "fame does not _",
-            a: "last",
+            q: "The Son is the one currently occupying _",
+            a: "God's throne",
         },
         {
-            q: "ensure the _ of your life is spiritual progress",
-            a: "core",
+            q: "There will be no escape for man outside _",
+            a: "Christology",
         },
         {
-            q: "you can do _ but don't call it the kingdom of God",
-            a: "politics",
+            q: "There will be no safe _ outside the truth of Jesus",
+            a: "haven",
         },
         {
-            q: "you don't employ weapons of satan to do _",
-            a: "God's work",
-        },
-        {
-            q: "every war fought with _ is not God's war",
-            a: "swords",
-        },
-        {
-            q: "the use of _ doesn't mean you have fought for God",
-            a: "the supernatural",
-        },
-        {
-            q: "don't _ a man claiming to defend God",
-            a: "kill",
-        },
-        {
-            q: "in reading the first books of the Bible, when you see _ know that it is not God's kingdom",
-            a: "retaliation",
-        },
-        {
-            q: "_, _, _, _ is God's kingdom",
-            a: "mercy, love, forgiveness, gospel taught",
-        },
-        {
-            q: "God's kingdom is in _ and the preaching of the gospel",
-            a: "the fruits of the Spirit",
-        },
-        {
-            q: "God never ranked physical things above _",
-            a: "man",
+            q: "Don't go for the _; go for Christ",
+            a: "juicy",
         }
     ]
 }

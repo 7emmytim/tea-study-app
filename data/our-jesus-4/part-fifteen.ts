@@ -8,152 +8,80 @@ export const part_fifteen = {
     slug: "our_jesus_series_4_fifteen",
     questions: [
         {
-            q: "Moses saw _ and wrote _",
-            a: "beforehand, beforehand",
+            q: "Cos of what God did in Christ, I will be active in _",
+            a: "church",
         },
         {
-            q: "the prophets wrote with _ so you can't _ read what they wrote",
-            a: "an intelligence, rush",
+            q: "It is easy to counterfeit _",
+            a: "the grace message",
         },
         {
-            q: "at times the _ will determine how the word is written",
-            a: "audience",
+            q: 'Any gospel that ends with "come and sow seed", it is not just another gospel, it is a _',
+            a: "demonic gospel",
         },
         {
-            q: "we don Greek and Hebrew words to minimise error in _",
-            a: "translations",
+            q: "Convert that _ from the message to ministry.",
+            a: "motivation",
         },
         {
-            q: "God's plan is that all will be _",
-            a: "disciples",
+            q: "That comfort of God will be found both in our _ and _",
+            a: "spirit, mind",
         },
         {
-            q: "disciples are men who have submitted their _ and _ to know and do God's will",
-            a: "will, right",
+            q: "That understanding of the Son is not _. It must be _",
+            a: "automatic, cultivated",
         },
         {
-            q: "increase is a function of proper _",
-            a: "hearing",
+            q: "Understanding of all Jesus did for you must be _",
+            a: "cultivated",
         },
         {
-            q: "_ is a function of poor hearing",
-            a: "decrease",
+            q: "Where the understanding of the Son is, there is _",
+            a: "liberty",
         },
         {
-            q: "poor _ is that you are _ but your heart is not meditating on it",
-            a: "hearing, hearing",
+            q: "The ministration of _ is the understanding of Christ.",
+            a: "the Spirit",
         },
         {
-            q: "a _ will force you to think",
-            a: "parable",
+            q: "How does the Son make free?",
+            a: "the teaching ministry",
         },
         {
-            q: "the use of a parable is part of the _ of God",
-            a: "appeal",
+            q: "_ can only make sense to you if you look at it very well",
+            a: "Christianity",
         },
         {
-            q: "to a man that has a _ heart, to receive God's word, he speaks straight",
-            a: "meek",
+            q: "We behold Christ not only for salvation but also for a _",
+            a: "new understanding/new mindset/NT ministry",
         },
         {
-            q: "_ is where God will stay and that is our heart",
-            a: "heaven",
+            q: "The intelligence of God is seen in _",
+            a: "all Christ did",
         },
         {
-            q: "What Jesus did on the cross is _ of what he is doing in our heart",
-            a: "symbolic",
+            q: "How do you become Godly smart as a Christian?",
+            a: "pay attention to all he did",
         },
         {
-            q: "the _ of the gospel is as important as the sacrifice of Christ",
-            a: "preaching",
+            q: "If you are still tribe biased then you don't _",
+            a: "see Jesus",
         },
         {
-            q: "that hanging on the cross is a communication of _",
-            a: "love",
+            q: "I am _ for success in ministry",
+            a: "setup",
         },
         {
-            q: "God's word to the unbeliever can be _ for the believer",
-            a: "rephrased",
+            q: "Don't always try to belong, you _",
+            a: "belong to Christ",
         },
         {
-            q: "Same word given for faith is also given for _",
-            a: "growth",
+            q: "Don't say _, all that you have received make it obvious",
+            a: "I am a believer in the heart",
         },
         {
-            q: "Peter wrote from Exodus but changed _",
-            a: "tenses",
+            q: "The only thing that must not go wrong is _",
+            a: "the ministry of Jesus",
         },
-        {
-            q: "listening to God's word is both _ and _",
-            a: "academic, supernatural",
-        },
-        {
-            q: "what God has been _ from Genesis is sin",
-            a: "cursing",
-        },
-        {
-            q: "anyone that identifies with sin will inherit a _",
-            a: "curse",
-        },
-        {
-            q: "both everlasting life and damnation are called _",
-            a: "inheritance",
-        },
-        {
-            q: "Moses used _ cos of how Abraham's call was documented",
-            a: "chosen",
-        },
-        {
-            q: "a willing heart is _ action but deemed as _ gift",
-            a: "man's, God's",
-        },
-        {
-            q: "it will be man's action but it will be written in either _ ledger or _ ledger",
-            a: "satan's, God's",
-        },
-        {
-            q: "actions of _ are deemed in God's ledger cos they are actions first done by God",
-            a: "faith",
-        },
-        {
-            q: "God is the _ of faith",
-            a: "originator",
-        },
-        {
-            q: "God was the first to demonstrate _ when he chose to live for man",
-            a: "obedience",
-        },
-        {
-            q: "any _ obedience will then be called God's action",
-            a: "future",
-        },
-        {
-            q: "Christ was ready to _ from Genesis",
-            a: "die",
-        },
-        {
-            q: "even before _ God had been living for man",
-            a: "the death of Christ",
-        },
-        {
-            q: "if you refuse to believe then you won't be called the _ of God",
-            a: "chosen",
-        },
-        {
-            q: "even in Israel there was yet a _",
-            a: "choice",
-        },
-        {
-            q: "_ kept teaching them about his choice",
-            a: "God",
-        },
-        {
-            q: "_ will be found where God says it is",
-            a: "mercy",
-        },
-        {
-            q: "you can be the _ man on the wrong lane",
-            a: "fastest",
-        }
     ]
 }

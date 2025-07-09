@@ -8,148 +8,68 @@ export const part_twenty = {
     slug: "our_jesus_series_4_twenty",
     questions: [
         {
-            q: "the church ought to operate like a _ school",
-            a: "discipleship",
+            q: "We don't explain the Godhead from our previous _ knowledge",
+            a: "idol worshipping",
         },
         {
-            q: "God did not _ destruction for Pharaoh",
-            a: "forsee",
+            q: "When we say God will be exalted, it means God will first _",
+            a: "go down",
         },
         {
-            q: "how does God harden a man?",
-            a: "he won't bend his choice to any man's will",
+            q: "Faith is not to believe in _ but to believe in that _",
+            a: "God, coming God",
         },
         {
-            q: "whoever does not want his will, the man will become _",
-            a: "hardened",
+            q: "Anyone that can _ but denies the incarnation/resurrection of Jesus has no faith",
+            a: "perform miracles",
         },
         {
-            q: "God _ his own choice",
-            a: "decided",
+            q: "_ has its own definite perimeters. _ is Christ-centered",
+            a: "Faith, Faith",
         },
         {
-            q: "if God committed any crime then it is the fact that his will is _ in Christ",
-            a: "fixed",
+            q: "Jesus did not come _ across the ages; he was only testified of _ before he came.",
+            a: "multiple times, multiple times",
         },
         {
-            q: "God wanted to show how _ Pharaoh can be and so Moses used 10 plagues",
-            a: "stubborn",
+            q: "The ark was Noah's interpretation of _",
+            a: "Christology",
         },
         {
-            q: "God's longsuffering shows you the _ and _ in unbelief",
-            a: "danger, stubborness",
+            q: "It is not about what I am doing but _ and that _ is either faith or unbelief in Christ",
+            a: "why, why",
         },
         {
-            q: "when God sees a man in unbelief, he will _ and _ him",
-            a: "postrate, beg",
+            q: "Jesus was not around in the days of Noah but the message was yet _",
+            a: "potent",
         },
         {
-            q: "if God kills satan today, the _ in man will create another satan",
-            a: "unbelief",
+            q: "Christianity is not 2000 years old; it is _ that is 2000 years old",
+            a: "the new creation",
         },
         {
-            q: "the election of God is Christ and not _",
-            a: "individuals",
+            q: "Christology is as old as _",
+            a: "creation",
         },
         {
-            q: "_ ranks salvation through faith in Christ more important than reality",
-            a: "prophecy",
+            q: "_. That is Christianity 101",
+            a: "God visited the earth",
         },
         {
-            q: "the Bible is not for _ documentation, it is a documentation of how God will save men",
-            a: "historical",
+            q: "Life is not just _; life is to be in Christ",
+            a: "breathing in and out",
         },
         {
-            q: "the Bible is not for _ argument. it is a story of _",
-            a: "archeological, faith",
+            q: "The power of God ministered to sick is a token of _",
+            a: "immortality",
         },
         {
-            q: "your theology is not _, your theology is _",
-            a: "history, Christology",
+            q: "_gives life to our mind",
+            a: "The TM",
         },
         {
-            q: "the Spirit of God will help you know God's _",
-            a: "kingdom",
+            q: "Life is not found in _; life is found in Christ",
+            a: "biology",
         },
-        {
-            q: "the _ is the proclamation",
-            a: "gospel",
-        },
-        {
-            q: "the _ is how the salvation was preached",
-            a: "gospel",
-        },
-        {
-            q: "it is the gospel that has been changing and getting bettert not the _",
-            a: "salvation",
-        },
-        {
-            q: "the gospel is what was changing that's why we have what we call _",
-            a: "the full gospel",
-        },
-        {
-            q: "_ will also be a progression from seeing God through nature to seeing God in Christ rasied from the dead",
-            a: "faith to faith",
-        },
-        {
-            q: "God already said you should expect varying degrees in _",
-            a: "clarity",
-        },
-        {
-            q: "God knows what he is looking for and he bent to use the _ men",
-            a: "available",
-        },
-        {
-            q: "God will have to depend on man's _",
-            a: "frailty",
-        },
-        {
-            q: "God did not determine their _ but he used their _ to bring about his will",
-            a: "actions, actions",
-        },
-        {
-            q: "The prophets had a duty to make _ the way of the Lord",
-            a: "straight",
-        },
-        {
-            q: "God will do what he wants to do but men will _",
-            a: "make the way",
-        },
-        {
-            q: "the intention is always greater than the _",
-            a: "plan",
-        },
-        {
-            q: "_ is the real power",
-            a: "love",
-        },
-        {
-            q: "he used everything _ and _ about man to bring about his perfect counsel",
-            a: "good, bad",
-        },
-        {
-            q: "God's plan is to use _ men",
-            a: "imperfect",
-        },
-        {
-            q: "love is the message not _",
-            a: "power",
-        },
-        {
-            q: "God will use the _ of man to win his own game",
-            a: "plans",
-        },
-        {
-            q: "power is not to _ but to use what you have done to accomplish my will",
-            a: "make you do something",
-        },
-        {
-            q: "the gospel is the real _",
-            a: "wisdom",
-        },
-        {
-            q: "_ the gospel you have believed",
-            a: "value",
-        }
     ]
 }

@@ -8,148 +8,108 @@ export const part_nineteen = {
     slug: "our_jesus_series_4_nineteen",
     questions: [
         {
-            q: "the church ought to operate like a _ school",
-            a: "discipleship",
+            q: "There is God's intelligence in _",
+            a: "Bible documentation",
         },
         {
-            q: "God did not _ destruction for Pharaoh",
-            a: "forsee",
+            q: "An idol is man's substitute for the _ one",
+            a: "incarnate",
         },
         {
-            q: "how does God harden a man?",
-            a: "he won't bend his choice to any man's will",
+            q: "It is so sad that _ is one of the things men has used to replace God even in our days",
+            a: "education",
         },
         {
-            q: "whoever does not want his will, the man will become _",
-            a: "hardened",
+            q: "Sin is like a _; it gets stronger with time",
+            a: "virus",
         },
         {
-            q: "God _ his own choice",
-            a: "decided",
+            q: "One of the major traits of nations without God is _",
+            a: "idol worshipping",
         },
         {
-            q: "if God committed any crime then it is the fact that his will is _ in Christ",
-            a: "fixed",
+            q: "_ means a category of like-minded people",
+            a: "Nations",
         },
         {
-            q: "God wanted to show how _ Pharaoh can be and so Moses used 10 plagues",
-            a: "stubborn",
+            q: "God destroyed our idols in salvation and _",
+            a: "spiritual growth",
         },
         {
-            q: "God's longsuffering shows you the _ and _ in unbelief",
-            a: "danger, stubborness",
+            q: "The key characteristics of an idol is that it is _",
+            a: "the work of man",
         },
         {
-            q: "when God sees a man in unbelief, he will _ and _ him",
-            a: "postrate, beg",
+            q: "These idols don't have power of themselves to captivate men. The power of the idol is from _",
+            a: "man",
         },
         {
-            q: "if God kills satan today, the _ in man will create another satan",
-            a: "unbelief",
+            q: "It is men that gave idols _ and _",
+            a: "authority, relevance",
         },
         {
-            q: "the election of God is Christ and not _",
-            a: "individuals",
+            q: "Once you remove the relevance you give to the idol, it _",
+            a: "dies",
         },
         {
-            q: "_ ranks salvation through faith in Christ more important than reality",
-            a: "prophecy",
+            q: "God does not put his _, _, _, _ into the works of men's hands",
+            a: "life, spirit, honour, glory",
         },
         {
-            q: "the Bible is not for _ documentation, it is a documentation of how God will save men",
-            a: "historical",
+            q: "You can be so earthly wise, if sin catch you, you will be so _",
+            a: "dull",
         },
         {
-            q: "the Bible is not for _ argument. it is a story of _",
-            a: "archeological, faith",
+            q: "Since the image of God is not the physical male or female, it means you should also not worship _",
+            a: "your gender",
         },
         {
-            q: "your theology is not _, your theology is _",
-            a: "history, Christology",
+            q: "Once we say in spirit, _ and _ become irrelevant",
+            a: "time, material",
         },
         {
-            q: "the Spirit of God will help you know God's _",
-            a: "kingdom",
+            q: "We lift out hands in worship but we don't _",
+            a: "call it the only way",
         },
         {
-            q: "the _ is the proclamation",
-            a: "gospel",
+            q: "The content of the heart is the reason for _",
+            a: "worship",
         },
         {
-            q: "the _ is how the salvation was preached",
-            a: "gospel",
+            q: "'let us go to the house of God' will mean?",
+            a: "put on your in Christ consciousness",
         },
         {
-            q: "it is the gospel that has been changing and getting bettert not the _",
-            a: "salvation",
+            q: "What God built upon the resurrection is a _",
+            a: "relationship",
         },
         {
-            q: "the gospel is what was changing that's why we have what we call _",
-            a: "the full gospel",
+            q: "Iniquity is to transgress against the _",
+            a: "covenant",
         },
         {
-            q: "_ will also be a progression from seeing God through nature to seeing God in Christ rasied from the dead",
-            a: "faith to faith",
+            q: "You don't praise God by _. And you don't praise him by not _",
+            a: "clapping, clapping",
         },
         {
-            q: "God already said you should expect varying degrees in _",
-            a: "clarity",
+            q: "Worship is in truth and that understanding will cause bodily reactions that we must _",
+            a: "not make an idol of",
         },
         {
-            q: "God knows what he is looking for and he bent to use the _ men",
-            a: "available",
+            q: "You don't have to go to _ and teach them _ dancing or dressing style",
+            a: "the Northern part of Nigeria, Southern",
         },
         {
-            q: "God will have to depend on man's _",
-            a: "frailty",
+            q: "Truth is the only thing that must be the same across all _",
+            a: "territories",
         },
         {
-            q: "God did not determine their _ but he used their _ to bring about his will",
-            a: "actions, actions",
+            q: "Nobody's _ is divine",
+            a: "culture",
         },
         {
-            q: "The prophets had a duty to make _ the way of the Lord",
-            a: "straight",
+            q: "Tongues is a fruit of _",
+            a: "redemption",
         },
-        {
-            q: "God will do what he wants to do but men will _",
-            a: "make the way",
-        },
-        {
-            q: "the intention is always greater than the _",
-            a: "plan",
-        },
-        {
-            q: "_ is the real power",
-            a: "love",
-        },
-        {
-            q: "he used everything _ and _ about man to bring about his perfect counsel",
-            a: "good, bad",
-        },
-        {
-            q: "God's plan is to use _ men",
-            a: "imperfect",
-        },
-        {
-            q: "love is the message not _",
-            a: "power",
-        },
-        {
-            q: "God will use the _ of man to win his own game",
-            a: "plans",
-        },
-        {
-            q: "power is not to _ but to use what you have done to accomplish my will",
-            a: "make you do something",
-        },
-        {
-            q: "the gospel is the real _",
-            a: "wisdom",
-        },
-        {
-            q: "_ the gospel you have believed",
-            a: "value",
-        }
     ]
 }

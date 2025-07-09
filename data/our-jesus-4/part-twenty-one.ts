@@ -8,6 +8,86 @@ export const part_twenty_one = {
     slug: "our_jesus_series_4_twenty_one",
     questions: [
         {
+            q: "the _ is the proclamation",
+            a: "gospel",
+        },
+        {
+            q: "the _ is how the salvation was preached",
+            a: "gospel",
+        },
+        {
+            q: "it is the gospel that has been changing and getting bettert not the _",
+            a: "salvation",
+        },
+        {
+            q: "the gospel is what was changing that's why we have what we call _",
+            a: "the full gospel",
+        },
+        {
+            q: "_ will also be a progression from seeing God through nature to seeing God in Christ rasied from the dead",
+            a: "faith to faith",
+        },
+        {
+            q: "God already said you should expect varying degrees in _",
+            a: "clarity",
+        },
+        {
+            q: "God knows what he is looking for and he bent to use the _ men",
+            a: "available",
+        },
+        {
+            q: "God will have to depend on man's _",
+            a: "frailty",
+        },
+        {
+            q: "God did not determine their _ but he used their _ to bring about his will",
+            a: "actions, actions",
+        },
+        {
+            q: "The prophets had a duty to make _ the way of the Lord",
+            a: "straight",
+        },
+        {
+            q: "God will do what he wants to do but men will _",
+            a: "make the way",
+        },
+        {
+            q: "the intention is always greater than the _",
+            a: "plan",
+        },
+        {
+            q: "_ is the real power",
+            a: "love",
+        },
+        {
+            q: "he used everything _ and _ about man to bring about his perfect counsel",
+            a: "good, bad",
+        },
+        {
+            q: "God's plan is to use _ men",
+            a: "imperfect",
+        },
+        {
+            q: "love is the message not _",
+            a: "power",
+        },
+        {
+            q: "God will use the _ of man to win his own game",
+            a: "plans",
+        },
+        {
+            q: "power is not to _ but to use what you have done to accomplish my will",
+            a: "make you do something",
+        },
+        {
+            q: "the gospel is the real _",
+            a: "wisdom",
+        },
+        {
+            q: "_ the gospel you have believed",
+            a: "value",
+        },
+        {
             q: "from the Bible, at times some _ can be treated as _",
             a: "believers, unbelievers",
         },

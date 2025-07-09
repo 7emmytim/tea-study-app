@@ -2,174 +2,98 @@ import { Timer1 } from "iconsax-react";
 
 export const part_fourteen = {
     title: "Our Jesus - Series 4",
-    description: "Part 8",
+    description: "Part 14",
     icon: Timer1,
     color: "#F7D060",
     slug: "our_jesus_series_4_fourteen",
     questions: [
         {
-            q: "In the _ of sin, anyone that rejects the gospel will get _",
-            a: "judgement, judged",
+            q: "If there comes a day and this happened and you are surprised, it shows that you have _",
+            a: "not been reading",
         },
         {
-            q: "_ has been cursed already, it's not _ that was cursed",
-            a: "Sin, man",
+            q: "When you live your life not expecting these things to happen then you are _",
+            a: "foolish",
         },
         {
-            q: "In Christ, believing the gospel has been _. Rejecting him has been _",
-            a: "blessed, cursed",
+            q: "The God of the Bible is not _",
+            a: "joking",
         },
         {
-            q: "To reject the gospel is to identify with the _ of sin",
-            a: "curse",
+            q: "The believer is God's _ to work on the earth",
+            a: "permission",
         },
         {
-            q: "There must be _ with which we preach the gospel",
-            a: "an urgency",
+            q: "The God of heaven and earth cannot work on the earth without _",
+            a: "the believer",
         },
         {
-            q: "judgement is part of the _",
-            a: "message",
+            q: "All of God's _ will remain a _ without man's participation",
+            a: "desire, desire",
         },
         {
-            q: "as men are being told to _, they are also _ of the consequence of unbelief",
-            a: "believe, warned",
+            q: "It is only in the salvation plan that you can separate the _ and the _",
+            a: "Father, Spirit",
         },
         {
-            q: "the reason for the coming out of Egypt was not for _ but for _",
-            a: "salvation, discipleship",
+            q: "The preacher saw the wickedness of man and _",
+            a: "gave up",
         },
         {
-            q: "judgement will be to declare God's _ from a perspective of it's _",
-            a: "love, consequence",
+            q: "Utterance will not capture it like you disobeyed _ but like you disobeyed _",
+            a: "Lot, God",
         },
         {
-            q: "_ call is not finality",
-            a: "judgement",
+            q: "We have _ today cos we have both the Spirit of God and the understanding of the Son",
+            a: "the NT ministry",
         },
         {
-            q: "judgement call is a call to _",
+            q: "It is the understanding of _ that makes the difference",
+            a: "the Son",
+        },
+        {
+            q: "Nobody should die in church. Church is for _",
             a: "repentance",
         },
         {
-            q: "a judgement that you can _ is not final",
-            a: "hear",
+            q: "_ is what should die in church. Sinners don't die in our crusades, they live",
+            a: "Works of the flesh",
         },
         {
-            q: "things are not the _ of God",
-            a: "image",
+            q: "The Comforter will work through _",
+            a: "a person",
         },
         {
-            q: "the focus of God is not on _, _, _ but on man",
-            a: "things, days, events",
+            q: "The Comforter will come with _",
+            a: "ministry gifts",
         },
         {
-            q: "you cannot claim _ to men to prove that you are _ God",
-            a: "dishonour, honouring",
+            q: "That earthly ministry of Jesus continues _",
+            a: "today",
         },
         {
-            q: "the man in Christ is superior to _",
-            a: "days",
+            q: "Every true theology will proceed into _ and conclude with _",
+            a: "Christology, Ecclesiology",
         },
         {
-            q: "_ and _ should not be used against man",
-            a: "things, days",
+            q: "Jesus will not _, _, _ the saints",
+            a: "dupe, dump, trick",
         },
         {
-            q: "taking care of _ from the law is to teach us to take care of ministers",
-            a: "animals",
+            q: "I must go an extra mile to ensure that my actions in discipleship are _",
+            a: "not misunderstood",
         },
         {
-            q: "it is proper to _ anyone sent to bless you",
-            a: "support",
+            q: "As believers, we don't despise those that God has sent to us cos of _",
+            a: "physicals",
         },
         {
-            q: "you cannot _ any text in the Bible to favour things more than _",
-            a: "interpret, man",
+            q: "Make it easy for people to _ you",
+            a: "pastor",
         },
         {
-            q: "the holy _ is created for man and not man for the holy _",
-            a: "ground, ground",
+            q: "Remember, your pastor never invented nor orchestrated _",
+            a: "this ministry",
         },
-        {
-            q: "it is not God that instituted _, he instituted _",
-            a: "easter, resurrection",
-        },
-        {
-            q: "no day of the week should put _ on man",
-            a: "stress",
-        },
-        {
-            q: "gender is not _. _ is superior to gender",
-            a: "man, man",
-        },
-        {
-            q: "if the gospel is _ then it will never reach the world",
-            a: "gender biased",
-        },
-        {
-            q: "anyone in Christ or that _ in Christ must be the focus of your ministry",
-            a: "can be",
-        },
-        {
-            q: "God can never tell you to borrow money to build a physical _",
-            a: "church",
-        },
-        {
-            q: "you cannot do church _ at the cost of men",
-            a: "venue",
-        },
-        {
-            q: "no day of the year has the right to deprive man of _",
-            a: "joy",
-        },
-        {
-            q: "you must not respect anyone less cos of _ in church",
-            a: "gender",
-        },
-        {
-            q: "no _ deserves your worship",
-            a: "angel",
-        },
-        {
-            q: "God's commendation will only come to you based on your _ to _ relationship",
-            a: "man, man",
-        },
-        {
-            q: "you cannot claim to _ things and not _ man",
-            a: "love",
-        },
-        {
-            q: "God did not use _ to communicate himself to Moses",
-            a: "rock",
-        },
-        {
-            q: "God did not say I am the _ to Uzzah",
-            a: "ark",
-        },
-        {
-            q: "whenever you see a man judged in prophecy cos of things, _ is behind the scene",
-            a: "unbelief",
-        },
-        {
-            q: "most of the things you saw _ in the OT were recorded to tell a story in Christ",
-            a: "hyped",
-        },
-        {
-            q: "in church, not to teach God's word is _",
-            a: "a sin",
-        },
-        {
-            q: "you are _ to obey God",
-            a: "born",
-        },
-        {
-            q: "we honour God's word cos it has been _",
-            a: "written",
-        },
-        {
-            q: "don't use your _ for what will not count",
-            a: "best",
-        }
     ]
 }

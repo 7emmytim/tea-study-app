@@ -8,72 +8,52 @@ export const part_twenty_eight = {
     slug: "our_jesus_series_4_twenty_eight",
     questions: [
         {
-            q: "from the Bible, at times some _ can be treated as _",
-            a: "believers, unbelievers",
+            q: "_ is very good for man",
+            a: "God's plan",
         },
         {
-            q: "Man is not neutral, he either gets _ or _",
-            a: "better, worse",
+            q: "Man did not need ransom initially. But the Son will now _",
+            a: "inherit this promise",
         },
         {
-            q: "It is easy to progress in _ once you take the first step",
-            a: "rebellion",
+            q: "It is like man was asking for _ and God gave a _",
+            a: "things, person",
         },
         {
-            q: "Productivity is a function of _ and not _",
-            a: "man, God",
+            q: "It is not about a pardon of wrong doings; it is the _",
+            a: "giving of a new life",
         },
         {
-            q: "God supplies the _ and you pay attention",
-            a: "information",
+            q: "Forgiveness of sins is not _ reaction of God to man",
+            a: "an emotional",
         },
         {
-            q: "Some people will go to hell cos of _ to study",
-            a: "laziness",
+            q: "_ and _ has also pushed man far away from God so he needs a middle man.",
+            a: "Condemnation, guilt",
         },
         {
-            q: "In _, Moses showed us a template of the journey of sin",
-            a: "Adam",
+            q: "Righteousness is not an experience; it is a _",
+            a: "person",
         },
         {
-            q: "Moses used trees to communicate to _ and not to _",
-            a: "us, Adam",
+            q: "Moses and the prophets said that to them so that they can one day request for the saviour who has inherited the name called the _",
+            a: "forgiveness of sins",
         },
         {
-            q: "Moses used _ to explain what happened to Adam to us and not to Adam",
-            a: "figurative things",
+            q: "_ is not any prayer point",
+            a: "salvation",
         },
         {
-            q: "The tools of rebellion may be _ but what happened is _",
-            a: "unclear, clear",
+            q: "That you have _ does not mean you are saved",
+            a: "answered prayers",
         },
         {
-            q: "There is so much given in Christ but there's also something not to _",
-            a: "reject",
+            q: "That you have Jesus does not mean you do nothing about a _",
+            a: "wrong conduct",
         },
         {
-            q: "_ is to say I don't want it. _ is that you don't have it. _ is that you will not get it",
-            a: "Sin, Death, Judgement",
-        },
-        {
-            q: "Jesus is not made a _ so you can have Dangote's money but for the reconciliation of sin",
-            a: "high priest",
-        },
-        {
-            q: "Jesus bears my name in front of the _",
-            a: "accuser/Father",
-        },
-        {
-            q: "Jesus to _ is defending himself",
-            a: "the saint",
-        },
-        {
-            q: "That sense of _ must be strong in all your confessions",
-            a: "family",
-        },
-        {
-            q: "Your heart must beat for your _",
-            a: "brethren",
+            q: "Physical death is also from _; Solution is eternal life from _",
+            a: "Genesis 3, Genesis 1",
         },
     ]
 }

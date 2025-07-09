@@ -8,72 +8,60 @@ export const part_twenty_nine = {
     slug: "our_jesus_series_4_twenty_nine",
     questions: [
         {
-            q: "from the Bible, at times some _ can be treated as _",
-            a: "believers, unbelievers",
+            q: "The sin is rebellion against the truth; the solution is _",
+            a: "further emphasis on the same truth",
         },
         {
-            q: "Man is not neutral, he either gets _ or _",
-            a: "better, worse",
+            q: "First thing to know about theology, about Bible documentation, is that _",
+            a: "light must come out of darkness",
         },
         {
-            q: "It is easy to progress in _ once you take the first step",
-            a: "rebellion",
+            q: "God gave man a choice to cultivate _ or to create _",
+            a: "God's goodness, his own goodness",
         },
         {
-            q: "Productivity is a function of _ and not _",
-            a: "man, God",
+            q: "God wants sons not cos of _, that was the plan",
+            a: "sin",
         },
         {
-            q: "God supplies the _ and you pay attention",
-            a: "information",
+            q: "The most glorifying name we can call God is Father. That was _",
+            a: "the name before things went wrong",
         },
         {
-            q: "Some people will go to hell cos of _ to study",
-            a: "laziness",
+            q: "All _ across the ages are tools of reconciliation",
+            a: "the names God bore",
         },
         {
-            q: "In _, Moses showed us a template of the journey of sin",
-            a: "Adam",
+            q: "Do not look for the solution of the problem of man in _",
+            a: "the corrupted man",
         },
         {
-            q: "Moses used trees to communicate to _ and not to _",
-            a: "us, Adam",
+            q: "_ are the fruits of rebellion; you cannot be indifferent about it. You solve it with strong _",
+            a: "moral sins, Christology",
         },
         {
-            q: "Moses used _ to explain what happened to Adam to us and not to Adam",
-            a: "figurative things",
+            q: "If you look away from it, the character of the message will be lost. If you focus on it too much, _ will set in",
+            a: "condemnation",
         },
         {
-            q: "The tools of rebellion may be _ but what happened is _",
-            a: "unclear, clear",
+            q: "Your disciples will make mistakes. Don't condone it and also don't _",
+            a: "think less of them cos of it",
         },
         {
-            q: "There is so much given in Christ but there's also something not to _",
-            a: "reject",
+            q: "Once you focus on _, you can never have an awesome Christianity.",
+            a: "demonic activities",
         },
         {
-            q: "_ is to say I don't want it. _ is that you don't have it. _ is that you will not get it",
-            a: "Sin, Death, Judgement",
+            q: "Christianity is simply a strong _",
+            a: "focus on Christology",
         },
         {
-            q: "Jesus is not made a _ so you can have Dangote's money but for the reconciliation of sin",
-            a: "high priest",
+            q: "How do you maintain victory over lust?",
+            a: "focus on the will of God",
         },
         {
-            q: "Jesus bears my name in front of the _",
-            a: "accuser/Father",
-        },
-        {
-            q: "Jesus to _ is defending himself",
-            a: "the saint",
-        },
-        {
-            q: "That sense of _ must be strong in all your confessions",
-            a: "family",
-        },
-        {
-            q: "Your heart must beat for your _",
-            a: "brethren",
+            q: "Good health is enough _",
+            a: "testimony",
         },
     ]
 }

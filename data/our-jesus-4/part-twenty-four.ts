@@ -8,72 +8,76 @@ export const part_twenty_four = {
     slug: "our_jesus_series_4_twenty_four",
     questions: [
         {
-            q: "from the Bible, at times some _ can be treated as _",
-            a: "believers, unbelievers",
+            q: "Sin will use _ to wage a war against God.",
+            a: "man",
         },
         {
-            q: "Man is not neutral, he either gets _ or _",
-            a: "better, worse",
+            q: "What is the source of unreasonable wickedness?",
+            a: "lack of faith",
         },
         {
-            q: "It is easy to progress in _ once you take the first step",
-            a: "rebellion",
+            q: "It is man that drags God to _. It is man that drag God's will up to the _",
+            a: "court, cross",
         },
         {
-            q: "Productivity is a function of _ and not _",
-            a: "man, God",
+            q: "He did not say Abraham did not murder anyone. But Abraham never _",
+            a: "murdered God's will",
         },
         {
-            q: "God supplies the _ and you pay attention",
-            a: "information",
+            q: "As preachers, you must get used to this; rejection and _",
+            a: "repentance",
         },
         {
-            q: "Some people will go to hell cos of _ to study",
-            a: "laziness",
+            q: "or as many as reject you, someone will accept you, so _",
+            a: "don't give up",
         },
         {
-            q: "In _, Moses showed us a template of the journey of sin",
-            a: "Adam",
+            q: "_ should never be sour",
+            a: "The kiss of a friend",
         },
         {
-            q: "Moses used trees to communicate to _ and not to _",
-            a: "us, Adam",
+            q: "When you drag yourselves before unbelievers, you _",
+            a: "shame the saviour",
         },
         {
-            q: "Moses used _ to explain what happened to Adam to us and not to Adam",
-            a: "figurative things",
+            q: "No one must abandon the work of the ministry due to my _ or _",
+            a: "action, inaction",
         },
         {
-            q: "The tools of rebellion may be _ but what happened is _",
-            a: "unclear, clear",
+            q: "In discipleship, your actions must not be _. No one must _ cos of you",
+            a: "misinterpreted, quit ministry",
         },
         {
-            q: "There is so much given in Christ but there's also something not to _",
-            a: "reject",
+            q: "We must not betray _ by betraying _",
+            a: "the saviour, one another",
         },
         {
-            q: "_ is to say I don't want it. _ is that you don't have it. _ is that you will not get it",
-            a: "Sin, Death, Judgement",
+            q: "Man's rejection of God's will is why _",
+            a: "Christ died",
         },
         {
-            q: "Jesus is not made a _ so you can have Dangote's money but for the reconciliation of sin",
-            a: "high priest",
+            q: "Let the interpretation of your actions not be _",
+            a: "a denial of your Lord",
         },
         {
-            q: "Jesus bears my name in front of the _",
-            a: "accuser/Father",
+            q: "_ cause sorrow to God even today",
+            a: "the sufferings of Christ",
         },
         {
-            q: "Jesus to _ is defending himself",
-            a: "the saint",
+            q: "it is Satan that hanged Jesus up there and I must not contribute a _, a _, or an extra _",
+            a: "nail, stripe, thorn",
         },
         {
-            q: "That sense of _ must be strong in all your confessions",
-            a: "family",
+            q: "Don't deny Jesus for _ or _",
+            a: "friends, family",
         },
         {
-            q: "Your heart must beat for your _",
-            a: "brethren",
+            q: "The things people leave God for; _",
+            a: "on its own accord those things will still come",
+        },
+        {
+            q: "God is not against goodness but _",
+            a: "we don't force it",
         },
     ]
 }

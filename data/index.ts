@@ -31,16 +31,16 @@ export const sermons = [
     our_jesus_4.part_eighteen,
     our_jesus_4.part_nineteen,
     our_jesus_4.part_twenty,
-    // our_jesus_4.part_twenty_one,
+    our_jesus_4.part_twenty_one,
     // our_jesus_4.part_twenty_two,
     // our_jesus_4.part_twenty_three,
-    // our_jesus_4.part_twenty_four,
+    our_jesus_4.part_twenty_four,
     // our_jesus_4.part_twenty_five,
-    // our_jesus_4.part_twenty_six,
-    // our_jesus_4.part_twenty_seven,
-    // our_jesus_4.part_twenty_eight,
-    // our_jesus_4.part_twenty_nine,
-    // our_jesus_4.part_thirty,
+    our_jesus_4.part_twenty_six,
+    our_jesus_4.part_twenty_seven,
+    our_jesus_4.part_twenty_eight,
+    our_jesus_4.part_twenty_nine,
+    our_jesus_4.part_thirty,
 
     //*********** */
 

@@ -8,84 +8,80 @@ export const part_sixteen = {
     slug: "the_teaching_ministry_of_jesus_series3_sixteen",
     questions: [
         {
-            q: "I don't make an idol of my own _",
-            a: "thinking",
+            q: "Jesus stopping _ is pointing to God's mercy and power in salvation",
+            a: "the raging of the sea",
         },
         {
-            q: "What makes a man a new creature is not just the resurrection of Christ but the _ of the resurrection of Christ",
-            a: "message",
+            q: "The _ point to the miracle",
+            a: "miracles",
         },
         {
-            q: "You can obtain a promise of redemption as a check but the check will be _ until resurrection",
-            a: "postdated",
+            q: "The four gospels are _ revealed by the biography of Jesus",
+            a: "theology",
         },
         {
-            q: "There's no _ ongoing in hell",
-            a: "preaching",
+            q: "The problem of sin is more chronic than that of _",
+            a: "sickness",
         },
         {
-            q: "It takes the full gospel for any man to be called the _",
-            a: "new creature",
+            q: "Sickness is a ripple effect of sin entering into the world but not people's _",
+            a: "individual sin",
         },
         {
-            q: "The Spirit will not jump on you cos you believe in Jesus that is _",
-            a: "coming",
+            q: "Forgiveness will be an unseen reality but _ will be seen",
+            a: "healings",
         },
         {
-            q: "Until your mind can mature to make a choice, you cannot be called _",
-            a: "an unbeliever",
+            q: "_ will be used to reveal who has the power to save",
+            a: "healings",
         },
         {
-            q: "What should be called sinful nature should be sinful _",
-            a: "influence",
+            q: "Bible knowledge is actually _",
+            a: "systematic",
         },
         {
-            q: "There is no dark matter that anyone is born with that is called _",
-            a: "sinful nature",
+            q: "There is _ in the Bible",
+            a: "joy",
         },
         {
-            q: "Sin is rebellion against God and not _",
-            a: "conduct",
+            q: "It is _ to counterfeit the claim of the Messiah",
+            a: "evil",
         },
         {
-            q: "There's a stage actually called _",
-            a: "innocence",
+            q: "The Father forgives sin through the _ of the Son",
+            a: "experience",
         },
         {
-            q: "God will eventually save a man until he paves out a way of _ for himself",
-            a: "death",
+            q: "Without his death, men were _ but without his death and resurrection, no one could be _",
+            a: "healed, saved",
         },
         {
-            q: "God recognises _",
-            a: "innocence",
+            q: "It is believed that Jesus was already planning _ by calling someone learned",
+            a: "the writing of his biography",
         },
         {
-            q: "That instruction from Samuel to kill the Amalekites including the infants and suckling, that is _",
-            a: "satanic",
+            q: "our human skills even though they are not the ministry but they will become _ for the progress of the ministry",
+            a: "an added aid",
         },
         {
-            q: "Unbelief cannot consume the _",
-            a: "innocent",
+            q: "Good _ should not become a curse on our generation",
+            a: "education",
         },
         {
-            q: "What we call the justice of God is actually the _ of men",
-            a: "labour",
+            q: "The call of God comes as _",
+            a: "an interruption",
         },
         {
-            q: "The _ of the eyes is the _ of the heart",
-            a: "blinding, hardening",
+            q: "In theology, physical healing will be used to speak about God's remedy to _",
+            a: "sin",
         },
         {
-            q: "The problem of Pharaoh initially was _",
-            a: "deceitfulness of sin",
+            q: "_ therefore will imply the saviour",
+            a: "physician",
         },
         {
-            q: "How to solve the problem of blindness is by _",
-            a: "preaching",
-        },
-        {
-            q: "The reign of sin and death is not about biological birth but about _",
-            a: "wrong influence",
+            q: "We _ to confirm that we are saved and not to get saved",
+            a: "come to church",
         },
     ]
 }

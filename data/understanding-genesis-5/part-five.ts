@@ -7,85 +7,53 @@ export const part_five = {
     color: "#F7D060",
     slug: "understanding_genesis_series5_part_five",
     questions: [
-        {
-            q: "Whatsoever God has created does not _",
-            a: "decay",
+         {
+            q: 'The message of "escape the flood and enter the ark" is not _',
+            a: "salvation",
         },
         {
-            q: "Spirits can perform activities independent of the _",
-            a: "body",
+            q: "It is _ to say that God destroyed the world with flood",
+            a: "bad theology",
         },
         {
-            q: "Your _ will make your body immortal",
-            a: "spirit",
+            q: "The judgment of sin is not under the control of _. It can only be _ but it cannot be _",
+            a: "God, delayed, denied",
         },
         {
-            q: "We can heal the sick cos we can give _",
-            a: "life",
+            q: "What is the obvious sin of the men in the day of Noah?",
+            a: "the rejection of the prophet",
         },
         {
-            q: "Spirits create by _",
-            a: "speaking",
+            q: "A rejection of the messenger will imply a rejection of _",
+            a: "the message",
         },
         {
-            q: "You can write a whole novel by _",
-            a: "vision",
+            q: "In reality, the flood is _ and not the judgement or making of God",
+            a: "natural disaster",
         },
         {
-            q: "Dominion is not only communicated by your _, you have a spirit that is _",
-            a: "IQ, alive",
+            q: "Observing physical creation is intended to lead man to understanding _",
+            a: "Christology",
         },
         {
-            q: "_ started counting when man sinned",
-            a: "Time",
+            q: "Our _ will judge us if we don't understand God's will",
+            a: "field of study in school",
         },
         {
-            q: "_ was not in the world until Adam _",
-            a: "Sin, sinned",
+            q: "We don't devote to study _ and forget _",
+            a: "creation, the creator",
         },
         {
-            q: "The devil is not much of a problem as the _ of man",
-            a: "choice",
+            q: "We have _ and we have the essence of _",
+            a: "creation, creation",
         },
         {
-            q: "death had the ticket to travel through cos _ sinned and not cos _ sinned",
-            a: "man, the devil",
+            q: "Moses is not a _; he is a _",
+            a: "scientist, prophet",
         },
         {
-            q: "The gospel is not to believe in your own _",
-            a: "intellect",
-        },
-        {
-            q: "it is evil to gather Christians and what you are doing in the name of the church is to be building up their _",
-            a: "intellect",
-        },
-        {
-            q: "Motivational speaking is not bad but it must not replace _",
-            a: "life",
-        },
-        {
-            q: "We are going to give account of the things we do in _",
-            a: "the name of God",
-        },
-        {
-            q: "There are things that are in man for man to know but that is not the duty of the _",
-            a: "church",
-        },
-        {
-            q: "When we come to church, we focus on things in _ and not things in _",
-            a: "Christ, man",
-        },
-        {
-            q: "There are things available in man that we must not _ in church",
-            a: "emphasise",
-        },
-        {
-            q: "We minister _ in the name of God",
-            a: "life",
-        },
-        {
-            q: "Although the church is a _ gathering but it is a gathering to an intent",
-            a: "physical",
+            q: "The _ of light is why we have darkness",
+            a: "presence",
         },
     ]
 }

@@ -8,80 +8,48 @@ export const part_thirteen = {
     slug: "the_teaching_ministry_of_jesus_series3_thirteen",
     questions: [
         {
-            q: "Man is to live by _",
-            a: "revelational knowledge",
+            q: "The _ of Jesus will now become elements to show the fulfilment of scriptures",
+            a: "biography",
         },
         {
-            q: "When you are teaching people, don't be scared of _",
-            a: "repetition",
+            q: "The life of Jesus will be used to capture God's _ in salvation",
+            a: "theology",
         },
         {
-            q: "That which God has given to us _, we are seeing _",
-            a: "once, daily",
+            q: "There is a _ that is not necessary",
+            a: "glory",
         },
         {
-            q: "Everyday we are taught to see the gift of God in Christ as _",
-            a: "sufficient",
+            q: "_ should make people better",
+            a: "anointing",
         },
         {
-            q: "The Lord's prayer is not _",
-            a: "legalism",
+            q: "God has not sent you to talk about people's _ or _",
+            a: "sin, shortcomings",
         },
         {
-            q: "Forgiveness is primarily about _",
-            a: "relationship",
+            q: "The real law of sin and death, the real legalism is _",
+            a: "a doctrine",
         },
         {
-            q: "Forgiveness of sins is a proof of _",
-            a: "reconciliation",
+            q: "The real thing called OT is a _",
+            a: "doctrine",
         },
         {
-            q: "You forgive a man's sins cos you have _ his person",
-            a: "accepted",
+            q: "It is not man that is trying to _, it is God that is looking for _",
+            a: "get saved, sons",
         },
         {
-            q: "You don't forgive so you can _ but cos you have _ him",
-            a: "accept, accepted",
+            q: "How God shows he has pardoned you is by _",
+            a: "giving you his Spirit",
         },
         {
-            q: "Man asking for forgiveness is man acknowledging the _ action of God",
-            a: "reconciliatory",
+            q: "It is the mercy of God that will bring out _ from man",
+            a: "goodness",
         },
         {
-            q: "Forgiveness is a concept inside _",
-            a: "reconciliation",
+            q: "Our praise will now be right _",
+            a: "confessions",
         },
-        {
-            q: "The word _ is another way of saying accept my person",
-            a: "forgive my sins",
-        },
-        {
-            q: "Forgiveness is for _ and reconciliation is for _",
-            a: "sins, persons",
-        },
-        {
-            q: "There's no day in _ that they come together and they talk about sin one after the other",
-            a: "Israel",
-        },
-        {
-            q: "To see forgiveness of sins as God's response to confession of sins is not _",
-            a: "practical",
-        },
-        {
-            q: "Therefore to seek for forgiveness in the Bible is to seek for _",
-            a: "an intercessor",
-        },
-        {
-            q: "In the Bible we have different _ for the same activity",
-            a: "words",
-        },
-        {
-            q: "We must not allow that _ mentality to cloud our BI",
-            a: "idol worshipping",
-        },
-        {
-            q: "Forgiveness of sins is not about _ rather than accepting the finished work of the saviour",
-            a: "man doing anything",
-        }
     ]
 }

@@ -8,104 +8,92 @@ export const part_two = {
     slug: "understanding_genesis_series5_part_two",
     questions: [
         {
-            q: "When you pray with boldness, that is using _",
-            a: "the name of Jesus",
+            q: "The claims of Christianity are baseless if the God of the Bible is _",
+            a: "not the creator",
         },
         {
-            q: "A week must not go without you using _",
-            a: "the name of Jesus",
+            q: "You cannot discover what was never _ and _",
+            a: "discovered, created",
         },
         {
-            q: "we come to church to _ what we have done in the name of Jesus during the week",
-            a: "cumulate",
+            q: "God did not use _ to teach us reality. He used _ to teach reality",
+            a: "fiction, reality",
         },
         {
-            q: "Our _ is useless without that name",
-            a: "gathering",
+            q: "The power of _ was implanted within creation",
+            a: "multiplication",
         },
         {
-            q: "The name of Jesus is the basis on which we have _",
-            a: "ministry",
+            q: "Nature will be _. It is part of God's power.",
+            a: "self-sustaining",
         },
         {
-            q: "There's no Christianity without _",
-            a: "the name",
+            q: "Matter will have the wisdom of _. Matter will be sealed with _",
+            a: "continuity, intelligence",
         },
         {
-            q: "There is no Christianity without _ in the name",
-            a: "activities",
+            q: "That orderliness is a proof of _",
+            a: "intelligence",
         },
         {
-            q: "Church should teach you well to handle your problem at _",
-            a: "home",
+            q: "Man's _ is not contrary to the _ of God",
+            a: "intelligence, wisdom",
         },
         {
-            q: "One thing Christians must learn to do is to learn how to _",
-            a: "relate",
+            q: "The more you study, the more you will _",
+            a: "appreciate",
         },
         {
-            q: "The _ to the Bible was salvation",
-            a: "introduction",
+            q: "The God of the Bible _ the harmony in creation",
+            a: "claimed ownership of",
         },
         {
-            q: "The activities of the Holy Ghost is found in _",
-            a: "man",
+            q: "We have sufficient evidence in the cosmos for man to be _",
+            a: "humble",
         },
         {
-            q: "What you say is important in _",
-            a: "Christianity",
+            q: "God invents, man _",
+            a: "explains",
         },
         {
-            q: "In redemption, God _ himself in you",
-            a: "pleases",
+            q: "_ claims man as the sole reason for creation",
+            a: "The Bible",
         },
         {
-            q: "There are some _ in me acceptable to God",
-            a: "activities",
+            q: "You cannot do _ at the expense of man",
+            a: "animal preservation",
         },
         {
-            q: "What the Holy Ghost will do will be based on _",
-            a: "redemption",
+            q: "The _ deduction from physical creation is power",
+            a: "undoubtable",
         },
         {
-            q: "Although, the activities will be post redemption, we will yet find the _ in the OT",
-            a: "type and shadow",
+            q: "whoever is responsible for this nature, such will be powerful enough to _",
+            a: "enforce his words",
         },
         {
-            q: "Faith did not originate from _, it was perfected in _",
-            a: "resurrection, resurrection",
+            q: "In the Bible, creation will be used to communicate _ in working inside the unseen part of man",
+            a: "the power of God",
         },
         {
-            q: "The Holy Ghost functions in _ men",
-            a: "talking",
+            q: "we call it nature cos of the _ of event. All indicating the _ counsel of God",
+            a: "predictable cycle, unchangeable",
         },
         {
-            q: "In your preaching and teaching, there's a _ you are meant to combat",
-            a: "sin",
+            q: "The _ of creation points to God's power in salvation",
+            a: "majesty",
         },
         {
-            q: "Cos we will see Jesus no more, _ will be available",
-            a: "righteousness",
+            q: "The _ of nature becomes an observable parable of the power of God",
+            a: "majesty",
         },
         {
-            q: "His disappearance is our _",
-            a: "righteousness",
+            q: "Who we serve is not one of the gods, he is the owner of _",
+            a: "signs and wonders",
         },
         {
-            q: "Although Jesus disappeared,  he was doing _",
-            a: "intercession",
-        },
-        {
-            q: "The assurance of salvation equals _",
-            a: "righteousness",
-        },
-        {
-            q: "One of the work of the Spirit is for you to teach believers _",
-            a: "righteousness",
-        },
-        {
-            q: "When we practice _, we judge the devil",
-            a: "healing",
-        },
+            q: "When someone is saying there is no God, you _",
+            a: "work a miracle",
+        }
     ]
 }

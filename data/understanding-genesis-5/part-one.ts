@@ -8,68 +8,100 @@ export const part_one = {
     slug: "understanding_genesis_series5_part_one",
     questions: [
         {
-            q: "The core part of ministry is in _ and _",
-            a: "preaching, teaching",
+            q: "For the believer, we know that when we have _, we have prayed well",
+            a: "prayed in the Spirit",
         },
         {
-            q: "The terms of Genesis is better understood in _",
-            a: "Job",
+            q: "The subject matter of _ is very big",
+            a: "prayer",
         },
         {
-            q: "We are not ignorant of the _",
-            a: "rapture",
+            q: "Some things are necessary for us cos we are _ believers",
+            a: "practicing",
         },
         {
-            q: "The primary work of God is _",
-            a: "salvation",
+            q: "Spiritual growth is result of _",
+            a: "proper BI",
         },
         {
-            q: "God can't do anything until we _",
-            a: "preach",
+            q: "_ and _ is what God claims till today",
+            a: "Heaven, earth",
         },
         {
-            q: "Without the gospel, God is powerless in _",
-            a: "salvation",
+            q: "We have a _ world out there today that does not threaten the truth of the Bible",
+            a: "technological",
         },
         {
-            q: "God separated the light from the darkness via _",
-            a: "the gospel",
+            q: "Any true science discovery does not _ the truth of the Bible",
+            a: "threaten/competes",
         },
         {
-            q: "The gospel separates men into _",
-            a: "category",
+            q: "The documentation in our hands will always be sufficient irrespective of _",
+            a: "the age of time",
         },
         {
-            q: "_ is the dividing line",
-            a: "The gospel",
+            q: "The books in the Bible are actually _ documents",
+            a: "historical",
         },
         {
-            q: "_ and _ is by the gospel",
-            a: "Lost, found",
+            q: "Heaven is not always _",
+            a: "where God lives",
         },
         {
-            q: "The tree of life will be closely associated with man’s _",
-            a: "speaking",
+            q: "The Bible takes its authority from _ sources",
+            a: "multiple",
         },
         {
-            q: "The summary of the gospel in all generation is that Jesus will _ and he will _",
-            a: "die, rise again",
+            q: "_ does not mean your prayers will be answered faster.",
+            a: "Going to the mountain",
         },
         {
-            q: "There is no gospel without the announcement of _",
-            a: "resurrection",
+            q: "The elements of creation _ by doing what they were ordained to do",
+            a: "praise God",
         },
         {
-            q: "_ is impossible without the resurrection",
-            a: "Life",
+            q: "If truly the heavens and the earth are for man, then a detailed study of the heavens and the earth is not _",
+            a: "forbidden",
         },
         {
-            q: "A message without the _ cannot save",
-            a: "resurrection",
+            q: "_ is not anti-God",
+            a: "Science",
         },
         {
-            q: "The message that lacks the _ of resurrection cannot raise the sinner from death to life",
-            a: "details",
+            q: "A study of the heavens and the earth should _",
+            a: "draw man closer to God",
+        },
+        {
+            q: "_ reveals how, _ reveals who",
+            a: "Science, the Bible",
+        },
+        {
+            q: "Science describes the _ and the Bible tells us _",
+            a: "process, who",
+        },
+        {
+            q: "The first thing we are to know about God is that he is _",
+            a: "a Spirit",
+        },
+        {
+            q: "Physical creation has a _",
+            a: "beginning",
+        },
+        {
+            q: "Nothing created deserves man's _",
+            a: "worship",
+        },
+        {
+            q: "The creation story is _, but in the Bible, it is used to communicate _",
+            a: "truth, a greater reality",
+        },
+        {
+            q: "The physical creation is not by _, same way the new creation is also not by _. It is the result of _",
+            a: "chance, chance, the labour of God",
+        },
+        {
+            q: "The real storyline in the Bible is _ but it is also factual that we have a God that is responsible for _",
+            a: "salvation, the physical creation",
         },
     ]
 }

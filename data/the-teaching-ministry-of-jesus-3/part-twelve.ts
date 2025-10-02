@@ -8,76 +8,60 @@ export const part_twelve = {
     slug: "the_teaching_ministry_of_jesus_series3_twelve",
     questions: [
         {
-            q: "In studying the scripture, always look for that _ thought",
-            a: "underlying",
+            q: "_ is anytime we are gathered",
+            a: "meeting",
         },
         {
-            q: "Answers to prayers is attached to a good God and not _",
-            a: "man's efforts",
+            q: "In the biography, we see two stories; the _ and the _",
+            a: "obvious, intended",
         },
         {
-            q: "Vain repetition is actually of the _",
-            a: "heart",
+            q: "The four gospels were written by _",
+            a: "new creatures",
         },
         {
-            q: "The Lord's prayer is _ and not a recitation",
-            a: "an understanding",
+            q: "You cannot talk about Jesus if you are not _",
+            a: "born again",
         },
         {
-            q: "The _ Father is not competing with the _ father",
-            a: "heavenly, earthly",
+            q: "The life story of Jesus now becomes a _ of God's work in salvation",
+            a: "parable",
         },
         {
-            q: "Father in heaven is also used for God of all _",
-            a: "supplies",
+            q: "How did he write in our hearts?",
+            a: "he gave us his Spirit",
         },
         {
-            q: "The money of God is the one that cannot be _",
-            a: "quantified",
+            q: "_ forgiveness is how God draws men",
+            a: "eternal",
         },
         {
-            q: "People have left church cos of _",
-            a: "testimony time",
+            q: "When you see Christ on the cross, you are seeing _",
+            a: "your sin on him",
         },
         {
-            q: "That kingdom coming is a function of the _",
-            a: "resurrection of Jesus",
+            q: "The mercy of God is God's tool for the world's _",
+            a: "reconciliation",
         },
         {
-            q: "The _ is the creation of that harmony between heaven and earth",
-            a: "resurrection",
+            q: "When the sinner checks the cross, he sees Jesus as his _",
+            a: "substitute",
         },
         {
-            q: "It was in his resurrection that _ became a reality for us",
-            a: "heaven",
+            q: "Salvation is free, _ by grace alone, _ by faith alone, _ by scriptures alone and all the glory of God alone",
+            a: "paid, received, understood",
         },
         {
-            q: "Heaven is for _ and Christ made it a reality",
-            a: "men",
+            q: "Men will be drawn to the crucified Christ when they see _ on him",
+            a: "their sin",
         },
         {
-            q: "The heavenly Father aids us automatically in _ in his own way",
-            a: "physical needs",
+            q: "_ is the Bible is reverence meant for God alone",
+            a: "worship",
         },
         {
-            q: "When there is a deficiency in _, the problem is never from your heavenly Father",
-            a: "physical needs",
-        },
-        {
-            q: "physical things are things we _ and not things we _ about",
-            a: "affirm, pray",
-        },
-        {
-            q: "Expect to receive answers even before you _",
-            a: "pray for them",
-        },
-        {
-            q: "When that thought comes to you, the response is not _ but to _",
-            a: "prayer, speak out",
-        },
-        {
-            q: "Physical instability does not affect your _",
-            a: "faith life",
+            q: "Forever the word _ will mesmerise your mind",
+            a: "trinity",
         },
     ]
 }

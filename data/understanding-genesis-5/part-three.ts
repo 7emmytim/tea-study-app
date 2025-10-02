@@ -8,116 +8,68 @@ export const part_three = {
     slug: "understanding_genesis_series5_part_three",
     questions: [
         {
-            q: "Not observing the sabbath is _",
-            a: "punishable",
+            q: "It is not a surprise to you when you see the power of God working on _",
+            a: "matter/nature",
         },
         {
-            q: "Not to pollute the sabbath is similar to taking hold of the _",
-            a: "covenant",
+            q: "_ is visible evidence of the power of God",
+            a: "Creation",
         },
         {
-            q: "The essence of the sabbath day is _",
-            a: "Christ",
+            q: "Creation is a _ to the power of God",
+            a: "witness",
         },
         {
-            q: "Rest is applicable in _",
-            a: "Jesus",
+            q: "In God's power, he made the universe _",
+            a: "self-sustaining",
         },
         {
-            q: "The sabbath is rest for _",
-            a: "man",
+            q: "What we call _ is a product of God's resources",
+            a: "the creation of man",
         },
         {
-            q: "Adam being told to enter into _ is figurative of rest",
-            a: "the seventh day",
+            q: "You can't claim to be the creator and lack _ ability",
+            a: "miraculous",
         },
         {
-            q: "There's no _ without a message",
-            a: "disobedience",
+            q: "To claim miracles are past tense is to claim that _",
+            a: "God is dead",
         },
         {
-            q: "To Adam in Genesis, there was a _ in those 6 days for Adam",
-            a: "message",
+            q: "You cannot claim to be God when your _ are being overshadowed with others",
+            a: "miracles",
         },
         {
-            q: "For God to reach justification in the spirit, it means he was _",
-            a: "condemned",
+            q: "Miracles also substantiate _",
+            a: "Christianity",
         },
         {
-            q: "Even now, we have spirits that exist in heaven without _",
-            a: "a body",
+            q: "The essence of the entire creation will point to _",
+            a: "redemption",
         },
         {
-            q: "In _, saints will go and find their bodies and raise it up",
-            a: "the glorification",
+            q: "Whatever will be God's real purpose for creation will have the miraculous as _",
+            a: "a constant",
         },
         {
-            q: "The type of man that God is looking for is the man that will have the same _ that God has",
-            a: "creative abilities",
+            q: "The signs of the resurrection are _",
+            a: "reality",
         },
         {
-            q: "Man was in form of _ in Genesis 1",
-            a: "spirit",
+            q: "speaking in tongues is reality and it also points to _",
+            a: "the resurrection",
         },
         {
-            q: "If we don't take out the gospel, there is no _ of God that will save any man",
-            a: "sovereignty",
+            q: "_ cannot be our sign today",
+            a: "Evil",
         },
         {
-            q: "God's way of having is way on earth is through _",
-            a: "us",
+            q: "Gifts of healings will never be _",
+            a: "wrong",
         },
         {
-            q: "The world is ruled by men that know how to _ power",
-            a: "wedge",
-        },
-        {
-            q: "_ is the next thing after creation",
-            a: "Rest",
-        },
-        {
-            q: "The free will of man and the spirit of man is God's _",
-            a: "sovereignty",
-        },
-        {
-            q: "Man with his body will be able to relate more to _",
-            a: "physical things",
-        },
-        {
-            q: "Angels remained _ so they can perform special errands for man",
-            a: "spirit",
-        },
-        {
-            q: "Angels are _ to minister to man in that line of salvation",
-            a: "pre-programmed",
-        },
-        {
-            q: "Everything under the actions of God are all _ activities",
-            a: "spiritual",
-        },
-        {
-            q: "God made his own _ when Christ rose from the dead",
-            a: "body",
-        },
-        {
-            q: "The battle that was lost in _ was won in _",
-            a: "Adam, Christ",
-        },
-        {
-            q: "Man that _ is not a man that confesses sins or struggles to make heaven",
-            a: "dominates",
-        },
-        {
-            q: "Adam could dominate _ but not _",
-            a: "the earth, the heaven",
-        },
-        {
-            q: "If God _ it, then it is under the dominion of man",
-            a: "created",
-        },
-        {
-            q: "_ is an hummer jeep to communicate what God will do to save us",
-            a: "The creation of heaven and earth",
+            q: "It is _ when people say miracles are things of the past",
+            a: "ridiculous",
         },
     ]
 }

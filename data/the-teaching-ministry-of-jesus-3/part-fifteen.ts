@@ -8,72 +8,64 @@ export const part_fifteen = {
     slug: "the_teaching_ministry_of_jesus_series3_fifteen",
     questions: [
         {
-            q: "We pick the strength for a good _ relationship from a _ relationship",
-            a: "human, divine",
+            q: "we starve ourselves of _ and undue _ and stick with our assignment",
+            a: "fame, popularity",
         },
         {
-            q: "We trace our actions of goodness to the _ of God at salvation",
-            a: "supply",
+            q: "Do the work and leave the _",
+            a: "popularity",
         },
         {
-            q: "What thrills us is that _",
-            a: "goodness of God",
+            q: "You are the one God spoke to and not the crowd, so don't allow the crowd to _ you",
+            a: "lead",
         },
         {
-            q: "There is no day that _ will not be available in Christ",
-            a: "mercy",
+            q: "Don't allow people _ you outside your portfolio",
+            a: "hype",
         },
         {
-            q: "The good of the land is _",
-            a: "forgiveness of sins",
+            q: "It is not God that made _ difficult, that is the nature",
+            a: "ministry",
         },
         {
-            q: "To rebel against God's forgiveness is _",
-            a: "self destruction",
+            q: "Anything we use to replace the ministry of Jesus is a _ activity of the _",
+            a: "dead, dead",
         },
         {
-            q: "_ is not God's invention",
-            a: "Temptation",
+            q: "closeness to _ is not _",
+            a: "salvation, salvation",
         },
         {
-            q: "We pray for _ from unfavourable situations",
-            a: "deliverance",
+            q: "For us to know that Jesus is God, we have to _",
+            a: "study",
         },
         {
-            q: "The Lord's prayer is also the prayer of the _",
-            a: "revivalist",
+            q: "You cannot authenticate the deity of Jesus outside the _",
+            a: "Bible",
         },
         {
-            q: "You losing out in fellowship is now captured as you not being _",
-            a: "forgiven",
+            q: "There is no book in the Bible written by _",
+            a: "God",
         },
         {
-            q: "If you don't forgive your brother their trespasses, you will not have a successful _ with the saints",
-            a: "fellowship",
+            q: "_ and _ were second hand witness. _ was a firsthand witness",
+            a: "Mark, Luke, Matthew",
         },
         {
-            q: "When you don't forgive you will miss out of the blessing inside _",
-            a: "fellowship",
+            q: "The judgement of satan is both _, _ and also a _",
+            a: "now, progressive, finality",
         },
         {
-            q: "There's truly a _ upon those who refuse to forgive",
-            a: "torment",
+            q: "It is how we are judging satan now that will translate to that _ defeat",
+            a: "final",
         },
         {
-            q: "We are here today as TEA cos of countless _ among brethren",
-            a: "forgiveness",
+            q: "As we preach the gospel, we _ satan and _ him in the hearts of men",
+            a: "unseat, judge",
         },
         {
-            q: "The church is an empire of _",
-            a: "forgiveness",
+            q: "God will deem the _ of a man more than all the _ of this world",
+            a: "health, wealth",
         },
-        {
-            q: "Don't correct cos you want _, correct cos you want the person to be better",
-            a: "your ego restored",
-        },
-        {
-            q: "We take _ in the kingdom of God",
-            a: "shit",
-        }
     ]
 }

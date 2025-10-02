@@ -7,73 +7,49 @@ export const part_four = {
     color: "#F7D060",
     slug: "understanding_genesis_series5_part_four",
     questions: [
-        {
-            q: "Don't underestimate what can happen via _ conversation",
-            a: "one on one/simple",
+         {
+            q: "A parable is a story that points to a _ story",
+            a: "premeditated",
         },
         {
-            q: "Don't have friends that are _ and you are doing nothing about it",
-            a: "dull",
+            q: "The _ of Jesus is a thought in the mind of God from the beginning",
+            a: "priesthood",
         },
         {
-            q: "The scriptures has _ ability to make you wise",
-            a: "an inherent",
+            q: "The _ is like a change of state from real, yet invisible to real and yet visible",
+            a: "incarnation",
         },
         {
-            q: "Proverbs is not the book of _ for the believer",
-            a: "wisdom",
+            q: "_ now becomes a pointer to what exists before _",
+            a: "creation, creation",
         },
         {
-            q: "Adam was lord of _",
-            a: "the garden",
+            q: "Creation is expected to draw the _ into a search for the will of the creator",
+            a: "simple hearted",
         },
         {
-            q: "God's word is self _",
-            a: "confirming",
+            q: "_ is so much into physical creation",
+            a: "The Bible",
         },
         {
-            q: "Man in his _ and angels in their _ can still not recognise God",
-            a: "innocence, unfallen state",
+            q: "There is a _ that God took responsibility for",
+            a: "judgment",
         },
         {
-            q: "It is not impossible for _ to render activities for Adam",
-            a: "angels",
+            q: "A flood that came with a _ is not God's fault; it is man's disobedience",
+            a: "warning",
         },
         {
-            q: "It was not like Alleluia came from _",
-            a: "heaven",
+            q: "The flood is a picture of God's _. The rainbow is a picture of God's _",
+            a: "judgement, salvation",
         },
         {
-            q: "_ is not the name of the devil",
-            a: "Lucifer",
+            q: "What happened in reality then was as a result of a decay of _ which God forewarned them",
+            a: "nature",
         },
         {
-            q: "_ was simply descriptive of satan's glory and not satan's name",
-            a: "Morning star",
-        },
-        {
-            q: "Man is designed to eat the _ and not the tree",
-            a: "fruit",
-        },
-        {
-            q: "The tree of the knowledge of good and evil will mean ministries that minister _",
-            a: "self dependency",
-        },
-        {
-            q: "God does not want his children to live in _",
-            a: "ignorance",
-        },
-        {
-            q: "If there is anything like _, it will be to _ everywhere you have said rubbish",
-            a: "restitution, restitute",
-        },
-        {
-            q: "The implication of deliberately _ is bad",
-            a: "misleading people",
-        },
-        {
-            q: "If there's anything like categories of sin, number one will be _",
-            a: "false doctrine",
+            q: "Actively, it was not God's work but God took responsibility to teach _",
+            a: "Christology",
         },
     ]
 }

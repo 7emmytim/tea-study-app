@@ -8,84 +8,64 @@ export const part_five = {
     slug: "the_teaching_ministry_of_jesus_series3_five",
     questions: [
         {
-            q: "I don't make an idol of my own _",
-            a: "thinking",
+            q: "We take a stand _ and _ the gospel",
+            a: "in, by",
         },
         {
-            q: "What makes a man a new creature is not just the resurrection of Christ but the _ of the resurrection of Christ",
-            a: "message",
+            q: "That power that worketh in us is in Ephesians 3?",
+            a: "power for comprehension",
         },
         {
-            q: "You can obtain a promise of redemption as a check but the check will be _ until resurrection",
-            a: "postdated",
+            q: "In Christ, we have a _ mandate",
+            a: "global",
         },
         {
-            q: "There's no _ ongoing in hell",
-            a: "preaching",
+            q: "Through _ and its _, God will rule over all the earth",
+            a: "salvation, ministry",
         },
         {
-            q: "It takes the full gospel for any man to be called the _",
-            a: "new creature",
+            q: "The ministry you have is _",
+            a: "eternal",
         },
         {
-            q: "The Spirit will not jump on you cos you believe in Jesus that is _",
-            a: "coming",
+            q: "God does not rule from Aso rock but in _",
+            a: "the hearts of men",
         },
         {
-            q: "Until your mind can mature to make a choice, you cannot be called _",
-            a: "an unbeliever",
+            q: "The sound of joy starts _ but does not end _",
+            a: "in the church, in the church",
         },
         {
-            q: "What should be called sinful nature should be sinful _",
-            a: "influence",
+            q: "One thing you must be for God is that you must be a _",
+            a: "traveller",
         },
         {
-            q: "There is no dark matter that anyone is born with that is called _",
-            a: "sinful nature",
+            q: "_ speaks of a minister in the gospel",
+            a: "a Jew",
         },
         {
-            q: "Sin is rebellion against God and not _",
-            a: "conduct",
+            q: 'Dont be part of those who say _. That is the plan',
+            a: 'churches are everywhere',
         },
         {
-            q: "There's a stage actually called _",
-            a: "innocence",
+            q: "_ does not mean I will keep quiet when it is time to share the word",
+            a: "tolerance",
         },
         {
-            q: "God will eventually save a man until he paves out a way of _ for himself",
-            a: "death",
+            q: "Why should a church stop growing and going?",
+            a: "they have lost the vision/peaked",
         },
         {
-            q: "God recognises _",
-            a: "innocence",
+            q: "The work may be _ but it must keep progressing",
+            a: "slow",
         },
         {
-            q: "That instruction from Samuel to kill the Amalekites including the infants and suckling, that is _",
-            a: "satanic",
+            q: "That geometric progression is the _",
+            a: "plan of God",
         },
         {
-            q: "Unbelief cannot consume the _",
-            a: "innocent",
-        },
-        {
-            q: "What we call the justice of God is actually the _ of men",
-            a: "labour",
-        },
-        {
-            q: "The _ of the eyes is the _ of the heart",
-            a: "blinding, hardening",
-        },
-        {
-            q: "The problem of Pharaoh initially was _",
-            a: "deceitfulness of sin",
-        },
-        {
-            q: "How to solve the problem of blindness is by _",
-            a: "preaching",
-        },
-        {
-            q: "The reign of sin and death is not about biological birth but about _",
-            a: "wrong influence",
+            q: "God did not tell us to go and have a church for the sake of a _ community",
+            a: "private",
         },
     ]
 }

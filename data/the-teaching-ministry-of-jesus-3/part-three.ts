@@ -8,80 +8,52 @@ export const part_three = {
     slug: "the_teaching_ministry_of_jesus_series3_three",
     questions: [
         {
-            q: "You cannot separate your faith from _",
-            a: "love",
+            q: "We make deliberate progress when we _",
+            a: "pray",
         },
         {
-            q: "_ with your faith will birth more love for one another",
-            a: "fellowshipping",
+            q: "_ is deliberate progress in the work of ministry",
+            a: "prayer",
         },
         {
-            q: "There is no _ attached to disobedience in the 10 commandments",
-            a: "consequence",
+            q: "The first books of the Bible were written in _, _, _ form",
+            a: "riddles, parables, proverbial",
         },
         {
-            q: "What they call ten commandments is simply the _",
-            a: "gospel",
+            q: "A whole part of the four gospels was in a _ form",
+            a: "parable",
         },
         {
-            q: "_ is a symbol of receiving his Spirit",
-            a: "Circumcision",
+            q: "Jesus was speaking like _ so they could relate with the _ very well",
+            a: "scriptures (the prophets), scriptures (the prophets)",
         },
         {
-            q: "The clarity is a function of the _",
-            a: "minister",
+            q: "What we now do in teaching is to explain that which is written in _",
+            a: "parables",
         },
         {
-            q: "The _ cannot be improved upon",
+            q: "Jesus was also called a _ cos he used their style",
+            a: "prophet",
+        },
+        {
+            q: "What we have in the _ is the interpretation of all the parables",
             a: "epistles",
         },
         {
-            q: "we will see less of _ and _ in Genesis cos it was a period before the law was given",
-            a: "condemnation, accusation",
+            q: "That _ and _ of expounding/interpretation is why we have the epistles",
+            a: "job, result",
         },
         {
-            q: "There must first be an action of sin before any _ called sin",
-            a: "noun",
+            q: 'When Jesus was telling them "have you not read", he was referring to their _ reading of the OT',
+            a: "shallow",
         },
         {
-            q: "By one man's disobedience, a _ pattern of disobedience entered the world",
-            a: "communication",
+            q: "The same way they did not understand the OT, the same way they did not understand _",
+            a: "the words of Jesus",
         },
         {
-            q: "Nobody will go to hell for _ sin",
-            a: "Adam's",
-        },
-        {
-            q: "There's not a common _ to humanity",
-            a: "sin",
-        },
-        {
-            q: "Adam was never a _ for Jesus",
-            a: "replacement/figure/type",
-        },
-        {
-            q: "Fellowship via the _ has always been the plan of God",
-            a: "incarnation",
-        },
-        {
-            q: "If it will take _ for Jesus to come, Enoch or Noah would have brought him",
-            a: "one man",
-        },
-        {
-            q: "_ was not charged upon all men",
-            a: "Adam's sin",
-        },
-        {
-            q: "_ was not an excuse for any man to sin",
-            a: "Adam's sin",
-        },
-        {
-            q: "Individuals will have to _ for them to get death",
-            a: "sin",
-        },
-        {
-            q: "Stop saying _ is your problem",
-            a: "Adam",
+            q: "We expect a _ from that resurrection morning",
+            a: "multiplication",
         }
     ]
 }

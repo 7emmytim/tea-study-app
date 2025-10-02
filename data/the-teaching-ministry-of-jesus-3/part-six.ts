@@ -8,140 +8,64 @@ export const part_six = {
     slug: "the_teaching_ministry_of_jesus_series3_six",
     questions: [
         {
-            q: "Fall down and die is _",
-            a: "naughtiness",
+            q: "Doubt is the opposite of _. _ will also be an expression of faith",
+            a: "worship, worship",
         },
         {
-            q: "_ or _ is not a proof of correctness",
-            a: "Innocence, sincerity",
+            q: "The _ job can only be given to _ creatures",
+            a: "new, new",
         },
         {
-            q: "Your vision must be _ to the opinion of the word",
-            a: "secondary",
+            q: "God will have to change man from inside out before he can _",
+            a: "use you",
         },
         {
-            q: "No opinion of any _ must be allowed to overrule the opinion of the word",
-            a: "vision/dream",
+            q: "Based on that _ experience, that is why we have the mandate",
+            a: "faith",
         },
         {
-            q: "We must _ things properly before making a conclusion",
-            a: "investigate",
+            q: "Using the teachings of Jesus for normal _ is an abuse",
+            a: "moral lesson",
         },
         {
-            q: "Even in those imperfect utterances there is yet the _",
-            a: "wisdom of God",
+            q: "It is in the kingdom of God that _ find application",
+            a: "the teachings of Jesus",
         },
         {
-            q: "That something happened and we cannot _ does not mean it is God's making",
-            a: "explain it",
+            q: "Our giving is not just _",
+            a: "charity",
         },
         {
-            q: "We really have to learn the dynamism of _ on earth",
-            a: "answering prayers",
+            q: "Our good deeds are not charity-based, they are _ inspired and _ motivated",
+            a: "salvation, ministry",
         },
         {
-            q: "Prayer must not be taught as a _",
-            a: "magical wand",
+            q: "Physical needs are to be met more for those who have given themselves to _",
+            a: "discipleship",
         },
         {
-            q: "What we call _ is that self perception of man to God's provision",
-            a: "temptation",
+            q: "There is _ about the people who are of the household of faith",
+            a: "an especially",
         },
         {
-            q: "The man that God will make is the man that cannot _",
-            a: "sin",
+            q: "We can call our own goodness _ goodness",
+            a: "kingdom",
         },
         {
-            q: "There was a man created before Adam in _",
-            a: "the mind of God",
+            q: "God is introducing us into a new family that deserves more _, more _ and more _",
+            a: "commitment, attention, devotion",
         },
         {
-            q: "Adam is to be like the first _",
-            a: "fruit",
+            q: "You now have a _ responsibility with your new family as priority",
+            a: "dual",
         },
         {
-            q: "The _ of Adam was created before Adam",
-            a: "destination",
+            q: "Humility for us is an in-Christ making and not just a _",
+            a: "cute character",
         },
         {
-            q: "The lust is not much of a problem as much as being _",
-            a: "drawn away",
-        },
-        {
-            q: "Every man can be _ but individuals can choose not to be _",
-            a: "tempted, drawn away",
-        },
-        {
-            q: "We cannot blame any _ for what Adam did",
-            a: "angel",
-        },
-        {
-            q: "Adam after doing all he did now blamed it on God's _",
-            a: "provision",
-        },
-        {
-            q: "That real place called heaven was not inhabited before _",
-            a: "Christ",
-        },
-        {
-            q: "_ never started with Satan",
-            a: "Sin",
-        },
-        {
-            q: "It is in man's rebellion you can find _ rebellion",
-            a: "the devil's",
-        },
-        {
-            q: "_ too will be illuminated from man",
-            a: "Angels",
-        },
-        {
-            q: "_ must illuminate _ for _ to illuminate _",
-            a: "Earth, heaven, heaven, earth",
-        },
-        {
-            q: "When you are dull, when all you know is fall down and die, it is unlikely that the _ around you will know better",
-            a: "heavens",
-        },
-        {
-            q: "Before you blame _ for killing, ask the man around",
-            a: "an angel",
-        },
-        {
-            q: "All God promised in _ could not happen cos there was no man to cause it to happen",
-            a: "Genesis 1",
-        },
-        {
-            q: "Without God, there is no plan or intention so also without man, there is no _",
-            a: "implementation",
-        },
-        {
-            q: "Eden is man's forward _, man's primary _",
-            a: "command post, base of operation",
-        },
-        {
-            q: "The more man depends on himself, the more he sees his _",
-            a: "inadequacies",
-        },
-        {
-            q: "You don't need a prophet to be around to feel _",
-            a: "condemned",
-        },
-        {
-            q: "There's no where in the Bible that the woman is meant to be the _ of the man",
-            a: "help",
-        },
-        {
-            q: "The help of man is God not the _",
-            a: "woman",
-        },
-        {
-            q: "Scriptures was not lying when it said there is a _ to a man",
-            a: "way that seems right",
-        },
-        {
-            q: "_ will always take you a step further",
-            a: "Sin",
+            q: "Giving to _ is not giving to Jesus",
+            a: "the poor",
         },
     ]
 }

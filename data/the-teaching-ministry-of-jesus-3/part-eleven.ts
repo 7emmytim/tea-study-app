@@ -8,6 +8,54 @@ export const part_eleven = {
     slug: "the_teaching_ministry_of_jesus_series3_eleven",
     questions: [
         {
+            q: "The money of God is the one that cannot be _",
+            a: "quantified",
+        },
+        {
+            q: "People have left church cos of _",
+            a: "testimony time",
+        },
+        {
+            q: "That kingdom coming is a function of the _",
+            a: "resurrection of Jesus",
+        },
+        {
+            q: "The _ is the creation of that harmony between heaven and earth",
+            a: "resurrection",
+        },
+        {
+            q: "It was in his resurrection that _ became a reality for us",
+            a: "heaven",
+        },
+        {
+            q: "Heaven is for _ and Christ made it a reality",
+            a: "men",
+        },
+        {
+            q: "The heavenly Father aids us automatically in _ in his own way",
+            a: "physical needs",
+        },
+        {
+            q: "When there is a deficiency in _, the problem is never from your heavenly Father",
+            a: "physical needs",
+        },
+        {
+            q: "physical things are things we _ and not things we _ about",
+            a: "affirm, pray",
+        },
+        {
+            q: "Expect to receive answers even before you _",
+            a: "pray for them",
+        },
+        {
+            q: "When that thought comes to you, the response is not _ but to _",
+            a: "prayer, speak out",
+        },
+        {
+            q: "Physical instability does not affect your _",
+            a: "faith life",
+        },
+        {
             q: "_ brings stability",
             a: "Repetition",
         },

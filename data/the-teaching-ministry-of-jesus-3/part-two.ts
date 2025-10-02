@@ -8,104 +8,80 @@ export const part_two = {
     slug: "the_teaching_ministry_of_jesus_series3_two",
     questions: [
         {
-            q: "One of the proofs of _ is not being able to sit down in one place during service",
-            a: "carnality",
+            q: "When we call Jesus the Alpha, it is with respect to _",
+            a: "God's will",
         },
         {
-            q: "We having _ is we having the mind of God",
-            a: "the Spirit",
+            q: "When we are looking at God's will before things went wrong, we call him _",
+            a: "the Alpha",
         },
         {
-            q: "The joker of knowing the things of God is having _",
-            a: "the Spirit of God",
+            q: "When we call him the _, it means Jesus is God's destination for everyone in the _",
+            a: "last Adam, first Adam",
         },
         {
-            q: "The Spirit is not only given for _ but also for _",
-            a: "redemption, revelation",
+            q: "Every man born into the world is not born into sin but born into a _",
+            a: "journey",
         },
         {
-            q: "_ serve as our guide as we look through the OT",
-            a: "The epistles",
+            q: "When we use the terminology second man, it means there is a _",
+            a: "first",
         },
         {
-            q: "No _ of the OT must be contrary to the epistles",
-            a: "interpretation",
+            q: "When we look at redemption from the _ angle, we call Jesus the Alpha",
+            a: "God's",
         },
         {
-            q: "We are going to trust God with _ as we pray",
-            a: "BI",
+            q: "When we are looking at redemption from the _ man, we call Jesus the last Adam",
+            a: "universal",
         },
         {
-            q: "Before you complain that you don't understand, how long have you _",
-            a: "prayed",
+            q: "When we look at redemption from the _ angle, we call Jesus the second man",
+            a: "sin",
         },
         {
-            q: "You cannot be done praying to _",
-            a: "understand God",
+            q: "The gospel message is too rich to be _",
+            a: "forged",
         },
         {
-            q: "We pray more than we _",
-            a: "preach",
+            q: "_ cannot fake his own story",
+            a: "an infant",
         },
         {
-            q: "_ talks about the influence of the fruit of the Spirit in us",
-            a: "The mind of Christ",
+            q: "The Bible was not edited after _",
+            a: "Christ came",
         },
         {
-            q: "Even when we see men truly using grace as _, we preach more grace",
-            a: "a license for sin",
+            q: "He was predestinated before _",
+            a: "incarnated",
         },
         {
-            q: "Our _ now is with the truth and not with their intentions or actions",
-            a: "allegiance",
+            q: "We saw the life of Christ fulfilling the words of the prophets, it was not _ and _",
+            a: "copy, edit",
         },
         {
-            q: "We don't give people what _ but the word",
-            a: "works",
+            q: "In the gospel, we saw how prophecies were fulfilled and _ based on the fulfilment of prophecies",
+            a: "God's instruction",
         },
         {
-            q: "_ will be to read Moses in Moses",
-            a: "Ministration of death",
+            q: "The _ of the four gospels will be the key to the puzzle",
+            a: "end",
         },
         {
-            q: "You can either read _ in Moses or you read _ in Moses",
-            a: "Moses, Christ",
+            q: "The gospel will make a _ out of you",
+            a: "preacher",
         },
         {
-            q: "We don't change the gospel cos of _",
-            a: "a rebellious audience",
+            q: "The eleven disciples cannot reach the whole unless there is a deliberate _ or _ for the saved ones",
+            a: "teaching, discipleship",
         },
         {
-            q: "Don't use _ to preach giving money cos your audience is not giving offering",
-            a: "John 3:16",
+            q: "The believer is _ minded",
+            a: "globally",
         },
         {
-            q: "What God gave in _ was specific",
-            a: "John 3:16",
-        },
-        {
-            q: "Come what may our best _ is to appeal to men and not to declare _",
-            a: "stake, judgement",
-        },
-        {
-            q: "Faith is a _ and unbelief is also a _",
-            a: "response, response",
-        },
-        {
-            q: "The _ of all murder is hatred for the truth",
-            a: "mother",
-        },
-        {
-            q: "Your _ is not a proof of faith or unbelief",
-            a: "self-condemnation",
-        },
-        {
-            q: "_ puts you in the right frame of mind to pray",
-            a: "Love",
-        },
-        {
-            q: "_ are not the laws of Moses",
-            a: "The ten commandments",
+            q: "The gifts of the Spirit are meant to play a major part in _",
+            a: "the propagation of the gospel",
         },
     ]
 }

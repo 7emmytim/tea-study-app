@@ -8,76 +8,104 @@ export const part_eight = {
     slug: "the_teaching_ministry_of_jesus_series3_eight",
     questions: [
         {
-            q: "There's no oral tradition that could have picked _",
-            a: "Gensis 1",
+            q: "Don't allow what others call _ to affect your mind",
+            a: "testimony",
         },
         {
-            q: "Adam could not have _ Gensis 1, Adam _ Genesis 2, Moses _ Gensis 1",
-            a: "known, discovered, saw",
+            q: "any man outside the lordship of Jesus is _",
+            a: "an outlaw",
         },
         {
-            q: "_ defines the circle of influence that man received",
-            a: "The garden",
+            q: "The church is one of the direct results of _",
+            a: "salvation",
         },
         {
-            q: "Mankind has been expecting the _ since",
-            a: "incarnation",
+            q: "The church is a _ with God's purpose attached",
+            a: "family",
         },
         {
-            q: "_ and _ is used for what you get from sin, the reward of sin",
-            a: "Thorns, thistles",
+            q: "Your progress in God will be general _",
+            a: "knowledge",
         },
         {
-            q: "Man is given to the flesh by resisting the _",
-            a: "spirit",
+            q: "We must learn _ afresh",
+            a: "relationship",
         },
         {
-            q: "The body will only perform out of the _ of the heart",
-            a: "abundance",
+            q: "The church is God's _ based on redemption",
+            a: "institution",
         },
         {
-            q: "What we call _ is an abundance of what the man has conceived",
+            q: "In church, we all have _. We tread carefully",
+            a: "boundaries",
+        },
+        {
+            q: "In the church, no one is deemed _",
+            a: "useless",
+        },
+        {
+            q: "Leaders will serve as _, _ and _",
+            a: "models, tutors, examples",
+        },
+        {
+            q: "Before you deem someone unfit, wait for _",
+            a: "confirmation",
+        },
+        {
+            q: "Some people have that anti submission mindset. It is a _",
+            a: "work of the flesh",
+        },
+        {
+            q: "One thing you must know about leaders is that they will never go against _",
+            a: "the core purpose of our gathering",
+        },
+        {
+            q: "_ is for those who are deemed fit to _",
+            a: "correction, correct",
+        },
+        {
+            q: "Use your mouth for something _",
+            a: "profitable",
+        },
+        {
+            q: "It is our in Christ attitude to _ and it is a further aid for the great commission",
+            a: "mind our business",
+        },
+        {
+            q: "Our _ are also teaching mediums",
             a: "actions",
         },
         {
-            q: "The departing from God that is being judged is the one that happens in the _",
-            a: "heart",
+            q: "What you do is the _ that will be consistent around you",
+            a: "atmosphere",
         },
         {
-            q: "The fight against God will be seen in _ but the actual rebellion is in the _",
-            a: "actions, heart",
+            q: "We are not here cos of _. We are here cos of _",
+            a: "sinlessness, forgiveness",
         },
         {
-            q: "We are to read this and focus on the _ of sin and not the details",
-            a: "motion",
+            q: "One of the things we have in church is _",
+            a: "forgiveness",
         },
         {
-            q: "Covenant is a word of _",
-            a: "Moses",
+            q: "We all came from different foundations into this _ room of God so allow people improve without being _",
+            a: "therapy, castigated",
         },
         {
-            q: "To reject God's word even in the OT is to reject _",
-            a: "Jesus/salvation",
+            q: "_ will pass away but what we do together in harmony by the Spirit of God will never be forgotten",
+            a: "issues",
         },
         {
-            q: "Longsuffering in the OT is a function of the _, that's what we call the _",
-            a: "prophet, appeal of God",
+            q: "As couples in ministry, that marital relationship is not a licence to _",
+            a: "discuss everything happening in church",
         },
         {
-            q: "Angels came to respond to the _ of Lot",
-            a: "vexing",
+            q: "When people are rebuked, _",
+            a: "stay in your lane",
         },
         {
-            q: "Preachers are God's agent of _",
-            a: "longsuffering",
+            q: "A lot will go fine when we maintain _",
+            a: "orderliness",
         },
-        {
-            q: "God's _ and _ to save is acted out by the preacher",
-            a: "strength, urgency",
-        },
-        {
-            q: "We have a God that is _ to bless",
-            a: "hyper",
-        }
     ]
 }

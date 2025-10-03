@@ -8,52 +8,68 @@ export const part_ten = {
     slug: "the_teaching_ministry_of_jesus_series3_ten",
     questions: [
         {
-            q: "That term called spiritual death must always be well _",
-            a: "explained",
+            q: "The _ we have for men in the faith is more than those outside",
+            a: "tolerance",
         },
         {
-            q: "The Bible is not a _",
-            a: "dictionary",
+            q: "Know when to separate _ authority from _ authority",
+            a: "church, family",
         },
         {
-            q: "There's no clear _ of faith in the Bible, you can only _ faith",
-            a: "definition, explain",
+            q: "The tree will symbolise the _ while the fruit of the tree will be the _ of the _",
+            a: "ministry, doctrine, ministry",
         },
         {
-            q: "Biblical concepts must be _ and not just _",
-            a: "explained, defined",
+            q: "On a normal day _ is not wrong. It gets wrong when you use it to replace God",
+            a: "self-dependency",
         },
         {
-            q: "Nakedness will describe _",
-            a: "spiritual death",
+            q: "It was not a sin when the serpent _. It was a sin when Eve _",
+            a: "told Eve, ate",
         },
         {
-            q: "If you did not partake in _ sin, we cannot call you an outcast from God",
-            a: "Adam's",
+            q: "In ministry, stay with your _",
+            a: "instruction",
         },
         {
-            q: "Living in the Spirit will be our _ and walking in the Spirit will be our _",
-            a: "nature, conduct",
+            q: "There will always be someone that will do miracles more than _",
+            a: "your pastor",
         },
         {
-            q: "We must be able to read _ in the epistles and not be afraid that God is going to take away salvation",
-            a: "instructions",
+            q: "The _ are not the validation of a ministry. The validation must be the _",
+            a: "gifts of the Spirit, fruit of the tree",
         },
         {
-            q: "That promise of the messiah is as strong as strong as before and after he _",
-            a: "died",
+            q: "A lot of times, people tend to use _ and _ to cover up false doctrine",
+            a: "charity, charisma",
         },
         {
-            q: "you won't be a new creature on earth until you hear the full the gospel after _",
-            a: "the resurrection",
+            q: "We are using the _ to judge the minister or we are using the _ to categorise the tree",
+            a: "works, fruits",
         },
         {
-            q: "You must believe the full gospel after the full gospel has been _",
-            a: "consummated",
+            q: "Their _ will be rejected but their _ may be accepted if they receive the gospel",
+            a: "ministry, person",
         },
         {
-            q: "The message of rapture is not to _ people, it is to _",
-            a: "threaten, comfort",
+            q: "Entering the kingdom of God in Mat 7:23 is talking about the acceptance of one's _",
+            a: "ministry",
+        },
+        {
+            q: "What we have in Mat 7:23 is the judgement of a _ and not the judgement of a _",
+            a: "minister, believer",
+        },
+        {
+            q: "Primarily, we are going to see the reward of the ministry in _",
+            a: "the life of the audience",
+        },
+        {
+            q: "To be called a pastor, apostle or preaching does not mean you are _",
+            a: "serving God correctly",
+        },
+        {
+            q: "_ men are your reward in ministry",
+            a: "stable",
         },
     ]
 }

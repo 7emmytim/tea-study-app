@@ -8,72 +8,92 @@ export const part_nine = {
     slug: "the_teaching_ministry_of_jesus_series3_ninepart_nine",
     questions: [
         {
-            q: "The war that man was fighting with God is a _ one",
-            a: "one-sided",
+            q: "The prayer life of a minister is not _",
+            a: "about himself/selfish",
         },
         {
-            q: " When man was throwing his _, God was not retaliating",
-            a: "punch",
+            q: "Same attitude we put into _ excellence, much more we put into the word of God",
+            a: "academic",
         },
         {
-            q: "The issue is not the _ but what they are using the _ to accomplish",
-            a: "sin, sin",
+            q: "After _, we now sit as a student to receive understanding",
+            a: "praying for revelation knowledge",
         },
         {
-            q: "In the tower of Babel, there was nothing we could call _",
-            a: "moral sin",
+            q: "The rules of _ as apply in the study of the Bible",
+            a: "literature",
         },
         {
-            q: "The issue is that grand finale _",
-            a: "unbelief",
+            q: "The sermons of Jesus/the four gospels are sermons targeted towards the _",
+            a: "new birth",
         },
         {
-            q: "When a man is in rebellion, he will use anything as _",
-            a: "an accessory/a cover up",
+            q: "The four gospels also have their background in _",
+            a: "the scriptures",
         },
         {
-            q: "Them not retaining God in their knowledge is the _ part",
-            a: "active",
+            q: "I have a big room in my heart; it is called _",
+            a: "forgiveness",
         },
         {
-            q: "You being a fan of a man can be your own _",
-            a: "voice of rebellion",
+            q: "The same rules in literature apply in Bible understanding, one of those rules is _",
+            a: "paragraphing",
         },
         {
-            q: "Technology is not bad but it can be _",
-            a: "the voice of a man's rebellion",
+            q: "When you are practicing love/hatred, you are _",
+            a: "teaching others the same",
         },
         {
-            q: "The journey is the issue and not the _",
-            a: "vehicle",
+            q: "We have a _ company in redemption",
+            a: "distinct",
         },
         {
-            q: "Christians must know how to use the things of this world without _",
-            a: "abuse",
+            q: "_ is to be practiced in the church",
+            a: "Love walk",
         },
         {
-            q: "Every good thing of this world has _",
-            a: "an abuse",
+            q: "The best of your life should not be given to those who don't _",
+            a: "deserve it",
         },
         {
-            q: "Man will go his own way and he will blame God for the repercussion of his own actions and yet God will still _",
-            a: "take the blame",
+            q: "Happy are you if you have a _ family that you serve God together",
+            a: "nuclear",
         },
         {
-            q: "The death of Jesus was more of a _ to man and not a requirement of God",
-            a: "demonstration of God's love",
+            q: "The _ of Christ deserves the best of me",
+            a: "body",
         },
         {
-            q: "God has never _ man whether in the new covenant or the old covenant",
-            a: "counted the sin of",
+            q: "In salvation, we are provided with goodness, so we now _ it",
+            a: "cultivate",
         },
         {
-            q: "A lot of things _ passed through was cos of what Moses said",
-            a: "Jesus",
+            q: "In prayer, it is not _ door that you are knocking at",
+            a: "God's",
         },
         {
-            q: "God was never looking for his own _",
-            a: "pound of flesh",
+            q: "The narrow way will now imply the _",
+            a: "doctrine of Christ",
+        },
+        {
+            q: "The broad way imply the _",
+            a: "doctrines of men",
+        },
+        {
+            q: "_ cannot bring anyone up; it is _ that brings people up",
+            a: "you, the church",
+        },
+        {
+            q: "It is a demand on you to _",
+            a: "walk in love/walk in the Spirit",
+        },
+        {
+            q: "The good heart that you have is not for _",
+            a: "NGO",
+        },
+        {
+            q: "He was using life and death as a teaching aid to teach _",
+            a: "doctrine",
         },
     ]
 }

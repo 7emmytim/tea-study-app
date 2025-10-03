@@ -8,76 +8,92 @@ export const part_four = {
     slug: "offices_series5_part_four",
     questions: [
         {
-            q: "It is an attempt not to _ with God's word that lands people in problem",
-            a: "stay simple",
+            q: "When we _, we make obedience to God's work easier",
+            a: "pray",
         },
         {
-            q: "If we agree that God is _ then it will be funny to say that God lives in heaven",
-            a: "everywhere",
+            q: "The _ of the ministry must be in the heart of every leader",
+            a: "priority",
         },
         {
-            q: "To analyse Father, Son and Spirit, you must analyse _",
-            a: "man",
+            q: "Successful discipleship demands a physical gathering with _ leaders",
+            a: "present",
         },
         {
-            q: "Genesis 1 is not a incontestable account of _ rather it is an incontestable account of _",
-            a: "creation, salvation",
+            q: "There is no _ for the body of Christ",
+            a: "leader",
         },
         {
-            q: "By the time you believe in _, you won't have a problem with _",
-            a: "salvation, creation",
+            q: "You are a relevant _ within your gathering",
+            a: "leader",
         },
         {
-            q: "There's a _ covering upon the earth",
-            a: "progressive",
+            q: "Your _ is tied to a location same way _ is tied to a location",
+            a: "followership, leadership",
         },
         {
-            q: "Some of the planets are basically too cold or too hot which we may all call Adam's _",
-            a: "failed project",
+            q: "That hierarchy that we have is _ based",
+            a: "location",
         },
         {
-            q: "It is easy to assume that anything that comes from above is _",
-            a: "heaven",
+            q: "You take guidance based on _ of service",
+            a: "location",
         },
         {
-            q: "_ will tell you that there's a God to search for but won't lead you to that God",
-            a: "Creation",
+            q: "That is why _ cannot be a successful church",
+            a: "online",
         },
         {
-            q: "If you look at _ you can't say that there's no God but you don't search for that God in _",
-            a: "creation, creation",
+            q: "The Bible is _ meaning it covers all it needs to cover",
+            a: "wholistic",
         },
         {
-            q: "They are using a place that their comprehension cannot grasp to describe _",
-            a: "the location of God",
+            q: "Their sweat drops in the church and not on _",
+            a: "facebook",
         },
         {
-            q: "They call him God of heaven not cos he lives there but cos they _",
-            a: "cannot reach him",
+            q: "Don't oppress people at work with the fact that you are _",
+            a: "a pastor",
         },
         {
-            q: "No _ successfully called heaven the house of God",
-            a: "prophet",
+            q: "Outside _, you are a son of God preaching the gospel",
+            a: "church",
         },
         {
-            q: "If heaven is a creation then it is man's _",
-            a: "home",
+            q: "You are a pastor of TEA and not a pastor of _",
+            a: "the body of Christ",
         },
         {
-            q: "There's no kingdom of heaven before the _",
-            a: "coming of Christ",
+            q: "It is not about age but about _",
+            a: "responsibility",
         },
         {
-            q: "Both heaven as a state and a heaven as a place is tied to that _",
-            a: "coming of Jesus",
+            q: "Leaders are called overseers meaning you must be _",
+            a: "within their radar range",
         },
         {
-            q: "What we saw in Genesis 1 is the account of the creation of the _",
-            a: "earth",
+            q: "Don't be the one that appreciates _ more than the one God has sent to you",
+            a: "a youtube mog",
         },
         {
-            q: "The account of the creation of heaven was found in _",
-            a: "Christ",
+            q: "Don't have emergency _ everywhere",
+            a: "sons",
         },
+        {
+            q: "That someone comes once in a while to your meeting does not mean the person is your _",
+            a: "disciple",
+        },
+        {
+            q: "Anyone that only listens to you and not your _ is not your disciple",
+            a: "sub leader",
+        },
+        {
+            q: "Don't rate yourself with _ followership",
+            a: "facebook",
+        },
+        {
+            q: "How they _ you on facebook is not a proof of your success",
+            a: "hail",
+        }
     ]
 }

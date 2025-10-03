@@ -8,60 +8,88 @@ export const part_five = {
     slug: "offices_series5_part_five",
     questions: [
         {
-            q: "We can have a spiritual _ but from a physical _",
-            a: "influence, entity",
+            q: "Christianity is a product of sound _ plus awesome _",
+            a: "knowledge, experiences",
         },
         {
-            q: "Physical eyes won't be able to _ the kingdom of God",
-            a: "grasp",
+            q: "There are things to _ and things to _ in walking with God",
+            a: "learn, experience",
         },
         {
-            q: "Anything _ cannot be the kingdom of God",
-            a: "physical",
+            q: "Power is meant to be _",
+            a: "experienced",
         },
         {
-            q: "The kingdom of heaven is not _ alone or _ alone",
-            a: "God, man",
+            q: "Whatsoever you are doing for God before, _ supplies ease to it",
+            a: "power",
         },
         {
-            q: "The only reason a place can be called _ heaven is where men of the spirit are gathered",
-            a: "physical",
+            q: "_ are how we visualise the kingdom of God on earth",
+            a: "offices",
         },
         {
-            q: "There's no hell as a _ before hell as a _",
-            a: "location, state",
+            q: "Anyone can share food and yet it is not _",
+            a: "the kingdom of God",
         },
         {
-            q: "Religion has amplified _ even more than Christ",
-            a: "heaven",
+            q: "There is _ characteristic linked with thin kingdom of God",
+            a: "an expansion ",
         },
         {
-            q: "If you ask for things physical, it will be a good _ and not a perfect _",
-            a: "giving, bestowment",
+            q: "Whatsoever is called the kingdom of God must be expanded else it is the kingdom of _",
+            a: "an idol",
         },
         {
-            q: "Healing is a good _ but not a perfect _",
-            a: "giving, bestowment",
+            q: "God picked that _ as the beginning of his expansion",
+            a: "resurrection",
         },
         {
-            q: "A perfect bestowment is such that will not need _",
-            a: "a part two/renewing/rededication",
+            q: "If you are a minister, you must love _",
+            a: "travelling",
         },
         {
-            q: "We saw a creation in _ and also in _",
-            a: "Adam, Christ",
+            q: "Our duty is to give as many as possible opportunity to _",
+            a: "hear the gospel",
         },
         {
-            q: "The creation in Christ is the one that is called the _",
-            a: "kingdom of heaven",
+            q: "The great commission is truly _",
+            a: "global",
         },
         {
-            q: "Any salvation that you need to rededicate is not from God, it is from your _",
+            q: "Think global, think like a _",
             a: "pastor",
         },
         {
-            q: "The man in Christ is the _ for this earth",
-            a: "security",
+            q: "That supernatural hand of God that we want to see on earth is tied to our _",
+            a: "obedience",
+        },
+        {
+            q: "As a body, God cannot call you to have _ only in one location",
+            a: "a church",
+        },
+        {
+            q: "You are meant to be _ ministry as you are _ ministry",
+            a: "practicing, learning",
+        },
+        {
+            q: "Don't delay the plan of God to _ you",
+            a: "use",
+        },
+        {
+            q: "Your rating in this family of God will determine your _ and _ in serving God",
+            a: "pace, effectiveness",
+        },
+        {
+            q: "How _ you are will determine what can be committed into your hands",
+            a: "useable",
+        },
+        {
+            q: "For those staying far away from here, raise up _ and hand them over to your family",
+            a: "cell meetings",
+        },
+        {
+            q: "Take your _ in your church seriously",
+            a: "rating",
         },
     ]
 }

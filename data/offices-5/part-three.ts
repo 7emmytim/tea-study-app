@@ -8,108 +8,88 @@ export const part_three = {
     slug: "offices_series5_part_three",
     questions: [
         {
-            q: "Sin is traced to Genesis. We also see _ and _ in Genesis",
-            a: "love, forgiveness",
+            q: "If you don't give God that time, _ will take it",
+            a: "Satan",
         },
         {
-            q: "Men discard the beginning and went after the _",
-            a: "addition",
+            q: "We have _ qualities which is common to all and we have excellence in those _ qualities",
+            a: "divine, divine",
         },
         {
-            q: "The law was _, the law was not the intention",
-            a: "added",
+            q: "We have responsibilities in this Christian _",
+            a: "profession",
         },
         {
-            q: "Christian are people that stick with their _",
-            a: "commitment",
+            q: "Cheerfulness means _ of mind",
+            a: "readiness",
         },
         {
-            q: "The law of Moses did not preach _",
-            a: "equality",
-        },
-        {
-            q: "You are a believer and so you don't have _",
-            a: "hardness of heart",
-        },
-        {
-            q: "Moses did not invent _",
-            a: "love",
-        },
-        {
-            q: "The purpose of teaching is _",
-            a: "comprehension",
-        },
-        {
-            q: "It was already ordained from the beginning that there should be no _ in salvation",
-            a: "preference",
-        },
-        {
-            q: "That fact that salvation is for all men has always been there, it was just lack of _",
-            a: "focus",
-        },
-        {
-            q: "Let there be light in Genesis is _ of salvation in Christ",
-            a: "prophetic",
-        },
-        {
-            q: "Salvation is the _ of the Bible",
-            a: "theme",
-        },
-        {
-            q: "Knowing the Father is not knowing _ but to see God in the Son",
+            q: "If you hate knowledge/learning/TM, you hate _",
             a: "God",
         },
         {
-            q: "Father is a _ terminology",
-            a: "redemptive",
+            q: "May God keep giving us people that will desire else _ will die",
+            a: "the church",
         },
         {
-            q: "The revelation of the Father is only _ in the Son",
-            a: "consistent",
+            q: "How we take care of the _ is similar to how we take care of the _",
+            a: "house, church",
         },
         {
-            q: "Scriptures spoke more against _ than against the devil",
-            a: "legalism",
+            q: "Church leadership has _",
+            a: "qualifications",
         },
         {
-            q: "Jesus rebuked legalism 50 times than he rebuked _",
-            a: "the devil",
+            q: "You cannot drop the word _ on evangelism",
+            a: "my pastor said",
         },
         {
-            q: "Once you have that mindset of _, it will trip you off",
-            a: "performance",
+            q: "You are not a leader from the _",
+            a: "diaspora",
         },
         {
-            q: "90% of the theme of the epistles was anti _",
-            a: "legalism",
+            q: "The excuse for being busy does not translate to _",
+            a: "availability",
         },
         {
-            q: "Ishmel is not _",
-            a: "Islam",
+            q: "You cannot be trusted if you are not available to be _ and _",
+            a: "rated, trusted",
         },
         {
-            q: "Ishmel is a symbol of legalism which we find both in _ and in _",
-            a: "Christianity, Islam",
+            q: "You cannot say you are good and only _ know it",
+            a: "you",
         },
         {
-            q: "We see how _ was sacked in Genesis",
-            a: "the law",
+            q: "There must be broad daylight _",
+            a: "accreditation",
         },
         {
-            q: "_ was a tool to pull down the Levitical priesthood and not to sustain it",
-            a: "Tithing",
+            q: "If you are appointed without being available, that shows there is already a _ in the church",
+            a: "bad foundation",
         },
         {
-            q: "Your defence against the accuser is the response of your _",
-            a: "priest",
+            q: "Appointing men based on _ spoils God's work",
+            a: "charisma",
         },
         {
-            q: "Once your priest is dead that means _ still remains",
-            a: "your sin",
+            q: "We _ cos of value for the work of Jesus",
+            a: "bow",
         },
         {
-            q: "People read _ and they think tithing meanwhile the story was given to sack legalism off your soul",
-            a: "Melchizedek",
+            q: "_ must be real in the Christian structure",
+            a: "hierarchy",
+        },
+        {
+            q: "The value for your leaders is _",
+            a: "heavenly",
+        },
+        {
+            q: "Whatever will not make you useful in church is _ and not _",
+            a: "ego, self-esteem",
+        },
+        {
+            q: "Honour the structure that brings out _ from this church",
+            a: "leaders",
         },
     ]
 }

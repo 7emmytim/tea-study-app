@@ -8,72 +8,76 @@ export const part_two = {
     slug: "offices_series5_part_two",
     questions: [
         {
-            q: "Learn to find _ in the ministry of Jesus",
-            a: "joy",
+            q: "If you have not learnt and you sing, it will be _",
+            a: "hypocrisy",
         },
         {
-            q: "No tribe is destined for _",
-            a: "doom",
+            q: "Christ led us by _",
+            a: "sacrifice",
         },
         {
-            q: "In being warned/admonished of God, there's _ influence",
-            a: "an angelic",
+            q: "We don't _ doctrine, we teach it",
+            a: "force",
         },
         {
-            q: "Once you start seeing _ measurements, an angelic influence is there",
-            a: "strict",
+            q: "To bow and kneel is to submit to _",
+            a: "discipleship",
         },
         {
-            q: "Whether the angel is bringing goodness or wrath, he seeks _",
-            a: "man's permission",
+            q: "Much more in the church we celebrate the triumph in _",
+            a: "discipleship",
         },
         {
-            q: "Every thus saith the Lord must be _",
-            a: "interpreted",
+            q: "We are in God's kingdom under God's _",
+            a: "government",
         },
         {
-            q: "The priesthood of Levi was inaugurated by _",
-            a: "death",
+            q: "At times we think all that is needed for ministry is _ and _. We also need authority, orderliness",
+            a: "power, zeal",
         },
         {
-            q: "When you say God destroyed the earth with flood, be _",
-            a: "intelligent",
+            q: "My own Holy Ghost and move of the Spirit respects _",
+            a: "leadership",
         },
         {
-            q: "God's longsuffering anticipates _ and not _",
-            a: "repentance, destruction",
+            q: "God did not only give the anointing; he also gave us _",
+            a: "leadership",
         },
         {
-            q: "That glorification of saints will also be the expiry date of God's _ for those in unbelief",
-            a: "longsuffering",
+            q: "On what basis did we receive grace and apostleship?",
+            a: "the resurrection of Christ",
         },
         {
-            q: "The fearing of Noah was a _ but the gospel that Noah preached was a _",
-            a: "reaction, pro action",
+            q: "There is no building of the church outside _",
+            a: "leadership/labourers",
         },
         {
-            q: "_ is an intercession against men",
-            a: "Fall down and die",
+            q: "The reason we have a lot of stupid and half backed Christians out there is cos they refused to be _",
+            a: "pastored",
         },
         {
-            q: "It was the _ of man that destroyed the earth with flood",
-            a: "wrath",
+            q: "Cornerstone is not a stone in the _",
+            a: "corner",
         },
         {
-            q: "The real wrath of unbelief is _ and not _",
-            a: "spiritual, physical",
+            q: "Christ is the _ meaning you cannot build the church on anything else",
+            a: "cornerstone",
         },
         {
-            q: "There's nothing to learn with _",
-            a: "destruction",
+            q: "You cannot sideline _ and please God",
+            a: "ministry gifts",
         },
         {
-            q: "It is a _ man that uses evil/death",
-            a: "weak",
+            q: "Hierarchy is not about _; it is about order",
+            a: "value",
         },
         {
-            q: "Death is not _, life is _",
-            a: "power",
+            q: "Hierarchy in the church is for _",
+            a: "thoroughness",
+        },
+        {
+            q: "The things you cannot do face to face, don't do it on _",
+            a: "whatsapp",
         },
     ]
 }

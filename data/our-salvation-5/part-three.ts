@@ -8,72 +8,60 @@ export const part_three = {
     slug: "our_salvation_series5_three",
     questions: [
         {
-            q: "God works patience in me to _",
-            a: "learn",
+            q: "It is beyond knowing Jesus as _, you should be able to defend Jesus as _",
+            a: "saviour, saviour",
         },
         {
-            q: "Some preachers work for the deceiver _",
-            a: "unknowingly",
+            q: "It is upon us in this generation to be _ and _ to defend the faith",
+            a: "ready, available",
         },
         {
-            q: "_ is one big thing they can use to easily swerve you around",
-            a: "Creation",
+            q: "But for clarity and as part of God's mercy, the desire of God must not remain _",
+            a: "invisible",
         },
         {
-            q: "That _ creation points to an _ God but we see that _ of God is in salvation",
-            a: "abundant, abundant, abundance",
+            q: "Nature itself is teaching us _",
+            a: "Christology",
         },
         {
-            q: "The cunny preacher won't tell you that the _ you should expect in abundance from God is _",
-            a: "blessing, spiritual blessing",
+            q: "The _ of the space world is teaching us the _ of the power of God",
+            a: "majesty, enormity",
         },
         {
-            q: "A _ blessing cannot point to another _ blessing",
-            a: "physical",
+            q: 'Paul used the word "profitable" to bridge the gap between _ and _',
+            a: "physical/fiction, spiritual/non-fiction",
         },
         {
-            q: "_ will imply all that can be known by man via and through man",
-            a: "Knowledge of good and evil",
+            q: "It is not using a _ to assume the truth",
+            a: "lie",
         },
         {
-            q: "You will definitely see _ in creation",
-            a: "marvel",
+            q: "You don't need that long to make a valid _",
+            a: "fabrication",
         },
         {
-            q: "Science captures the fancies of man until man is _",
-            a: "out of time",
+            q: "_ and _ is too long and too much for one conclusion that is a lie",
+            a: "40 authors, 1400 years",
         },
         {
-            q: "It is when you get carried away with _ that you say that man is a product of evolution",
-            a: "creation",
+            q: "It will make sense that Jesus fabricated the scriptures if did not _",
+            a: "die young",
         },
         {
-            q: "The day science can make _, throw away your Bible",
-            a: "eternal life",
+            q: "Looking at God's word, there is enough proof to defeat every _ across all generations",
+            a: "lie of the devil",
         },
         {
-            q: "Recreation is also not _",
-            a: "creation",
+            q: "In every generation, we have what is called doctrine of _",
+            a: "demons",
         },
         {
-            q: "You won't meet God _, you will meet God _",
-            a: "outside, within",
+            q: "The first activity of Satan in the Bible is _",
+            a: "deception",
         },
         {
-            q: "What many blame God for are clearly written in the scriptures as the consequences of man's _ and not God's _",
-            a: "disobedience, judgement",
-        },
-        {
-            q: "That mentality of sliding into atheism using the fallen nature as a yardstick is _",
-            a: "self-deception",
-        },
-        {
-            q: "God claims responsibility for the _. God does not claim responsibility for the _",
-            a: "new creature, fallen earth",
-        },
-        {
-            q: "You must not sin in your understanding and speaking of _",
-            a: "creation",
+            q: "the physical used to teach the _ of God to salvation",
+            a: "commitment",
         },
     ]
 }

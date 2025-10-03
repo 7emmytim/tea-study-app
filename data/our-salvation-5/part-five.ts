@@ -8,88 +8,52 @@ export const part_five = {
     slug: "our_salvation_series5_five",
     questions: [
         {
-            q: "Since all the prophets will be saying the same thing, they will have to build upon _",
-            a: "one another",
+            q: "_ talk about the physical expanse of space",
+            a: "heavens",
         },
         {
-            q: "The prophets have a _ job",
-            a: "common",
+            q: "That glory of God that is above the heavens is now _",
+            a: "resident in man",
         },
         {
-            q: "Jesus was authenticating all the scriptures are _ and _ in his message",
-            a: "consistent, coherent",
+            q: "The glory we saw in the _ is a pointer to the glory of God in man",
+            a: "physical creation",
         },
         {
-            q: "Since _ spoke about Christ then Christ will have to use the grammar of _",
-            a: "Moses, Moses",
+            q: "Our own _ is the resurrection of Jesus",
+            a: "beginning",
         },
         {
-            q: "The _ of Christ will be Jesus in his resurrection office",
-            a: "blood",
+            q: "Genesis 1 was _ but a reality for us",
+            a: "prophetic",
         },
         {
-            q: "One of the most difficult things to typify in the OT is the _ of Christ",
-            a: "resurrection",
+            q: "Moses saw a relationship between God and man and he wrote it down using the physical fact of _",
+            a: "creation",
         },
         {
-            q: "_ and _ will mean gospel received or gospel rejected",
-            a: "Day, night",
+            q: "You can call the universe the product of God's _ but the new creation, the product of God's _",
+            a: "power (external), person (internal)",
         },
         {
-            q: "The man that has rejected the gospel is in his _ hour",
-            a: "night",
+            q: "There is a set of people that God himself was responsible for their _",
+            a: "creation",
         },
         {
-            q: "Light and darkness will now become a fabric to build _",
-            a: "Christology",
+            q: "We have a _ that will end all _",
+            a: "war, wars",
         },
         {
-            q: "Don't love people more than the _",
-            a: "saviour",
+            q: "We are not only made by God but also _ by God",
+            a: "sustained",
         },
         {
-            q: "Anyone called a prophet cannot be the _",
-            a: "Light",
+            q: "I am a result of the heavenly _",
+            a: "marriage",
         },
         {
-            q: "You will always struggle to _ Jesus",
-            a: "deny",
+            q: "My in Christ reality is both _ and a _",
+            a: "an offence, defence",
         },
-        {
-            q: "Every religion has a _ to either fight or accept",
-            a: "Jesus",
-        },
-        {
-            q: "Your in born _ is not a calling_",
-            a: "talent",
-        },
-        {
-            q: "Don't be deceived by _ time",
-            a: "testimony",
-        },
-        {
-            q: "Beside salvation, _ is a figure of speech",
-            a: "sun",
-        },
-        {
-            q: "Sun is _ before the light of God",
-            a: "transient",
-        },
-        {
-            q: "Believers are called _ cos we have received the message and we preach the message",
-            a: "light",
-        },
-        {
-            q: "_ is a language of Exodus plus Genesis",
-            a: "Deliverance",
-        },
-        {
-            q: "You cannot create _ and _ together",
-            a: "light, darkness",
-        },
-        {
-            q: "He destroyed darkness by forming _",
-            a: "light",
-        }
     ]
 }

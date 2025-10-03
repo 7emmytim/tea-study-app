@@ -8,84 +8,68 @@ export const part_eight = {
     slug: "our_salvation_series5_eight",
     questions: [
         {
-            q: "the first identification and manifestation of Satan was _",
-            a: "deception",
+            q: "One of the reasons we go this length is cos we are _ believers",
+            a: "practical",
         },
         {
-            q: "When you see movements against the Christ, that is _",
-            a: "Satanic",
+            q: "The spirit of man supplies _ meaning to the experiences of man",
+            a: "redemptive",
         },
         {
-            q: "To know the sin of angels, we need to know their _",
-            a: "job",
+            q: "The spirit of man will use the _ of man to teach him salvation plan",
+            a: "experience",
         },
         {
-            q: "Israel had an historical record of angelic encounters via _",
-            a: "oral tradition",
+            q: "The atheist is just a deliberate _",
+            a: "counterfeit",
         },
         {
-            q: "There's no _ before the incarnation",
-            a: "incarnation",
+            q: "It is not the _ that is bad but there is something about the _ that is bad",
+            a: "tree, eating",
         },
         {
-            q: "There's no _ of God before the image of God",
-            a: "image",
+            q: "Their actions before will be out of _ but now their actions will be a result of their own perception",
+            a: "innocence",
         },
         {
-            q: "We call them demons or devils cos of that _ deception to take man out of the plan of God",
-            a: "grand",
+            q: "That progression in _ and _ will land man far from God's will.",
+            a: "discerning, acting",
         },
         {
-            q: "The devil earned his name cos of the _",
-            a: "deception",
+            q: "As awful as _ is, it will yet reveal the helplessness of man and the plan of God to save",
+            a: "sin",
         },
         {
-            q: "Angels are called angels not cos of _ but cos they won't contradict the promise of that God of Abraham",
-            a: "good morals",
+            q: "Jesus leveraged on the _ of every man to show them that every man needs _",
+            a: "conscience, forgiveness",
         },
         {
-            q: "You cannot discern _ and _ outside the gospel message",
-            a: "angels, demons",
+            q: "Even in the knowledge of good and evil, there is a path that leads back to _",
+            a: "life",
         },
         {
-            q: "Some _ fuels demonic operations",
-            a: "prayer points",
+            q: "Every man is a bearer of a tribunal _",
+            a: "curse",
         },
         {
-            q: "The greatest of evil in the whole world will therefore be _",
-            a: "false doctrine",
+            q: "There is a part of man that _ and _ judgement on evil doers",
+            a: "expects, appreciates",
         },
         {
-            q: "Making an habit of talking about angelic encounters and visions in sermons can be _",
-            a: "pride",
+            q: "What God is asking for is not absurd, it is something man is already giving to _",
+            a: "celebrities/idols",
         },
         {
-            q: "God became a man and did not tell us how _ is, he came and said _",
-            a: "heaven, 'have you not read?'",
+            q: "We call something _ cos it takes away your devotion",
+            a: "an idol",
         },
         {
-            q: "_ of Satan is anything that takes your attention away from Christ",
-            a: "doctrines",
+            q: "Anywhere they are fighting God, you will see _",
+            a: "anger",
         },
         {
-            q: "Antichrist is a _ and not a _",
-            a: "doctrine, person",
-        },
-        {
-            q: "You cannot know Satan when _ is not known",
-            a: "the message",
-        },
-        {
-            q: "_ satan more where we have that strong opposition against the gospel",
-            a: "discern",
-        },
-        {
-            q: "If you are not interested in _, you cannot serve God, you cannot obey the scripture",
-            a: "preaching",
-        },
-        {
-            q: "In Paul talking about our conflict against Satan, he did not talk about casting out of _, he spoke about casting out of _",
-            a: "demons, false doctrine",
+            q: "Every man is a carrier of a mobile _",
+            a: "condemnation",
         },
     ]
 }

@@ -8,108 +8,88 @@ export const part_ten = {
     slug: "our_salvation_series5_ten",
     questions: [
         {
-            q: "One thing we do in TEA is to focus on the things _ focus on",
-            a: "the epistles",
+            q: "If I can sing without _ for one hour then I should be able to sing with _ for 10 hours",
+            a: "instrument, instrument",
         },
         {
-            q: "_ will make you to assume that God has not done what he has promised to do",
-            a: "Wrong BI",
+            q: "The ability to reason must not be used to query who gave _",
+            a: "the ability",
         },
         {
-            q: "God delights in _",
-            a: "simplicity",
+            q: "You ask from a mindset of knowing that God is good and not in _ manner",
+            a: "an accusative",
         },
         {
-            q: "God was clear about the type of man that was _",
-            a: "available",
+            q: "We have the _ of man which echoes the standard and judgement of God",
+            a: "conscience",
         },
         {
-            q: "You can _ well and simply understand",
-            a: "read",
+            q: "Don't allow life _ to you, _ to life",
+            a: "happen, happen",
         },
         {
-            q: "The _ of God's will is logical",
-            a: "documentation",
+            q: "Satan has done his best to thwart and corrupt the _ of man",
+            a: "conscience",
         },
         {
-            q: "_ is different from illogical",
-            a: "Unbelievable",
+            q: "In salvation, we have the Spirit of God so God has worked on our _",
+            a: "conscience",
         },
         {
-            q: "Once material things are your yardstick to define how to please God, you can't _",
-            a: "know God",
+            q: "In salvation, we are not _ to God nor man",
+            a: "insensitive",
         },
         {
-            q: "It has been the age long problem of man to think that God is talking about man's self conceived _",
-            a: "predicament",
+            q: "We don't seek to please _ while we displease _",
+            a: "God, man",
         },
         {
-            q: "The writing is _ hence I am to read respecting the opinion of the writer",
-            a: "logical",
+            q: "Our conscience right now agrees with God's _ and God's _",
+            a: "word, Spirit",
         },
         {
-            q: "I will study my Bible to understand _ and not to solve my life's problem",
-            a: "what the writer wants to say",
+            q: "We are not insensitive/guilty conscience but we are _",
+            a: "strong",
         },
         {
-            q: "We study _ for the sake of _",
-            a: "God",
+            q: "We are not moved by things but by _",
+            a: "compassion",
         },
         {
-            q: "People can _ and become born again and speak in tongues and be healed",
-            a: "read the scriptures",
+            q: "As preachers, we are not _. God has worked on our persuasion",
+            a: "dubious",
         },
         {
-            q: "_ is essential cos man is found of not reading well",
-            a: "Interpretation",
+            q: "We don't enter ministry to _ people",
+            a: "dupe",
         },
         {
-            q: "God gave us _ mind cos he is going to give us a book to study",
-            a: "an intelligent",
+            q: "In Christ, we don't have _ conscience, we have the fruit of the Spirit, we are _",
+            a: "zero, sympathetic",
         },
         {
-            q: "Understanding Jesus will start from the words of _",
-            a: "Moses",
+            q: "Don't belittle _ labour",
+            a: "obvious",
         },
         {
-            q: "Man needs to be trained to _",
-            a: "focus",
+            q: "By the word of God, we don't only have encouragement, we have _",
+            a: "caution",
         },
         {
-            q: "Blessed are those to whom _ is enough for evidence",
-            a: "scriptures",
+            q: "Don't take encouragement and leave the _",
+            a: "caution",
         },
         {
-            q: "We are going to short change ourselves a lot by not reading _ or not reading _",
-            a: "very well, patiently",
+            q: "Don't _ your simple heart",
+            a: "injure",
         },
         {
-            q: "God will give man something, he did not give man _, he gave man a book to read",
-            a: "mantle/holy water",
+            q: "Don't be _ where God has not sent you",
+            a: "busy",
         },
         {
-            q: "You will call it illogical cos of wrong _",
-            a: "expectation",
-        },
-        {
-            q: "To say _ is already a step to faith",
-            a: "unbelievable",
-        },
-        {
-            q: "To say it is illogical is the real _",
-            a: "unbelief",
-        },
-        {
-            q: "God cannot cross human _",
-            a: "vocabulary",
-        },
-        {
-            q: "Light will be communicated by _",
-            a: "speaking",
-        },
-        {
-            q: "Don't _ where you want God to work",
-            a: "restructure",
+            q: "You cannot hear the _ but you can hear _",
+            a: "enemy, God",
         },
     ]
 }

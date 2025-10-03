@@ -8,80 +8,56 @@ export const part_four = {
     slug: "our_salvation_series5_four",
     questions: [
         {
-            q: "As we preach, we _ Satan in the hearts of men",
-            a: "unseat",
+            q: "Nobody will be able to successfully to deny the _ from the _ of creationn",
+            a: "creator, evidence",
         },
         {
-            q: "If you come to church to be excited then what is your _ for?",
-            a: "dstv",
+            q: "It is more treasure to be saved than _",
+            a: "all the wealth in the world",
         },
         {
-            q: "There's a wisdom is _ to convince that curious minded about the reality of God and his salvation plan",
-            a: "Bible compilation",
+            q: "The prophets will use stories that men can _ to teach what God wants to do in the unseen part of man",
+            a: "relate with",
         },
         {
-            q: "Gensis will be the _ for every book in the Bible",
-            a: "background",
+            q: "You will see physical crucifixion on the cross but what God wants to crucify is _ that represent _ against God",
+            a: "old habits, rebellion",
         },
         {
-            q: "What God did not do in _, don't expect him to do in _",
-            a: "Genesis, Exodus",
+            q: "_ will be used but zeal will be intended",
+            a: "fire",
         },
         {
-            q: "You cannot trace the commitment of God to _ if you start from Genesis",
-            a: "money",
+            q: "The gospel is actually a perfect blend of things that man _",
+            a: "holds in high esteem",
         },
         {
-            q: "Cain killed Abel but that did not change the character of God to a _",
-            a: "revenger",
+            q: "Passover will be used but the essence will be _",
+            a: "the unity of the mind",
         },
         {
-            q: "Mercy is God's _",
-            a: "dealing",
+            q: "God's work must not be fully out of _ reach",
+            a: "man's",
         },
         {
-            q: "Sin can produce death without _ intervention",
-            a: "external",
+            q: "Jesus did not _ the prophecies, he fulfilled it",
+            a: "invent",
         },
         {
-            q: "A God that wants to kill you won't _ you",
-            a: "forewarn",
+            q: "One of the biggest _ in the Bible is that God said it and God did it",
+            a: "assurances",
         },
         {
-            q: "The _ of the saints will bring about the _ of the wicked",
-            a: "glorification, judgement",
+            q: "You don't consciously fulfil scriptures as _",
+            a: "a baby",
         },
         {
-            q: "In normal redemption, a price will be paid but in God's redemption _ was paid",
-            a: "power",
+            q: "Matthew was writing the biography of Jesus as _",
+            a: "prophecy fulfilled",
         },
         {
-            q: "God did not _ our victory, he fought sin and rescued us",
-            a: "negotiate",
-        },
-        {
-            q: "The same way God saved us is the same way he _ us",
-            a: "sanctified",
-        },
-        {
-            q: "_ is not the second work of salvation",
-            a: "Sanctification",
-        },
-        {
-            q: "Some people we clap for on the _, we ought to cry for them",
-            a: "red carpet",
-        },
-        {
-            q: "There's no mercy of God for saying that God is _",
-            a: "merciful",
-        },
-        {
-            q: "The _ life you have now is to preach the gospel",
-            a: "normal",
-        },
-        {
-            q: "_ of God will always be found in the _ of God",
-            a: "Servants, service",
+            q: "Jesus could not control the actions of his _",
+            a: "persecutors",
         },
     ]
 }

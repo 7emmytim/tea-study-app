@@ -8,100 +8,48 @@ export const part_six = {
     slug: "our_salvation_series5_six",
     questions: [
         {
-            q: "The believer need not to be smart in every _ in the world",
-            a: "knowledge",
+            q: "The purpose of man on earth is actually God's _",
+            a: "sovereignty",
         },
         {
-            q: "In your _ to be a preacher, you must only be smart in BI",
-            a: "qualification",
+            q: "What we saw in the Pentateuch is not _ but selecting a few to bless a whole",
+            a: "segregation",
         },
         {
-            q: "In reading Genesis, I must take off the concealer of _",
-            a: "Exodus",
+            q: "The believer will share equal _ with Jesus.",
+            a: "experience",
         },
         {
-            q: "The only reason you won't need Christ is if you don't have a _",
-            a: "mortal body",
+            q: "Salvation is the primary work of God on the earth and the primary focus of _",
+            a: "the Bible",
         },
         {
-            q: "There's no special _ as touching individuals on who should be saved or who should not be saved",
-            a: "election",
+            q: "That which God created and sustains is the _ creation",
+            a: "new",
         },
         {
-            q: "The devil's sin from the beginning is _",
-            a: "hatred for the truth",
+            q: "The Bible was never indifferent about _",
+            a: "morals",
         },
         {
-            q: "It will be _ to say that God will enter a fight with Satan",
-            a: "an unfair contest",
+            q: "The Bible deems your _ relationship as your relationship with _",
+            a: "human, God",
         },
         {
-            q: "Anywhere Christ meets the seed of the serpent, there will be a _",
-            a: "confrontation",
+            q: "In Adam and Eve is the _ for all of us today",
+            a: "information",
         },
         {
-            q: "Anywhere you Satan used, you see _",
-            a: "deception",
+            q: "God is Spirit meaning his primary _ will be spiritual",
+            a: "creation",
         },
         {
-            q: "The central reason a man is called of _ is rebellion against the truth which is the seed of the serpent",
-            a: "Satan",
+            q: "Science will fail to discover the _ cos it is immaterial.",
+            a: "spirit",
         },
         {
-            q: "In scriptures, don't focus on _ but on the seed",
-            a: "Satan",
-        },
-        {
-            q: "_ is rebellion taking the place of a person",
-            a: "Antichrist",
-        },
-        {
-            q: "The prophets will use a _ of rebellion to speak about rebellion",
-            a: "carrier",
-        },
-        {
-            q: "We see a war against sin with _ as the tool of communication",
-            a: "Satan",
-        },
-        {
-            q: "What Jesus destroyed was _ hereby making Satan powerless",
-            a: "sin",
-        },
-        {
-            q: "There's no _ contest between God and Satan",
-            a: "physical",
-        },
-        {
-            q: "God _ as I preach the gospel",
-            a: "fights",
-        },
-        {
-            q: "God works in our heart to reject _",
-            a: "rebellion",
-        },
-        {
-            q: "In our heart, God still rebels against _",
-            a: "rebellion",
-        },
-        {
-            q: "We don't _ the actions of men going to hell",
-            a: "applaud",
-        },
-        {
-            q: "He died for sin and in that death, our _ died",
-            a: "old man",
-        },
-        {
-            q: "Don't live your life like the man going to _",
-            a: "hell",
-        },
-        {
-            q: "God can never lead a man to eternal _",
-            a: "irrelevance",
-        },
-        {
-            q: "Some ambitions are not normal, they are _",
-            a: "demonic",
+            q: "The work must be expressed in the _ of man, with _",
+            a: "speech, words",
         },
     ]
 }

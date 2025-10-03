@@ -8,92 +8,84 @@ export const part_seven = {
     slug: "our_salvation_series5_seven",
     questions: [
         {
-            q: "Choice is part of the _ of man",
-            a: "make up",
+            q: "Your service to this God is also dependent on how you treat _ and not just how you treat him",
+            a: "his creation",
         },
         {
-            q: "Man is called a man cos he is a being of _",
-            a: "choice",
+            q: "The God of the Bible champions a _ outreach",
+            a: "worldwide",
         },
         {
-            q: "_ is not something God will give man some day",
-            a: "Choice",
+            q: "If God is not interested in _ then he is not the God of the whole world.",
+            a: "everyone",
         },
         {
-            q: "Regardless of _, every man will be responsible for the choice he makes",
-            a: "influence",
+            q: "To refuse to know what happened before you were born is to forever remain a _",
+            a: "child",
         },
         {
-            q: "No one goes against God's will in total _",
-            a: "ignorance",
+            q: "If Genesis 1/salvation is a lie then salvation is a _",
+            a: "fairytale",
         },
         {
-            q: "Even before a man dies, he sees himself in the _ of the choices he has made",
-            a: "effect",
+            q: "Genesis 1 is the justification for _",
+            a: "John 3:16",
         },
         {
-            q: "Some people think avoiding God is avoiding _",
-            a: "judgement",
+            q: "You cannot really have a say over what you did not _",
+            a: "create",
         },
         {
-            q: "Man is free to _ but not free from the consequence of his _",
-            a: "choose, choice",
+            q: "Songs is a further expression of the overwhelming testimony in the _",
+            a: "heart",
         },
         {
-            q: "The _ of your choice may cage you",
-            a: "result",
+            q: "Singing in the Bible is meant to be a _ devotion",
+            a: "heartfelt",
         },
         {
-            q: "There's nothing like a free thinker, you are only a free _",
-            a: "sinner",
+            q: "What God has done will shape our _, our _, and it will result into _",
+            a: "speech, conversation, singing",
         },
         {
-            q: "The _ of man is key in choice making",
-            a: "mind",
+            q: "It is not a silent devotion. It is _ and _",
+            a: "heartfelt, verbal",
         },
         {
-            q: "A sinner is the one that rejects the choice of _",
-            a: "eternal life",
+            q: "Christianity is _. Salvation makes us _",
+            a: "emotional, emotional",
         },
         {
-            q: "If you say babies are sinners it means you are saying God instituted _",
-            a: "sin",
+            q: "_ must be the best preachers",
+            a: "singers",
         },
         {
-            q: "Reproduction does not produce _",
-            a: "sinners",
+            q: "Why we sing is cos we are _",
+            a: "intoxicated",
         },
         {
-            q: "We need Christ not cos of _ but cos we are men",
-            a: "sin",
+            q: "_ is an eruption",
+            a: "singing",
         },
         {
-            q: "For babies, their _ is not fully formed",
-            a: "mental faculty",
+            q: "You are preacher before you are a _",
+            a: "singer",
         },
         {
-            q: "The nature of sin is not the _ but that mindset of rebellion against the gospel",
-            a: "flesh",
+            q: "Singing and _ are together in the scripture",
+            a: "joy",
         },
         {
-            q: "The human body is God's _ to be active on earth",
-            a: "permission",
+            q: "Joy is a thing of the heart. Your mouth can say it _",
+            a: "any how",
         },
         {
-            q: "The spirit of man is the _ of the choice of the mind",
-            a: "receptor",
+            q: "The activities of the believer is _ to God",
+            a: "praise",
         },
         {
-            q: "When a man now passes out of the body there's no more _",
-            a: "repentance",
-        },
-        {
-            q: "There's a mercy of God that we see on sinners, it is called _",
-            a: "God's longsuffering",
-        },
-        {
-            q: "The truth that has been written for more 4000 years and that stood, be _ of it",
-            a: "afraid",
+            q: "When we speak about God's power, that is _",
+            a: "praising God",
         },
     ]
 }

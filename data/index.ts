@@ -4,8 +4,10 @@ import * as understanding_genesis_5 from "./understanding-genesis-5";
 import * as our_salvation_5 from "./our-salvation-5";
 import * as offices_5 from "./offices-5";
 import * as the_teaching_ministry_of_jesus_3 from "./the-teaching-ministry-of-jesus-3";
-import * as ttm1 from "./ttm1"
-import * as ttm2 from "./ttm2"
+import * as ttm1 from "./ttm1";
+import * as ttm2 from "./ttm2";
+import * as can_the_bible_be_wrong_series1 from "./can-the-bible-be-wrong-1";
+import * as can_the_bible_be_wrong_series2 from "./can-the-bible-be-wrong-2";
 // import * as tbaii from "./the-bible-and-its-inteterpretation"
 
 export const sermons = [
@@ -52,35 +54,33 @@ export const sermons = [
 ];
 
 export const test = [
-  ttm1.part_one,
-  ttm1.part_two,
-  ttm1.part_three,
-  ttm1.part_four,
-  ttm1.part_five,
-  ttm1.part_six,
-  ttm1.part_seven,
-  ttm1.part_eight,
-  ttm1.part_nine,
-  ttm1.part_ten,
-  ttm1.part_eleven,
-  ttm1.part_twelve,
-  ttm1.part_thirteen,
-  ttm1.part_fourteen,
-  ttm1.part_fifteen,
-  ttm1.part_sixteen,
-  ttm2.part_one,
-  ttm2.part_two,
-  ttm2.part_three,
-  ttm2.part_four,
-  ttm2.part_five,
-  ttm2.part_six,
-  ttm2.part_seven,
-  ttm2.part_eight,
-  ttm2.part_nine,
-  ttm2.part_ten,
-  ttm2.part_eleven,
-  ttm2.part_twelve,
-  ttm2.part_thirteen,
-  ttm2.part_fourteen,
-  ttm2.part_fifteen
+  understanding_genesis_5.part_one,
+  understanding_genesis_5.part_two,
+  understanding_genesis_5.part_three,
+  understanding_genesis_5.part_four,
+  understanding_genesis_5.part_five,
+  understanding_genesis_5.part_six,
+  understanding_genesis_5.part_seven,
+  understanding_genesis_5.part_eight,
+  can_the_bible_be_wrong_series1.part_one,
+  can_the_bible_be_wrong_series1.part_two,
+  can_the_bible_be_wrong_series1.part_three,
+  can_the_bible_be_wrong_series1.part_four,
+  can_the_bible_be_wrong_series1.part_five,
+  can_the_bible_be_wrong_series1.part_six,
+  can_the_bible_be_wrong_series1.part_seven,
+  can_the_bible_be_wrong_series1.part_eight,
+  can_the_bible_be_wrong_series1.part_nine,
+  can_the_bible_be_wrong_series2.part_one,
+  can_the_bible_be_wrong_series2.part_two,
+  can_the_bible_be_wrong_series2.part_three,
+  can_the_bible_be_wrong_series2.part_four,
+  can_the_bible_be_wrong_series2.part_five,
+  can_the_bible_be_wrong_series2.part_six,
+  can_the_bible_be_wrong_series2.part_seven,
+  can_the_bible_be_wrong_series2.part_eight,
+  can_the_bible_be_wrong_series2.part_nine,
+  can_the_bible_be_wrong_series2.part_ten,
+  can_the_bible_be_wrong_series2.part_eleven,
+  can_the_bible_be_wrong_series2.part_twelve,
 ];
